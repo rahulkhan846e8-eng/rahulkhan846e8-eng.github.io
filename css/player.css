@@ -1,0 +1,546 @@
+/* ==========================================================================
+   KING STORE CUSTOM VIDEO PLAYER - OVERLAYS, CONTROLS, & HUDS
+   ========================================================================== */
+
+.player-view-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--cr-blue-deep);
+  z-index: 2000;
+  display: none;
+  flex-direction: column;
+}
+
+.player-view-container.active {
+  display: flex;
+}
+
+.player-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+  overflow: hidden;
+}
+
+/* HTML5 Video Element */
+.cr-video-element {
+  width: 100%;
+  height: 100%;
+  max-height: 100vh;
+  object-fit: contain;
+  background: #000;
+}
+
+/* Controls Overlay container */
+.player-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 24px;
+  background: linear-gradient(
+    to bottom,
+    rgba(5, 12, 36, 0.88) 0%,
+    rgba(5, 12, 36, 0.15) 20%,
+    transparent 50%,
+    rgba(5, 12, 36, 0.25) 75%,
+    rgba(5, 12, 36, 0.95) 100%
+  );
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 10;
+}
+
+.player-wrapper:hover .player-overlay,
+.player-wrapper.user-active .player-overlay,
+.player-wrapper.paused .player-overlay {
+  opacity: 1;
+  visibility: visible;
+}
+
+.player-wrapper.cursor-hidden {
+  cursor: none;
+}
+
+/* Top Bar: Back button, Title & Audio info */
+.player-top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.player-header-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.player-back-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-fast);
+}
+
+.player-back-btn:hover {
+  background: var(--cr-accent);
+  color: #fff;
+  transform: scale(1.05);
+}
+
+.player-title-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.player-anime-name {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #fff;
+}
+
+.player-episode-info {
+  font-size: 0.88rem;
+  color: var(--cr-text-secondary);
+}
+
+.player-top-badges {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Center Clickable Action Ripple & Buffering Spinner */
+.player-center-action {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  z-index: 5;
+}
+
+.player-spinner {
+  width: 54px;
+  height: 54px;
+  border: 4px solid rgba(255, 255, 255, 0.2);
+  border-top-color: var(--cr-accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  display: none;
+}
+
+.player-wrapper.buffering .player-spinner {
+  display: block;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Floating "Skip Intro" Button */
+.skip-intro-btn {
+  position: absolute;
+  bottom: 90px;
+  right: 28px;
+  background: rgba(9, 21, 64, 0.92);
+  border: 2px solid var(--cr-accent-gold);
+  color: #ffffff;
+  padding: 10px 22px;
+  border-radius: var(--radius-sm);
+  font-size: 0.95rem;
+  font-weight: 700;
+  display: none;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  z-index: 25;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.6), 0 0 16px rgba(255, 190, 11, 0.4);
+  transition: all var(--transition-fast);
+  animation: pulseGlow 2s infinite ease-in-out;
+}
+
+.skip-intro-btn:hover {
+  background: var(--cr-accent-gold);
+  color: #000000;
+  transform: scale(1.04);
+}
+
+.skip-intro-btn.visible {
+  display: flex;
+}
+
+@keyframes pulseGlow {
+  0%, 100% { box-shadow: 0 0 10px rgba(58, 134, 255, 0.4); }
+  50% { box-shadow: 0 0 22px rgba(255, 190, 11, 0.8); }
+}
+
+/* Bottom Controls Section */
+.player-bottom-bar {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* Seekbar */
+.player-seekbar-container {
+  position: relative;
+  width: 100%;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.player-seekbar-bg {
+  position: relative;
+  width: 100%;
+  height: 5px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 3px;
+  transition: height var(--transition-fast);
+}
+
+.player-seekbar-container:hover .player-seekbar-bg {
+  height: 8px;
+}
+
+.player-seekbar-buffered {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.35);
+  border-radius: 3px;
+  width: 0%;
+}
+
+.player-seekbar-progress {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: linear-gradient(90deg, var(--cr-accent), var(--cr-accent-gold));
+  border-radius: 3px;
+  width: 0%;
+}
+
+.player-seekbar-thumb {
+  position: absolute;
+  right: -6px;
+  top: 50%;
+  transform: translateY(-50%) scale(0);
+  width: 14px;
+  height: 14px;
+  background: #ffffff;
+  border: 2px solid var(--cr-accent);
+  border-radius: 50%;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  transition: transform var(--transition-fast);
+}
+
+.player-seekbar-container:hover .player-seekbar-thumb {
+  transform: translateY(-50%) scale(1);
+}
+
+.player-seek-tooltip {
+  position: absolute;
+  top: -34px;
+  left: 0;
+  transform: translateX(-50%);
+  background: rgba(9, 21, 64, 0.95);
+  color: #fff;
+  padding: 3px 8px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  border-radius: var(--radius-sm);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity var(--transition-fast);
+  border: 1px solid var(--cr-border);
+}
+
+.player-seekbar-container:hover .player-seek-tooltip {
+  opacity: 1;
+}
+
+/* Control Buttons Row */
+.player-controls-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.player-controls-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.player-control-btn {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border-radius: 4px;
+  transition: all var(--transition-fast);
+}
+
+.player-control-btn:hover {
+  color: var(--cr-accent-gold);
+  transform: scale(1.1);
+}
+
+.player-control-btn svg {
+  width: 22px;
+  height: 22px;
+}
+
+.player-play-btn svg {
+  width: 28px;
+  height: 28px;
+}
+
+/* Volume Slider */
+.player-volume-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.player-volume-slider {
+  width: 0;
+  opacity: 0;
+  transition: width var(--transition-normal), opacity var(--transition-normal);
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  border-radius: 2px;
+  background: rgba(255, 255, 255, 0.3);
+  outline: none;
+  cursor: pointer;
+}
+
+.player-volume-group:hover .player-volume-slider {
+  width: 70px;
+  opacity: 1;
+}
+
+.player-volume-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--cr-accent);
+  cursor: pointer;
+}
+
+/* Time Display */
+.player-time-display {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--cr-text-secondary);
+  user-select: none;
+}
+
+.player-time-display span.current {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.player-controls-right {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+/* Popover Settings Menus */
+.player-menu-wrapper {
+  position: relative;
+}
+
+.player-popup-menu {
+  position: absolute;
+  bottom: calc(100% + 14px);
+  right: 0;
+  background: rgba(14, 29, 82, 0.96);
+  backdrop-filter: blur(16px);
+  border: 1px solid var(--cr-border-light);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  padding: 8px;
+  min-width: 180px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: all var(--transition-fast);
+  z-index: 100;
+}
+
+.player-popup-menu.active {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.player-menu-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  color: var(--cr-text-secondary);
+  font-size: 0.88rem;
+  font-weight: 500;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.player-menu-item:hover {
+  background: var(--cr-accent-subtle);
+  color: #fff;
+}
+
+.player-menu-item.active {
+  color: var(--cr-accent-gold);
+  font-weight: 700;
+}
+
+.player-menu-item.active::after {
+  content: '✓';
+  color: var(--cr-accent-gold);
+  font-weight: bold;
+}
+
+/* --------------------------------------------------------------------------
+   Next Episode Auto-Play Countdown Popup
+   -------------------------------------------------------------------------- */
+.next-episode-overlay {
+  position: absolute;
+  bottom: 100px;
+  right: 28px;
+  background: rgba(14, 29, 82, 0.96);
+  border: 1px solid var(--cr-border-light);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  padding: 16px;
+  max-width: 320px;
+  display: none;
+  flex-direction: column;
+  gap: 12px;
+  z-index: 30;
+  animation: slideInRight 0.3s ease;
+}
+
+.next-episode-overlay.visible {
+  display: flex;
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+.next-ep-header {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--cr-accent-gold);
+  font-weight: 700;
+}
+
+.next-ep-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+.next-ep-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+/* Keyboard Shortcuts Cheat Sheet Modal */
+.shortcuts-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(3, 8, 24, 0.85);
+  backdrop-filter: blur(12px);
+  z-index: 2500;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.shortcuts-modal.active {
+  display: flex;
+}
+
+.shortcuts-card {
+  background: var(--cr-bg-card);
+  border: 1px solid var(--cr-border-light);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+  max-width: 500px;
+  width: 100%;
+  box-shadow: var(--shadow-lg);
+}
+
+.shortcuts-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.shortcuts-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.shortcut-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  background: var(--cr-bg-surface);
+  border-radius: var(--radius-sm);
+  font-size: 0.88rem;
+}
+
+.shortcut-key {
+  background: var(--cr-blue-border);
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 0.78rem;
+}

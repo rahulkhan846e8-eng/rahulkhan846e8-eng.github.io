@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="no-referrer" />
+  <title>Mizzy Space - Watch Anime &amp; Stream Free HD Series</title>
+  <meta name="description" content="Stream the ultimate anime library on Mizzy Space. Watch Solo Leveling, Demon Slayer, Mushoku Tensei, Death Note, and more in HD with English subtitles and dubs completely free." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  
+  <!-- CSS Stylesheets (with version cache busting) -->
+  <link rel="stylesheet" href="css/main.css?v=20260907_v23" />
+  <link rel="stylesheet" href="css/components.css?v=20260907_v23" />
+  <link rel="stylesheet" href="css/player.css?v=20260907_v23" />
+  <link rel="stylesheet" href="css/views.css?v=20260907_v23" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23091540'/><text x='50%' y='68%' font-family='sans-serif' font-size='56' font-weight='900' fill='%233a86ff' text-anchor='middle'>M</text></svg>" />
+
+  <style>
+    /* Absolute Fail-Safe Mobile Hero Styles */
+    @media (max-width: 992px) {
+      .hero-actions, .desktop-only {
+        display: none !important;
+        visibility: hidden !important;
+        height: 0 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        overflow: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+      .hero-showcase {
+        height: 50vh !important;
+        min-height: 350px !important;
+        max-height: 440px !important;
+      }
+      .hero-content {
+        padding-bottom: 24px !important;
+        justify-content: flex-end !important;
+      }
+      .hero-slide {
+        cursor: pointer !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <!-- ====================================================================
+         SITE HEADER
+         ==================================================================== -->
+    <header class="site-header">
+      <div class="header-inner">
+        <div class="header-left">
+          <!-- Minimal Mizzy Space Logo -->
+          <a href="#home" class="brand-logo">
+            <span class="logo-main">MIZZY</span><span class="logo-sub">SPACE</span>
+          </a>
+
+          <!-- Main Navigation -->
+          <nav class="main-nav">
+            <a href="#home" class="nav-link">Home</a>
+            
+            <!-- Categories Mega Dropdown -->
+            <div class="nav-dropdown-wrapper">
+              <div class="nav-link">
+                <span>Categories</span>
+                <span class="nav-arrow">▼</span>
+              </div>
+              <div class="categories-dropdown-menu">
+                <a href="#browse?category=Action%20%26%20Adventure" class="category-menu-item" data-category="Action &amp; Adventure">
+                  <span class="category-dot"></span>
+                  <span>Action &amp; Adventure</span>
+                </a>
+                <a href="#browse?category=Comedy" class="category-menu-item" data-category="Comedy">
+                  <span class="category-dot"></span>
+                  <span>Comedy</span>
+                </a>
+                <a href="#browse?category=Romance" class="category-menu-item" data-category="Romance">
+                  <span class="category-dot"></span>
+                  <span>Romance</span>
+                </a>
+                <a href="#browse?category=Slice-of-Life" class="category-menu-item" data-category="Slice-of-Life">
+                  <span class="category-dot"></span>
+                  <span>Slice-of-Life</span>
+                </a>
+                <a href="#browse?category=Fantasy%20%26%20Sci-Fi" class="category-menu-item" data-category="Fantasy &amp; Sci-Fi">
+                  <span class="category-dot"></span>
+                  <span>Fantasy &amp; Sci-Fi</span>
+                </a>
+                <a href="#browse?category=Horror%20%26%20Mystery" class="category-menu-item" data-category="Horror &amp; Mystery">
+                  <span class="category-dot"></span>
+                  <span>Horror &amp; Mystery</span>
+                </a>
+                <a href="#browse?category=Isekai" class="category-menu-item" data-category="Isekai">
+                  <span class="category-dot"></span>
+                  <span>Isekai</span>
+                </a>
+                <a href="#browse?category=Mecha" class="category-menu-item" data-category="Mecha">
+                  <span class="category-dot"></span>
+                  <span>Mecha</span>
+                </a>
+                <a href="#browse?category=Mahou%20Shoujo%20(Magical%20Girl)" class="category-menu-item" data-category="Mahou Shoujo (Magical Girl)">
+                  <span class="category-dot"></span>
+                  <span>Mahou Shoujo (Magical Girl)</span>
+                </a>
+                <a href="#browse?category=Iyashikei" class="category-menu-item" data-category="Iyashikei">
+                  <span class="category-dot"></span>
+                  <span>Iyashikei</span>
+                </a>
+                <a href="#browse?category=Harem" class="category-menu-item" data-category="Harem">
+                  <span class="category-dot"></span>
+                  <span>Harem</span>
+                </a>
+              </div>
+            </div>
+
+            <!-- Explore All -->
+            <a href="#browse" class="nav-link">Explore All</a>
+            <a href="#watchlist" class="nav-link">Watchlist</a>
+            <a href="#history" class="nav-link">History</a>
+          </nav>
+        </div>
+
+        <div class="header-right">
+          <!-- Mobile Search Toggle Button -->
+          <button id="mobile-search-toggle" class="nav-icon-btn mobile-search-toggle-btn" title="Search Anime">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+          </button>
+
+          <!-- Live Search Bar -->
+          <div class="header-search" id="header-search-container">
+            <div class="search-input-box">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+              <input type="text" id="header-search-input" class="search-input" placeholder="Search anime, categories..." autocomplete="off" />
+              <span id="search-clear-btn" class="search-clear-btn">✕</span>
+            </div>
+            <div id="search-results-dropdown" class="search-results-dropdown"></div>
+          </div>
+
+          <!-- Watchlist Icon Counter -->
+          <a href="#watchlist" class="nav-icon-btn" title="My Watchlist">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2z"/>
+            </svg>
+            <span id="watchlist-badge-count" class="badge-count" style="display: none;">0</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- ====================================================================
+         MAIN APP VIEWS
+         ==================================================================== -->
+    <main class="main-content">
+      <!-- VIEW 1: HOME VIEW -->
+      <section id="home-view" class="view-section active">
+        <!-- Hero Spotlight Carousel -->
+        <div class="hero-showcase">
+          <div id="hero-slider" class="hero-slider"></div>
+
+          <!-- Hero Slide Navigation Arrows -->
+          <button id="hero-prev-btn" class="hero-nav-arrow hero-nav-prev" title="Previous Anime">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="15 18 9 12 15 6"></polyline>
+            </svg>
+          </button>
+          <button id="hero-next-btn" class="hero-nav-arrow hero-nav-next" title="Next Anime">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="9 18 15 12 9 6"></polyline>
+            </svg>
+          </button>
+
+          <div class="hero-controls">
+            <div id="hero-indicators" class="hero-indicators"></div>
+          </div>
+        </div>
+
+        <div class="page-container">
+          <!-- Continue Watching Shelf -->
+          <div class="shelf-section" id="continue-shelf-section" style="display: none;">
+            <div class="shelf-header">
+              <div class="shelf-title-group">
+                <span class="shelf-title-accent"></span>
+                <h3 class="shelf-title">Continue Watching</h3>
+              </div>
+              <a href="#history" class="shelf-view-all">Full History &gt;</a>
+            </div>
+            <div class="shelf-carousel-wrapper">
+              <div class="shelf-track" id="continue-shelf-track"></div>
+            </div>
+          </div>
+
+          <!-- Trending Now Shelf -->
+          <div class="shelf-section">
+            <div class="shelf-header">
+              <div class="shelf-title-group">
+                <span class="shelf-title-accent"></span>
+                <h3 class="shelf-title">Trending Anime</h3>
+                <span class="shelf-subtitle">Most popular shows streaming today</span>
+              </div>
+              <a href="#browse" class="shelf-view-all">View All &gt;</a>
+            </div>
+            <div class="shelf-carousel-wrapper">
+              <button class="shelf-nav-btn prev" title="Scroll Left">&#10094;</button>
+              <div class="shelf-track" id="trending-shelf-track"></div>
+              <button class="shelf-nav-btn next" title="Scroll Right">&#10095;</button>
+            </div>
+          </div>
+
+          <!-- Popular Anime Shelf -->
+          <div class="shelf-section">
+            <div class="shelf-header">
+              <div class="shelf-title-group">
+                <span class="shelf-title-accent"></span>
+                <h3 class="shelf-title">Popular Anime</h3>
+                <span class="shelf-subtitle">Highest rated series across all categories</span>
+              </div>
+              <a href="#browse" class="shelf-view-all">View All &gt;</a>
+            </div>
+            <div class="shelf-carousel-wrapper">
+              <button class="shelf-nav-btn prev" title="Scroll Left">&#10094;</button>
+              <div class="shelf-track" id="popular-shelf-track"></div>
+              <button class="shelf-nav-btn next" title="Scroll Right">&#10095;</button>
+            </div>
+          </div>
+
+          <!-- Action & Isekai Hits Shelf -->
+          <div class="shelf-section">
+            <div class="shelf-header">
+              <div class="shelf-title-group">
+                <span class="shelf-title-accent"></span>
+                <h3 class="shelf-title">Action, Adventure &amp; Isekai Hits</h3>
+                <span class="shelf-subtitle">Epic battles, reincarnation, and grand fantasy</span>
+              </div>
+              <a href="#browse?category=Action%20%26%20Adventure" class="shelf-view-all">View All &gt;</a>
+            </div>
+            <div class="shelf-carousel-wrapper">
+              <button class="shelf-nav-btn prev" title="Scroll Left">&#10094;</button>
+              <div class="shelf-track" id="action-shelf-track"></div>
+              <button class="shelf-nav-btn next" title="Scroll Right">&#10095;</button>
+            </div>
+          </div>
+
+          <!-- Top Rated Shelf -->
+          <div class="shelf-section">
+            <div class="shelf-header">
+              <div class="shelf-title-group">
+                <span class="shelf-title-accent"></span>
+                <h3 class="shelf-title">Top Rated Masterpieces</h3>
+                <span class="shelf-subtitle">Critically acclaimed fan favorites</span>
+              </div>
+              <a href="#browse" class="shelf-view-all">View All &gt;</a>
+            </div>
+            <div class="shelf-carousel-wrapper">
+              <button class="shelf-nav-btn prev" title="Scroll Left">&#10094;</button>
+              <div class="shelf-track" id="top-shelf-track"></div>
+              <button class="shelf-nav-btn next" title="Scroll Right">&#10095;</button>
+            </div>
+          </div>
+
+          <!-- Animated Feature Films & Movies Shelf -->
+          <div class="shelf-section">
+            <div class="shelf-header">
+              <div class="shelf-title-group">
+                <span class="shelf-title-accent" style="background: #ec4899;"></span>
+                <h3 class="shelf-title">🎬 Animated Feature Films &amp; Movies</h3>
+                <span class="shelf-subtitle">Blockbuster animated movies with full direct downloads</span>
+              </div>
+              <a href="#browse?type=Movie" class="shelf-view-all">View All Movies &gt;</a>
+            </div>
+            <div class="shelf-carousel-wrapper">
+              <button class="shelf-nav-btn prev" title="Scroll Left">&#10094;</button>
+              <div class="shelf-track" id="movies-shelf-track"></div>
+              <button class="shelf-nav-btn next" title="Scroll Right">&#10095;</button>
+            </div>
+          </div>
+
+          <!-- Latest Releases & Downloads Shelf -->
+          <div class="shelf-section">
+            <div class="shelf-header">
+              <div class="shelf-title-group">
+                <span class="shelf-title-accent" style="background: #10b981;"></span>
+                <h3 class="shelf-title">⚡ Latest Releases &amp; Hindi Dubs</h3>
+                <span class="shelf-subtitle">Newly added episodes, series, and direct download links</span>
+              </div>
+              <a href="#browse" class="shelf-view-all">View All &gt;</a>
+            </div>
+            <div class="shelf-carousel-wrapper">
+              <button class="shelf-nav-btn prev" title="Scroll Left">&#10094;</button>
+              <div class="shelf-track" id="new-releases-shelf-track"></div>
+              <button class="shelf-nav-btn next" title="Scroll Right">&#10095;</button>
+            </div>
+          </div>
+
+          <!-- Explore All Banner CTA -->
+          <div class="library-banner-cta" style="margin: 48px 0 24px; padding: 32px 28px; background: linear-gradient(135deg, rgba(37,99,235,0.25) 0%, rgba(9,21,64,0.9) 100%); border: 1px solid rgba(59,130,246,0.3); border-radius: 16px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+            <div>
+              <h3 style="font-size: 1.5rem; font-weight: 800; color: #fff; margin-bottom: 6px;">Explore All Anime &amp; Movies</h3>
+              <p style="color: var(--cr-text-muted); font-size: 0.95rem; margin: 0;">Stream and download full series, movies, and episodes in HD.</p>
+            </div>
+            <a href="#browse" class="btn btn-primary" style="padding: 12px 28px; font-weight: 700; border-radius: 10px;">EXPLORE ALL &gt;</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- VIEW 2: BROWSE & EXPLORE VIEW -->
+      <section id="browse-view" class="view-section">
+        <div class="page-container">
+          <div class="browse-header-section">
+            <h1 class="browse-page-title">Explore All Shows &amp; Movies</h1>
+            <p class="browse-page-subtitle">Stream and download unlimited anime and movies in full HD.</p>
+          </div>
+
+          <!-- Filter Controls Card -->
+          <div class="filter-controls-card">
+            <!-- Live Library Search Input -->
+            <div class="browse-search-row">
+              <div class="search-input-box browse-search-box">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+                <input type="text" id="browse-search-input" class="search-input" placeholder="Search anime by name, genre, character, or studio..." autocomplete="off" />
+                <span id="browse-search-clear-btn" class="search-clear-btn">✕</span>
+              </div>
+            </div>
+
+            <!-- Genre Filter Pills -->
+            <div class="genre-filter-pills" id="genre-pills-container"></div>
+
+            <div class="filter-dropdowns-row">
+              <div class="dropdown-group">
+                <label for="filter-type" style="font-size: 0.85rem; color: var(--cr-text-muted);">Format:</label>
+                <select id="filter-type" class="filter-select">
+                  <option value="All">All Formats</option>
+                  <option value="TV">TV Series</option>
+                  <option value="Movie">Movies</option>
+                </select>
+
+                <label for="filter-sort" style="font-size: 0.85rem; color: var(--cr-text-muted); margin-left: 8px;">Sort by:</label>
+                <select id="filter-sort" class="filter-select">
+                  <option value="popularity">Popularity</option>
+                  <option value="rating">Highest Rated</option>
+                  <option value="newest">Recently Added</option>
+                </select>
+              </div>
+
+              <span id="browse-count" class="results-count-text">0 Anime Titles</span>
+            </div>
+          </div>
+
+          <!-- Catalog Grid Results -->
+          <div class="catalog-grid" id="browse-grid"></div>
+        </div>
+      </section>
+
+      <!-- VIEW 3: ANIME DETAIL & EPISODES VIEW -->
+      <section id="detail-view" class="view-section"></section>
+
+      <!-- VIEW 3.5: TELEGRAM REDIRECT / WATCH VIEW -->
+      <section id="stream-view" class="view-section"></section>
+
+      <!-- VIEW 4: WATCHLIST VIEW -->
+      <section id="watchlist-view" class="view-section">
+        <div class="page-container">
+          <div class="collection-header-row">
+            <div>
+              <h1 class="browse-page-title">My Watchlist</h1>
+              <p class="browse-page-subtitle">Your saved shows queued for quick streaming.</p>
+            </div>
+            <span id="watchlist-count" class="results-count-text">0 Titles</span>
+          </div>
+          <div class="catalog-grid" id="watchlist-grid"></div>
+        </div>
+      </section>
+
+      <!-- VIEW 5: WATCH HISTORY VIEW -->
+      <section id="history-view" class="view-section">
+        <div class="page-container">
+          <div class="collection-header-row">
+            <div>
+              <h1 class="browse-page-title">Watch History</h1>
+              <p class="browse-page-subtitle">Pick up right where you left off across any episode.</p>
+            </div>
+            <div style="display: flex; align-items: center; gap: 16px;">
+              <span id="history-count" class="results-count-text">0 Entries</span>
+              <button id="clear-history-btn" class="btn btn-secondary btn-sm">Clear History</button>
+            </div>
+          </div>
+          <div class="catalog-grid" id="history-grid"></div>
+        </div>
+      </section>
+    </main>
+
+    <!-- ====================================================================
+         CUSTOM VIDEO PLAYER OVERLAY
+         ==================================================================== -->
+    <div id="player-container" class="player-view-container">
+      <div id="player-wrapper" class="player-wrapper">
+        <video id="cr-video" class="cr-video-element" playsinline></video>
+
+        <!-- Center Buffering Spinner -->
+        <div class="player-center-action">
+          <div class="player-spinner"></div>
+        </div>
+
+        <!-- Skip Intro Floating Button -->
+        <button id="skip-intro-btn" class="skip-intro-btn">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M4 18l8.5-6L4 6v12zm9-12v12l8.5-6L13 6z"/></svg>
+          <span>SKIP INTRO</span>
+        </button>
+
+        <!-- Next Episode Autoplay Countdown Overlay -->
+        <div id="next-episode-overlay" class="next-episode-overlay">
+          <div class="next-ep-header">Up Next</div>
+          <div class="next-ep-title">Playing next episode in <span id="next-ep-countdown" style="color: var(--cr-accent-gold); font-weight: 900;">5</span>s...</div>
+          <div class="next-ep-actions">
+            <button id="next-ep-play-now" class="btn btn-primary btn-sm">PLAY NOW</button>
+            <button id="next-ep-cancel" class="btn btn-secondary btn-sm">CANCEL</button>
+          </div>
+        </div>
+
+        <!-- Custom Controls HUD Overlay -->
+        <div id="player-overlay" class="player-overlay">
+          <!-- Top Bar -->
+          <div class="player-top-bar">
+            <div class="player-header-left">
+              <button id="player-back-btn" class="player-back-btn" title="Back">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
+              </button>
+              <div class="player-title-info">
+                <span id="player-anime-name" class="player-anime-name">Anime Title</span>
+                <span id="player-episode-info" class="player-episode-info">Episode 1</span>
+              </div>
+            </div>
+            <div class="player-top-badges">
+              <span class="badge badge-king">1080P HD</span>
+              <span class="badge badge-sub">SUB / DUB</span>
+            </div>
+          </div>
+
+          <!-- Bottom Controls Bar -->
+          <div class="player-bottom-bar">
+            <!-- Seekbar -->
+            <div id="player-seekbar-container" class="player-seekbar-container">
+              <div class="player-seekbar-bg">
+                <div id="player-seekbar-buffered" class="player-seekbar-buffered"></div>
+                <div id="player-seekbar-progress" class="player-seekbar-progress">
+                  <div id="player-seekbar-thumb" class="player-seekbar-thumb"></div>
+                </div>
+              </div>
+              <div id="player-seek-tooltip" class="player-seek-tooltip">00:00</div>
+            </div>
+
+            <!-- Controls Row -->
+            <div class="player-controls-row">
+              <div class="player-controls-left">
+                <!-- Play / Pause -->
+                <button id="player-play-btn" class="player-control-btn player-play-btn" title="Play/Pause (Space)">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+                </button>
+
+                <!-- Seek -10s -->
+                <button id="player-seek-back-btn" class="player-control-btn" title="Rewind 10s (Left Arrow)">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8zm-1.1 11h-.85v-3.26l-1.01.32v-.58l1.76-.6h.1v4.12zm4.26-2.1c0 .41-.07.76-.21 1.03-.14.28-.34.49-.6.64-.26.15-.57.23-.93.23-.37 0-.68-.08-.94-.23-.26-.15-.46-.36-.6-.64-.14-.28-.21-.62-.21-1.03v-.83c0-.41.07-.76.21-1.03.14-.28.34-.49.6-.64.26-.15.57-.23.94-.23.36 0 .67.08.93.23.26.15.46.36.6.64.14.27.21.62.21 1.03v.83zm-.83-.92c0-.33-.05-.58-.15-.74-.1-.17-.26-.25-.48-.25-.22 0-.38.08-.48.25-.1.16-.15.41-.15.74v1.01c0 .33.05.58.15.74.1.16.26.25.48.25.22 0 .38-.09.48-.25.1-.16.15-.41.15-.74v-1.01z"/></svg>
+                </button>
+
+                <!-- Seek +10s -->
+                <button id="player-seek-fwd-btn" class="player-control-btn" title="Forward 10s (Right Arrow)">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 5V1l5 5-5 5V7c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6h2c0 4.42-3.58 8-8 8s-8-3.58-8-8 3.58-8 8-8zm-1.1 11h-.85v-3.26l-1.01.32v-.58l1.76-.6h.1v4.12zm4.26-2.1c0 .41-.07.76-.21 1.03-.14.28-.34.49-.6.64-.26.15-.57.23-.93.23-.37 0-.68-.08-.94-.23-.26-.15-.46-.36-.6-.64-.14-.28-.21-.62-.21-1.03v-.83c0-.41.07-.76.21-1.03.14-.28.34-.49.6-.64.26-.15.57-.23.94-.23.36 0 .67.08.93.23.26.15.46.36.6.64.14.27.21.62.21 1.03v.83zm-.83-.92c0-.33-.05-.58-.15-.74-.1-.17-.26-.25-.48-.25-.22 0-.38.08-.48.25-.1.16-.15.41-.15.74v1.01c0 .33.05.58.15.74.1.16.26.25.48.25.22 0 .38-.09.48-.25.1-.16.15-.41.15-.74v-1.01z"/></svg>
+                </button>
+
+                <!-- Next Episode -->
+                <button id="player-next-btn" class="player-control-btn" title="Next Episode (N)">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>
+                </button>
+
+                <!-- Volume Group -->
+                <div class="player-volume-group">
+                  <button id="player-volume-btn" class="player-control-btn" title="Mute (M)">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                  </button>
+                  <input type="range" id="player-volume-slider" class="player-volume-slider" min="0" max="1" step="0.05" value="1" />
+                </div>
+
+                <!-- Time Counter -->
+                <div class="player-time-display">
+                  <span id="player-current-time" class="current">00:00</span> / <span id="player-duration">00:00</span>
+                </div>
+              </div>
+
+              <div class="player-controls-right">
+                <!-- Audio & Subtitles Menu -->
+                <div class="player-menu-wrapper">
+                  <button id="player-audio-btn" class="player-control-btn" title="Audio &amp; Subtitles">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 4H5c-1.11 0-2 .9-2 2v12c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-8 7H9.5v-.5h-2v3h2V13H11v1c0 .55-.45 1-1 1H7c-.55 0-1-.45-1-1v-4c0-.55.45-1 1-1h3c.55 0 1 .45 1 1v1zm7 0h-1.5v-.5h-2v3h2V13H18v1c0 .55-.45 1-1 1h-3c-.55 0-1-.45-1-1v-4c0-.55.45-1 1-1h3c.55 0 1 .45 1 1v1z"/></svg>
+                  </button>
+                  <div id="player-audio-menu" class="player-popup-menu">
+                    <div style="font-size: 0.75rem; color: var(--cr-text-muted); font-weight: 700; padding: 4px 12px; text-transform: uppercase;">Audio Track</div>
+                    <div class="player-menu-item active">Japanese (Original)</div>
+                    <div class="player-menu-item">English Dub</div>
+                    <div style="font-size: 0.75rem; color: var(--cr-text-muted); font-weight: 700; padding: 8px 12px 4px; text-transform: uppercase;">Subtitles</div>
+                    <div class="player-menu-item active">English (Full)</div>
+                    <div class="player-menu-item">Spanish</div>
+                    <div class="player-menu-item">Off</div>
+                  </div>
+                </div>
+
+                <!-- Speed Menu -->
+                <div class="player-menu-wrapper">
+                  <button id="player-speed-btn" class="player-control-btn" title="Playback Speed">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.38 8.57l-1.23 1.85a8 8 0 0 1-.22 7.58H5.07A8 8 0 0 1 15.58 6.85l1.85-1.23A10 10 0 0 0 3.35 19a2 2 0 0 0 1.72 1h13.85a2 2 0 0 0 1.74-1 10 10 0 0 0-.28-10.43zM10.59 15.41a2 2 0 0 0 2.83 0l5.66-8.49-8.49 5.66a2 2 0 0 0 0 2.83z"/></svg>
+                  </button>
+                  <div id="player-speed-menu" class="player-popup-menu">
+                    <div class="player-menu-item" data-speed="0.5">0.5x</div>
+                    <div class="player-menu-item" data-speed="0.75">0.75x</div>
+                    <div class="player-menu-item active" data-speed="1">1.0x (Normal)</div>
+                    <div class="player-menu-item" data-speed="1.25">1.25x</div>
+                    <div class="player-menu-item" data-speed="1.5">1.5x</div>
+                    <div class="player-menu-item" data-speed="2">2.0x</div>
+                  </div>
+                </div>
+
+                <!-- Shortcuts Cheat-Sheet -->
+                <button id="player-shortcuts-btn" class="player-control-btn" title="Keyboard Shortcuts (?)">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"/></svg>
+                </button>
+
+                <!-- Theater Mode -->
+                <button id="player-theater-btn" class="player-control-btn" title="Theater Mode (T)">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 6H5c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 10H5V8h14v8z"/></svg>
+                </button>
+
+                <!-- Fullscreen -->
+                <button id="player-fullscreen-btn" class="player-control-btn" title="Fullscreen (F)">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ====================================================================
+         MODAL: KEYBOARD SHORTCUTS CHEAT SHEET
+         ==================================================================== -->
+    <div id="shortcuts-modal" class="shortcuts-modal">
+      <div class="shortcuts-card">
+        <div class="shortcuts-header">
+          <h3>Keyboard Shortcuts</h3>
+          <span id="close-shortcuts-modal" class="modal-close-btn" style="position: static;">&times;</span>
+        </div>
+        <div class="shortcuts-list">
+          <div class="shortcut-row"><span>Play / Pause</span><span class="shortcut-key">Space / K</span></div>
+          <div class="shortcut-row"><span>Rewind 10s</span><span class="shortcut-key">← / J</span></div>
+          <div class="shortcut-row"><span>Forward 10s</span><span class="shortcut-key">→ / L</span></div>
+          <div class="shortcut-row"><span>Volume Up / Down</span><span class="shortcut-key">↑ / ↓</span></div>
+          <div class="shortcut-row"><span>Toggle Fullscreen</span><span class="shortcut-key">F</span></div>
+          <div class="shortcut-row"><span>Toggle Mute</span><span class="shortcut-key">M</span></div>
+          <div class="shortcut-row"><span>Skip Intro</span><span class="shortcut-key">S / I</span></div>
+          <div class="shortcut-row"><span>Next Episode</span><span class="shortcut-key">N</span></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ====================================================================
+         MOBILE BOTTOM NAVIGATION BAR
+         ==================================================================== -->
+    <nav class="mobile-nav-bar">
+      <a href="#home" class="mobile-nav-item active">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+        <span>Home</span>
+      </a>
+      <a href="#browse?focus=search" class="mobile-nav-item">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+        <span>Search</span>
+      </a>
+      <a href="#browse" class="mobile-nav-item">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/></svg>
+        <span>Explore</span>
+      </a>
+      <a href="#watchlist" class="mobile-nav-item">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2z"/></svg>
+        <span>Watchlist</span>
+      </a>
+      <a href="#history" class="mobile-nav-item">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M13 3a9 9 0 0 0-9 9H1l3.89 3.89.07.14L9 12H6c0-3.87 3.13-7 7-7s7 3.13 7 7-3.13 7-7 7c-1.93 0-3.68-.79-4.94-2.06l-1.42 1.42A8.954 8.954 0 0 0 13 21a9 9 0 0 0 0-18zm-1 5v5l4.28 2.54.72-1.21-3.5-2.08V8H12z"/></svg>
+        <span>History</span>
+      </a>
+    </nav>
+
+    <!-- ====================================================================
+         SITE FOOTER
+         ==================================================================== -->
+    <footer class="site-footer">
+      <div class="page-container">
+        <div class="footer-grid">
+          <div class="footer-brand">
+            <div class="footer-logo">
+              <span class="logo-main">MIZZY</span><span class="logo-sub">SPACE</span>
+            </div>
+            <p>Mizzy Space is the ultimate destination for streaming anime, movies, and series with zero subscriptions and complete freedom.</p>
+          </div>
+          <div class="footer-col">
+            <h4>Explore</h4>
+            <ul>
+              <li><a href="#browse?category=Action%20%26%20Adventure">Action &amp; Adventure</a></li>
+              <li><a href="#browse?category=Isekai">Isekai World</a></li>
+              <li><a href="#browse?category=Mecha">Mecha &amp; Sci-Fi</a></li>
+              <li><a href="#browse?category=Romance">Romance &amp; Comedy</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>Quick Links</h4>
+            <ul>
+              <li><a href="#browse">Explore All</a></li>
+              <li><a href="#watchlist">My Watchlist</a></li>
+              <li><a href="#history">Watch History</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>Connect</h4>
+            <ul>
+              <li><a href="https://discord.com" target="_blank" rel="noreferrer">Discord Community</a></li>
+              <li><a href="https://youtube.com" target="_blank" rel="noreferrer">YouTube</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footer-bottom">
+          <div>&copy; Mizzy Space. All Rights Reserved. Free 1080p HD Streaming for Everyone.</div>
+          <div>Dark Blue Theme (#091540) &bull; Zero Subscriptions</div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <!-- JavaScript Modules -->
+  <script type="module" src="js/app.js?v=20260907_v23"></script>
+</body>
+</html>
