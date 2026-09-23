@@ -265,8 +265,8 @@ export class UIRenderer {
               <p class="detail-synopsis">${anime.synopsis || ''}</p>
               <div class="detail-actions">
                 <button class="btn btn-primary play-episode-btn" data-anime-id="${anime.id}" data-ep="1" data-season="1">
-                  <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
-                  ${isMovie ? 'WATCH FULL MOVIE' : 'WATCH EPISODE 1'}
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+                  ${isMovie ? 'DOWNLOAD FULL MOVIE' : 'DOWNLOAD EPISODE 1'}
                 </button>
                 <button class="btn btn-secondary watchlist-toggle-btn" data-anime-id="${anime.id}">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="${inWatchlist ? 'var(--cr-accent-gold)' : 'none'}" stroke="currentColor" stroke-width="2">
@@ -281,7 +281,7 @@ export class UIRenderer {
       </div>
 
       <div class="page-container">
-        <!-- Interactive Season Header Bar with Mode Switcher -->
+        <!-- Interactive Season Header Bar -->
         <div class="season-header-bar" style="margin-top: 32px;">
           ${isMovie ? `
             <div class="movie-pill-box" style="display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.06); padding: 8px 20px; border-radius: 9999px; border: 1px solid rgba(255,255,255,0.12);">
@@ -308,21 +308,14 @@ export class UIRenderer {
             </div>
           `}
 
-          <!-- Working Download (Default) and Watch Mode Switcher -->
+          <!-- Clean Direct Download Mode Indicator (Watch Mode Removed) -->
           <div class="episode-mode-toggle-group" id="episode-mode-toggle-group">
-            <button class="mode-toggle-btn active ${!hasDownload ? 'disabled-option' : ''}" data-mode="download" type="button" id="mode-toggle-download" title="Download Mode (Default)">
+            <button class="mode-toggle-btn active ${!hasDownload ? 'disabled-option' : ''}" data-mode="download" type="button" id="mode-toggle-download" title="Direct Download Mode">
               <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/>
               </svg>
               <span>Download</span>
               <span class="mode-tiny-tag mode-download-coming-soon" style="display: ${hasDownload ? 'none' : 'inline-block'};">coming soon</span>
-            </button>
-            <button class="mode-toggle-btn ${!hasWatch ? 'disabled-option' : ''}" data-mode="watch" type="button" id="mode-toggle-watch" title="Watch Mode">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M8 5v14l11-7z"/>
-              </svg>
-              <span>Watch</span>
-              <span class="mode-tiny-tag mode-watch-coming-soon" style="display: ${hasWatch ? 'none' : 'inline-block'};">coming soon</span>
             </button>
           </div>
         </div>
@@ -341,9 +334,7 @@ export class UIRenderer {
     const seasonLabel = document.getElementById("current-season-label");
     const episodesStack = document.getElementById("episodes-playlist-stack");
     const downloadToggleBtn = document.getElementById("mode-toggle-download");
-    const watchToggleBtn = document.getElementById("mode-toggle-watch");
     const downloadComingSoonTag = document.querySelector(".mode-download-coming-soon");
-    const watchComingSoonTag = document.querySelector(".mode-watch-coming-soon");
 
     // Helper to refresh episode playlist
     const refreshPlaylist = () => {
@@ -352,20 +343,11 @@ export class UIRenderer {
       }
     };
 
-    // Mode Switcher Listeners
+    // Download Mode Click
     downloadToggleBtn?.addEventListener("click", (e) => {
       e.stopPropagation();
       currentMode = "download";
       downloadToggleBtn.classList.add("active");
-      watchToggleBtn?.classList.remove("active");
-      refreshPlaylist();
-    });
-
-    watchToggleBtn?.addEventListener("click", (e) => {
-      e.stopPropagation();
-      currentMode = "watch";
-      watchToggleBtn.classList.add("active");
-      downloadToggleBtn?.classList.remove("active");
       refreshPlaylist();
     });
 
@@ -410,9 +392,6 @@ export class UIRenderer {
         if (downloadComingSoonTag) {
           downloadComingSoonTag.style.display = isSeasonComingSoon ? 'inline-block' : 'none';
         }
-        if (watchComingSoonTag) {
-          watchComingSoonTag.style.display = isSeasonComingSoon ? 'inline-block' : 'none';
-        }
 
         refreshPlaylist();
         dropdownWrapper?.classList.remove("open");
@@ -441,11 +420,9 @@ export class UIRenderer {
     const hasTelegram = Boolean(ep.hasTelegram || ep.telegramFileId || anime.hasTelegram);
     const deepLinkKey = sNum > 1 ? `${anime.id}_s${sNum}_ep${ep.number}` : `${anime.id}_ep${ep.number}`;
 
-    // Direct download links (ready for links from PDF)
+    // Direct download link (Single High Quality option)
     const dlLinks = ep.downloadLinks || {};
-    const dl1080 = dlLinks["1080p"] || ep.downloadUrl || "";
-    const dl720 = dlLinks["720p"] || "";
-    const dl480 = dlLinks["480p"] || "";
+    const directDlUrl = dlLinks["1080p"] || dlLinks["720p"] || dlLinks["480p"] || ep.downloadUrl || "";
 
     container.innerHTML = `
       <div class="download-page-wrapper">
@@ -474,7 +451,7 @@ export class UIRenderer {
                 <h3 class="download-ep-title">${anime.type === "Movie" ? `${anime.title} (Full Movie)` : ep.title}</h3>
                 <div class="download-tags-row">
                   <span class="badge badge-rating">★ ${anime.rating || '8.8'}</span>
-                  <span class="badge badge-gold-pill">1080p FHD</span>
+                  <span class="badge badge-gold-pill">High Quality FHD</span>
                 </div>
               </div>
             </div>
@@ -491,7 +468,7 @@ export class UIRenderer {
               </div>
               <div class="dl-info-item">
                 <span class="dl-info-label">Quality</span>
-                <span class="dl-info-value">1080p FHD &bull; 720p HD &bull; 480p SD</span>
+                <span class="dl-info-value">High Quality (1080p FHD)</span>
               </div>
               <div class="dl-info-item">
                 <span class="dl-info-label">Status</span>
@@ -505,52 +482,22 @@ export class UIRenderer {
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/>
                 </svg>
-                <span>Direct Download Links:</span>
+                <span>Direct Download:</span>
               </div>
 
               <div class="download-buttons-stack">
-                <!-- 1080p Full HD -->
-                <a href="${dl1080 || 'javascript:void(0)'}" ${dl1080 ? 'target="_blank" rel="noopener noreferrer"' : ''} class="btn-download-server direct-dl-btn" data-quality="1080p" data-has-link="${Boolean(dl1080)}">
+                <!-- Single High Quality & Direct Download Option -->
+                <a href="${directDlUrl || 'javascript:void(0)'}" ${directDlUrl ? 'target="_blank" rel="noopener noreferrer"' : ''} class="btn-download-server direct-dl-btn single-hq-download" data-quality="High Quality" data-has-link="${Boolean(directDlUrl)}">
                   <div class="server-btn-left">
-                    <span class="server-badge res-1080">1080p</span>
+                    <span class="server-badge res-1080" style="background: linear-gradient(135deg, #3a86ff, #00b4d8); font-weight: 800; font-size: 0.85rem; padding: 5px 12px;">HQ</span>
                     <div class="server-details">
-                      <span class="server-name">Direct High-Speed Server (Full HD)</span>
-                      <span class="server-meta">~350 MB &bull; 1080p 60fps &bull; Dual Audio</span>
+                      <span class="server-name" style="font-size: 1.05rem; font-weight: 700; color: #fff;">High Quality &amp; Direct Download</span>
+                      <span class="server-meta" style="color: #94a3b8; font-size: 0.84rem;">Fast Direct Server &bull; Full HD (1080p / 720p) &bull; Multi-Audio (Hindi + English)</span>
                     </div>
                   </div>
                   <div class="server-btn-action">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
-                    <span>Download</span>
-                  </div>
-                </a>
-
-                <!-- 720p HD -->
-                <a href="${dl720 || 'javascript:void(0)'}" ${dl720 ? 'target="_blank" rel="noopener noreferrer"' : ''} class="btn-download-server direct-dl-btn" data-quality="720p" data-has-link="${Boolean(dl720)}">
-                  <div class="server-btn-left">
-                    <span class="server-badge res-720">720p</span>
-                    <div class="server-details">
-                      <span class="server-name">Fast Direct Server (HD 720p)</span>
-                      <span class="server-meta">~180 MB &bull; High Quality &bull; Multi-Audio</span>
-                    </div>
-                  </div>
-                  <div class="server-btn-action">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
-                    <span>Download</span>
-                  </div>
-                </a>
-
-                <!-- 480p SD -->
-                <a href="${dl480 || 'javascript:void(0)'}" ${dl480 ? 'target="_blank" rel="noopener noreferrer"' : ''} class="btn-download-server direct-dl-btn" data-quality="480p" data-has-link="${Boolean(dl480)}">
-                  <div class="server-btn-left">
-                    <span class="server-badge res-480">480p</span>
-                    <div class="server-details">
-                      <span class="server-name">Mobile Data Saver (480p SD)</span>
-                      <span class="server-meta">~90 MB &bull; Fast Download &bull; Small Size</span>
-                    </div>
-                  </div>
-                  <div class="server-btn-action">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
-                    <span>Download</span>
+                    <span>Direct Download</span>
                   </div>
                 </a>
 
@@ -593,8 +540,7 @@ export class UIRenderer {
         const hasLink = btn.dataset.hasLink === "true";
         if (!hasLink) {
           e.preventDefault();
-          const quality = btn.dataset.quality || "1080p";
-          UIRenderer.showToast(`Server ready for ${quality}! Direct link will be active once link database is updated.`, "default");
+          UIRenderer.showToast("Fast Direct Server ready! Link will start download once active.", "default");
         }
       });
     });
