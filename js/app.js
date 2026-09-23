@@ -175,10 +175,11 @@ class App {
       const params = queryPart ? new URLSearchParams(queryPart) : null;
       const seasonNum = params?.get("s") || params?.get("season") || 1;
       const mode = params?.get("mode") || (root === "watch" ? "watch" : "download");
+      const lang = params?.get("lang") || "hindi";
       const anime = getAnimeById(animeId);
       if (anime) {
         document.getElementById("stream-view")?.classList.add("active");
-        UIRenderer.renderTelegramStreamView(anime, epNum, seasonNum, mode);
+        UIRenderer.renderTelegramStreamView(anime, epNum, seasonNum, mode, lang);
       } else {
         window.location.hash = "#home";
       }
@@ -406,9 +407,10 @@ class App {
         const ep = playBtn.dataset.ep || 1;
         const season = playBtn.dataset.season || 1;
         const mode = playBtn.dataset.mode || "download";
+        const lang = playBtn.dataset.lang || "hindi";
         // Record this click in Continue Watching history
         StorageService.recordEpisodeClick(animeId, ep, season);
-        window.location.hash = `#stream/${animeId}/${ep}?s=${season}&mode=${mode}`;
+        window.location.hash = `#stream/${animeId}/${ep}?s=${season}&mode=${mode}&lang=${lang}`;
         return;
       }
 

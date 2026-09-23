@@ -176,7 +176,7 @@ export class UIRenderer {
   // --------------------------------------------------------------------------
   // Anime Detail View & Episode Playlist
   // --------------------------------------------------------------------------
-  static renderEpisodesListHtml(anime, season, mode = "download") {
+  static renderEpisodesListHtml(anime, season, mode = "download", lang = "hindi") {
     if (!season) return "";
 
     if (season.isComingSoon || !season.episodes || season.episodes.length === 0) {
@@ -193,33 +193,29 @@ export class UIRenderer {
     }
 
     const sNum = season.number || 1;
-    const isDownload = mode === "download";
     const isMovie = anime.type === "Movie";
+    const isOriginal = lang === "original";
 
     return season.episodes.map(ep => `
-      <div class="episode-row-item play-episode-btn" data-anime-id="${anime.id}" data-ep="${ep.number}" data-season="${sNum}" data-mode="${mode}">
+      <div class="episode-row-item play-episode-btn" data-anime-id="${anime.id}" data-ep="${ep.number}" data-season="${sNum}" data-mode="download" data-lang="${lang}">
         <div class="ep-row-thumb">
           <img src="${ep.thumbnail || anime.poster}" alt="${ep.title}" loading="lazy" onerror="this.onerror=null; this.src='https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png';" />
           <span class="ep-row-runtime">${ep.runtime || (isMovie ? '1h 45m' : '24m')}</span>
           <div class="ep-row-play-overlay">
-            ${isDownload 
-              ? `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>`
-              : `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>`
-            }
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
           </div>
         </div>
         <div class="ep-row-content">
           <div class="ep-row-title-line">
             <span class="ep-badge-gold">${isMovie ? 'Full Feature' : `S${sNum}-E${ep.number}`}</span>
             <span class="ep-row-title">${isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : ep.title}</span>
+            <span class="ep-lang-pill ${isOriginal ? 'lang-original' : 'lang-hindi'}">${isOriginal ? '🇯🇵 Original Dub' : '🇮🇳 Hindi Dub'}</span>
           </div>
         </div>
         <div class="ep-row-action">
-          <button class="btn-watch-row ${isDownload ? 'btn-download-action' : ''}">
-            ${isDownload 
-              ? `<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg><span>${isMovie ? 'Download Movie' : 'Download'}</span>`
-              : `<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg><span>${isMovie ? 'Watch Movie' : 'Watch'}</span>`
-            }
+          <button class="btn-watch-row btn-download-action">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+            <span>${isMovie ? 'Download Movie' : 'Download'}</span>
           </button>
         </div>
       </div>
@@ -238,6 +234,7 @@ export class UIRenderer {
 
     let currentSeason = seasons[0];
     let currentMode = "download"; // Default option requested by user
+    let currentLanguage = "hindi"; // Default language: Hindi, second: Original Dub
 
     const hasDownload = !currentSeason.isComingSoon && anime.hasDownload !== false;
     const hasWatch = !currentSeason.isComingSoon && anime.hasWatch !== false;
@@ -264,7 +261,7 @@ export class UIRenderer {
               </div>
               <p class="detail-synopsis">${anime.synopsis || ''}</p>
               <div class="detail-actions">
-                <button class="btn btn-primary play-episode-btn" data-anime-id="${anime.id}" data-ep="1" data-season="1">
+                <button class="btn btn-primary play-episode-btn" data-anime-id="${anime.id}" data-ep="1" data-season="1" data-lang="${currentLanguage}">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
                   ${isMovie ? 'DOWNLOAD FULL MOVIE' : 'DOWNLOAD EPISODE 1'}
                 </button>
@@ -308,6 +305,18 @@ export class UIRenderer {
             </div>
           `}
 
+          <!-- Multi-Language Audio Selector (Hindi as default & Original Dub) -->
+          <div class="language-toggle-group" id="language-toggle-group" title="Select Audio Language">
+            <button class="lang-toggle-btn active" data-lang="hindi" type="button">
+              <span class="lang-flag">🇮🇳</span>
+              <span class="lang-text">Hindi</span>
+            </button>
+            <button class="lang-toggle-btn" data-lang="original" type="button">
+              <span class="lang-flag">🇯🇵</span>
+              <span class="lang-text">Original Dub</span>
+            </button>
+          </div>
+
           <!-- Clean Direct Download Mode Indicator (Watch Mode Removed) -->
           <div class="episode-mode-toggle-group" id="episode-mode-toggle-group">
             <button class="mode-toggle-btn active ${!hasDownload ? 'disabled-option' : ''}" data-mode="download" type="button" id="mode-toggle-download" title="Direct Download Mode">
@@ -322,7 +331,7 @@ export class UIRenderer {
 
         <!-- Episodes Playlist Container -->
         <div class="episodes-playlist-stack" id="episodes-playlist-stack">
-          ${this.renderEpisodesListHtml(anime, currentSeason, currentMode)}
+          ${this.renderEpisodesListHtml(anime, currentSeason, currentMode, currentLanguage)}
         </div>
       </div>
     `;
@@ -335,13 +344,33 @@ export class UIRenderer {
     const episodesStack = document.getElementById("episodes-playlist-stack");
     const downloadToggleBtn = document.getElementById("mode-toggle-download");
     const downloadComingSoonTag = document.querySelector(".mode-download-coming-soon");
+    const langToggleGroup = document.getElementById("language-toggle-group");
 
     // Helper to refresh episode playlist
     const refreshPlaylist = () => {
       if (episodesStack) {
-        episodesStack.innerHTML = UIRenderer.renderEpisodesListHtml(anime, currentSeason, currentMode);
+        episodesStack.innerHTML = UIRenderer.renderEpisodesListHtml(anime, currentSeason, currentMode, currentLanguage);
       }
     };
+
+    // Multi-Language Toggle Listener
+    langToggleGroup?.querySelectorAll(".lang-toggle-btn").forEach(btn => {
+      btn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const selectedLang = btn.dataset.lang || "hindi";
+        if (selectedLang === currentLanguage) return;
+        currentLanguage = selectedLang;
+
+        langToggleGroup.querySelectorAll(".lang-toggle-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+
+        // Update hero download button data-lang
+        const heroPlayBtn = detailContainer.querySelector(".play-episode-btn");
+        if (heroPlayBtn) heroPlayBtn.dataset.lang = currentLanguage;
+
+        refreshPlaylist();
+      });
+    });
 
     // Download Mode Click
     downloadToggleBtn?.addEventListener("click", (e) => {
@@ -402,10 +431,11 @@ export class UIRenderer {
   // --------------------------------------------------------------------------
   // Dedicated Episode Download Page & Stream View
   // --------------------------------------------------------------------------
-  static renderTelegramStreamView(anime, epNum = 1, seasonNum = 1, mode = "download") {
+  static renderTelegramStreamView(anime, epNum = 1, seasonNum = 1, mode = "download", lang = "hindi") {
     const container = document.getElementById("stream-view");
     if (!container || !anime) return;
 
+    let currentLang = lang || "hindi";
     const sNum = parseInt(seasonNum, 10) || 1;
     const seasons = anime.seasons || [];
     const currentSeason = seasons.find(s => s.number === sNum) || seasons[0];
@@ -460,7 +490,7 @@ export class UIRenderer {
             <div class="download-info-grid">
               <div class="dl-info-item">
                 <span class="dl-info-label">Audio</span>
-                <span class="dl-info-value">Hindi Dub + English Sub</span>
+                <span class="dl-info-value" id="dl-info-audio">${currentLang === 'original' ? 'Original Japanese Dub + English Sub' : 'Hindi Dub + English Sub'}</span>
               </div>
               <div class="dl-info-item">
                 <span class="dl-info-label">Format</span>
@@ -478,6 +508,21 @@ export class UIRenderer {
 
             <!-- Direct Download Servers Stack -->
             <div class="download-servers-section">
+              <!-- Audio Track Selector on Download Card -->
+              <div class="dl-lang-selector-box">
+                <span class="dl-lang-label">🎧 Audio Track:</span>
+                <div class="language-toggle-group" id="stream-lang-toggle">
+                  <button class="lang-toggle-btn ${currentLang === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
+                    <span class="lang-flag">🇮🇳</span>
+                    <span class="lang-text">Hindi Dub</span>
+                  </button>
+                  <button class="lang-toggle-btn ${currentLang === 'original' ? 'active' : ''}" data-lang="original" type="button">
+                    <span class="lang-flag">🇯🇵</span>
+                    <span class="lang-text">Original Dub</span>
+                  </button>
+                </div>
+              </div>
+
               <div class="download-section-heading">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/>
@@ -491,8 +536,8 @@ export class UIRenderer {
                   <div class="server-btn-left">
                     <span class="server-badge res-1080" style="background: linear-gradient(135deg, #3a86ff, #00b4d8); font-weight: 800; font-size: 0.85rem; padding: 5px 12px;">HQ</span>
                     <div class="server-details">
-                      <span class="server-name" style="font-size: 1.05rem; font-weight: 700; color: #fff;">High Quality &amp; Direct Download</span>
-                      <span class="server-meta" style="color: #94a3b8; font-size: 0.84rem;">Fast Direct Server &bull; Full HD (1080p / 720p) &bull; Multi-Audio (Hindi + English)</span>
+                      <span class="server-name" id="dl-server-title" style="font-size: 1.05rem; font-weight: 700; color: #fff;">High Quality &amp; Direct Download (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})</span>
+                      <span class="server-meta" id="dl-server-meta" style="color: #94a3b8; font-size: 0.84rem;">Fast Direct Server &bull; Full HD (1080p / 720p) &bull; ${currentLang === 'original' ? 'Original Japanese Audio + English Sub' : 'Hindi Dub Audio + English Sub'}</span>
                     </div>
                   </div>
                   <div class="server-btn-action">
@@ -524,15 +569,43 @@ export class UIRenderer {
               ${anime.type === "Movie" ? `
                 <a href="#anime/${anime.id}" class="btn-ep-nav-all" style="flex: 1; text-align: center;">&larr; Back to Movie Details</a>
               ` : `
-                ${prevEp ? `<a href="#stream/${anime.id}/${prevEp.number}?s=${sNum}&mode=download" class="btn-ep-nav">&larr; Ep ${prevEp.number}</a>` : `<span></span>`}
+                ${prevEp ? `<a href="#stream/${anime.id}/${prevEp.number}?s=${sNum}&mode=download&lang=${currentLang}" class="btn-ep-nav">&larr; Ep ${prevEp.number}</a>` : `<span></span>`}
                 <a href="#anime/${anime.id}" class="btn-ep-nav-all">All Episodes (${currentSeason.title})</a>
-                ${nextEp ? `<a href="#stream/${anime.id}/${nextEp.number}?s=${sNum}&mode=download" class="btn-ep-nav">Ep ${nextEp.number} &rarr;</a>` : `<span></span>`}
+                ${nextEp ? `<a href="#stream/${anime.id}/${nextEp.number}?s=${sNum}&mode=download&lang=${currentLang}" class="btn-ep-nav">Ep ${nextEp.number} &rarr;</a>` : `<span></span>`}
               `}
             </div>
           </div>
         </div>
       </div>
     `;
+
+    // Language Switcher on Download Card
+    const streamLangToggle = container.querySelector("#stream-lang-toggle");
+    streamLangToggle?.querySelectorAll(".lang-toggle-btn").forEach(btn => {
+      btn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const selectedLang = btn.dataset.lang || "hindi";
+        if (selectedLang === currentLang) return;
+        currentLang = selectedLang;
+
+        streamLangToggle.querySelectorAll(".lang-toggle-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+
+        const audioEl = container.querySelector("#dl-info-audio");
+        const titleEl = container.querySelector("#dl-server-title");
+        const metaEl = container.querySelector("#dl-server-meta");
+
+        if (audioEl) {
+          audioEl.textContent = currentLang === 'original' ? 'Original Japanese Dub + English Sub' : 'Hindi Dub + English Sub';
+        }
+        if (titleEl) {
+          titleEl.textContent = `High Quality & Direct Download (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})`;
+        }
+        if (metaEl) {
+          metaEl.textContent = `Fast Direct Server • Full HD (1080p / 720p) • ${currentLang === 'original' ? 'Original Japanese Audio + English Sub' : 'Hindi Dub Audio + English Sub'}`;
+        }
+      });
+    });
 
     // Direct Download Click Listener (Handles pending links smoothly)
     container.querySelectorAll(".direct-dl-btn").forEach(btn => {
