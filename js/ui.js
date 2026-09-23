@@ -450,9 +450,10 @@ export class UIRenderer {
     const hasTelegram = Boolean(ep.hasTelegram || ep.telegramFileId || anime.hasTelegram);
     const deepLinkKey = sNum > 1 ? `${anime.id}_s${sNum}_ep${ep.number}` : `${anime.id}_ep${ep.number}`;
 
-    // Direct download link (Single High Quality option)
+    // Direct download link (Single High Quality option supporting language tracks)
     const dlLinks = ep.downloadLinks || {};
-    const directDlUrl = dlLinks["1080p"] || dlLinks["720p"] || dlLinks["480p"] || ep.downloadUrl || "";
+    const getActiveDlUrl = (l) => (dlLinks && dlLinks[l]) ? dlLinks[l] : (dlLinks["1080p"] || dlLinks["720p"] || dlLinks["480p"] || ep.downloadUrl || "");
+    const directDlUrl = getActiveDlUrl(currentLang);
 
     container.innerHTML = `
       <div class="download-page-wrapper">
@@ -603,6 +604,21 @@ export class UIRenderer {
         }
         if (metaEl) {
           metaEl.textContent = `Fast Direct Server • Full HD (1080p / 720p) • ${currentLang === 'original' ? 'Original Japanese Audio + English Sub' : 'Hindi Dub Audio + English Sub'}`;
+        }
+
+        // Dynamically switch download URL to active language track
+        const activeUrl = getActiveDlUrl(currentLang);
+        const dlBtn = container.querySelector(".direct-dl-btn");
+        if (dlBtn) {
+          dlBtn.href = activeUrl || "javascript:void(0)";
+          dlBtn.dataset.hasLink = Boolean(activeUrl);
+          if (activeUrl) {
+            dlBtn.setAttribute("target", "_blank");
+            dlBtn.setAttribute("rel", "noopener noreferrer");
+          } else {
+            dlBtn.removeAttribute("target");
+            dlBtn.removeAttribute("rel");
+          }
         }
       });
     });
