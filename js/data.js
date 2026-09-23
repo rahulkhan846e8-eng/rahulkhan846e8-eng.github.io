@@ -45,6 +45,206 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "one-punch-man",
+    "title": "One Punch Man",
+    "japaneseTitle": "",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "S1",
+    "status": "Airing",
+    "type": "TV Series",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "One Punch Man anime series streaming on ShinobiHub.",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 1",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DVaTC4jV?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/DVaTC4jV?download"
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 2",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/YnYNxyTR?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/YnYNxyTR?download"
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 3",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ML8hjPuL?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/ML8hjPuL?download"
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 4",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/V9ADumZg?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/V9ADumZg?download"
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 5",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/uEN8s7iW?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/uEN8s7iW?download"
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 6",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/RQjccSkJ?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/RQjccSkJ?download"
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 7",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3eQu6wiK?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/3eQu6wiK?download"
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 8",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/zbjs8rHc?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/zbjs8rHc?download"
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 9",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/6gN93npk?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/6gN93npk?download"
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 10",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XE4hYMJT?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/XE4hYMJT?download"
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 11",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZdPQkxXx?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/ZdPQkxXx?download"
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 12",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/P7WU17DV?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/P7WU17DV?download"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "dan-da-dan",
     "title": "DAN DA DAN",
     "japaneseTitle": "ダンダダン (Dandadan)",
