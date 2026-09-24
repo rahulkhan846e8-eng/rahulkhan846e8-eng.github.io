@@ -234,7 +234,26 @@ export class UIRenderer {
 
     let currentSeason = seasons[0];
     let currentMode = "download"; // Default option requested by user
-    let currentLanguage = "hindi"; // Default language: Hindi, second: Original Dub
+    // Determine available languages for this anime
+    const determineLanguages = (a) => {
+      if (Array.isArray(a.languages) && a.languages.length > 0) {
+        return a.languages.map(l => l.toLowerCase());
+      }
+      const set = new Set();
+      const allEpisodes = (a.seasons || []).flatMap(s => s.episodes || []).concat(a.episodes || []);
+      for (const ep of allEpisodes) {
+        if (ep.downloadLinks?.hindi || ep.downloadUrl) set.add("hindi");
+        if (ep.downloadLinks?.original) set.add("original");
+      }
+      return set.size > 0 ? Array.from(set) : ["hindi", "original"];
+    };
+
+    const availableLangs = determineLanguages(anime);
+    const hasHindi = availableLangs.includes("hindi");
+    const hasOriginal = availableLangs.includes("original");
+
+    // Default language is hindi if available, otherwise original
+    let currentLanguage = hasHindi ? "hindi" : (hasOriginal ? "original" : "hindi");
 
     const hasDownload = !currentSeason.isComingSoon && anime.hasDownload !== false;
     const hasWatch = !currentSeason.isComingSoon && anime.hasWatch !== false;
@@ -305,16 +324,28 @@ export class UIRenderer {
             </div>
           `}
 
-          <!-- Multi-Language Audio Selector (Hindi as default & Original Dub) -->
+          <!-- Multi-Language Audio Selector (Conditional based on available languages) -->
           <div class="language-toggle-group" id="language-toggle-group" title="Select Audio Language">
-            <button class="lang-toggle-btn active" data-lang="hindi" type="button">
-              <span class="lang-flag">🇮🇳</span>
-              <span class="lang-text">Hindi</span>
-            </button>
-            <button class="lang-toggle-btn" data-lang="original" type="button">
-              <span class="lang-flag">🇯🇵</span>
-              <span class="lang-text">Original Dub</span>
-            </button>
+            ${hasHindi && hasOriginal ? `
+              <button class="lang-toggle-btn ${currentLanguage === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
+                <span class="lang-flag">🇮🇳</span>
+                <span class="lang-text">Hindi</span>
+              </button>
+              <button class="lang-toggle-btn ${currentLanguage === 'original' ? 'active' : ''}" data-lang="original" type="button">
+                <span class="lang-flag">🇯🇵</span>
+                <span class="lang-text">Original Dub</span>
+              </button>
+            ` : (hasHindi ? `
+              <button class="lang-toggle-btn active single-lang" data-lang="hindi" type="button" style="cursor: default;">
+                <span class="lang-flag">🇮🇳</span>
+                <span class="lang-text">Hindi Dub</span>
+              </button>
+            ` : `
+              <button class="lang-toggle-btn active single-lang" data-lang="original" type="button" style="cursor: default;">
+                <span class="lang-flag">🇯🇵</span>
+                <span class="lang-text">Original Dub</span>
+              </button>
+            `)}
           </div>
 
           <!-- Clean Direct Download Mode Indicator (Watch Mode Removed) -->
@@ -435,7 +466,29 @@ export class UIRenderer {
     const container = document.getElementById("stream-view");
     if (!container || !anime) return;
 
-    let currentLang = lang || "hindi";
+    // Determine available languages for this anime
+    const determineLanguages = (a) => {
+      if (Array.isArray(a.languages) && a.languages.length > 0) {
+        return a.languages.map(l => l.toLowerCase());
+      }
+      const set = new Set();
+      const allEpisodes = (a.seasons || []).flatMap(s => s.episodes || []).concat(a.episodes || []);
+      for (const e of allEpisodes) {
+        if (e.downloadLinks?.hindi || e.downloadUrl) set.add("hindi");
+        if (e.downloadLinks?.original) set.add("original");
+      }
+      return set.size > 0 ? Array.from(set) : ["hindi", "original"];
+    };
+
+    const availableLangs = determineLanguages(anime);
+    const hasHindi = availableLangs.includes("hindi");
+    const hasOriginal = availableLangs.includes("original");
+
+    let currentLang = lang || (hasHindi ? "hindi" : (hasOriginal ? "original" : "hindi"));
+    if (!availableLangs.includes(currentLang)) {
+      currentLang = hasHindi ? "hindi" : (hasOriginal ? "original" : "hindi");
+    }
+
     const sNum = parseInt(seasonNum, 10) || 1;
     const seasons = anime.seasons || [];
     const currentSeason = seasons.find(s => s.number === sNum) || seasons[0];
@@ -513,14 +566,26 @@ export class UIRenderer {
               <div class="dl-lang-selector-box">
                 <span class="dl-lang-label">🎧 Audio Track:</span>
                 <div class="language-toggle-group" id="stream-lang-toggle">
-                  <button class="lang-toggle-btn ${currentLang === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
-                    <span class="lang-flag">🇮🇳</span>
-                    <span class="lang-text">Hindi Dub</span>
-                  </button>
-                  <button class="lang-toggle-btn ${currentLang === 'original' ? 'active' : ''}" data-lang="original" type="button">
-                    <span class="lang-flag">🇯🇵</span>
-                    <span class="lang-text">Original Dub</span>
-                  </button>
+                  ${hasHindi && hasOriginal ? `
+                    <button class="lang-toggle-btn ${currentLang === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
+                      <span class="lang-flag">🇮🇳</span>
+                      <span class="lang-text">Hindi Dub</span>
+                    </button>
+                    <button class="lang-toggle-btn ${currentLang === 'original' ? 'active' : ''}" data-lang="original" type="button">
+                      <span class="lang-flag">🇯🇵</span>
+                      <span class="lang-text">Original Dub</span>
+                    </button>
+                  ` : (hasHindi ? `
+                    <button class="lang-toggle-btn active single-lang" data-lang="hindi" type="button" style="cursor: default;">
+                      <span class="lang-flag">🇮🇳</span>
+                      <span class="lang-text">Hindi Dub</span>
+                    </button>
+                  ` : `
+                    <button class="lang-toggle-btn active single-lang" data-lang="original" type="button" style="cursor: default;">
+                      <span class="lang-flag">🇯🇵</span>
+                      <span class="lang-text">Original Dub</span>
+                    </button>
+                  `)}
                 </div>
               </div>
 

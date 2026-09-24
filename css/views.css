@@ -427,6 +427,11 @@
   box-shadow: 0 2px 10px rgba(58, 134, 255, 0.35);
 }
 
+.lang-toggle-btn.single-lang {
+  cursor: default;
+  pointer-events: none;
+}
+
 .lang-toggle-btn .lang-flag {
   font-size: 0.95rem;
   line-height: 1;
