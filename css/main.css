@@ -378,15 +378,16 @@ img {
 
 .footer-grid {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: flex-start;
-  gap: 48px;
+  gap: 72px;
+  max-width: 1060px;
   margin-bottom: 40px;
   flex-wrap: wrap;
 }
 
 .footer-brand {
-  flex: 1 1 340px;
+  flex: 0 1 440px;
   max-width: 460px;
 }
 
