@@ -45,6 +45,211 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "i-want-to-love-you-till-your-dying-day",
+    "title": "I Want to Love You Till Your Dying Day",
+    "japaneseTitle": "きみが死ぬまで恋をしたい",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
+    "rating": 7.4,
+    "year": 2026,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "ROLL2",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "synopsis": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…\n\n(Source: Kodansha USA)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 1 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_1_1783429043.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_1_1783429043.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 2 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_2_1784032750.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_2_1784032750.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 3 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_3_1784639127.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_3_1784639127.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 4 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_4_1785242457.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_4_1785242457.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 5 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_5_1785847249.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_5_1785847249.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 6 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_6_1786452173.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_6_1786452173.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 7 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_7_1787056871.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_7_1787056871.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 8 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_8_1787661639.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_8_1787661639.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 9 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_9_1788266366.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_9_1788266366.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 10 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_10_1788871227.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_10_1788871227.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 11 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_11_1789476033.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_11_1789476033.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+            "synopsis": "Episode 12 of I Want to Love You Till Your Dying Day",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_12_1790081520.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/I_Want_to_Love_You_Till_Your_Dying_Day_Episode_12_1790081520.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "one-punch-man",
     "title": "One Punch Man",
     "japaneseTitle": "",
