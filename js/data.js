@@ -45,741 +45,6 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
-    "id": "episode-12-oh-boy-was-i-wrong-about-her",
-    "title": " Episode 12  Oh Boy, Was I Wrong About Her",
-    "japaneseTitle": "",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP12",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": " Episode 12  Oh Boy, Was I Wrong About Her anime series streaming on ShinobiHub.",
-    "languages": [
-      "original"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Episode 1",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 1 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_1_1783350586.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_1_1783350586.mp4?dl=1"
-            }
-          },
-          {
-            "id": 2,
-            "number": 2,
-            "season": 1,
-            "title": "Episode 2",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 2 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_2_1783955563.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_2_1783955563.mp4?dl=1"
-            }
-          },
-          {
-            "id": 3,
-            "number": 3,
-            "season": 1,
-            "title": "Episode 3",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 3 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_3_1784560206.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_3_1784560206.mp4?dl=1"
-            }
-          },
-          {
-            "id": 4,
-            "number": 4,
-            "season": 1,
-            "title": "Episode 4",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 4 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_4_1785165026.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_4_1785165026.mp4?dl=1"
-            }
-          },
-          {
-            "id": 5,
-            "number": 5,
-            "season": 1,
-            "title": "Episode 5",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 5 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_5_1785769780.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_5_1785769780.mp4?dl=1"
-            }
-          },
-          {
-            "id": 6,
-            "number": 6,
-            "season": 1,
-            "title": "Episode 6",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 6 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_6_1786374709.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_6_1786374709.mp4?dl=1"
-            }
-          },
-          {
-            "id": 7,
-            "number": 7,
-            "season": 1,
-            "title": "Episode 7",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 7 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_7_1786979491.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_7_1786979491.mp4?dl=1"
-            }
-          },
-          {
-            "id": 8,
-            "number": 8,
-            "season": 1,
-            "title": "Episode 8",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 8 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_8_1787584206.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_8_1787584206.mp4?dl=1"
-            }
-          },
-          {
-            "id": 9,
-            "number": 9,
-            "season": 1,
-            "title": "Episode 9",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 9 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_9_1788189011.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_9_1788189011.mp4?dl=1"
-            }
-          },
-          {
-            "id": 10,
-            "number": 10,
-            "season": 1,
-            "title": "Episode 10",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 10 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_10_1788794108.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_10_1788794108.mp4?dl=1"
-            }
-          },
-          {
-            "id": 11,
-            "number": 11,
-            "season": 1,
-            "title": "Episode 11",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 11 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_11_1789314035.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_11_1789314035.mp4?dl=1"
-            }
-          },
-          {
-            "id": 12,
-            "number": 12,
-            "season": 1,
-            "title": "Episode 12",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 12 of  Episode 12  Oh Boy, Was I Wrong About Her",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_12_1790003432.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_12_1790003432.mp4?dl=1"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1789917044mp4dl1-goodbye-lara",
-    "title": "_1789917044.mp4?dl=1 Goodbye, Lara",
-    "japaneseTitle": "",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP11",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "_1789917044.mp4?dl=1 Goodbye, Lara anime series streaming on ShinobiHub.",
-    "languages": [
-      "original"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Episode 1",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 1 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_1_1783266303.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_1_1783266303.mp4?dl=1"
-            }
-          },
-          {
-            "id": 2,
-            "number": 2,
-            "season": 1,
-            "title": "Episode 2",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 2 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_2_1783870950.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_2_1783870950.mp4?dl=1"
-            }
-          },
-          {
-            "id": 3,
-            "number": 3,
-            "season": 1,
-            "title": "Episode 3",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 3 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_3_1784475666.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_3_1784475666.mp4?dl=1"
-            }
-          },
-          {
-            "id": 4,
-            "number": 4,
-            "season": 1,
-            "title": "Episode 4",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 4 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_4_1785080522.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_4_1785080522.mp4?dl=1"
-            }
-          },
-          {
-            "id": 5,
-            "number": 5,
-            "season": 1,
-            "title": "Episode 5",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 5 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_5_1785685215.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_5_1785685215.mp4?dl=1"
-            }
-          },
-          {
-            "id": 6,
-            "number": 6,
-            "season": 1,
-            "title": "Episode 6",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 6 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_6_1786290422.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_6_1786290422.mp4?dl=1"
-            }
-          },
-          {
-            "id": 7,
-            "number": 7,
-            "season": 1,
-            "title": "Episode 7",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 7 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_7_1786895226.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_7_1786895226.mp4?dl=1"
-            }
-          },
-          {
-            "id": 8,
-            "number": 8,
-            "season": 1,
-            "title": "Episode 8",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 8 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_8_1787499682.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_8_1787499682.mp4?dl=1"
-            }
-          },
-          {
-            "id": 9,
-            "number": 9,
-            "season": 1,
-            "title": "Episode 9",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 9 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_9_1788104417.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_9_1788104417.mp4?dl=1"
-            }
-          },
-          {
-            "id": 10,
-            "number": 10,
-            "season": 1,
-            "title": "Episode 10",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 10 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_10_1788709329.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_10_1788709329.mp4?dl=1"
-            }
-          },
-          {
-            "id": 24,
-            "number": 24,
-            "season": 1,
-            "title": "Episode 24",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 24 of _1789917044.mp4?dl=1 Goodbye, Lara",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_24_1789917044.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_24_1789917044.mp4?dl=1"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "episode-12-the-classroom-of-a-black-cat-and-a-witch",
-    "title": " Episode 12  The Classroom of a Black Cat and a Witch",
-    "japaneseTitle": "",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP22",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": " Episode 12  The Classroom of a Black Cat and a Witch anime series streaming on ShinobiHub.",
-    "languages": [
-      "original"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Episode 1",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 1 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-1.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-1.mp4?dl=1"
-            }
-          },
-          {
-            "id": 2,
-            "number": 2,
-            "season": 1,
-            "title": "Episode 2",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 2 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-2.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-2.mp4?dl=1"
-            }
-          },
-          {
-            "id": 3,
-            "number": 3,
-            "season": 1,
-            "title": "Episode 3",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 3 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-3.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-3.mp4?dl=1"
-            }
-          },
-          {
-            "id": 4,
-            "number": 4,
-            "season": 1,
-            "title": "Episode 4",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 4 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-4.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-4.mp4?dl=1"
-            }
-          },
-          {
-            "id": 5,
-            "number": 5,
-            "season": 1,
-            "title": "Episode 5",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 5 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-5.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-5.mp4?dl=1"
-            }
-          },
-          {
-            "id": 6,
-            "number": 6,
-            "season": 1,
-            "title": "Episode 6",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 6 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-6.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-6.mp4?dl=1"
-            }
-          },
-          {
-            "id": 7,
-            "number": 7,
-            "season": 1,
-            "title": "Episode 7",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 7 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-7.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-7.mp4?dl=1"
-            }
-          },
-          {
-            "id": 8,
-            "number": 8,
-            "season": 1,
-            "title": "Episode 8",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 8 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-8.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-8.mp4?dl=1"
-            }
-          },
-          {
-            "id": 9,
-            "number": 9,
-            "season": 1,
-            "title": "Episode 9",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 9 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_9_1780845138.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_9_1780845138.mp4?dl=1"
-            }
-          },
-          {
-            "id": 10,
-            "number": 10,
-            "season": 1,
-            "title": "Episode 10",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 10 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_10_1781450310.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_10_1781450310.mp4?dl=1"
-            }
-          },
-          {
-            "id": 11,
-            "number": 11,
-            "season": 1,
-            "title": "Episode 11",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 11 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_11_1782054863.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_11_1782054863.mp4?dl=1"
-            }
-          },
-          {
-            "id": 12,
-            "number": 12,
-            "season": 1,
-            "title": "Episode 12",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 12 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_12_1782659762.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_12_1782659762.mp4?dl=1"
-            }
-          },
-          {
-            "id": 13,
-            "number": 13,
-            "season": 1,
-            "title": "Episode 13",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 13 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_13_1783264384.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_13_1783264384.mp4?dl=1"
-            }
-          },
-          {
-            "id": 14,
-            "number": 14,
-            "season": 1,
-            "title": "Episode 14",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 14 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_14_1783869521.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_14_1783869521.mp4?dl=1"
-            }
-          },
-          {
-            "id": 15,
-            "number": 15,
-            "season": 1,
-            "title": "Episode 15",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 15 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_15_1784473906.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_15_1784473906.mp4?dl=1"
-            }
-          },
-          {
-            "id": 16,
-            "number": 16,
-            "season": 1,
-            "title": "Episode 16",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 16 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_16_1785078681.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_16_1785078681.mp4?dl=1"
-            }
-          },
-          {
-            "id": 17,
-            "number": 17,
-            "season": 1,
-            "title": "Episode 17",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 17 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_17_1785683608.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_17_1785683608.mp4?dl=1"
-            }
-          },
-          {
-            "id": 19,
-            "number": 19,
-            "season": 1,
-            "title": "Episode 19",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 19 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_19_1786893197.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_19_1786893197.mp4?dl=1"
-            }
-          },
-          {
-            "id": 20,
-            "number": 20,
-            "season": 1,
-            "title": "Episode 20",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 20 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_20_1787497990.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_20_1787497990.mp4?dl=1"
-            }
-          },
-          {
-            "id": 21,
-            "number": 21,
-            "season": 1,
-            "title": "Episode 21",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 21 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_21_1788102699.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_21_1788102699.mp4?dl=1"
-            }
-          },
-          {
-            "id": 22,
-            "number": 22,
-            "season": 1,
-            "title": "Episode 22",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 22 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_22_1788707529.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_22_1788707529.mp4?dl=1"
-            }
-          },
-          {
-            "id": 23,
-            "number": 23,
-            "season": 1,
-            "title": "Episode 23",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-            "synopsis": "Episode 23 of  Episode 12  The Classroom of a Black Cat and a Witch",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_23_1789312294.mp4?dl=1",
-            "downloadLinks": {
-              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_23_1789312294.mp4?dl=1"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "red-river",
     "title": "Red River",
     "japaneseTitle": "天は赤い河のほとり",
@@ -787,7 +52,7 @@ export const ANIME_DATABASE = [
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
     "rating": 6.2,
     "year": 2026,
-    "currentEpBadge": "S1-EP10",
+    "currentEpBadge": "S1-EP12",
     "status": "Completed",
     "type": "TV Series",
     "season": "2026",
@@ -952,6 +217,786 @@ export const ANIME_DATABASE = [
             "downloadUrl": "https://my.1anime.site/videos/Red_River_Episode_10_1788889319.mp4?dl=1",
             "downloadLinks": {
               "original": "https://my.1anime.site/videos/Red_River_Episode_10_1788889319.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
+            "synopsis": "Episode 11 of Red River",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Red_River_Episode_11_1789494406.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Red_River_Episode_11_1789494406.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
+            "synopsis": "Episode 12 of Red River",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Red_River_Episode_12_1790100247.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Red_River_Episode_12_1790100247.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-classroom-of-the-black-cat-and-a-witch",
+    "title": "The Classroom of a Black Cat and a Witch",
+    "japaneseTitle": "黒猫と魔女の教室",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
+    "rating": 6.5,
+    "year": 2026,
+    "currentEpBadge": "S1-EP23",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "LIDENFILMS",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Fantasy"
+    ],
+    "synopsis": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!\n\n(Source: K Manga)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 1 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-1.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-1.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 2 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-2.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-2.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 3 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-3.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-3.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 4 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-4.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-4.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 5 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-5.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-5.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 6 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-6.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-6.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 7 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-7.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-7.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 8 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-8.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/the-classroom-of-a-black-cat-and-a-witch-episode-8.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 9 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_9_1780845138.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_9_1780845138.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 10 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_10_1781450310.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_10_1781450310.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 11 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_11_1782054863.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_11_1782054863.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 12 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_12_1782659762.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_12_1782659762.mp4?dl=1"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "Episode 13",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 13 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_13_1783264384.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_13_1783264384.mp4?dl=1"
+            }
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 1,
+            "title": "Episode 14",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 14 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_14_1783869521.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_14_1783869521.mp4?dl=1"
+            }
+          },
+          {
+            "id": 15,
+            "number": 15,
+            "season": 1,
+            "title": "Episode 15",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 15 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_15_1784473906.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_15_1784473906.mp4?dl=1"
+            }
+          },
+          {
+            "id": 16,
+            "number": 16,
+            "season": 1,
+            "title": "Episode 16",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 16 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_16_1785078681.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_16_1785078681.mp4?dl=1"
+            }
+          },
+          {
+            "id": 17,
+            "number": 17,
+            "season": 1,
+            "title": "Episode 17",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 17 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_17_1785683608.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_17_1785683608.mp4?dl=1"
+            }
+          },
+          {
+            "id": 19,
+            "number": 19,
+            "season": 1,
+            "title": "Episode 19",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 19 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_19_1786893197.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_19_1786893197.mp4?dl=1"
+            }
+          },
+          {
+            "id": 20,
+            "number": 20,
+            "season": 1,
+            "title": "Episode 20",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 20 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_20_1787497990.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_20_1787497990.mp4?dl=1"
+            }
+          },
+          {
+            "id": 21,
+            "number": 21,
+            "season": 1,
+            "title": "Episode 21",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 21 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_21_1788102699.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_21_1788102699.mp4?dl=1"
+            }
+          },
+          {
+            "id": 22,
+            "number": 22,
+            "season": 1,
+            "title": "Episode 22",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 22 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_22_1788707529.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_22_1788707529.mp4?dl=1"
+            }
+          },
+          {
+            "id": 23,
+            "number": 23,
+            "season": 1,
+            "title": "Episode 23",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 23 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_23_1789312294.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_23_1789312294.mp4?dl=1"
+            }
+          },
+          {
+            "id": 24,
+            "number": 24,
+            "season": 1,
+            "title": "Episode 24",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+            "synopsis": "Episode 24 of The Classroom of the Black Cat and a Witch",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_24_1789917044.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Classroom_of_a_Black_Cat_and_a_Witch_Episode_24_1789917044.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goodbye-lara",
+    "title": "Goodbye, Lara",
+    "japaneseTitle": "さよならララ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
+    "rating": 7.7,
+    "year": 2026,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "Kinema Citrus",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "synopsis": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.\n(Source: Crunchyroll)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 1 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_1_1783266303.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_1_1783266303.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 2 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_2_1783870950.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_2_1783870950.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 3 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_3_1784475666.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_3_1784475666.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 4 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_4_1785080522.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_4_1785080522.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 5 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_5_1785685215.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_5_1785685215.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 6 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_6_1786290422.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_6_1786290422.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 7 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_7_1786895226.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_7_1786895226.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 8 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_8_1787499682.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_8_1787499682.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 9 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_9_1788104417.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_9_1788104417.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 10 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_10_1788709329.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_10_1788709329.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 11 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_11_1789314035.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_11_1789314035.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+            "synopsis": "Episode 12 of Goodbye, Lara",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Goodbye_Lara_Episode_12_1789918908.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Goodbye_Lara_Episode_12_1789918908.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oh-boy-was-i-wrong-about-her",
+    "title": "Oh Boy, Was I Wrong About Her",
+    "japaneseTitle": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
+    "rating": 6.8,
+    "year": 2026,
+    "currentEpBadge": "S1-EP11",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "project No.9",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synopsis": "Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.\n\n(Source: Crunchyroll)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 1 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_1_1783350586.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_1_1783350586.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 2 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_2_1783955563.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_2_1783955563.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 3 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_3_1784560206.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_3_1784560206.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 4 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_4_1785165026.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_4_1785165026.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 5 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_5_1785769780.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_5_1785769780.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 6 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_6_1786374709.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_6_1786374709.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 7 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_7_1786979491.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_7_1786979491.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 8 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_8_1787584206.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_8_1787584206.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 9 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_9_1788189011.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_9_1788189011.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 10 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_10_1788794108.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_10_1788794108.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+            "synopsis": "Episode 12 of Oh Boy, Was I Wrong About Her",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_12_1790003432.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Oh_Boy_Was_I_Wrong_About_Her_Episode_12_1790003432.mp4?dl=1"
             }
           }
         ]
