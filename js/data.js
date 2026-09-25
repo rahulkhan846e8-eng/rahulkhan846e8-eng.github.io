@@ -1,5 +1,5 @@
 /**
- * MIZZY SPACE ANIME DATABASE
+ * SHINOBI HUB ANIME DATABASE
  * Official AniList High-Definition Posters, Banners, and Episode Playlists with Direct Download Links
  */
 
@@ -612,7 +612,7 @@ export const ANIME_DATABASE = [
     "id": "goodbye-lara",
     "title": "Goodbye, Lara",
     "japaneseTitle": "さよならララ",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx216864-qlSTW7OObcJT.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
     "rating": 7.7,
     "year": 2026,
@@ -817,7 +817,7 @@ export const ANIME_DATABASE = [
     "id": "oh-boy-was-i-wrong-about-her",
     "title": "Oh Boy, Was I Wrong About Her",
     "japaneseTitle": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139732-q0LY7boA5cO9.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
     "rating": 6.8,
     "year": 2026,
@@ -1007,7 +1007,7 @@ export const ANIME_DATABASE = [
     "id": "i-want-to-love-you-till-your-dying-day",
     "title": "I Want to Love You Till Your Dying Day",
     "japaneseTitle": "きみが死ぬまで恋をしたい",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104045-uUwe9V8nG56B.png",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
     "rating": 7.4,
     "year": 2026,
@@ -1212,8 +1212,8 @@ export const ANIME_DATABASE = [
     "id": "one-punch-man",
     "title": "One Punch Man",
     "japaneseTitle": "",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21087-sHb9zUZFsHe1.jpg",
     "rating": 8.5,
     "year": 2024,
     "currentEpBadge": "S1",
@@ -2244,7 +2244,7 @@ export const ANIME_DATABASE = [
     "title": "Naruto",
     "japaneseTitle": "NARUTO -ナルト-",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20-HHxhPj5JD13a.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
     "rating": 8.8,
     "year": 2002,
     "audioBadge": "Multi-Audio",
@@ -3334,7 +3334,7 @@ export const ANIME_DATABASE = [
     "title": "Jujutsu Kaisen",
     "japaneseTitle": "呪術廻戦",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
     "rating": 8.8,
     "year": 2023,
     "audioBadge": "Multi-Audio",
@@ -11578,7 +11578,7 @@ export const ANIME_DATABASE = [
     "title": "Boonie Bears: The Big Top Secret",
     "japaneseTitle": "熊出没之熊心归来 (Xiong Chumo: Xiong Xin Gui Lai)",
     "banner": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
     "rating": 7.2,
     "year": 2016,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -11644,7 +11644,7 @@ export const ANIME_DATABASE = [
     "title": "Migration",
     "japaneseTitle": "FLY! (フライ!)",
     "banner": "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
     "rating": 7.5,
     "year": 2023,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -12543,7 +12543,7 @@ export const ANIME_DATABASE = [
     "title": "The Boss Baby",
     "japaneseTitle": "ボス・ベイビー (Boss Baby)",
     "banner": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
     "rating": 7.8,
     "year": 2017,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -12609,7 +12609,7 @@ export const ANIME_DATABASE = [
     "title": "Wacky Races (2017)",
     "japaneseTitle": "",
     "banner": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/290/725522.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -12622,7 +12622,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "Wacky Races (2017) - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "Wacky Races (2017) - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 1,
@@ -13540,7 +13540,7 @@ export const ANIME_DATABASE = [
     "title": "Boonie Bears: Time Twist",
     "japaneseTitle": "熊出没·逆转时空 (Xiong Chumo: Ni Zhuan Shi Kong)",
     "banner": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+    "poster": "https://wsrv.nl/?url=https://s.movieinsider.com/images/boonie-bears-time-twist/p/600//846660_m1735865783.jpg",
     "rating": 7.6,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -13606,7 +13606,7 @@ export const ANIME_DATABASE = [
     "title": "Ice Age: Collision Course",
     "japaneseTitle": "アイス・エイジ5/止めろ! 惑星大衝突",
     "banner": "https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
     "rating": 7.1,
     "year": 2016,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -13672,7 +13672,7 @@ export const ANIME_DATABASE = [
     "title": "Moana 2",
     "japaneseTitle": "モアナと伝説の海2",
     "banner": "https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
     "rating": 8.2,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -13735,7 +13735,7 @@ export const ANIME_DATABASE = [
     "title": "Boonie Bears: Back to Earth",
     "japaneseTitle": "熊出没·重返地球",
     "banner": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
     "rating": 7.4,
     "year": 2022,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -14057,7 +14057,7 @@ export const ANIME_DATABASE = [
     "title": "Monsters vs. Aliens",
     "japaneseTitle": "モンスターVSエイリアン",
     "banner": "https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
     "rating": 7.3,
     "year": 2009,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -15575,7 +15575,7 @@ export const ANIME_DATABASE = [
     "title": "Scoob!",
     "japaneseTitle": "弱虫スクービーの大冒険 (Yowamushi Scooby no Daibouken)",
     "banner": "https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
     "rating": 7.1,
     "year": 2020,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -15641,7 +15641,7 @@ export const ANIME_DATABASE = [
     "title": "Turning Red",
     "japaneseTitle": "私ときどきレッサーパンダ (Watashi Tokidoki Red Panda)",
     "banner": "https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
     "rating": 7.9,
     "year": 2022,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -15707,7 +15707,7 @@ export const ANIME_DATABASE = [
     "title": "Finding Nemo",
     "japaneseTitle": "ファインディング・ニモ",
     "banner": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
     "rating": 8.6,
     "year": 2003,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -15840,7 +15840,7 @@ export const ANIME_DATABASE = [
     "title": "SWAT Kats: The Radical Squadron",
     "japaneseTitle": "",
     "banner": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/53/133092.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -15853,7 +15853,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "SWAT Kats: The Radical Squadron -2 - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "SWAT Kats: The Radical Squadron -2 - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 1,
@@ -16285,10 +16285,10 @@ export const ANIME_DATABASE = [
   },
   {
     "id": "arifureta-from-commonplace-to-world-s-strongest",
-    "title": "Arifureta: From Commonplace to World’s Strongest",
+    "title": "Arifureta: From Commonplace to World's Strongest",
     "japaneseTitle": "",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100668-banner.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-5nJ4J4n3g1zR.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100668-9ZQSB5x5St7c.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-DvOn5bMOt4cy.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -16301,7 +16301,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "Arifureta: From Commonplace to World’s Strongest - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "Arifureta: From Commonplace to World’s Strongest - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 2,
@@ -17214,7 +17214,7 @@ export const ANIME_DATABASE = [
   },
   {
     "id": "kuroko-s-basketball-2-would-you-mind-doing-that-once-more",
-    "title": "Kuroko’s Basketball 2: Would You Mind Doing That Once More",
+    "title": "Kuroko's Basketball 2: Would You Mind Doing That Once More",
     "japaneseTitle": "黒子のバスケ 「もう一回やりませんか」",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20603-pDr9npQfRK4x.jpg",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20603-pDr9npQfRK4x.jpg",
@@ -17665,7 +17665,7 @@ export const ANIME_DATABASE = [
     "title": "Dorothy and the Wizard of Oz",
     "japaneseTitle": "オズの魔法使い (Oz no Mahoutsukai)",
     "banner": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/212/532263.jpg",
     "rating": 7.2,
     "year": 2017,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -17730,7 +17730,7 @@ export const ANIME_DATABASE = [
     "title": "Sheep & Wolves (2016)",
     "japaneseTitle": "",
     "banner": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -17743,7 +17743,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "Sheep & Wolves (2016) - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "Sheep & Wolves (2016) - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 1,
@@ -17794,7 +17794,7 @@ export const ANIME_DATABASE = [
     "title": "The Boss Baby: Family Business",
     "japaneseTitle": "ボス・ベイビー ファミリー・ミッション",
     "banner": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
     "rating": 7.3,
     "year": 2021,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -17860,7 +17860,7 @@ export const ANIME_DATABASE = [
     "title": "Raya and the Last Dragon",
     "japaneseTitle": "ラーヤと龍の王国",
     "banner": "https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
     "rating": 8.3,
     "year": 2021,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -17925,7 +17925,7 @@ export const ANIME_DATABASE = [
     "title": "Astro Boy (2009)",
     "japaneseTitle": "",
     "banner": "https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -17938,7 +17938,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "Astro Boy (2009) - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "Astro Boy (2009) - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 1,
@@ -17988,8 +17988,8 @@ export const ANIME_DATABASE = [
     "id": "my-hero-academia-vigilantes",
     "title": "My Hero Academia: Vigilantes (Season 2)",
     "japaneseTitle": "",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21459-banner.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185736-Ick7OABzBWoi.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -18002,7 +18002,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "My Hero Academia: Vigilantes () - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "My Hero Academia: Vigilantes () - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 2,
@@ -18437,7 +18437,7 @@ export const ANIME_DATABASE = [
     "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
     "japaneseTitle": "",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170942-v2GO5YNO0Q5I.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -18450,7 +18450,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 1,
@@ -18853,7 +18853,7 @@ export const ANIME_DATABASE = [
     "title": "The Sea Beast",
     "japaneseTitle": "ジェイコブと海の怪物",
     "banner": "https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
     "rating": 8.1,
     "year": 2022,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -18918,7 +18918,7 @@ export const ANIME_DATABASE = [
     "title": "Captain Tsubasa",
     "japaneseTitle": "",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2116-banner.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -18931,7 +18931,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "Captain Tsubasa - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "Captain Tsubasa - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 1,
@@ -20582,7 +20582,7 @@ export const ANIME_DATABASE = [
     "title": "A Magnificent Life",
     "japaneseTitle": "華麗なる人生 (Karei naru Jinsei)",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170942-v2GO5YNO0Q5I.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/8/88/A_Magnificent_Life.jpg",
     "rating": 7.8,
     "year": 2025,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -20646,7 +20646,7 @@ export const ANIME_DATABASE = [
     "title": "Wish Dragon",
     "japaneseTitle": "ウィッシュ・ドラゴン",
     "banner": "https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
     "rating": 7.9,
     "year": 2021,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -20712,7 +20712,7 @@ export const ANIME_DATABASE = [
     "title": "GANTZ",
     "japaneseTitle": "",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/384-banner.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-5vHimZPju1Wr.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -20725,7 +20725,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "GANTZ - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "GANTZ - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 2,
@@ -21159,8 +21159,8 @@ export const ANIME_DATABASE = [
     "id": "lord-of-mysteries",
     "title": "Lord of Mysteries",
     "japaneseTitle": "",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138992-banner.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137667-AhUoT3NFgbif.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -21173,7 +21173,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "Lord of Mysteries - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "Lord of Mysteries - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 1,
@@ -21576,7 +21576,7 @@ export const ANIME_DATABASE = [
     "title": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022)",
     "japaneseTitle": "",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139518-7sPZ8hO08cO0.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-gLd93v2u67K7.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -21589,7 +21589,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022) - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022) - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 1,
@@ -21640,7 +21640,7 @@ export const ANIME_DATABASE = [
     "title": "Boonie Bears: The Big Shrink",
     "japaneseTitle": "熊出没·变形记",
     "banner": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
+    "poster": "https://wsrv.nl/?url=https://img.goldposter.com/2018/01/boonie-bears-big-shrink_poster_goldposter_com_13.jpg",
     "rating": 7.2,
     "year": 2018,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -21706,7 +21706,7 @@ export const ANIME_DATABASE = [
     "title": "Boonie Bears: Future Reborn",
     "japaneseTitle": "熊出没之重启未来",
     "banner": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/3d/Boonie_Bears_Future_Reborn_poster.jpg",
     "rating": 7.5,
     "year": 2025,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -21771,7 +21771,7 @@ export const ANIME_DATABASE = [
     "title": "The Amazing Digital Circus",
     "japaneseTitle": "アメイジング・デジタル・サーカス",
     "banner": "https://upload.wikimedia.org/wikipedia/en/8/84/Amazing_Digital_Circus_logo.png",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/8/84/Amazing_Digital_Circus_logo.png",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/483/1207540.jpg",
     "rating": 8.7,
     "year": 2023,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -21993,10 +21993,10 @@ export const ANIME_DATABASE = [
   },
   {
     "id": "watari-kun-s-is-about-to-collapse",
-    "title": "Watari-kun’s ****** Is About to Collapse",
+    "title": "Watari-kun's ****** Is About to Collapse",
     "japaneseTitle": "",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170942-v2GO5YNO0Q5I.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -22009,7 +22009,7 @@ export const ANIME_DATABASE = [
     ],
     "season": "2024",
     "studio": "Animation Studio",
-    "synopsis": "Watari-kun’s ****** Is About to Collapse - Full episodes with Hindi Dub & English Subs on Mizzy Space.",
+    "synopsis": "Watari-kun’s ****** Is About to Collapse - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasons": [
       {
         "number": 1,
@@ -22860,7 +22860,7 @@ export const ANIME_DATABASE = [
     "title": "Arco",
     "japaneseTitle": "アルコ (Arco)",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170942-v2GO5YNO0Q5I.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+    "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/a/ae/Arco_poster.jpg",
     "rating": 7.9,
     "year": 2025,
     "audioBadge": "Multi-Audio (Hindi Dub)",
@@ -22921,117 +22921,3 @@ export const ANIME_DATABASE = [
     ]
   }
 ];
-
-export function getTrendingAnime() {
-  const trending = ANIME_DATABASE.filter(item => item.isTrending);
-  if (trending.length >= 6) return trending;
-  return [...ANIME_DATABASE].sort((a, b) => (b.rating || 0) - (a.rating || 0)).slice(0, 12);
-}
-
-export function getPopularAnime() {
-  const popular = ANIME_DATABASE.filter(item => item.isPopular);
-  if (popular.length >= 6) return popular;
-  return [...ANIME_DATABASE].sort((a, b) => (b.year || 0) - (a.year || 0)).slice(0, 14);
-}
-
-export function getActionAnime() {
-  return ANIME_DATABASE.filter(item => (item.genres || []).some(g => g.includes("Action") || g.includes("Isekai") || g.includes("Adventure") || g.includes("Fantasy")));
-}
-
-export function getTopRatedAnime() {
-  return [...ANIME_DATABASE].sort((a, b) => (b.rating || 0) - (a.rating || 0));
-}
-
-export function getMovies() {
-  return ANIME_DATABASE.filter(item => item.type === "Movie" || (item.genres || []).includes("Animation") || (item.genres || []).includes("Family"));
-}
-
-export function getNewReleases() {
-  return ANIME_DATABASE.filter(item => (item.year || 0) >= 2024 || item.currentEpBadge?.includes("S1") || item.currentEpBadge?.includes("S2"));
-}
-
-export function getAnimeById(id) {
-  if (!id) return null;
-  const clean = id.toLowerCase().trim();
-  return ANIME_DATABASE.find(item => item.id === clean || item.id === clean.replace(/\s+/g, '-')) || null;
-}
-
-export function searchAnime(query = "", genre = "All", type = "All", sortBy = "popularity") {
-  let list = [...ANIME_DATABASE];
-
-  if (genre && genre !== "All") {
-    list = list.filter(item => item.genres?.some(g => g.toLowerCase().includes(genre.toLowerCase())));
-  }
-
-  if (type && type !== "All") {
-    list = list.filter(item => item.type?.toLowerCase() === type.toLowerCase());
-  }
-
-  if (query && query.trim()) {
-    const rawQ = query.toLowerCase().trim();
-    const cleanQ = rawQ.replace(/[-_]/g, ' ');
-    const qParts = cleanQ.split(/\s+/).filter(Boolean);
-
-    // Score each anime based on Alphabet / Prefix recognition
-    const scored = [];
-    for (const item of list) {
-      const titleClean = (item.title || "").toLowerCase();
-      const idClean = (item.id || "").toLowerCase().replace(/[-_]/g, ' ');
-      const titleWords = titleClean.split(/\s+/);
-      const idWords = idClean.split(/\s+/);
-      const jpClean = (item.japaneseTitle || "").toLowerCase();
-      const studioClean = (item.studio || "").toLowerCase();
-
-      let score = 0;
-
-      // 1. Exact Title Prefix match (Highest Priority, e.g. "na" matches "Naruto", "dea" matches "Death Note")
-      if (titleClean.startsWith(rawQ) || titleClean.startsWith(cleanQ)) {
-        score += 200;
-      }
-      // 2. Any Word in Title starts with query (e.g. "man" in "Chainsaw Man", "leveling" in "Solo Leveling", "slayer" in "Demon Slayer")
-      else if (titleWords.some(w => w.startsWith(rawQ) || w.startsWith(cleanQ))) {
-        score += 150;
-      }
-      // 3. ID Slug prefix match
-      else if (idClean.startsWith(rawQ) || idWords.some(w => w.startsWith(rawQ))) {
-        score += 120;
-      }
-      // 4. Substring inside title (e.g. "saw" inside "Chainsaw")
-      else if (titleClean.includes(rawQ) || titleClean.includes(cleanQ)) {
-        score += 80;
-      }
-      // 5. Japanese Title or Studio match
-      else if (jpClean.startsWith(rawQ) || studioClean.startsWith(rawQ)) {
-        score += 60;
-      }
-      // 6. Only for longer search queries (>= 4 characters), match genres or synopsis
-      else if (rawQ.length >= 4) {
-        const genresJoined = (item.genres || []).join(" ").toLowerCase();
-        const synClean = (item.synopsis || "").toLowerCase();
-        if (genresJoined.includes(rawQ)) {
-          score += 30;
-        } else if (synClean.includes(rawQ)) {
-          score += 15;
-        }
-      }
-
-      if (score > 0) {
-        scored.push({ item, score });
-      }
-    }
-
-    // Sort strictly by relevance score descending
-    scored.sort((a, b) => b.score - a.score || b.item.rating - a.item.rating);
-    return scored.map(s => s.item);
-  }
-
-  if (sortBy === "rating") {
-    list.sort((a, b) => b.rating - a.rating);
-  } else if (sortBy === "newest") {
-    list.sort((a, b) => (b.year || 2024) - (a.year || 2024));
-  } else {
-    list.sort((a, b) => (b.isTrending ? 1 : 0) - (a.isTrending ? 1 : 0));
-  }
-
-  return list;
-}
