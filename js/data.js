@@ -22921,3 +22921,117 @@ export const ANIME_DATABASE = [
     ]
   }
 ];
+
+export function getTrendingAnime() {
+  const trending = ANIME_DATABASE.filter(item => item.isTrending);
+  if (trending.length >= 6) return trending;
+  return [...ANIME_DATABASE].sort((a, b) => (b.rating || 0) - (a.rating || 0)).slice(0, 12);
+}
+
+export function getPopularAnime() {
+  const popular = ANIME_DATABASE.filter(item => item.isPopular);
+  if (popular.length >= 6) return popular;
+  return [...ANIME_DATABASE].sort((a, b) => (b.year || 0) - (a.year || 0)).slice(0, 14);
+}
+
+export function getActionAnime() {
+  return ANIME_DATABASE.filter(item => (item.genres || []).some(g => g.includes("Action") || g.includes("Isekai") || g.includes("Adventure") || g.includes("Fantasy")));
+}
+
+export function getTopRatedAnime() {
+  return [...ANIME_DATABASE].sort((a, b) => (b.rating || 0) - (a.rating || 0));
+}
+
+export function getMovies() {
+  return ANIME_DATABASE.filter(item => item.type === "Movie" || (item.genres || []).includes("Animation") || (item.genres || []).includes("Family"));
+}
+
+export function getNewReleases() {
+  return ANIME_DATABASE.filter(item => (item.year || 0) >= 2024 || item.currentEpBadge?.includes("S1") || item.currentEpBadge?.includes("S2"));
+}
+
+export function getAnimeById(id) {
+  if (!id) return null;
+  const clean = id.toLowerCase().trim();
+  return ANIME_DATABASE.find(item => item.id === clean || item.id === clean.replace(/\s+/g, '-')) || null;
+}
+
+export function searchAnime(query = "", genre = "All", type = "All", sortBy = "popularity") {
+  let list = [...ANIME_DATABASE];
+
+  if (genre && genre !== "All") {
+    list = list.filter(item => item.genres?.some(g => g.toLowerCase().includes(genre.toLowerCase())));
+  }
+
+  if (type && type !== "All") {
+    list = list.filter(item => item.type?.toLowerCase() === type.toLowerCase());
+  }
+
+  if (query && query.trim()) {
+    const rawQ = query.toLowerCase().trim();
+    const cleanQ = rawQ.replace(/[-_]/g, ' ');
+    const qParts = cleanQ.split(/\s+/).filter(Boolean);
+
+    // Score each anime based on Alphabet / Prefix recognition
+    const scored = [];
+    for (const item of list) {
+      const titleClean = (item.title || "").toLowerCase();
+      const idClean = (item.id || "").toLowerCase().replace(/[-_]/g, ' ');
+      const titleWords = titleClean.split(/\s+/);
+      const idWords = idClean.split(/\s+/);
+      const jpClean = (item.japaneseTitle || "").toLowerCase();
+      const studioClean = (item.studio || "").toLowerCase();
+
+      let score = 0;
+
+      // 1. Exact Title Prefix match (Highest Priority, e.g. "na" matches "Naruto", "dea" matches "Death Note")
+      if (titleClean.startsWith(rawQ) || titleClean.startsWith(cleanQ)) {
+        score += 200;
+      }
+      // 2. Any Word in Title starts with query (e.g. "man" in "Chainsaw Man", "leveling" in "Solo Leveling", "slayer" in "Demon Slayer")
+      else if (titleWords.some(w => w.startsWith(rawQ) || w.startsWith(cleanQ))) {
+        score += 150;
+      }
+      // 3. ID Slug prefix match
+      else if (idClean.startsWith(rawQ) || idWords.some(w => w.startsWith(rawQ))) {
+        score += 120;
+      }
+      // 4. Substring inside title (e.g. "saw" inside "Chainsaw")
+      else if (titleClean.includes(rawQ) || titleClean.includes(cleanQ)) {
+        score += 80;
+      }
+      // 5. Japanese Title or Studio match
+      else if (jpClean.startsWith(rawQ) || studioClean.startsWith(rawQ)) {
+        score += 60;
+      }
+      // 6. Only for longer search queries (>= 4 characters), match genres or synopsis
+      else if (rawQ.length >= 4) {
+        const genresJoined = (item.genres || []).join(" ").toLowerCase();
+        const synClean = (item.synopsis || "").toLowerCase();
+        if (genresJoined.includes(rawQ)) {
+          score += 30;
+        } else if (synClean.includes(rawQ)) {
+          score += 15;
+        }
+      }
+
+      if (score > 0) {
+        scored.push({ item, score });
+      }
+    }
+
+    // Sort strictly by relevance score descending
+    scored.sort((a, b) => b.score - a.score || b.item.rating - a.item.rating);
+    return scored.map(s => s.item);
+  }
+
+  if (sortBy === "rating") {
+    list.sort((a, b) => b.rating - a.rating);
+  } else if (sortBy === "newest") {
+    list.sort((a, b) => (b.year || 2024) - (a.year || 2024));
+  } else {
+    list.sort((a, b) => (b.isTrending ? 1 : 0) - (a.isTrending ? 1 : 0));
+  }
+
+  return list;
+}

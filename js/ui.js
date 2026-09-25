@@ -1,3 +1,11 @@
+export const FALLBACK_POSTER = "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E";
+export const FALLBACK_THUMB = "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22320%22%20height%3D%22180%22%20viewBox%3D%220%200%20320%20180%22%3E%3Crect%20width%3D%22320%22%20height%3D%22180%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2252%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3C/svg%3E";
+
+if (typeof window !== "undefined") {
+  window.FALLBACK_POSTER = FALLBACK_POSTER;
+  window.FALLBACK_THUMB = FALLBACK_THUMB;
+}
+
 /**
  * KING STORE UI RENDERER
  */
@@ -101,7 +109,7 @@ export class UIRenderer {
     return `
       <div class="anime-card" data-anime-id="${anime.id}">
         <div class="anime-card-poster">
-          <img src="${anime.poster}" alt="${anime.title}" loading="lazy" onerror="this.onerror=null; this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'300\' height=\'450\' viewBox=\'0 0 300 450\'><rect width=\'300\' height=\'450\' fill=\'%23091540\'/><text x=\'50%\' y=\'48%\' fill=\'%233a86ff\' font-family=\'sans-serif\' font-size=\'24\' font-weight=\'800\' text-anchor=\'middle\'>SHINOBI HUB</text><text x=\'50%\' y=\'56%\' fill=\'%2394a3b8\' font-family=\'sans-serif\' font-size=\'13\' text-anchor=\'middle\'>Cover Image</text></svg>';" />
+          <img src="${anime.poster}" alt="${anime.title}" loading="lazy" onerror="this.onerror=null; this.src=window.FALLBACK_POSTER;" />
           <div class="card-ep-badge">${epBadge}</div>
           <div class="anime-card-overlay-btn" title="View Episodes">
             <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
@@ -141,7 +149,7 @@ export class UIRenderer {
       return `
         <div class="continue-card play-episode-btn" data-anime-id="${anime.id}" data-ep="${item.episodeNumber}">
           <div class="continue-thumb">
-            <img src="${ep?.thumbnail || anime.banner || anime.poster}" alt="${anime.title}" onerror="this.onerror=null; this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'320\' height=\'180\' viewBox=\'0 0 320 180\'><rect width=\'320\' height=\'180\' fill=\'%23091540\'/><text x=\'50%\' y=\'52%\' fill=\'%233a86ff\' font-family=\'sans-serif\' font-size=\'20\' font-weight=\'800\' text-anchor=\'middle\'>SHINOBI HUB</text></svg>';" />
+            <img src="${ep?.thumbnail || anime.banner || anime.poster}" alt="${anime.title}" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
             <div class="continue-play-icon">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
             </div>
@@ -199,7 +207,7 @@ export class UIRenderer {
     return season.episodes.map(ep => `
       <div class="episode-row-item play-episode-btn" data-anime-id="${anime.id}" data-ep="${ep.number}" data-season="${sNum}" data-mode="download" data-lang="${lang}">
         <div class="ep-row-thumb">
-          <img src="${ep.thumbnail || anime.poster}" alt="${ep.title}" loading="lazy" onerror="this.onerror=null; this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'320\' height=\'180\' viewBox=\'0 0 320 180\'><rect width=\'320\' height=\'180\' fill=\'%23091540\'/><text x=\'50%\' y=\'52%\' fill=\'%233a86ff\' font-family=\'sans-serif\' font-size=\'20\' font-weight=\'800\' text-anchor=\'middle\'>SHINOBI HUB</text></svg>';" />
+          <img src="${ep.thumbnail || anime.poster}" alt="${ep.title}" loading="lazy" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
           <span class="ep-row-runtime">${ep.runtime || (isMovie ? '1h 45m' : '24m')}</span>
           <div class="ep-row-play-overlay">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
@@ -263,7 +271,7 @@ export class UIRenderer {
         <div class="page-container">
           <div class="detail-hero-content">
             <div class="detail-poster-wrapper">
-              <img src="${anime.poster}" alt="${anime.title}" onerror="this.onerror=null; this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'300\' height=\'450\' viewBox=\'0 0 300 450\'><rect width=\'300\' height=\'450\' fill=\'%23091540\'/><text x=\'50%\' y=\'48%\' fill=\'%233a86ff\' font-family=\'sans-serif\' font-size=\'24\' font-weight=\'800\' text-anchor=\'middle\'>SHINOBI HUB</text><text x=\'50%\' y=\'56%\' fill=\'%2394a3b8\' font-family=\'sans-serif\' font-size=\'13\' text-anchor=\'middle\'>Cover Image</text></svg>';" />
+              <img src="${anime.poster}" alt="${anime.title}" onerror="this.onerror=null; this.src=window.FALLBACK_POSTER;" />
             </div>
             <div class="detail-main-info">
               <h1 class="detail-title">${anime.title}</h1>
@@ -527,7 +535,7 @@ export class UIRenderer {
             <!-- Anime & Episode Preview -->
             <div class="download-anime-preview">
               <div class="download-thumb-box">
-                <img src="${ep.thumbnail || anime.poster}" alt="${ep.title}" onerror="this.onerror=null; this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'320\' height=\'180\' viewBox=\'0 0 320 180\'><rect width=\'320\' height=\'180\' fill=\'%23091540\'/><text x=\'50%\' y=\'52%\' fill=\'%233a86ff\' font-family=\'sans-serif\' font-size=\'20\' font-weight=\'800\' text-anchor=\'middle\'>SHINOBI HUB</text></svg>';" />
+                <img src="${ep.thumbnail || anime.poster}" alt="${ep.title}" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
                 <span class="dl-thumb-runtime">${ep.runtime || (anime.type === "Movie" ? '1h 45m' : '24m')}</span>
               </div>
               <div class="download-anime-meta">
