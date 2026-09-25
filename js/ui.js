@@ -843,25 +843,45 @@ export class UIRenderer {
 
     // Populate ad box
     const adBox = modal.querySelector("#dl-ad-box");
+    adBox.innerHTML = "";
+
     if (config.adsterra300x250 && config.adsterra300x250.key) {
       const key = config.adsterra300x250.key;
       const scriptUrl = config.adsterra300x250.scriptUrl || `https://www.highrevenueformat.com/${key}/invoke.js`;
       const w = config.adsterra300x250.width || 300;
       const h = config.adsterra300x250.height || 250;
 
-      const iframe = document.createElement("iframe");
-      iframe.width = String(w);
-      iframe.height = String(h);
-      iframe.frameBorder = "0";
-      iframe.scrolling = "no";
-      iframe.title = "Sponsor Advertisement";
-      iframe.style.cssText = `border:none;overflow:hidden;width:${w}px;height:${h}px;display:block;margin:0 auto;border-radius:10px;background:#060c1c;`;
+      const adWrapper = document.createElement("div");
+      adWrapper.id = "adsterra-300x250-holder";
+      adWrapper.style.cssText = `width:${w}px;min-height:${h}px;margin:0 auto;display:flex;align-items:center;justify-content:center;position:relative;border-radius:10px;overflow:hidden;background:#060c1c;`;
 
-      const iframeDocHtml = `<!DOCTYPE html><html><head><meta charset="utf-8"><style>body{margin:0;padding:0;background:transparent;display:flex;align-items:center;justify-content:center;overflow:hidden;width:${w}px;height:${h}px;}</style></head><body><script type="text/javascript">atOptions={'key':'${key}','format':'iframe','height':${h},'width':${w},'params':{}};</script><script type="text/javascript" src="${scriptUrl}"></script></body></html>`;
-      iframe.srcdoc = iframeDocHtml;
+      adBox.appendChild(adWrapper);
 
-      adBox.innerHTML = "";
-      adBox.appendChild(iframe);
+      // Set global atOptions in page context so Adsterra recognizes shinobihub.run.place
+      window.atOptions = {
+        'key': key,
+        'format': 'iframe',
+        'height': h,
+        'width': w,
+        'params': {}
+      };
+
+      const adScript = document.createElement("script");
+      adScript.type = "text/javascript";
+      adScript.src = scriptUrl;
+      adScript.onerror = () => {
+        adWrapper.innerHTML = `
+          <div class="dl-ad-placeholder-content" style="padding:16px;text-align:center;">
+            <div style="font-size:1.8rem;margin-bottom:6px;">🛡️</div>
+            <div style="font-size:0.92rem;font-weight:700;color:#f87171;">Ad Blocker Detected</div>
+            <div style="font-size:0.78rem;color:#94a3b8;margin-top:4px;max-width:260px;line-height:1.4;">
+              If ads are not visible, please pause your Ad Blocker or Brave Shields to support Shinobi HUB!
+            </div>
+          </div>
+        `;
+      };
+
+      adWrapper.appendChild(adScript);
     } else if (config.bannerCode && config.bannerCode.trim()) {
       adBox.innerHTML = config.bannerCode;
       // Re-run script tags if any inside bannerCode
