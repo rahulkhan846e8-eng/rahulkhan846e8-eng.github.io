@@ -474,6 +474,8 @@ export class UIRenderer {
     const container = document.getElementById("stream-view");
     if (!container || !anime) return;
 
+    const isMovie = anime.type === "Movie";
+
     // Determine available languages for this anime
     const determineLanguages = (a) => {
       if (Array.isArray(a.languages) && a.languages.length > 0) {
@@ -715,14 +717,19 @@ export class UIRenderer {
 
         // Intercept download and trigger the 20-second Rewarded Ad Modal
         e.preventDefault();
-        const epTitle = isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : (ep.title || `Episode ${ep.number}`);
-        UIRenderer.openDownloadCountdownModal({
-          downloadUrl: activeUrl,
-          animeTitle: anime.title,
-          epTitle: epTitle,
-          lang: currentLang === 'original' ? 'Original Dub' : 'Hindi Dub',
-          quality: '1080p Full HD'
-        });
+        try {
+          const epTitle = isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : (ep.title || `Episode ${ep.number}`);
+          UIRenderer.openDownloadCountdownModal({
+            downloadUrl: activeUrl,
+            animeTitle: anime.title,
+            epTitle: epTitle,
+            lang: currentLang === 'original' ? 'Original Dub' : 'Hindi Dub',
+            quality: '1080p Full HD'
+          });
+        } catch (modalErr) {
+          console.error("Ad modal trigger error, opening download directly:", modalErr);
+          window.open(activeUrl, "_blank", "noopener,noreferrer");
+        }
       });
     });
   }
@@ -929,26 +936,35 @@ export class UIRenderer {
           timerNumber.style.color = "#10b981";
         }
 
-        // Transform locked button to ready button
-        actionBtn.disabled = false;
-        actionBtn.className = "btn-dl-ready";
-        actionBtn.innerHTML = `
+        // Transform locked button into a native direct download link
+        const dlLink = document.createElement("a");
+        dlLink.id = "dl-action-btn";
+        dlLink.href = downloadUrl;
+        dlLink.target = "_blank";
+        dlLink.rel = "noopener noreferrer";
+        dlLink.className = "btn-dl-ready";
+        dlLink.innerHTML = `
           <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
             <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/>
           </svg>
           <span>START INSTANT DOWNLOAD (1080p HQ)</span>
         `;
-
-        actionBtn.onclick = () => {
-          window.open(downloadUrl, "_blank", "noopener,noreferrer");
-        };
+        if (actionBtn && actionBtn.parentNode) {
+          actionBtn.parentNode.replaceChild(dlLink, actionBtn);
+        }
 
         // Auto trigger download if enabled
         if (config.autoStartDownloadOnUnlock) {
           try {
-            window.open(downloadUrl, "_blank", "noopener,noreferrer");
+            const tempTrigger = document.createElement("a");
+            tempTrigger.href = downloadUrl;
+            tempTrigger.target = "_blank";
+            tempTrigger.rel = "noopener noreferrer";
+            document.body.appendChild(tempTrigger);
+            tempTrigger.click();
+            setTimeout(() => tempTrigger.remove(), 1000);
           } catch (err) {
-            console.warn("Auto download popup blocked, user can click button", err);
+            console.warn("Auto download blocked, user can click button", err);
           }
         }
 
