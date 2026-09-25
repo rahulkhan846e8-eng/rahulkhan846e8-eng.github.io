@@ -783,11 +783,21 @@ export class UIRenderer {
 
     modal.innerHTML = `
       <div class="dl-ad-modal-card">
-        <button class="dl-ad-close-btn" id="dl-ad-close" aria-label="Close">&times;</button>
-        
+        <!-- Prominent Top Bar with Cancel Pill -->
+        <div class="dl-ad-top-bar">
+          <div class="dl-ad-badge-server">
+            <span class="pulse-dot"></span>
+            <span>Fast Cloud CDN</span>
+          </div>
+          <button class="dl-ad-cancel-pill" id="dl-ad-close" type="button" aria-label="Cancel and Close">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            <span>Cancel</span>
+          </button>
+        </div>
+
         <div class="dl-ad-header">
           <div class="dl-ad-icon-badge">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
               <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/>
             </svg>
           </div>
@@ -834,6 +844,7 @@ export class UIRenderer {
             <span class="dl-btn-spinner"></span>
             <span>Download unlocks in <strong id="dl-btn-sec">${secondsLeft}</strong>s...</span>
           </button>
+          <button type="button" class="btn-dl-cancel-link" id="dl-ad-cancel-bottom">✕ Cancel Download</button>
           <p class="dl-ad-guarantee">✨ Direct file link unlocks automatically once countdown finishes.</p>
         </div>
       </div>
@@ -925,7 +936,8 @@ export class UIRenderer {
       setTimeout(() => modal.remove(), 250);
     };
 
-    closeBtn.addEventListener("click", closeModal);
+    closeBtn?.addEventListener("click", closeModal);
+    modal.querySelector("#dl-ad-cancel-bottom")?.addEventListener("click", closeModal);
     modal.addEventListener("click", (e) => {
       if (e.target === modal) closeModal();
     });
