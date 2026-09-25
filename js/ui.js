@@ -836,7 +836,26 @@ export class UIRenderer {
 
     // Populate ad box
     const adBox = modal.querySelector("#dl-ad-box");
-    if (config.bannerCode && config.bannerCode.trim()) {
+    if (config.adsterra300x250 && config.adsterra300x250.key) {
+      const key = config.adsterra300x250.key;
+      const scriptUrl = config.adsterra300x250.scriptUrl || `https://www.highrevenueformat.com/${key}/invoke.js`;
+      const w = config.adsterra300x250.width || 300;
+      const h = config.adsterra300x250.height || 250;
+
+      const iframe = document.createElement("iframe");
+      iframe.width = String(w);
+      iframe.height = String(h);
+      iframe.frameBorder = "0";
+      iframe.scrolling = "no";
+      iframe.title = "Sponsor Advertisement";
+      iframe.style.cssText = `border:none;overflow:hidden;width:${w}px;height:${h}px;display:block;margin:0 auto;border-radius:10px;background:#060c1c;`;
+
+      const iframeDocHtml = `<!DOCTYPE html><html><head><meta charset="utf-8"><style>body{margin:0;padding:0;background:transparent;display:flex;align-items:center;justify-content:center;overflow:hidden;width:${w}px;height:${h}px;}</style></head><body><script type="text/javascript">atOptions={'key':'${key}','format':'iframe','height':${h},'width':${w},'params':{}};</script><script type="text/javascript" src="${scriptUrl}"></script></body></html>`;
+      iframe.srcdoc = iframeDocHtml;
+
+      adBox.innerHTML = "";
+      adBox.appendChild(iframe);
+    } else if (config.bannerCode && config.bannerCode.trim()) {
       adBox.innerHTML = config.bannerCode;
       // Re-run script tags if any inside bannerCode
       const scripts = adBox.querySelectorAll("script");
