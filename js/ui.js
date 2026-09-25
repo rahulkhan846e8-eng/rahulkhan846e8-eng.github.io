@@ -696,16 +696,246 @@ export class UIRenderer {
       });
     });
 
-    // Direct Download Click Listener (Handles pending links smoothly)
+    // Direct Download Click Listener (Rewarded 20s Ad Modal)
     container.querySelectorAll(".direct-dl-btn").forEach(btn => {
       btn.addEventListener("click", (e) => {
         const hasLink = btn.dataset.hasLink === "true";
         if (!hasLink) {
           e.preventDefault();
           UIRenderer.showToast("Fast Direct Server ready! Link will start download once active.", "default");
+          return;
         }
+
+        const activeUrl = getActiveDlUrl(currentLang);
+        if (!activeUrl) {
+          e.preventDefault();
+          UIRenderer.showToast("Direct download link is not available for this episode.", "default");
+          return;
+        }
+
+        // Intercept download and trigger the 20-second Rewarded Ad Modal
+        e.preventDefault();
+        const epTitle = isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : (ep.title || `Episode ${ep.number}`);
+        UIRenderer.openDownloadCountdownModal({
+          downloadUrl: activeUrl,
+          animeTitle: anime.title,
+          epTitle: epTitle,
+          lang: currentLang === 'original' ? 'Original Dub' : 'Hindi Dub',
+          quality: '1080p Full HD'
+        });
       });
     });
+  }
+
+  // --------------------------------------------------------------------------
+  // 20-Second Rewarded Download Ad Modal (Adsterra Integration)
+  // --------------------------------------------------------------------------
+  static openDownloadCountdownModal({ downloadUrl, animeTitle, epTitle, lang, quality }) {
+    const config = window.SHINOBI_ADS_CONFIG || {
+      enabled: true,
+      countdownSeconds: 20,
+      adsterraDirectLink: "",
+      bannerCode: "",
+      autoStartDownloadOnUnlock: true,
+      sponsorButtonText: "⚡ Visit Sponsor (Support Shinobi HUB)",
+      statusMessage: "Preparing high-speed 1080p download link..."
+    };
+
+    // If disabled, directly open link
+    if (!config.enabled) {
+      window.open(downloadUrl, "_blank", "noopener,noreferrer");
+      return;
+    }
+
+    // Clean up any existing modal or timer
+    if (UIRenderer._dlModalTimer) {
+      clearInterval(UIRenderer._dlModalTimer);
+      UIRenderer._dlModalTimer = null;
+    }
+    const existingModal = document.getElementById("download-ad-modal");
+    if (existingModal) existingModal.remove();
+
+    const totalSeconds = Number(config.countdownSeconds) || 20;
+    let secondsLeft = totalSeconds;
+
+    const modal = document.createElement("div");
+    modal.id = "download-ad-modal";
+    modal.className = "dl-ad-modal-backdrop active";
+
+    const sponsorDirectLink = config.adsterraDirectLink ? config.adsterraDirectLink.trim() : "";
+    const sponsorBtnHtml = sponsorDirectLink ? `
+      <a href="${sponsorDirectLink}" target="_blank" rel="noopener noreferrer" class="dl-sponsor-action-btn">
+        <span>${config.sponsorButtonText || '⚡ Visit Sponsor (Support Shinobi HUB)'}</span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+      </a>
+    ` : `
+      <div style="font-size: 0.74rem; color: #64748b; margin-top: 8px;">
+        High-speed cloud servers provided by Shinobi HUB &bull; Instant link generating below
+      </div>
+    `;
+
+    modal.innerHTML = `
+      <div class="dl-ad-modal-card">
+        <button class="dl-ad-close-btn" id="dl-ad-close" aria-label="Close">&times;</button>
+        
+        <div class="dl-ad-header">
+          <div class="dl-ad-icon-badge">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/>
+            </svg>
+          </div>
+          <div class="dl-ad-title-group">
+            <h3>Preparing Direct Download</h3>
+            <p class="dl-ad-subtitle">${animeTitle || 'Shinobi HUB'} &bull; ${epTitle || 'Episode'} (${lang || 'HQ'})</p>
+          </div>
+        </div>
+
+        <div class="dl-ad-timer-section">
+          <div class="dl-timer-circle-wrap">
+            <div class="dl-timer-circle" id="dl-timer-ring">
+              <span class="dl-timer-number" id="dl-timer-number">${secondsLeft}</span>
+              <span class="dl-timer-unit">SEC</span>
+            </div>
+          </div>
+          <div class="dl-timer-info">
+            <div class="dl-timer-status" id="dl-status-text">${config.statusMessage || 'Preparing high-speed 1080p download link...'}</div>
+            <div class="dl-progress-track">
+              <div class="dl-progress-fill" id="dl-progress-bar" style="width: 100%;"></div>
+            </div>
+            <div class="dl-timer-meta">
+              <span>⚡ Cloud Direct Server</span>
+              <span>${quality || 'Full HD 1080p'}</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="dl-ad-sponsor-container">
+          <div class="dl-ad-sponsor-label">
+            <span>SPONSORED BY OUR PARTNER</span>
+            <span class="dl-ad-badge">AD</span>
+          </div>
+
+          <div class="dl-ad-box" id="dl-ad-box">
+            <!-- Adsterra Banner Slot or Clean Sponsor Card -->
+          </div>
+
+          ${sponsorBtnHtml}
+        </div>
+
+        <div class="dl-ad-actions">
+          <button id="dl-action-btn" class="btn-dl-locked" disabled>
+            <span class="dl-btn-spinner"></span>
+            <span>Download unlocks in <strong id="dl-btn-sec">${secondsLeft}</strong>s...</span>
+          </button>
+          <p class="dl-ad-guarantee">✨ Direct file link unlocks automatically once countdown finishes.</p>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    // Populate ad box
+    const adBox = modal.querySelector("#dl-ad-box");
+    if (config.bannerCode && config.bannerCode.trim()) {
+      adBox.innerHTML = config.bannerCode;
+      // Re-run script tags if any inside bannerCode
+      const scripts = adBox.querySelectorAll("script");
+      scripts.forEach(oldScript => {
+        const newScript = document.createElement("script");
+        Array.from(oldScript.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value));
+        newScript.appendChild(document.createTextNode(oldScript.innerHTML));
+        oldScript.parentNode.replaceChild(newScript, oldScript);
+      });
+    } else {
+      // Sleek default sponsor card
+      adBox.innerHTML = `
+        <div class="dl-ad-placeholder-content">
+          <div class="dl-ad-placeholder-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"/>
+            </svg>
+          </div>
+          <div class="dl-ad-placeholder-title">Shinobi HUB Fast Server</div>
+          <div class="dl-ad-placeholder-text">
+            Adsterra 300x250 Banner Slot. Connect your Adsterra keys in <code>js/ads-config.js</code>.
+          </div>
+        </div>
+      `;
+    }
+
+    const timerNumber = modal.querySelector("#dl-timer-number");
+    const btnSec = modal.querySelector("#dl-btn-sec");
+    const progressBar = modal.querySelector("#dl-progress-bar");
+    const statusText = modal.querySelector("#dl-status-text");
+    const actionBtn = modal.querySelector("#dl-action-btn");
+    const closeBtn = modal.querySelector("#dl-ad-close");
+
+    const closeModal = () => {
+      if (UIRenderer._dlModalTimer) {
+        clearInterval(UIRenderer._dlModalTimer);
+        UIRenderer._dlModalTimer = null;
+      }
+      modal.classList.remove("active");
+      setTimeout(() => modal.remove(), 250);
+    };
+
+    closeBtn.addEventListener("click", closeModal);
+    modal.addEventListener("click", (e) => {
+      if (e.target === modal) closeModal();
+    });
+
+    // Start 20-second countdown
+    UIRenderer._dlModalTimer = setInterval(() => {
+      secondsLeft--;
+      if (timerNumber) timerNumber.textContent = secondsLeft;
+      if (btnSec) btnSec.textContent = secondsLeft;
+
+      const pct = Math.max(0, (secondsLeft / totalSeconds) * 100);
+      if (progressBar) progressBar.style.width = pct + "%";
+
+      if (secondsLeft <= 0) {
+        clearInterval(UIRenderer._dlModalTimer);
+        UIRenderer._dlModalTimer = null;
+
+        if (progressBar) {
+          progressBar.style.width = "100%";
+          progressBar.classList.add("ready");
+        }
+        if (statusText) {
+          statusText.textContent = "🎉 Direct Download Unlocked! Enjoy your episode.";
+          statusText.style.color = "#10b981";
+        }
+        if (timerNumber) {
+          timerNumber.textContent = "✓";
+          timerNumber.style.color = "#10b981";
+        }
+
+        // Transform locked button to ready button
+        actionBtn.disabled = false;
+        actionBtn.className = "btn-dl-ready";
+        actionBtn.innerHTML = `
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/>
+          </svg>
+          <span>START INSTANT DOWNLOAD (1080p HQ)</span>
+        `;
+
+        actionBtn.onclick = () => {
+          window.open(downloadUrl, "_blank", "noopener,noreferrer");
+        };
+
+        // Auto trigger download if enabled
+        if (config.autoStartDownloadOnUnlock) {
+          try {
+            window.open(downloadUrl, "_blank", "noopener,noreferrer");
+          } catch (err) {
+            console.warn("Auto download popup blocked, user can click button", err);
+          }
+        }
+
+        UIRenderer.showToast("Direct download link ready! Instant download unlocked.", "success");
+      }
+    }, 1000);
   }
 
   // --------------------------------------------------------------------------
