@@ -1013,7 +1013,7 @@ export class UIRenderer {
     const countEl = document.getElementById("browse-count");
     if (!grid) return;
 
-    if (countEl) countEl.textContent = `${animeList.length} Anime Titles`;
+    if (countEl) countEl.textContent = `${animeList.length} Anime`;
 
     if (!animeList || animeList.length === 0) {
       grid.innerHTML = `

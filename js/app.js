@@ -281,7 +281,7 @@ class App {
   }
 
   // --------------------------------------------------------------------------
-  // Browse View & Filters
+  // Browse View & Auto-Organizer Filters
   // --------------------------------------------------------------------------
   initBrowseView() {
     let currentSearch = this.searchQuery || "";
@@ -294,12 +294,72 @@ class App {
       filterTypeSelect.value = currentType;
     }
 
+    const sortSelect = document.getElementById("filter-sort");
+    if (sortSelect) {
+      sortSelect.value = currentSort;
+    }
+
     const browseSearchInput = document.getElementById("browse-search-input");
     const browseClearBtn = document.getElementById("browse-search-clear-btn");
+    const filterToggleBtn = document.getElementById("browse-filter-toggle");
+    const filterDrawer = document.getElementById("browse-filter-drawer");
+    const drawerCloseBtn = document.getElementById("drawer-close-btn");
+    const activeDot = document.getElementById("browse-filter-active-dot");
+    const activeFilterBar = document.getElementById("browse-active-filter-bar");
+    const activeTagName = document.getElementById("browse-active-tag-name");
+    const clearActiveTagBtn = document.getElementById("browse-clear-active-tag");
+    const resetFiltersBtn = document.getElementById("browse-reset-filters-btn");
+    const genreContainer = document.getElementById("genre-pills-container");
+
+    const updateActiveIndicator = () => {
+      const hasFilter = (currentGenre && currentGenre !== "All") || (currentType && currentType !== "All");
+      if (activeDot) activeDot.style.display = hasFilter ? "block" : "none";
+
+      if (activeFilterBar) {
+        if (currentGenre && currentGenre !== "All") {
+          activeFilterBar.style.display = "flex";
+          if (activeTagName) activeTagName.textContent = currentGenre;
+        } else {
+          activeFilterBar.style.display = "none";
+        }
+      }
+    };
+
+    const toggleDrawer = (forceState) => {
+      if (!filterDrawer) return;
+      const willOpen = forceState !== undefined ? forceState : !filterDrawer.classList.contains("open");
+      filterDrawer.classList.toggle("open", willOpen);
+      filterToggleBtn?.classList.toggle("active", willOpen);
+      filterToggleBtn?.setAttribute("aria-expanded", willOpen ? "true" : "false");
+    };
+
+    if (filterToggleBtn) {
+      filterToggleBtn.onclick = (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        toggleDrawer();
+      };
+    }
+
+    if (drawerCloseBtn) {
+      drawerCloseBtn.onclick = (e) => {
+        e.preventDefault();
+        toggleDrawer(false);
+      };
+    }
+
+    // Close drawer when clicking outside search bar wrap
+    const searchBarWrap = document.querySelector(".browse-search-bar-wrap");
+    document.addEventListener("click", (e) => {
+      if (searchBarWrap && !searchBarWrap.contains(e.target) && filterDrawer?.classList.contains("open")) {
+        toggleDrawer(false);
+      }
+    });
 
     const applyFilters = () => {
       const filtered = searchAnime(currentSearch, currentGenre, currentType, currentSort);
       UIRenderer.renderBrowseCatalog(filtered);
+      updateActiveIndicator();
     };
 
     if (browseSearchInput) {
@@ -314,38 +374,75 @@ class App {
       };
 
       if (browseClearBtn) {
-        browseClearBtn.onclick = () => {
+        browseClearBtn.onclick = (e) => {
+          e.preventDefault();
           browseSearchInput.value = "";
           currentSearch = "";
           this.searchQuery = "";
           browseClearBtn.classList.remove("visible");
           applyFilters();
+          browseSearchInput.focus();
         };
       }
     }
 
-    const genreContainer = document.getElementById("genre-pills-container");
     if (genreContainer) {
       genreContainer.innerHTML = GENRE_LIST.map(g => `
-        <button class="filter-pill ${g === currentGenre ? 'active' : ''}" data-genre="${g}">${g}</button>
+        <button type="button" class="filter-pill ${g === currentGenre ? 'active' : ''}" data-genre="${g}">${g}</button>
       `).join("");
 
       genreContainer.querySelectorAll(".filter-pill").forEach(pill => {
-        pill.addEventListener("click", () => {
-          genreContainer.querySelectorAll(".filter-pill").forEach(p => p.classList.remove("active"));
-          pill.classList.add("active");
-          currentGenre = pill.dataset.genre;
+        pill.addEventListener("click", (e) => {
+          e.preventDefault();
+          const clickedGenre = pill.dataset.genre;
+          if (clickedGenre === currentGenre && clickedGenre !== "All") {
+            currentGenre = "All";
+          } else {
+            currentGenre = clickedGenre;
+          }
           this.selectedCategory = currentGenre;
+
+          genreContainer.querySelectorAll(".filter-pill").forEach(p => {
+            p.classList.toggle("active", p.dataset.genre === currentGenre);
+          });
+
           applyFilters();
         });
       });
     }
 
-    const typeSelect = document.getElementById("filter-type");
-    const sortSelect = document.getElementById("filter-sort");
+    if (clearActiveTagBtn) {
+      clearActiveTagBtn.onclick = (e) => {
+        e.preventDefault();
+        currentGenre = "All";
+        this.selectedCategory = "All";
+        genreContainer?.querySelectorAll(".filter-pill").forEach(p => {
+          p.classList.toggle("active", p.dataset.genre === "All");
+        });
+        applyFilters();
+      };
+    }
 
-    typeSelect?.addEventListener("change", (e) => {
+    if (resetFiltersBtn) {
+      resetFiltersBtn.onclick = (e) => {
+        e.preventDefault();
+        currentGenre = "All";
+        currentType = "All";
+        currentSort = "popularity";
+        this.selectedCategory = "All";
+        this.selectedType = "All";
+        if (filterTypeSelect) filterTypeSelect.value = "All";
+        if (sortSelect) sortSelect.value = "popularity";
+        genreContainer?.querySelectorAll(".filter-pill").forEach(p => {
+          p.classList.toggle("active", p.dataset.genre === "All");
+        });
+        applyFilters();
+      };
+    }
+
+    filterTypeSelect?.addEventListener("change", (e) => {
       currentType = e.target.value;
+      this.selectedType = currentType;
       applyFilters();
     });
 
@@ -354,7 +451,7 @@ class App {
       applyFilters();
     });
 
-    // Initial render
+    // Initial render & sync indicator
     applyFilters();
   }
 

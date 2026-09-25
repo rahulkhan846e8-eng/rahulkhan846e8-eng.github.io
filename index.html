@@ -17,8 +17,8 @@
   <!-- CSS Stylesheets (with version cache busting) -->
   <link rel="stylesheet" href="css/main.css?v=20260925_v33" />
   <link rel="stylesheet" href="css/components.css?v=20260925_v33" />
-  <link rel="stylesheet" href="css/player.css?v=20260925_v33" />
-  <link rel="stylesheet" href="css/views.css?v=20260925_v33" />
+  <link rel="stylesheet" href="css/player.css?v=20260925_v35" />
+  <link rel="stylesheet" href="css/views.css?v=20260925_v35" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23091540'/><text x='50%' y='68%' font-family='sans-serif' font-size='56' font-weight='900' fill='%233a86ff' text-anchor='middle'>S</text></svg>" />
 
   <!-- Google tag (gtag.js) -->
@@ -316,43 +316,72 @@
       <!-- VIEW 2: BROWSE & EXPLORE VIEW -->
       <section id="browse-view" class="view-section">
         <div class="page-container">
-          <div class="browse-header-section">
-            <h1 class="browse-page-title">Explore All Shows &amp; Movies</h1>
-            <p class="browse-page-subtitle">Stream and download unlimited anime and movies in full HD.</p>
+          <div class="browse-header-compact">
+            <h1 class="browse-page-title-compact">Explore Anime</h1>
+            <span id="browse-count" class="browse-live-count">0 Anime</span>
           </div>
 
-          <!-- Filter Controls Card -->
-          <div class="filter-controls-card">
-            <!-- Live Library Search Input -->
-            <div class="browse-search-row">
-              <div class="search-input-box browse-search-box">
-                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
-                <input type="text" id="browse-search-input" class="search-input" placeholder="Search anime by name, genre, character, or studio..." autocomplete="off" />
-                <span id="browse-search-clear-btn" class="search-clear-btn">✕</span>
-              </div>
+          <!-- Minimal Unified Search Bar with 3-Dot Auto-Organizer -->
+          <div class="browse-search-bar-wrap">
+            <div class="browse-search-box-unified">
+              <span class="search-icon-svg">
+                <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+              </span>
+              <input type="text" id="browse-search-input" class="browse-search-input-unified" placeholder="Search anime by title, character, genre..." autocomplete="off" />
+              <button type="button" id="browse-search-clear-btn" class="browse-search-clear-btn" title="Clear search">✕</button>
+
+              <!-- Three-Dot Button to Toggle Auto-Organizer Tags -->
+              <button type="button" id="browse-filter-toggle" class="browse-dots-btn" title="Auto-Organizer Tags &amp; Filters" aria-expanded="false">
+                <span class="three-dots-symbol">⋮</span>
+                <span class="dots-btn-label">Tags</span>
+                <span id="browse-filter-active-dot" class="filter-active-dot" style="display: none;"></span>
+              </button>
             </div>
 
-            <!-- Genre Filter Pills -->
-            <div class="genre-filter-pills" id="genre-pills-container"></div>
+            <!-- Active Tag Indicator Chip (Visible when an auto-organizer tag is active) -->
+            <div id="browse-active-filter-bar" class="browse-active-filter-bar" style="display: none;">
+              <span class="active-filter-label">Organized by:</span>
+              <span class="active-tag-chip">
+                <span id="browse-active-tag-name">Action</span>
+                <button type="button" id="browse-clear-active-tag" class="chip-remove-btn" title="Clear tag filter">✕</button>
+              </span>
+            </div>
 
-            <div class="filter-dropdowns-row">
-              <div class="dropdown-group">
-                <label for="filter-type" style="font-size: 0.85rem; color: var(--cr-text-muted);">Format:</label>
-                <select id="filter-type" class="filter-select">
-                  <option value="All">All Formats</option>
-                  <option value="TV">TV Series</option>
-                  <option value="Movie">Movies</option>
-                </select>
-
-                <label for="filter-sort" style="font-size: 0.85rem; color: var(--cr-text-muted); margin-left: 8px;">Sort by:</label>
-                <select id="filter-sort" class="filter-select">
-                  <option value="popularity">Popularity</option>
-                  <option value="rating">Highest Rated</option>
-                  <option value="newest">Recently Added</option>
-                </select>
+            <!-- Collapsible Auto-Organizer Drawer (Hidden by default, toggled via 3-dot button) -->
+            <div id="browse-filter-drawer" class="browse-filter-drawer">
+              <div class="drawer-header">
+                <div class="drawer-title-group">
+                  <span class="drawer-icon">⚡</span>
+                  <span class="drawer-title">Auto-Organizer: Select Tag</span>
+                </div>
+                <button type="button" id="drawer-close-btn" class="drawer-close-btn" title="Close tags">✕</button>
               </div>
 
-              <span id="browse-count" class="results-count-text">0 Anime Titles</span>
+              <!-- All Anime Tags / Genre Pills -->
+              <div class="genre-filter-pills" id="genre-pills-container"></div>
+
+              <!-- Format & Sort Controls -->
+              <div class="drawer-secondary-row">
+                <div class="drawer-control-group">
+                  <label for="filter-type">Format:</label>
+                  <select id="filter-type" class="filter-select-compact">
+                    <option value="All">All Formats</option>
+                    <option value="TV">TV Series</option>
+                    <option value="Movie">Movies</option>
+                  </select>
+                </div>
+
+                <div class="drawer-control-group">
+                  <label for="filter-sort">Sort:</label>
+                  <select id="filter-sort" class="filter-select-compact">
+                    <option value="popularity">Popularity</option>
+                    <option value="rating">Top Rated</option>
+                    <option value="newest">Recently Added</option>
+                  </select>
+                </div>
+
+                <button type="button" id="browse-reset-filters-btn" class="drawer-reset-btn">Reset All</button>
+              </div>
             </div>
           </div>
 
@@ -647,7 +676,7 @@
   </div>
 
   <!-- JavaScript Modules & Ad Configuration -->
-  <script src="js/ads-config.js?v=20260925_v33"></script>
-  <script type="module" src="js/app.js?v=20260925_v33"></script>
+  <script src="js/ads-config.js?v=20260925_v35"></script>
+  <script type="module" src="js/app.js?v=20260925_v35"></script>
 </body>
 </html>
