@@ -21605,11 +21605,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-gLd93v2u67K7.jpg",
             "synopsis": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022) Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
+            "downloadUrl": "https://gamerxyt.com/hubcloud.php?host=hubcloud&id=7csc8swjssc7ws1&token=akVQRXFJQ0w0Z25VeWE3VGNZRVBxNkEzQlQzNmQrYlRLbEZ6OXNwTVpBaz0=",
             "downloadLinks": {
               "1080p": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
               "720p": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
-              "480p": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D"
+              "480p": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
+              "hindi": "https://gamerxyt.com/hubcloud.php?host=hubcloud&id=7csc8swjssc7ws1&token=akVQRXFJQ0w0Z25VeWE3VGNZRVBxNkEzQlQzNmQrYlRLbEZ6OXNwTVpBaz0="
             },
             "hasTelegram": false
           }
