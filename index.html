@@ -17,8 +17,8 @@
   <!-- CSS Stylesheets (with version cache busting) -->
   <link rel="stylesheet" href="css/main.css?v=20260925_v33" />
   <link rel="stylesheet" href="css/components.css?v=20260925_v33" />
-  <link rel="stylesheet" href="css/player.css?v=20260925_v35" />
-  <link rel="stylesheet" href="css/views.css?v=20260925_v35" />
+  <link rel="stylesheet" href="css/player.css?v=20260925_v36" />
+  <link rel="stylesheet" href="css/views.css?v=20260925_v36" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23091540'/><text x='50%' y='68%' font-family='sans-serif' font-size='56' font-weight='900' fill='%233a86ff' text-anchor='middle'>S</text></svg>" />
 
   <!-- Google tag (gtag.js) -->
@@ -206,18 +206,18 @@
             </div>
           </div>
 
-          <!-- Trending Now Shelf -->
+          <!-- Newly Added Shelf -->
           <div class="shelf-section">
             <div class="shelf-header">
               <div class="shelf-title-group">
-                <span class="shelf-title-accent"></span>
-                <h3 class="shelf-title">Trending Anime</h3>
+                <span class="shelf-title-accent" style="background: #10b981;"></span>
+                <h3 class="shelf-title">⚡ Newly Added</h3>
               </div>
-              <a href="#browse" class="shelf-view-all">View All &gt;</a>
+              <a href="#browse?sort=newest" class="shelf-view-all">View All &gt;</a>
             </div>
             <div class="shelf-carousel-wrapper">
               <button class="shelf-nav-btn prev" title="Scroll Left">&#10094;</button>
-              <div class="shelf-track" id="trending-shelf-track"></div>
+              <div class="shelf-track" id="newly-added-shelf-track"></div>
               <button class="shelf-nav-btn next" title="Scroll Right">&#10095;</button>
             </div>
           </div>
@@ -242,7 +242,7 @@
           <div class="shelf-section">
             <div class="shelf-header">
               <div class="shelf-title-group">
-                <span class="shelf-title-accent"></span>
+                <span class="shelf-title-accent" style="background: #f59e0b;"></span>
                 <h3 class="shelf-title">Action, Adventure &amp; Isekai Hits</h3>
               </div>
               <a href="#browse?category=Action%20%26%20Adventure" class="shelf-view-all">View All &gt;</a>
@@ -258,7 +258,7 @@
           <div class="shelf-section">
             <div class="shelf-header">
               <div class="shelf-title-group">
-                <span class="shelf-title-accent"></span>
+                <span class="shelf-title-accent" style="background: #8b5cf6;"></span>
                 <h3 class="shelf-title">Top Rated Masterpieces</h3>
               </div>
               <a href="#browse" class="shelf-view-all">View All &gt;</a>
@@ -286,22 +286,6 @@
             </div>
           </div>
 
-          <!-- Latest Releases & Downloads Shelf -->
-          <div class="shelf-section">
-            <div class="shelf-header">
-              <div class="shelf-title-group">
-                <span class="shelf-title-accent" style="background: #10b981;"></span>
-                <h3 class="shelf-title">⚡ Latest Releases &amp; Hindi Dubs</h3>
-              </div>
-              <a href="#browse" class="shelf-view-all">View All &gt;</a>
-            </div>
-            <div class="shelf-carousel-wrapper">
-              <button class="shelf-nav-btn prev" title="Scroll Left">&#10094;</button>
-              <div class="shelf-track" id="new-releases-shelf-track"></div>
-              <button class="shelf-nav-btn next" title="Scroll Right">&#10095;</button>
-            </div>
-          </div>
-
           <!-- Explore All Banner CTA -->
           <div class="library-banner-cta" style="margin: 48px 0 24px; padding: 32px 28px; background: linear-gradient(135deg, rgba(37,99,235,0.25) 0%, rgba(9,21,64,0.9) 100%); border: 1px solid rgba(59,130,246,0.3); border-radius: 16px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
             <div>
@@ -318,7 +302,6 @@
         <div class="page-container">
           <div class="browse-header-compact">
             <h1 class="browse-page-title-compact">Explore Anime</h1>
-            <span id="browse-count" class="browse-live-count">0 Anime</span>
           </div>
 
           <!-- Minimal Unified Search Bar with 3-Dot Auto-Organizer -->
@@ -676,7 +659,7 @@
   </div>
 
   <!-- JavaScript Modules & Ad Configuration -->
-  <script src="js/ads-config.js?v=20260925_v35"></script>
-  <script type="module" src="js/app.js?v=20260925_v35"></script>
+  <script src="js/ads-config.js?v=20260925_v36"></script>
+  <script type="module" src="js/app.js?v=20260925_v36"></script>
 </body>
 </html>

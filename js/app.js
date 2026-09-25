@@ -5,25 +5,24 @@
 import { 
   ANIME_DATABASE, 
   GENRE_LIST, 
-  getTrendingAnime, 
+  getNewlyAddedAnime, 
   getPopularAnime, 
   getActionAnime, 
   getTopRatedAnime, 
   getMovies,
-  getNewReleases,
   getAnimeById, 
   searchAnime 
 } from './data.js';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
-import { UIRenderer } from './ui.js?v=20260925_v33';
+import { UIRenderer } from './ui.js?v=20260925_v36';
 
 class App {
   constructor() {
     this.player = new VideoPlayer();
     this.currentHeroIndex = 0;
     this.heroInterval = null;
-    this.featuredList = getTrendingAnime().slice(0, 6);
+    this.featuredList = getPopularAnime().slice(0, 6);
     this.selectedCategory = "All";
 
     this.init();
@@ -196,7 +195,7 @@ class App {
   // Hero Slider
   // --------------------------------------------------------------------------
   initHeroSlider() {
-    this.featuredList = getTrendingAnime().slice(0, 6);
+    this.featuredList = getPopularAnime().slice(0, 6);
     UIRenderer.renderHeroSlider(this.featuredList);
 
     // Indicator clicks
@@ -256,12 +255,11 @@ class App {
   initShelves() {
     UIRenderer.renderContinueWatching();
 
-    UIRenderer.renderShelf("trending-shelf-track", getTrendingAnime());
+    UIRenderer.renderShelf("newly-added-shelf-track", getNewlyAddedAnime());
     UIRenderer.renderShelf("popular-shelf-track", getPopularAnime());
     UIRenderer.renderShelf("action-shelf-track", getActionAnime());
     UIRenderer.renderShelf("top-shelf-track", getTopRatedAnime());
     UIRenderer.renderShelf("movies-shelf-track", getMovies());
-    UIRenderer.renderShelf("new-releases-shelf-track", getNewReleases());
 
     // Shelf Left / Right navigation buttons
     document.querySelectorAll(".shelf-nav-btn").forEach(btn => {

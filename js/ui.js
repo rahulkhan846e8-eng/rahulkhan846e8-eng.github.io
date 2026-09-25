@@ -141,15 +141,22 @@ export class UIRenderer {
     container.innerHTML = history.slice(0, 10).map(item => {
       const anime = getAnimeById(item.animeId);
       if (!anime) return "";
-      const isMovie = anime.type === "Movie";
-      const ep = anime.episodes?.find(e => e.number === item.episodeNumber) || { number: item.episodeNumber, title: `Episode ${item.episodeNumber}` };
+      let ep = anime.episodes?.find(e => e.number === item.episodeNumber);
+      if (!ep && anime.seasons) {
+        const season = anime.seasons.find(s => s.number === (item.seasonNumber || 1)) || anime.seasons[0];
+        ep = season?.episodes?.find(e => e.number === item.episodeNumber);
+      }
+      if (!ep) {
+        ep = { number: item.episodeNumber, title: `Episode ${item.episodeNumber}` };
+      }
       const progressLabel = item.percent > 0 ? `${item.percent}% watched` : "Watching";
       const progressWidth = item.percent > 0 ? item.percent : 100;
       const progressColor = item.percent > 0 ? "" : "background: var(--cr-accent-blue, #2563eb);";
+      const thumbSrc = ep?.thumbnail || anime.banner || anime.poster;
       return `
         <div class="continue-card play-episode-btn" data-anime-id="${anime.id}" data-ep="${item.episodeNumber}">
           <div class="continue-thumb">
-            <img src="${ep?.thumbnail || anime.banner || anime.poster}" alt="${anime.title}" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
+            <img src="${thumbSrc}" alt="${anime.title}" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
             <div class="continue-play-icon">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
             </div>
@@ -1013,7 +1020,7 @@ export class UIRenderer {
     const countEl = document.getElementById("browse-count");
     if (!grid) return;
 
-    if (countEl) countEl.textContent = `${animeList.length} Anime`;
+    if (countEl) countEl.style.display = "none";
 
     if (!animeList || animeList.length === 0) {
       grid.innerHTML = `

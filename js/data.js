@@ -59,8 +59,8 @@ export const ANIME_DATABASE = [
     "studio": "Tatsunoko Production",
     "hasSub": true,
     "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
+    "isTrending": false,
+    "isPopular": false,
     "genres": [
       "Action",
       "Adventure",
@@ -266,8 +266,8 @@ export const ANIME_DATABASE = [
     "studio": "LIDENFILMS",
     "hasSub": true,
     "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
+    "isTrending": false,
+    "isPopular": false,
     "genres": [
       "Fantasy"
     ],
@@ -623,8 +623,8 @@ export const ANIME_DATABASE = [
     "studio": "Kinema Citrus",
     "hasSub": true,
     "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
+    "isTrending": false,
+    "isPopular": false,
     "genres": [
       "Drama",
       "Fantasy",
@@ -828,8 +828,8 @@ export const ANIME_DATABASE = [
     "studio": "project No.9",
     "hasSub": true,
     "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
+    "isTrending": false,
+    "isPopular": false,
     "genres": [
       "Comedy",
       "Romance"
@@ -1018,8 +1018,8 @@ export const ANIME_DATABASE = [
     "studio": "ROLL2",
     "hasSub": true,
     "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
+    "isTrending": false,
+    "isPopular": false,
     "genres": [
       "Drama",
       "Fantasy",
@@ -20711,7 +20711,7 @@ export const ANIME_DATABASE = [
     "id": "gantz",
     "title": "GANTZ",
     "japaneseTitle": "",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/384-banner.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/384-cPVc0l550dsW.jpg",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-5vHimZPju1Wr.jpg",
     "rating": 8,
     "year": 2024,
@@ -20739,7 +20739,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 1",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9523/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 1",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Q1MDgwNjNiNDZhZGY5Njc4ZTI4MGRiOGZkN2Q4MTBjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEzMzM1N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZjY1Y2FkZGFhNzk1ODA1NzA1ZmVhMjA1M2Q0MDhiOGYxOWVjMDZlNzE4Mjg1N2NhODNmYzcwOGFiZWRjMGYyNSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQzODAwMCwiaGFzaCI6ImNmOTFkMjBkZGJjMTFlMGMxZTliNGI2YjFkYTVkOTllMjVhNmI2NGIzM2ViMzFhZjgwNzcwNDZlMGNjY2ZlNjkiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwMSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20755,7 +20755,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 2",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9524/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 2",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzI2MjIzZjNkYzU4YWM3NmQ3NTA1OGU0MjY0NmFmNWM5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDE1NDEyOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTZlNzAyOGZmMGZkZGQwZDgyMDM2OTRlN2Q4NmQ5MzU4OTZmNGNkMTJlMGQ3OGU3NjVhYjBmNTFkM2U0MGJkMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ0MjAwMCwiaGFzaCI6ImQ2OTQ5OWFiYjg1M2E2ODdiMjUxMTBkMGNjM2I2MmRhYzZjNmE1ZDE3OWJkNTQ1ZGVjZjE2MTViY2RhYjFmZDkiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwMiBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20771,7 +20771,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 3",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9525/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 3",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2IzYWM5MDAyYzNiMjMyZmNiOGZjNWU3OGM4YTY0ZjIzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDE3MjkxM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZjU1MDQ4YjExYzU2M2JhZWRhZmY3M2Q2YmFjMDAxYjI5NWFkNzg0NDVlMTllYjE1ZmZiNGY1OTNmZmU2YjM0NSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ0NTAwMCwiaGFzaCI6ImNlYjcxNTc3MWRkNzk1Mjk4MDM0NGU4ZjYyNTI2OWY0OTFiYTc4MDRjY2MzZTc0OTMyNzE0NjQyMWViOTJiZmYiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwMyBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20787,7 +20787,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 4",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9526/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 4",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2JiNTkxYTBmOWNjMjRhMDU3NmEyNDMyMmE0NWQyNzg5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDEwNDgyMVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwNCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTdiNWQzODgwNTFlYWM1ZGM4YThmMzBkNTFlNmI3N2M4NDIzNTU3ZmJlYTVkYWY5M2JmZWI0ZGI2ODA2YTE1NiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ0ODAwMCwiaGFzaCI6IjZlZDQ2OTQ0YTRiZDE3ZmQ2NWQ2Mzk0NTBmYTcyZjIwNGE3NjA4YTQ1MzFkMzEzZTNmZGZiNDk2NGQ0NWU4YjEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwNCBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20803,7 +20803,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 5",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9527/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 5",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2E5N2IxYzQwYzE0YWFmNzIzYTAyNmE4YWYxODczMzZmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDI1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwNSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NDc4ZDZiZDQ2OGRlMGFiZjRhNTBmYmFlZDg1MzBiNGQ3NzJkYWUyNjdhMDcyMDBhNDgzM2U2MGYzN2E0MDBhYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ1MzAwMCwiaGFzaCI6ImJlNzlmNjJjMzE4YWYzZjk5NWRmMWJjOTNkYjczZjg5ODE5ZDU3ZTA1Y2I5YWEyMDBiMjBiM2NkMDNmYTM5MTgiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwNSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20819,7 +20819,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 6",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9528/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 6",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2E0NWY4MWM1MzM4ODMyMjViZjUzYjRlMDBhY2VjZTBmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDMyOVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OGQ0Y2M5NjczY2E3ZjhhYmY4YzVmMGM5YzNkYWUwNTMwOWFhNDk1NTZkNDQyMDQ2Njk4YTMyZTI5OGEwZjgzYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ1NjAwMCwiaGFzaCI6ImJmNjQ0MjUxN2Q4YjYxYjJjMTFhZDIzNmQ2OGJkYjEyZWNkMjA4NjkwNDA2NjY1ZThkNmE2OGE1ZTAxNWZmYWQiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwNiBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20835,7 +20835,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 7",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9529/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 7",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzkzYWE0OTVmOTVjNDYyYTI0ODE0ZTdkODI3ZGE5YjZlP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDMzOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwNyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTY3MmM5YWM5NGExYjkxOGRjZmYxNDY1ZGY3ZTQ1NTIwZTU2YWEzZTY4MjYyM2JjODVjY2NiZDVhODEyMjA0ZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ2MDAwMCwiaGFzaCI6IjczODZkZmU1MTdmODIyZGJlM2Q3OTY3MzU3MGViZjdjNTU2ZDQ1ODBiYTk4ZGQ5YTRlZGJiYmY0NTliNGNkYmEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwNyBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20851,7 +20851,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 8",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9530/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 8",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMyZDg3YzU2NGYzOTFmZWJiZDczNGZkYWM2ZGMyNmM0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDQ0N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwOCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MGRhYzg4MWIwMzA5NTJlYTUwOGFhZWZkZDIzZTk1NjlkMGRiMjAzMDhlMWI4MTUzYTY5YWNkM2NmZDRmY2UzZSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ2NDAwMCwiaGFzaCI6ImFiNDlmMDYyYzA1ZmMzMzk5NTNiNzIxODlkNTM5ZTQ4Yjg1ZDA2ZGQ4NmY2OWUzNzA3MTQ3MDNjMGVjMmZjNmEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwOCBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20867,7 +20867,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 9",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9531/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 9",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1NjdjZjUxMzNjYmVkOWFiYTIxN2VhNDI5NjUwM2M3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDQ1MVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NDJlZDc0OTZkNWI4OGNiNzUwZjkxMmYxN2FkZDY4ZWFkYjI2ZTc3YTk1NWUwYmQ5OTM0MGQwZTM4N2Y2MzFjZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ2OTAwMCwiaGFzaCI6ImVmZWNhODUzYzIyYmUzOTJkZGVmY2Y5YTZhYTBiMDliZTE5OWQzZTNlOTZjZDI4ZTgxNjNlMmY3MTIxMzcxNmMiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwOSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20883,7 +20883,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 10",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9532/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 10",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzExMWJmZjk0MTc2MjNhMWY4ZjU1MDQzOTI5NmYwMTUzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDU1N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUxMCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MGQxOTk5OTYyNjUxZmRlOWJlY2VmMWRiYzI3NjUzNGU2NzZmNDEzNWViNWU1MzAwOWNkNGJlZTlmM2JlNzM4NSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ3MzAwMCwiaGFzaCI6IjlmNGNiYWVmYWI1OTJkZDQ4ODdmY2VmMmUzNjk3YzBmZDU1YTc1MjEwMjVjMjFjN2RjNjA2YTc1NjM2NDZlZDEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUxMCBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20899,7 +20899,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 11",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9533/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 11",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzBjMjM4ZTk2ZDU2MmI0NDNhMmEyZjg1ZmRjOTRjNjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDYwMVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUxMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZGEzNTNhMjNkNjRmYjg1NzgyNDQzYzkzOGY5YzczMTI2MGJiMjA5ODUxMWU4MTgyZThiNTY0ZTAzYmQwYmM3YSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ3NjAwMCwiaGFzaCI6IjRiZTMwNzFhN2JjODA1MmEwNjVmMmUyYjQ4MWI3NGVmZGU3M2M0NWU0NDdjMjkxMGQxYjI3YThhMjYyYTk5ZjUiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUxMSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20915,7 +20915,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 12",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9534/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 12",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzIxNGIyNmNmYjBlY2Y4OWFjZWY3ZGVmOGNmOWEzMjBkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDg0MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUxMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZDNlNjgzYWQ4Nzk0MmRmNTIzNjUzZjAzNmNiODFiNDlkNTgxOWVjNzVjOWYyYTRmMTQ5NTdkZmFjYWQyYzFhMiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ3OTAwMCwiaGFzaCI6Ijk0NDU5MWVmMTJmY2M3MWIzNWM2OGJjNDAxMWE4ZjFiNTk3NTExNDE4ODQ3NzBkODU2ZDgxMTVhOWI1YjI4NWIiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUxMiBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20931,7 +20931,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Episode 13",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+            "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9535/original.jpg",
             "synopsis": "GANTZ Season 2 Episode 13",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzA4YmRkYTdiYzZiMzI5ZjRmNTExYTA5MjBkOTJmNzY4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDkwNlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUxMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NTkwN2YwNjI1MGIyMDdkNTNmOGUyZDdkNzM4NzU0ZDAwMjI5YzY0MGE0ODUyNzg5MGJiZmEwY2EyODBhMmUzNyIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ4MzAwMCwiaGFzaCI6IjYzOGY2MTZlYTU0MmQ5ODlkMjVkN2RkZmQ2YzZkYjY4NTE5MzE3YWUxMTMyNWIzODNlZjI1Mjg2MTBhODM1OWEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUxMyBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
             "downloadLinks": {
@@ -20951,7 +20951,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 1",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9523/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 1",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Q1MDgwNjNiNDZhZGY5Njc4ZTI4MGRiOGZkN2Q4MTBjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEzMzM1N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZjY1Y2FkZGFhNzk1ODA1NzA1ZmVhMjA1M2Q0MDhiOGYxOWVjMDZlNzE4Mjg1N2NhODNmYzcwOGFiZWRjMGYyNSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQzODAwMCwiaGFzaCI6ImNmOTFkMjBkZGJjMTFlMGMxZTliNGI2YjFkYTVkOTllMjVhNmI2NGIzM2ViMzFhZjgwNzcwNDZlMGNjY2ZlNjkiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwMSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -20967,7 +20967,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 2",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9524/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 2",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzI2MjIzZjNkYzU4YWM3NmQ3NTA1OGU0MjY0NmFmNWM5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDE1NDEyOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTZlNzAyOGZmMGZkZGQwZDgyMDM2OTRlN2Q4NmQ5MzU4OTZmNGNkMTJlMGQ3OGU3NjVhYjBmNTFkM2U0MGJkMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ0MjAwMCwiaGFzaCI6ImQ2OTQ5OWFiYjg1M2E2ODdiMjUxMTBkMGNjM2I2MmRhYzZjNmE1ZDE3OWJkNTQ1ZGVjZjE2MTViY2RhYjFmZDkiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwMiBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -20983,7 +20983,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 3",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9525/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 3",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2IzYWM5MDAyYzNiMjMyZmNiOGZjNWU3OGM4YTY0ZjIzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDE3MjkxM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZjU1MDQ4YjExYzU2M2JhZWRhZmY3M2Q2YmFjMDAxYjI5NWFkNzg0NDVlMTllYjE1ZmZiNGY1OTNmZmU2YjM0NSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ0NTAwMCwiaGFzaCI6ImNlYjcxNTc3MWRkNzk1Mjk4MDM0NGU4ZjYyNTI2OWY0OTFiYTc4MDRjY2MzZTc0OTMyNzE0NjQyMWViOTJiZmYiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwMyBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -20999,7 +20999,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 4",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9526/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 4",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2JiNTkxYTBmOWNjMjRhMDU3NmEyNDMyMmE0NWQyNzg5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDEwNDgyMVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwNCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTdiNWQzODgwNTFlYWM1ZGM4YThmMzBkNTFlNmI3N2M4NDIzNTU3ZmJlYTVkYWY5M2JmZWI0ZGI2ODA2YTE1NiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ0ODAwMCwiaGFzaCI6IjZlZDQ2OTQ0YTRiZDE3ZmQ2NWQ2Mzk0NTBmYTcyZjIwNGE3NjA4YTQ1MzFkMzEzZTNmZGZiNDk2NGQ0NWU4YjEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwNCBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -21015,7 +21015,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 5",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9527/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 5",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2E5N2IxYzQwYzE0YWFmNzIzYTAyNmE4YWYxODczMzZmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDI1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwNSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NDc4ZDZiZDQ2OGRlMGFiZjRhNTBmYmFlZDg1MzBiNGQ3NzJkYWUyNjdhMDcyMDBhNDgzM2U2MGYzN2E0MDBhYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ1MzAwMCwiaGFzaCI6ImJlNzlmNjJjMzE4YWYzZjk5NWRmMWJjOTNkYjczZjg5ODE5ZDU3ZTA1Y2I5YWEyMDBiMjBiM2NkMDNmYTM5MTgiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwNSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -21031,7 +21031,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 6",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9528/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 6",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2E0NWY4MWM1MzM4ODMyMjViZjUzYjRlMDBhY2VjZTBmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDMyOVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OGQ0Y2M5NjczY2E3ZjhhYmY4YzVmMGM5YzNkYWUwNTMwOWFhNDk1NTZkNDQyMDQ2Njk4YTMyZTI5OGEwZjgzYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ1NjAwMCwiaGFzaCI6ImJmNjQ0MjUxN2Q4YjYxYjJjMTFhZDIzNmQ2OGJkYjEyZWNkMjA4NjkwNDA2NjY1ZThkNmE2OGE1ZTAxNWZmYWQiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwNiBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -21047,7 +21047,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 7",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9529/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 7",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzkzYWE0OTVmOTVjNDYyYTI0ODE0ZTdkODI3ZGE5YjZlP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDMzOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwNyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTY3MmM5YWM5NGExYjkxOGRjZmYxNDY1ZGY3ZTQ1NTIwZTU2YWEzZTY4MjYyM2JjODVjY2NiZDVhODEyMjA0ZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ2MDAwMCwiaGFzaCI6IjczODZkZmU1MTdmODIyZGJlM2Q3OTY3MzU3MGViZjdjNTU2ZDQ1ODBiYTk4ZGQ5YTRlZGJiYmY0NTliNGNkYmEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwNyBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -21063,7 +21063,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 8",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9530/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 8",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMyZDg3YzU2NGYzOTFmZWJiZDczNGZkYWM2ZGMyNmM0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDQ0N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwOCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MGRhYzg4MWIwMzA5NTJlYTUwOGFhZWZkZDIzZTk1NjlkMGRiMjAzMDhlMWI4MTUzYTY5YWNkM2NmZDRmY2UzZSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ2NDAwMCwiaGFzaCI6ImFiNDlmMDYyYzA1ZmMzMzk5NTNiNzIxODlkNTM5ZTQ4Yjg1ZDA2ZGQ4NmY2OWUzNzA3MTQ3MDNjMGVjMmZjNmEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwOCBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -21079,7 +21079,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 9",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9531/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 9",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1NjdjZjUxMzNjYmVkOWFiYTIxN2VhNDI5NjUwM2M3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDQ1MVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUwOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NDJlZDc0OTZkNWI4OGNiNzUwZjkxMmYxN2FkZDY4ZWFkYjI2ZTc3YTk1NWUwYmQ5OTM0MGQwZTM4N2Y2MzFjZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ2OTAwMCwiaGFzaCI6ImVmZWNhODUzYzIyYmUzOTJkZGVmY2Y5YTZhYTBiMDliZTE5OWQzZTNlOTZjZDI4ZTgxNjNlMmY3MTIxMzcxNmMiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUwOSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -21095,7 +21095,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 10",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9532/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 10",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzExMWJmZjk0MTc2MjNhMWY4ZjU1MDQzOTI5NmYwMTUzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDU1N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUxMCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MGQxOTk5OTYyNjUxZmRlOWJlY2VmMWRiYzI3NjUzNGU2NzZmNDEzNWViNWU1MzAwOWNkNGJlZTlmM2JlNzM4NSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ3MzAwMCwiaGFzaCI6IjlmNGNiYWVmYWI1OTJkZDQ4ODdmY2VmMmUzNjk3YzBmZDU1YTc1MjEwMjVjMjFjN2RjNjA2YTc1NjM2NDZlZDEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUxMCBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -21111,7 +21111,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 11",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9533/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 11",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzBjMjM4ZTk2ZDU2MmI0NDNhMmEyZjg1ZmRjOTRjNjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDYwMVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUxMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZGEzNTNhMjNkNjRmYjg1NzgyNDQzYzkzOGY5YzczMTI2MGJiMjA5ODUxMWU4MTgyZThiNTY0ZTAzYmQwYmM3YSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ3NjAwMCwiaGFzaCI6IjRiZTMwNzFhN2JjODA1MmEwNjVmMmUyYjQ4MWI3NGVmZGU3M2M0NWU0NDdjMjkxMGQxYjI3YThhMjYyYTk5ZjUiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUxMSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -21127,7 +21127,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 12",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9534/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 12",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzIxNGIyNmNmYjBlY2Y4OWFjZWY3ZGVmOGNmOWEzMjBkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDg0MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUxMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZDNlNjgzYWQ4Nzk0MmRmNTIzNjUzZjAzNmNiODFiNDlkNTgxOWVjNzVjOWYyYTRmMTQ5NTdkZmFjYWQyYzFhMiIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ3OTAwMCwiaGFzaCI6Ijk0NDU5MWVmMTJmY2M3MWIzNWM2OGJjNDAxMWE4ZjFiNTk3NTExNDE4ODQ3NzBkODU2ZDgxMTVhOWI1YjI4NWIiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUxMiBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -21143,7 +21143,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Episode 13",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-Y2i3xI1e1a4d.png",
+        "thumbnail": "https://media.kitsu.app/episodes/thumbnails/9535/original.jpg",
         "synopsis": "GANTZ Season 2 Episode 13",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzA4YmRkYTdiYzZiMzI5ZjRmNTExYTA5MjBkOTJmNzY4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDA4MDkwNlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBHQU5UWiUyMFMwMkUxMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NTkwN2YwNjI1MGIyMDdkNTNmOGUyZDdkNzM4NzU0ZDAwMjI5YzY0MGE0ODUyNzg5MGJiZmEwY2EyODBhMmUzNyIsInRpbWVzdGFtcCI6MTc4ODQ0ODQ4MzAwMCwiaGFzaCI6IjYzOGY2MTZlYTU0MmQ5ODlkMjVkN2RkZmQ2YzZkYjY4NTE5MzE3YWUxMTMyNWIzODNlZjI1Mjg2MTBhODM1OWEiLCJmaWxlbmFtZSI6IkdBTlRaIFMwMkUxMyBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
         "downloadLinks": {
@@ -22922,32 +22922,72 @@ export const ANIME_DATABASE = [
   }
 ];
 
-export function getTrendingAnime() {
-  const trending = ANIME_DATABASE.filter(item => item.isTrending);
-  if (trending.length >= 6) return trending;
-  return [...ANIME_DATABASE].sort((a, b) => (b.rating || 0) - (a.rating || 0)).slice(0, 12);
+// Curated list of world-famous blockbuster anime (Naruto, Solo Leveling, JJK, Demon Slayer, etc.)
+const FAMOUS_POPULAR_IDS = [
+  "solo-leveling",
+  "naruto",
+  "naruto-shippuden",
+  "jujutsu-kaisen",
+  "demon-slayer",
+  "one-punch-man",
+  "attack-on-titan",
+  "death-note",
+  "one-piece",
+  "chainsaw-man",
+  "dan-da-dan",
+  "frieren",
+  "mob-psycho-100",
+  "classroom-of-the-elite",
+  "haikyu",
+  "mushoku-tensei",
+  "slime-reincarnation",
+  "my-hero-academia-vigilantes"
+];
+
+export function getNewlyAddedAnime() {
+  // Returns the most recently added anime to the database (preserving newest insertion order)
+  return ANIME_DATABASE.slice(0, 16);
 }
 
 export function getPopularAnime() {
-  const popular = ANIME_DATABASE.filter(item => item.isPopular);
-  if (popular.length >= 6) return popular;
-  return [...ANIME_DATABASE].sort((a, b) => (b.year || 0) - (a.year || 0)).slice(0, 14);
+  // Only truly famous blockbuster anime (Naruto, Solo Leveling, Jujutsu Kaisen, etc.)
+  const popularMap = new Map();
+  for (const id of FAMOUS_POPULAR_IDS) {
+    const anime = ANIME_DATABASE.find(item => item.id === id);
+    if (anime) popularMap.set(anime.id, anime);
+  }
+  for (const item of ANIME_DATABASE) {
+    if (item.isPopular && !popularMap.has(item.id)) {
+      popularMap.set(item.id, item);
+    }
+  }
+  return Array.from(popularMap.values());
 }
 
 export function getActionAnime() {
-  return ANIME_DATABASE.filter(item => (item.genres || []).some(g => g.includes("Action") || g.includes("Isekai") || g.includes("Adventure") || g.includes("Fantasy")));
+  // Strictly Action, Adventure, and Isekai anime (excluding pure romance/drama/school fantasies)
+  return ANIME_DATABASE.filter(item => {
+    const genres = (item.genres || []).map(g => g.toLowerCase());
+    return genres.some(g => g === "action" || g === "adventure" || g === "isekai" || g.includes("action") || g.includes("adventure") || g.includes("isekai"));
+  });
 }
 
 export function getTopRatedAnime() {
-  return [...ANIME_DATABASE].sort((a, b) => (b.rating || 0) - (a.rating || 0));
+  return [...ANIME_DATABASE]
+    .filter(item => (item.rating || 0) >= 8.0)
+    .sort((a, b) => (b.rating || 0) - (a.rating || 0));
 }
 
 export function getMovies() {
-  return ANIME_DATABASE.filter(item => item.type === "Movie" || (item.genres || []).includes("Animation") || (item.genres || []).includes("Family"));
+  return ANIME_DATABASE.filter(item => item.type === "Movie" || (item.genres || []).some(g => g.toLowerCase().includes("movie")));
+}
+
+export function getTrendingAnime() {
+  return getPopularAnime();
 }
 
 export function getNewReleases() {
-  return ANIME_DATABASE.filter(item => (item.year || 0) >= 2024 || item.currentEpBadge?.includes("S1") || item.currentEpBadge?.includes("S2"));
+  return getNewlyAddedAnime();
 }
 
 export function getAnimeById(id) {
