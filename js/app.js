@@ -15,7 +15,7 @@ import {
 } from './data.js';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
-import { UIRenderer } from './ui.js?v=20260925_v36';
+import { UIRenderer } from './ui.js?v=20260926_v37';
 
 class App {
   constructor() {
@@ -253,13 +253,41 @@ class App {
   // Shelves Initialization & Scroll Navigation
   // --------------------------------------------------------------------------
   initShelves() {
-    UIRenderer.renderContinueWatching();
+    try {
+      UIRenderer.renderContinueWatching();
+    } catch (e) {
+      console.warn("Continue watching render error:", e);
+    }
 
-    UIRenderer.renderShelf("newly-added-shelf-track", getNewlyAddedAnime());
-    UIRenderer.renderShelf("popular-shelf-track", getPopularAnime());
-    UIRenderer.renderShelf("action-shelf-track", getActionAnime());
-    UIRenderer.renderShelf("top-shelf-track", getTopRatedAnime());
-    UIRenderer.renderShelf("movies-shelf-track", getMovies());
+    try {
+      UIRenderer.renderShelf("newly-added-shelf-track", getNewlyAddedAnime());
+    } catch (e) {
+      console.error("Newly added shelf render error:", e);
+    }
+
+    try {
+      UIRenderer.renderShelf("popular-shelf-track", getPopularAnime());
+    } catch (e) {
+      console.error("Popular shelf render error:", e);
+    }
+
+    try {
+      UIRenderer.renderShelf("action-shelf-track", getActionAnime());
+    } catch (e) {
+      console.error("Action shelf render error:", e);
+    }
+
+    try {
+      UIRenderer.renderShelf("top-shelf-track", getTopRatedAnime());
+    } catch (e) {
+      console.error("Top shelf render error:", e);
+    }
+
+    try {
+      UIRenderer.renderShelf("movies-shelf-track", getMovies());
+    } catch (e) {
+      console.error("Movies shelf render error:", e);
+    }
 
     // Shelf Left / Right navigation buttons
     document.querySelectorAll(".shelf-nav-btn").forEach(btn => {

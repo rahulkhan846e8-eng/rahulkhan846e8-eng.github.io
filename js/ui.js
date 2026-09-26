@@ -131,49 +131,61 @@ export class UIRenderer {
     const wrapper = document.getElementById("continue-shelf-section");
     if (!container || !wrapper) return;
 
-    const history = StorageService.getWatchHistory();
-    if (!history || history.length === 0) {
-      wrapper.style.display = "none";
-      return;
-    }
+    try {
+      const history = StorageService.getWatchHistory();
+      if (!history || history.length === 0) {
+        wrapper.style.display = "none";
+        return;
+      }
 
-    wrapper.style.display = "block";
-    container.innerHTML = history.slice(0, 10).map(item => {
-      const anime = getAnimeById(item.animeId);
-      if (!anime) return "";
-      let ep = anime.episodes?.find(e => e.number === item.episodeNumber);
-      if (!ep && anime.seasons) {
-        const season = anime.seasons.find(s => s.number === (item.seasonNumber || 1)) || anime.seasons[0];
-        ep = season?.episodes?.find(e => e.number === item.episodeNumber);
+      const validItems = history.filter(item => getAnimeById(item.animeId));
+      if (validItems.length === 0) {
+        wrapper.style.display = "none";
+        return;
       }
-      if (!ep) {
-        ep = { number: item.episodeNumber, title: `Episode ${item.episodeNumber}` };
-      }
-      const progressLabel = item.percent > 0 ? `${item.percent}% watched` : "Watching";
-      const progressWidth = item.percent > 0 ? item.percent : 100;
-      const progressColor = item.percent > 0 ? "" : "background: var(--cr-accent-blue, #2563eb);";
-      const thumbSrc = ep?.thumbnail || anime.banner || anime.poster;
-      return `
-        <div class="continue-card play-episode-btn" data-anime-id="${anime.id}" data-ep="${item.episodeNumber}">
-          <div class="continue-thumb">
-            <img src="${thumbSrc}" alt="${anime.title}" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
-            <div class="continue-play-icon">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+
+      wrapper.style.display = "block";
+      container.innerHTML = validItems.slice(0, 10).map(item => {
+        const anime = getAnimeById(item.animeId);
+        if (!anime) return "";
+        const isMovie = anime.type === "Movie";
+        let ep = anime.episodes?.find(e => e.number === item.episodeNumber);
+        if (!ep && anime.seasons) {
+          const season = anime.seasons.find(s => s.number === (item.seasonNumber || 1)) || anime.seasons[0];
+          ep = season?.episodes?.find(e => e.number === item.episodeNumber);
+        }
+        if (!ep) {
+          ep = { number: item.episodeNumber, title: `Episode ${item.episodeNumber}` };
+        }
+        const progressLabel = item.percent > 0 ? `${item.percent}% watched` : "Watching";
+        const progressWidth = item.percent > 0 ? item.percent : 100;
+        const progressColor = item.percent > 0 ? "" : "background: var(--cr-accent-blue, #2563eb);";
+        const thumbSrc = ep?.thumbnail || anime.banner || anime.poster;
+        return `
+          <div class="continue-card play-episode-btn" data-anime-id="${anime.id}" data-ep="${item.episodeNumber}">
+            <div class="continue-thumb">
+              <img src="${thumbSrc}" alt="${anime.title}" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
+              <div class="continue-play-icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+              </div>
+              <div class="continue-progress-bar">
+                <div class="continue-progress-fill" style="width: ${progressWidth}%; ${progressColor}"></div>
+              </div>
             </div>
-            <div class="continue-progress-bar">
-              <div class="continue-progress-fill" style="width: ${progressWidth}%; ${progressColor}"></div>
+            <div class="continue-body">
+              <h4 class="continue-title">${anime.title}</h4>
+              <div class="continue-sub">
+                <span>${isMovie ? 'Full Movie' : `Episode ${item.episodeNumber}`}</span>
+                <span>${progressLabel}</span>
+              </div>
             </div>
           </div>
-          <div class="continue-body">
-            <h4 class="continue-title">${anime.title}</h4>
-            <div class="continue-sub">
-              <span>${isMovie ? 'Full Movie' : `Episode ${item.episodeNumber}`}</span>
-              <span>${progressLabel}</span>
-            </div>
-          </div>
-        </div>
-      `;
-    }).join("");
+        `;
+      }).join("");
+    } catch (err) {
+      console.warn("Continue watching render error:", err);
+      wrapper.style.display = "none";
+    }
   }
 
   // --------------------------------------------------------------------------
