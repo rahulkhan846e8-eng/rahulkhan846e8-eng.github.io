@@ -269,7 +269,7 @@ export class UIRenderer {
       const set = new Set();
       const allEpisodes = (a.seasons || []).flatMap(s => s.episodes || []).concat(a.episodes || []);
       for (const ep of allEpisodes) {
-        if (ep.downloadLinks?.hindi || ep.downloadUrl) set.add("hindi");
+        if (ep.downloadLinks?.hindi || (ep.downloadUrl && !ep.downloadLinks?.original)) set.add("hindi");
         if (ep.downloadLinks?.original) set.add("original");
       }
       return set.size > 0 ? Array.from(set) : ["hindi", "original"];
@@ -503,7 +503,7 @@ export class UIRenderer {
       const set = new Set();
       const allEpisodes = (a.seasons || []).flatMap(s => s.episodes || []).concat(a.episodes || []);
       for (const e of allEpisodes) {
-        if (e.downloadLinks?.hindi || e.downloadUrl) set.add("hindi");
+        if (e.downloadLinks?.hindi || (e.downloadUrl && !e.downloadLinks?.original)) set.add("hindi");
         if (e.downloadLinks?.original) set.add("original");
       }
       return set.size > 0 ? Array.from(set) : ["hindi", "original"];
@@ -534,7 +534,11 @@ export class UIRenderer {
 
     // Direct download link (Single High Quality option supporting language tracks)
     const dlLinks = ep.downloadLinks || {};
-    const getActiveDlUrl = (l) => (dlLinks && dlLinks[l]) ? dlLinks[l] : (dlLinks["1080p"] || dlLinks["720p"] || dlLinks["480p"] || ep.downloadUrl || "");
+    const getActiveDlUrl = (l) => {
+      if (dlLinks && dlLinks[l]) return dlLinks[l];
+      if (l === "hindi" && dlLinks && dlLinks.original && !dlLinks.hindi) return "";
+      return dlLinks["1080p"] || dlLinks["720p"] || dlLinks["480p"] || ep.downloadUrl || "";
+    };
     const directDlUrl = getActiveDlUrl(currentLang);
 
     container.innerHTML = `

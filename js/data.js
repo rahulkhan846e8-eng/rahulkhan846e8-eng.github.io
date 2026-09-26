@@ -58,7 +58,7 @@ export const ANIME_DATABASE = [
     "season": "2026",
     "studio": "Tatsunoko Production",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": false,
     "isPopular": false,
     "genres": [
@@ -265,7 +265,7 @@ export const ANIME_DATABASE = [
     "season": "2026",
     "studio": "LIDENFILMS",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": false,
     "isPopular": false,
     "genres": [
@@ -622,7 +622,7 @@ export const ANIME_DATABASE = [
     "season": "2026",
     "studio": "Kinema Citrus",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": false,
     "isPopular": false,
     "genres": [
@@ -827,7 +827,7 @@ export const ANIME_DATABASE = [
     "season": "2026",
     "studio": "project No.9",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": false,
     "isPopular": false,
     "genres": [
@@ -1017,7 +1017,7 @@ export const ANIME_DATABASE = [
     "season": "2026",
     "studio": "ROLL2",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": false,
     "isPopular": false,
     "genres": [
