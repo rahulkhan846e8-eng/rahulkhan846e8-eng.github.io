@@ -8,10 +8,10 @@
 
 window.SHINOBI_ADS_CONFIG = {
   // Enable or disable the download countdown ad modal (true = ON, false = OFF)
-  enabled: true,
+  enabled: false,
 
-  // Countdown timer in seconds before the high-speed download link unlocks
-  countdownSeconds: 20,
+  // Countdown timer in seconds before the high-speed download link unlocks (0 = instant download)
+  countdownSeconds: 0,
 
   // Active Ad Format: 'banner_300x250' (cleanest & highest revenue)
   activeAdFormat: 'banner_300x250',

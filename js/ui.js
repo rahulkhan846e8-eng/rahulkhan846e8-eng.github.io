@@ -738,7 +738,14 @@ export class UIRenderer {
           return;
         }
 
-        // Intercept download and trigger the 20-second Rewarded Ad Modal
+        // If countdown modal is disabled or set to 0 seconds, open download directly immediately
+        const adsConfig = window.SHINOBI_ADS_CONFIG;
+        if (!adsConfig || !adsConfig.enabled || Number(adsConfig.countdownSeconds) <= 0) {
+          window.open(activeUrl, "_blank", "noopener,noreferrer");
+          return;
+        }
+
+        // Intercept download and trigger the Rewarded Ad Modal
         e.preventDefault();
         try {
           const epTitle = isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : (ep.title || `Episode ${ep.number}`);
@@ -758,12 +765,12 @@ export class UIRenderer {
   }
 
   // --------------------------------------------------------------------------
-  // 20-Second Rewarded Download Ad Modal (Adsterra Integration)
+  // Rewarded Download Ad Modal (Adsterra Integration)
   // --------------------------------------------------------------------------
   static openDownloadCountdownModal({ downloadUrl, animeTitle, epTitle, lang, quality }) {
     const config = window.SHINOBI_ADS_CONFIG || {
-      enabled: true,
-      countdownSeconds: 20,
+      enabled: false,
+      countdownSeconds: 0,
       adsterraDirectLink: "",
       bannerCode: "",
       autoStartDownloadOnUnlock: true,
@@ -771,8 +778,8 @@ export class UIRenderer {
       statusMessage: "Preparing high-speed 1080p download link..."
     };
 
-    // If disabled, directly open link
-    if (!config.enabled) {
+    // If disabled or countdown is 0, directly open link immediately
+    if (!config.enabled || Number(config.countdownSeconds) <= 0) {
       window.open(downloadUrl, "_blank", "noopener,noreferrer");
       return;
     }
