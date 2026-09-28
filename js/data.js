@@ -1416,7 +1416,7 @@ export const ANIME_DATABASE = [
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171018-SpwPNAduszXP.jpg",
     "rating": 8.7,
     "year": 2024,
-    "currentEpBadge": "S1-EP12",
+    "currentEpBadge": "S2-EP12",
     "status": "Completed",
     "type": "TV Series",
     "season": "2024",
@@ -1441,192 +1441,380 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 1,
-            "title": "Episode 1",
+            "title": "That’s How Love Starts, Ya Know!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 1 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/xjTZc4fD?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/xjTZc4fD?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/xjTZc4fD?download"
             }
           },
           {
             "id": 2,
             "number": 2,
             "season": 1,
-            "title": "Episode 2",
+            "title": "That’s a Space Alien, Ain’t It?!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 2 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/wgu6CEZ9?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/wgu6CEZ9?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/wgu6CEZ9?download"
             }
           },
           {
             "id": 3,
             "number": 3,
             "season": 1,
-            "title": "Episode 3",
+            "title": "It’s a Granny vs. Granny Clash!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 3 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/fy1od5GD?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/fy1od5GD?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/fy1od5GD?download"
             }
           },
           {
             "id": 4,
             "number": 4,
             "season": 1,
-            "title": "Episode 4",
+            "title": "Kicking Turbo Granny’s Ass",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 4 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/XxxVDRNF?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/XxxVDRNF?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/XxxVDRNF?download"
             }
           },
           {
             "id": 5,
             "number": 5,
             "season": 1,
-            "title": "Episode 5",
+            "title": "Like, Where Are Your Balls?!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 5 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/TaTFCWKU?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/TaTFCWKU?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/TaTFCWKU?download"
             }
           },
           {
             "id": 6,
             "number": 6,
             "season": 1,
-            "title": "Episode 6",
+            "title": "A Dangerous Woman Arrives",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 6 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/F8komqCP?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/F8komqCP?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/F8komqCP?download"
             }
           },
           {
             "id": 7,
             "number": 7,
             "season": 1,
-            "title": "Episode 7",
+            "title": "To a Kinder World",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 7 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/i4Uep1BF?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/i4Uep1BF?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/i4Uep1BF?download"
             }
           },
           {
             "id": 8,
             "number": 8,
             "season": 1,
-            "title": "Episode 8",
+            "title": "I’ve Got This Funny Feeling",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 8 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/nDHa6Hxe?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/nDHa6Hxe?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/nDHa6Hxe?download"
             }
           },
           {
             "id": 9,
             "number": 9,
             "season": 1,
-            "title": "Episode 9",
+            "title": "Merge! Serpo Dover Demon Nessie!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 9 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/8se2MmDS?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/8se2MmDS?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/8se2MmDS?download"
             }
           },
           {
             "id": 10,
             "number": 10,
             "season": 1,
-            "title": "Episode 10",
+            "title": "Have You Ever Seen a Cattle Mutilation?",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 10 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/NpkfTgMT?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/NpkfTgMT?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/NpkfTgMT?download"
             }
           },
           {
             "id": 11,
             "number": 11,
             "season": 1,
-            "title": "Episode 11",
+            "title": "First Love",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 11 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/qtbuKhk1?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/qtbuKhk1?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/qtbuKhk1?download"
             }
           },
           {
             "id": 12,
             "number": 12,
             "season": 1,
-            "title": "Episode 12",
+            "title": "Dan Da Dan S01E12 [RareToonsIndia].mkv",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 12 of DAN DA DAN",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
+            "downloadUrl": "https://pixeldrain.net/u/VNuArPjA?download",
             "downloadLinks": {
-              "1080p": "",
+              "1080p": "https://pixeldrain.net/u/VNuArPjA?download",
               "720p": "",
-              "480p": ""
+              "480p": "",
+              "hindi": "https://pixeldrain.net/u/VNuArPjA?download"
+            }
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Like, This Is the Legend of the Giant Snake",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 1 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/AGbUMGUC?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/AGbUMGUC?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "The Evil Eye",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 2 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/edbfz5FF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/edbfz5FF?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "You Won’t Get Away With This!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 3 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/QqVi8bzE?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/QqVi8bzE?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "That’s, Like, Way Deadly!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 4 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/cB9vYEJX?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/cB9vYEJX?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "We Can All Stay There Together!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 5 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/VLgEKw4F?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/VLgEKw4F?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "We Became a Family -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 6 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/LRUQkY5Q#Gk-UWsCOMVnKjpGY7XX0QgMUo2RdAutgtbhGU6XTs3o",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/LRUQkY5Q#Gk-UWsCOMVnKjpGY7XX0QgMUo2RdAutgtbhGU6XTs3o"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Feeling Kinda Gloomy",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 7 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/fohLBU6Q?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/fohLBU6Q?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "You Can Do It, Okarun!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 8 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/VirtiJK8?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/VirtiJK8?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "I Want to Rebuild the House",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 9 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/uZzg2Pgm?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/uZzg2Pgm?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 2,
+            "title": "The Secret Art of Being Attractive -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 10 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/VANRSTwL#6R8HC7eWeAy5eqWP1M0DCTjoQK26VHnbwysjRNFwwZA",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/VANRSTwL#6R8HC7eWeAy5eqWP1M0DCTjoQK26VHnbwysjRNFwwZA"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 2,
+            "title": "Hey, It’s a Kaiju",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 11 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/FBdqti2n?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/FBdqti2n?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 2,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "synopsis": "Episode 12 of DAN DA DAN (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/DMUUHJBI#UuyD7HuMfRMWC5fJB-2gUKlxP8wSjNkUD-zrlePUhns",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/DMUUHJBI#UuyD7HuMfRMWC5fJB-2gUKlxP8wSjNkUD-zrlePUhns"
             }
           }
         ]
@@ -1825,6 +2013,9 @@ export const ANIME_DATABASE = [
           "480p": ""
         }
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
