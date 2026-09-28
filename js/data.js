@@ -1406,6 +1406,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -2033,7 +2036,7 @@ export const ANIME_DATABASE = [
     "season": "Winter 2024",
     "studio": "A-1 Pictures",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -2428,6 +2431,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 12",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -2445,7 +2451,7 @@ export const ANIME_DATABASE = [
     "season": "Fall 2002",
     "studio": "Studio Pierrot",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -3518,6 +3524,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 26",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -4471,6 +4480,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 24",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -4488,7 +4500,7 @@ export const ANIME_DATABASE = [
     "season": "Spring 2024",
     "studio": "ufotable",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -5418,6 +5430,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 26",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -5435,7 +5450,7 @@ export const ANIME_DATABASE = [
     "season": "Spring 2024",
     "studio": "Studio Bind",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -6169,6 +6184,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 23",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -6186,7 +6204,7 @@ export const ANIME_DATABASE = [
     "season": "July 2016",
     "studio": "Bones",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -6709,6 +6727,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 12",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -6751,7 +6772,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 1",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/sDdmD155?download"
+              "hindi": "https://pixeldrain.net/u/sDdmD155?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=bi7POMX0DC2K5F6CuDiXOSxgO2Cgi6dXWChFPF5zX3eB7WZbG4Ebm4F27Q3niXxm&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=a83b0c86226f63b25d8bd97837100b10baacb28451b4bb5460f6faece6eaec10"
             },
             "downloadUrl": "https://pixeldrain.net/u/sDdmD155?download"
           },
@@ -6765,7 +6787,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 2",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/pVsEoSgT?download"
+              "hindi": "https://pixeldrain.net/u/pVsEoSgT?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=sMULjFPd6Rwp%2F68ixjJa0EJDD6HNOIV4RJAhV%2FPMueB%2FuElRcoWLiWU%2FGOwQ1xNk&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=655c6a75116b6419979dfbce673f061d9b83c9089a2795e68465db7e4146587c"
             },
             "downloadUrl": "https://pixeldrain.net/u/pVsEoSgT?download"
           },
@@ -6779,7 +6802,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 3",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/fBcSiQYv?download"
+              "hindi": "https://pixeldrain.net/u/fBcSiQYv?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=D0kUyImknWtulc0zIl1nGZH9JQzWhZplL5VH3oU%2FX1L%2BnbenYPmw7Y7twLb04BEJ&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=fedf65f89eba66a19d359eb9ef0369707186d7864d77065e3af05d7a27425882"
             },
             "downloadUrl": "https://pixeldrain.net/u/fBcSiQYv?download"
           },
@@ -6793,7 +6817,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 4",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/Gk9Q7syh?download"
+              "hindi": "https://pixeldrain.net/u/Gk9Q7syh?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=m0Qc%2FanU%2F21pppGLlRC7EJA2PAlEDEOh7VVcgAFoaOEZ4JRGr1g46j01VGdDkFFd&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=6587609e85be78ea1a7c2b7108abef62758cb1bbc054633a226e18fe00611bfe"
             },
             "downloadUrl": "https://pixeldrain.net/u/Gk9Q7syh?download"
           },
@@ -6807,7 +6832,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 5",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/aWw3jfwZ?download"
+              "hindi": "https://pixeldrain.net/u/aWw3jfwZ?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=GYHheZ014QAhevqknoLpxB0u8Df148L9riWw2ObmWZj7U5pegSH%2FP8LLXFhDOsuq&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=9767ad18e840c7ca5cef38734d409421aae8b7f2d0e3d1f9168f8a685562391b"
             },
             "downloadUrl": "https://pixeldrain.net/u/aWw3jfwZ?download"
           },
@@ -6821,7 +6847,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 6",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/pdBZVvvT?download"
+              "hindi": "https://pixeldrain.net/u/pdBZVvvT?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=l3J0%2FyjX8PqSvPzVAybWYkrB2FndaSwOJYFMZE0lKoEEqiaY2usdDZ7nFDA43F1S&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=d56aecfa6c98c9cb39e893793a275ab2ed63cd514ea09904ee1c73d2779e7ebe"
             },
             "downloadUrl": "https://pixeldrain.net/u/pdBZVvvT?download"
           },
@@ -6835,7 +6862,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 7",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/7uBjj9Bb?download"
+              "hindi": "https://pixeldrain.net/u/7uBjj9Bb?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=ERLBAj7SKhgVv8ZAqOhfOuVqvLfEZtVyfQU7ysiEoU9ZdlzMaikvpqz%2FZ1C6ZMWk&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=b1c132dfffe9df43010bc2f5f3539c689213a244d9d1774a55dd770eb9e1cca5"
             },
             "downloadUrl": "https://pixeldrain.net/u/7uBjj9Bb?download"
           },
@@ -6849,7 +6877,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 8",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/cJxCK5E8?download"
+              "hindi": "https://pixeldrain.net/u/cJxCK5E8?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=lHEkp8l%2B5sguEa8Xz7xsFmnw7Edqlh1%2FKbPB%2FT8vXC8hN7PJ%2FFgo3yEk%2BVTXDdAOM&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=269fc732857df9ea31820394a4600943d9f1b593f70d444130dea678cd24a117"
             },
             "downloadUrl": "https://pixeldrain.net/u/cJxCK5E8?download"
           },
@@ -6863,7 +6892,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 9",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/mVZLNEAu?download"
+              "hindi": "https://pixeldrain.net/u/mVZLNEAu?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=tNV4Fx5ijWY5gXUn%2FNAHdtMbH%2BQYI7WJxl%2B9Fl5nSuOBqRllw%2B2B0jlnS%2FfkulM6kX&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=c202cdb5e6a647f68c80c6fe18060c8dfd65b4f07b0f3e42ea09343f04d0e41c"
             },
             "downloadUrl": "https://pixeldrain.net/u/mVZLNEAu?download"
           },
@@ -6877,7 +6907,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 10",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/gqsxFsxD?download"
+              "hindi": "https://pixeldrain.net/u/gqsxFsxD?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=uG%2BKptrJsCeH%2BTty8fF12aAnzne0QBL%2Fxv3mtov1apHiEnCtyF%2B2BwTHbcAGMZ9Ky9&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=c8be9d6956938d6a70ff881e63649ecbb8bd3caf758d7f91f24c2d2108ee58a4"
             },
             "downloadUrl": "https://pixeldrain.net/u/gqsxFsxD?download"
           },
@@ -6891,7 +6922,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 11",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/ZVEbBgdN?download"
+              "hindi": "https://pixeldrain.net/u/ZVEbBgdN?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=JZBCQcf8%2FzkYF5IkqhrRpxNyJz%2F7hcmdhpg3HidRSdqQkbBlA3pRHVuvVSTObjV%2B&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=7b786171df93f289b183aeb7ea5f5c0c0ab51a3e7463c9c79d87e981351dee06"
             },
             "downloadUrl": "https://pixeldrain.net/u/ZVEbBgdN?download"
           },
@@ -6905,7 +6937,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 12",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/y3Fc6DWq?download"
+              "hindi": "https://pixeldrain.net/u/y3Fc6DWq?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=NcEeQVDmWaN8cMW1RpfEmH59Vou%2FfR2xTQU5D9QVSyZW7yAJgWbf55ZTqKEkuXpq&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=71939078c42c42f57f3edc13dd1374d1dfdfc807dfb60488cc00f9bbbe77e1c9"
             },
             "downloadUrl": "https://pixeldrain.net/u/y3Fc6DWq?download"
           },
@@ -6919,7 +6952,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 13",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/CfiUx3RS?download"
+              "hindi": "https://pixeldrain.net/u/CfiUx3RS?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=FNmZFmTIR6u6tvMiyfMMqxdrIMGhtPfMRdP7%2BGQEDXoMQG%2FH9KAHv%2FrGKwYQC37e&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=0df81b0bebb319aa3bb71d98e9b4a73b591e463640de5f169447065038c28ca0"
             },
             "downloadUrl": "https://pixeldrain.net/u/CfiUx3RS?download"
           },
@@ -6933,7 +6967,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 14",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/x9zn5Zn8?download"
+              "hindi": "https://pixeldrain.net/u/x9zn5Zn8?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=6q6Clr2nAAsXB4fFNA6aX0j07PCA7DTpkdSVwQIhzpguROzFsomy1oW2nqOihGel&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=5b54ff4b01d4c4bf356f39483c8aac908f4f0899997526d15377b2f4fc1186f2"
             },
             "downloadUrl": "https://pixeldrain.net/u/x9zn5Zn8?download"
           },
@@ -6947,7 +6982,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 15",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/4SLvW2FE?download"
+              "hindi": "https://pixeldrain.net/u/4SLvW2FE?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=ii9bDjRwSR6wZr7A2ZH7%2BGjbQNYSywrgsCsuDXPZjl5Bnot%2BxHgS2epVIuSIusuH&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=4c353e81ece84f328189c109137edae5baebc8e1b374d3108f18ec4ed8e9935e"
             },
             "downloadUrl": "https://pixeldrain.net/u/4SLvW2FE?download"
           },
@@ -6961,7 +6997,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 16",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/FTqB7pVh?download"
+              "hindi": "https://pixeldrain.net/u/FTqB7pVh?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=GheGhi%2FKIKLFe1dP3ve%2Bd2zgMCN2UY22plnNygLJW%2FLPvxmcHaD%2FWJcHzq1G6WrV&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=f586d86aa7f0d57da0d00684915d1c87a37bd683a885fb48850172978c18d20e"
             },
             "downloadUrl": "https://pixeldrain.net/u/FTqB7pVh?download"
           },
@@ -6975,7 +7012,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 17",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/wNRpfqZw?download"
+              "hindi": "https://pixeldrain.net/u/wNRpfqZw?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=L3DIFQRK3cznlAb2ox1%2BT8ZtYcctgQe40TVxs5hGf%2FrnAeGL8DcO2wPk0UHDd7nl&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=34256c55133f8dee7c2e4ccc691286d526483969cefbcf899034a4ead86a7e46"
             },
             "downloadUrl": "https://pixeldrain.net/u/wNRpfqZw?download"
           },
@@ -6989,7 +7027,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 18",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/6sqQjKs1?download"
+              "hindi": "https://pixeldrain.net/u/6sqQjKs1?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=CErhH9ZCXkwPWESw4B5q3oyFoQruScvrQmkfKqug%2BVevjFnCCu2Mg4DCbHV5JzDb&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=de71e04eef67280e896415671a1691348a787d00714bfa231da88e7c0b716896"
             },
             "downloadUrl": "https://pixeldrain.net/u/6sqQjKs1?download"
           },
@@ -7003,7 +7042,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 19",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/PQ6mTmkV?download"
+              "hindi": "https://pixeldrain.net/u/PQ6mTmkV?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=p9jOCxhejA1ieKq89aEND5rmA%2FbjNptlr2Yo%2BV6kddTKS%2B%2F3kzqwM0Pr7dAasl9H&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=5ec05da9ddf3e95d5d9cc7089d3ad310c4c0fa0f6ebda124c1faa9ac78101b73"
             },
             "downloadUrl": "https://pixeldrain.net/u/PQ6mTmkV?download"
           },
@@ -7017,7 +7057,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 20",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/2i3NQvxj?download"
+              "hindi": "https://pixeldrain.net/u/2i3NQvxj?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=MO9J1N8NwjX%2FWM11W6zujhIaqSK7byTUIpUC9c49xbhKlHTGHRJiFPs8DsWtAAOR&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=5f42a16077a94a516a6d449e455e30361afaa86be9ba93e57786dcd8bc248bff"
             },
             "downloadUrl": "https://pixeldrain.net/u/2i3NQvxj?download"
           },
@@ -7031,7 +7072,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 21",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/qfAKKKag?download"
+              "hindi": "https://pixeldrain.net/u/qfAKKKag?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=qWfZUPf5C2zGR%2B2ugjqiEKZCQ2rk4ZuQ98fNnYwxG3WDxhrFzfQla9aKKNu9kLKp&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=87e5c7524aca6e58855ee2700c81ad84069ce196d2c41cb6aad10a97b53c4374"
             },
             "downloadUrl": "https://pixeldrain.net/u/qfAKKKag?download"
           },
@@ -7045,7 +7087,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 22",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/f7fyG545?download"
+              "hindi": "https://pixeldrain.net/u/f7fyG545?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=IEbG4KrEKThtfeVLH6AEUbjNNfeGg3K4atlim0NXeZy6czdRxdIH7lAHEsua1%2BUO&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=860d258ee2841d4295b1c1eb42fc32cebcd0b01d0b19ec917db8a4de946176b5"
             },
             "downloadUrl": "https://pixeldrain.net/u/f7fyG545?download"
           },
@@ -7059,7 +7102,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 23",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/hPv8fDJ4?download"
+              "hindi": "https://pixeldrain.net/u/hPv8fDJ4?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=2Ajb2CDeAToShzXeVaoUnwLUxmiRrcrlgwLaInRMOvxv2aJLPfMKHSVgdm8XkWlL&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=880d3105621c2ec143eeb3948ea92dbecea6a7085c2adf529b06df62fb58f2d6"
             },
             "downloadUrl": "https://pixeldrain.net/u/hPv8fDJ4?download"
           },
@@ -7073,7 +7117,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 24",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/tuw3Zxt1?download"
+              "hindi": "https://pixeldrain.net/u/tuw3Zxt1?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=zAzZG1CWVrmZbkFWLPUErmylWqlAf1qO1nb%2BwI9e2OcLGBVtPXs5L%2B32aokoZERn&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=d9d161137d33c913fd6ab911d4c6089f1a7837bf9f06fd08e9d3a3cf38ab8e9e"
             },
             "downloadUrl": "https://pixeldrain.net/u/tuw3Zxt1?download"
           },
@@ -7087,7 +7132,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 25",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/uLES8HcD?download"
+              "hindi": "https://pixeldrain.net/u/uLES8HcD?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=fc9hRv0MuaA17CU0hAawKk5%2FforKl9ZT6o8EQH6AFGTsVW9W7wE9AzPzZimfmCUS&expiry=n%2FOlhRm258kdsy%2FSPZ0hAg%3D%3D&mac=56513403d54d668146a04033df3e2c93eacc3ddbcc15ecffa8505a0a8eeee1ec"
             },
             "downloadUrl": "https://pixeldrain.net/u/uLES8HcD?download"
           }
@@ -7108,7 +7154,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 1",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/6wPuKpuf?download"
+              "hindi": "https://pixeldrain.net/u/6wPuKpuf?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=Ybpn7baU3kLJM1X2HhBlWPUjdXm%2BcZvKpTfeXIc0JKR4NHgf4Ic98XUSojqICFpB&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=f02341e918426ebc42d54da5c98bf38ae9f89fd7da2e0043951923738df48a3b"
             },
             "downloadUrl": "https://pixeldrain.net/u/6wPuKpuf?download"
           },
@@ -7122,7 +7169,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 2",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/EY7yzdhe?download"
+              "hindi": "https://pixeldrain.net/u/EY7yzdhe?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=igFfxXeX8wqRMTOdNvykhc4VXwPFj2sF3u6ED2EXo1q9bTgTxtQhjN9HssSthyAz&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=7890449f0dd0dbcc4ebbf866206c59206796fc38105b44de2e1f160178dfa95b"
             },
             "downloadUrl": "https://pixeldrain.net/u/EY7yzdhe?download"
           },
@@ -7136,7 +7184,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 3",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/vSvNZ7uk?download"
+              "hindi": "https://pixeldrain.net/u/vSvNZ7uk?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=uwjtXAKHn%2BBWbEQttAYMDfuNXpytYjYF50L83P6aQWph%2F7NLRVpsC%2BX99yEmcqc8&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=4f1bb83934d96d0c01cabd485372e53a0a9e58bcad68907967e845ad34cd5dc1"
             },
             "downloadUrl": "https://pixeldrain.net/u/vSvNZ7uk?download"
           },
@@ -7150,7 +7199,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 4",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/2MyzBZb5?download"
+              "hindi": "https://pixeldrain.net/u/2MyzBZb5?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=ovK0gB%2BU%2FpdU5mkV7CEA%2BXEAWtrhEGBzNJIos%2FZ9iW4FxlpLp3C02D7%2BMQfQkEIU&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=0a017ced595644a41e88cc6eb2bf26a989b1007d58df6fe3f0c1fe0babb6d4d9"
             },
             "downloadUrl": "https://pixeldrain.net/u/2MyzBZb5?download"
           },
@@ -7164,7 +7214,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 5",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/M5ZHhQz5?download"
+              "hindi": "https://pixeldrain.net/u/M5ZHhQz5?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=iVVY1STJAEHrmVP5wmKcoljaMElvkDgYtjdjTreBSDovZoY4MlhtWdAoxriOvJ8r&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=ead110b7c0170d17770d33145ab854ca6cd58c1e92203b039d56033838e4af72"
             },
             "downloadUrl": "https://pixeldrain.net/u/M5ZHhQz5?download"
           },
@@ -7178,7 +7229,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 6",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/pRAnog9s?download"
+              "hindi": "https://pixeldrain.net/u/pRAnog9s?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=UDza6j%2B9ZmxEoxF%2B78OEOpR6hEtOVCBIAyIZcQlAgkFulK4maMRT2uEKxojXbbE7&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=aff85bd182afab789a4431c0acc3a63ca846212ffbdff9d9259bef3e8f84f1d3"
             },
             "downloadUrl": "https://pixeldrain.net/u/pRAnog9s?download"
           },
@@ -7192,7 +7244,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 7",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/yNYNVNeA?download"
+              "hindi": "https://pixeldrain.net/u/yNYNVNeA?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=ZXh7YaeUGWrK%2F75CNMjnthb1TiGWkg7bDsanZvq1d65KY5k%2FOtsSJ4gDa7qrSxJz&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=b8bb90ce7681c68416ac050bd4a427249a7ab4c2566dbc0e3694943ff07101b6"
             },
             "downloadUrl": "https://pixeldrain.net/u/yNYNVNeA?download"
           },
@@ -7206,7 +7259,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 8",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/V8sgir4q?download"
+              "hindi": "https://pixeldrain.net/u/V8sgir4q?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=vmq1LQ7g5m92Es6v0Yj%2BywYVbhsy4x%2BA6zDGh7g7yS1xVLPsJjqPt8QDYmFioDwZ&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=4f6cbd0f2dece8f41a32e4a1f10832df3cb158660fd755e54bbc1ec783f0711a"
             },
             "downloadUrl": "https://pixeldrain.net/u/V8sgir4q?download"
           },
@@ -7220,7 +7274,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 9",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/pFbLZMzj?download"
+              "hindi": "https://pixeldrain.net/u/pFbLZMzj?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=BeHpwHJlvl0FPTktBWrtAFfA0xItLxp2h8e3c2DUjDYxuSysMHYspmrvw4tZUxGJ&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=f4d1c0645d021c6b359678347283ffbf1a806cb5561b77e5e4c9449e8e7b1e3b"
             },
             "downloadUrl": "https://pixeldrain.net/u/pFbLZMzj?download"
           },
@@ -7234,7 +7289,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 10",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/TuYCfcGc?download"
+              "hindi": "https://pixeldrain.net/u/TuYCfcGc?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=oPGqDyl09%2Ft%2FtCMYdgHJcEiT6dBnllkpKdQfUh51N6QBqOFF%2BRgU7qES1calvJzA&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=84d8ee7b6b9a6a0ba81dd145d46815545b10acae5450aedd325b00c54fb15bab"
             },
             "downloadUrl": "https://pixeldrain.net/u/TuYCfcGc?download"
           },
@@ -7248,7 +7304,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 11",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/immJ7cwp?download"
+              "hindi": "https://pixeldrain.net/u/immJ7cwp?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=WSRHAYY9%2BpCgJQE4%2F3RDeVQZCdBIGJSRYIdPZA2G3gDtYSXDqVTx%2BBqQ73ZCM%2Ftr&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=5f241c99827f40c023e1fdd29534e4d1599307578a4602663c6b1e6e98d355e2"
             },
             "downloadUrl": "https://pixeldrain.net/u/immJ7cwp?download"
           },
@@ -7262,7 +7319,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 12",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/9pbDFXGr?download"
+              "hindi": "https://pixeldrain.net/u/9pbDFXGr?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=IG%2FwlwIliRL%2B6cJJXtjyuGSPRtT5Dr5jWwBlXrKqAE7%2BfMbQH0nR82lq00TapW9v&expiry=%2B%2Bufksk%2FaFdt2f%2Fag9cnkA%3D%3D&mac=35f75b04c35fe8cb97e38828ce5b80c45dc8005bb7d43890cae92dd2c2841bd3"
             },
             "downloadUrl": "https://pixeldrain.net/u/9pbDFXGr?download"
           }
@@ -7283,7 +7341,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 1",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/XU5ZHp9N?download"
+              "hindi": "https://pixeldrain.net/u/XU5ZHp9N?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=fYW2iXJbj4DjK0Iqh0%2BjM6YZRjJSfAvjHV2kuS74iiUWypxIQC%2BrCxSE9Zgx%2F2WU&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=4459b39877599c342a5b0de869bc325d3b56d8165b157225171ac2fae8cd0bcb"
             },
             "downloadUrl": "https://pixeldrain.net/u/XU5ZHp9N?download"
           },
@@ -7297,7 +7356,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 2",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/qABJ5wxZ?download"
+              "hindi": "https://pixeldrain.net/u/qABJ5wxZ?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=spNDb%2Fi3VE0gV5UN4hjTrvLPq%2F%2F4SKKFMmLed7grw4s%2F61lJyY0Ueb0IWYiyUYKr&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=8fe04d1153601c52248e93c457bc99078ae9eb504e81f8a1396134fa827e588b"
             },
             "downloadUrl": "https://pixeldrain.net/u/qABJ5wxZ?download"
           },
@@ -7311,7 +7371,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 3",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://mega.nz/#!znAmSRhQ!VPs9LGH3Vx1jB5D2VlfkZxu4gOTyV9Jqu3RikaVBxJ8"
+              "hindi": "https://mega.nz/#!znAmSRhQ!VPs9LGH3Vx1jB5D2VlfkZxu4gOTyV9Jqu3RikaVBxJ8",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=dBcY5q4JCMFxejciV%2BEwr8SecZDeFS81RKYCIZo2fw1VqqSYwNw%2BUeKyHNtUBFlt&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=1fdaf63aeae4805defa0901e5876993e5db4d838e377e85404d96c88482e37cb"
             },
             "downloadUrl": "https://mega.nz/#!znAmSRhQ!VPs9LGH3Vx1jB5D2VlfkZxu4gOTyV9Jqu3RikaVBxJ8"
           },
@@ -7325,7 +7386,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 4",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/CswppHQc?download"
+              "hindi": "https://pixeldrain.net/u/CswppHQc?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=fc%2BlD0RjS0jRipnlrL96He76rQAYfEGaVCtk6IBgv6uhg%2FyHh%2FHWEAEpqVQMtWQs&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=a64ecc8be2613de07fac7155631eaee0db53adfcce6ebef1bbeaf6c3d57b7967"
             },
             "downloadUrl": "https://pixeldrain.net/u/CswppHQc?download"
           },
@@ -7339,7 +7401,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 5",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/vMpB1VHo?download"
+              "hindi": "https://pixeldrain.net/u/vMpB1VHo?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=WYn2lAeS%2BY4WvcJe2vDjnZpz6US838MGaOgC5GIuADZmQhBK8d1RhcjHHYvZbGh9&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=31058179f1d560cc4a51647893373a616944876c1fac11730ab535a8cbc578a5"
             },
             "downloadUrl": "https://pixeldrain.net/u/vMpB1VHo?download"
           },
@@ -7353,7 +7416,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 6",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/r6efqYnE?download"
+              "hindi": "https://pixeldrain.net/u/r6efqYnE?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=Xzp2i13%2FYlFtmovIX99gzO9S1Kyi4C6MmZXxd9g1oKD2zmNzohDKLbamH6sL0h0p&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=305523d8bd5a3aab7d9a35bf61b24bd9540341bf2d13b2197664a1d2a78fb37c"
             },
             "downloadUrl": "https://pixeldrain.net/u/r6efqYnE?download"
           },
@@ -7367,7 +7431,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 7",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/xT9vRH5c?download"
+              "hindi": "https://pixeldrain.net/u/xT9vRH5c?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=U5%2Fd76QxyRMg0uJE9gPmSzGkVF8bjJfVXd8hAJGoVc2PHLgc%2B%2FAgQDNsTG3Rottf&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=09f123f8892a2b328b923a6d538492dab1e2be9dae5b7441d1b74c43b28e82f2"
             },
             "downloadUrl": "https://pixeldrain.net/u/xT9vRH5c?download"
           },
@@ -7381,7 +7446,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 8",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/JNhZoV91?download"
+              "hindi": "https://pixeldrain.net/u/JNhZoV91?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=b2o%2FfsaUeRKqpxZ%2FnPox3UG0g8G55DBIbfCUBzVzzP7WAJTTc7HWWZxDfoVdUBoT&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=f8a243d9d27bbb8dcacdd382ae7dc13e53dfe8ec5c1f9450b0ebae5c1f9388b9"
             },
             "downloadUrl": "https://pixeldrain.net/u/JNhZoV91?download"
           },
@@ -7395,7 +7461,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 9",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/kAxJ6SEH?download"
+              "hindi": "https://pixeldrain.net/u/kAxJ6SEH?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=0imCk%2FcaysuWslEOzmHYO86ZnkASnoQNv5gCklZkzpVj0Uby%2FxhDJMiv0Vxt%2Bicv&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=b109b928312f4bc7baadb6126cb874f196c32bf0c00a082bbb7ae79b318e4089"
             },
             "downloadUrl": "https://pixeldrain.net/u/kAxJ6SEH?download"
           },
@@ -7409,7 +7476,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 10",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/i187qeUh?download"
+              "hindi": "https://pixeldrain.net/u/i187qeUh?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=yfq1rAcZCYiNUixTHyVfzYJmRcfzbNZQBE0uV0q9BwPW3hFIehyaMrXNyXnNhzPw&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=b6be0f5f1ea61ad5bb6c80f5090a835ecce37e87445cce4b7788b2ee4bc7cd5c"
             },
             "downloadUrl": "https://pixeldrain.net/u/i187qeUh?download"
           },
@@ -7423,7 +7491,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 11",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/maP1LdMY?download"
+              "hindi": "https://pixeldrain.net/u/maP1LdMY?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=PoggxRR54%2F3542NABWgaP2fA9gcwWCwK1fi6CnwvMsgLoOdPimSxYaf9uC0cWh3y&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=a9f77661895e66513a35e34419456e4e47046ec8c61e68ba940337559ef0a97a"
             },
             "downloadUrl": "https://pixeldrain.net/u/maP1LdMY?download"
           },
@@ -7437,7 +7506,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 12",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/qqPyYLhD?download"
+              "hindi": "https://pixeldrain.net/u/qqPyYLhD?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=rVBpqxaqS8RlRcxRHaPwyHd9ZHTwUmz%2FuVr8sVPMjNKdI0tihWyCo4bmkW85JAQ%2F&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=15b0e00d0b14afd914ca03a000b61fe5a3dbd9bec956f1ab7a9c361372f20455"
             },
             "downloadUrl": "https://pixeldrain.net/u/qqPyYLhD?download"
           },
@@ -7451,7 +7521,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 13",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/q5ob6kw5?download"
+              "hindi": "https://pixeldrain.net/u/q5ob6kw5?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=qFWAqKNjpGOtAgRURjynnGajyvDpbsxXaMEbScQR4doEalfB0NQg2BKuxDoTatIl&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=6e5a168f2967f96d1f2219a75370d75557b71e4e88510149be80952be0249444"
             },
             "downloadUrl": "https://pixeldrain.net/u/q5ob6kw5?download"
           },
@@ -7465,7 +7536,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 14",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/wGh5Ndv7?download"
+              "hindi": "https://pixeldrain.net/u/wGh5Ndv7?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=lvfxTB0rcNg3zgpKw17gLzZsfNIABXV4EWacguHyr057FAEtGo6YvZ9e%2FQ1Szpfi&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=61f5fbdb0fed533812c8ba1f8b4cee33fbd8f514f4b6c409ee34e666d6eb747d"
             },
             "downloadUrl": "https://pixeldrain.net/u/wGh5Ndv7?download"
           },
@@ -7479,7 +7551,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 15",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/YGGew57Y?download"
+              "hindi": "https://pixeldrain.net/u/YGGew57Y?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=aWMRXw%2FDo%2BIIUs%2BVFagb3c%2FIG%2BelHaReXA24gBsDp8HkOJOpocCm29EPglwb6DFe&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=f816a78ab5b83867621c2762650850e1d7ed26b726128e0c4197c7aadb63776f"
             },
             "downloadUrl": "https://pixeldrain.net/u/YGGew57Y?download"
           },
@@ -7493,7 +7566,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 16",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/RKaXnoGW?download"
+              "hindi": "https://pixeldrain.net/u/RKaXnoGW?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=CPmU6f2bN5v4Ld%2Fy5QaJlJy6FFnJcn5o7%2B560cCfiUQjYl5U3igh%2FuwI6%2BmwtGXM&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=0cdc3d8ec2bbb2cd016117cf88928cae7b2f7e33bc47aa0a5dd2c4bb14c5d29b"
             },
             "downloadUrl": "https://pixeldrain.net/u/RKaXnoGW?download"
           },
@@ -7507,7 +7581,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 17",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/n2otQxsv?download"
+              "hindi": "https://pixeldrain.net/u/n2otQxsv?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=%2F79OTiwf2nFUYfTLsky9wG5mJ%2BzH8XeiejTjmU0z2JNhWbaLF0%2FwINfKfNvsd7P9&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=aef2435da4ead0deeb87524da7b24be32694f03813831d2639ec5fb8b61f7e56"
             },
             "downloadUrl": "https://pixeldrain.net/u/n2otQxsv?download"
           },
@@ -7521,7 +7596,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 18",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/ZdAWCdo5?download"
+              "hindi": "https://pixeldrain.net/u/ZdAWCdo5?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=5DDDJueawrL0maJ%2BA3FR3DO28BDf6vGnKMT7Hv4EvOtLsU%2FFxXNEhXAVqLsFAkIJ&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=87da36380da120cbc0f904e53971e822e9674b394461c23fe901ffa00d036869"
             },
             "downloadUrl": "https://pixeldrain.net/u/ZdAWCdo5?download"
           },
@@ -7535,7 +7611,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 19",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/DFrpztdM?download"
+              "hindi": "https://pixeldrain.net/u/DFrpztdM?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=F7CUcpeMe8qat9Nex%2F%2BBxNiuUW1C3r4r%2B8YlUS4o%2FYGn4FMBDf8dmcOy0yiesDRA&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=3b775e2615685b8a6f0e14e9c6331da9366af15926123aede081129df2636bb0"
             },
             "downloadUrl": "https://pixeldrain.net/u/DFrpztdM?download"
           },
@@ -7549,7 +7626,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 20",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/Cw42p443?download"
+              "hindi": "https://pixeldrain.net/u/Cw42p443?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=14uoKhradaZfJsbROIKPkkpmE%2F0LddAHSgzQ5VmMdcIMDoFjj549p30riYGWAgmB&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=4e698fd36470a953f8758e4bb96895a54c81812b48800ba183184e32fa524e5d"
             },
             "downloadUrl": "https://pixeldrain.net/u/Cw42p443?download"
           },
@@ -7563,7 +7641,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 21",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/3jS7f2mD?download"
+              "hindi": "https://pixeldrain.net/u/3jS7f2mD?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=jhMSO8SFXxA583CtuEQ310PlKYTfG1WvWDN%2BuIoEEaIyMRFhq9m89mF%2FQU8EX9ld&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=70d94f4bbb2e4905e8a1aad26d7c8be788575ecac904239a40f9ad02b6ceb327"
             },
             "downloadUrl": "https://pixeldrain.net/u/3jS7f2mD?download"
           },
@@ -7571,13 +7650,14 @@ export const ANIME_DATABASE = [
             "id": 22,
             "number": 22,
             "season": 3,
-            "title": "Attack on Titan S03E22 [RareToonsIndia].mkv",
+            "title": "The Other Side of the Wall",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
             "synopsis": "Episode 22",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/kJ54pC7g?download"
+              "hindi": "https://pixeldrain.net/u/kJ54pC7g?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=J408Up09hZ1koT1zyY1XqNJzVRORRczRe0rA8G1ADwTxFxKy%2BOqDdHSjDg%2B1f8dc&expiry=XTZr8Tb8BjvCX3lD0WTt%2Bw%3D%3D&mac=2dd565ff22760762633d0e767895ebe810dd08b5ef56e67094bb64166ac402b4"
             },
             "downloadUrl": "https://pixeldrain.net/u/kJ54pC7g?download"
           }
@@ -7598,7 +7678,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 1",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/BWhiYMyr?download"
+              "hindi": "https://pixeldrain.net/u/BWhiYMyr?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=xF3D86NGKJ2MV7Q73e%2BdyCtvD2wKlpCwKEE23V9sqR7w9kk0pl5NqKPPs8mMpE%2BB&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=e39e41b391fcfbb76a4aebb265e2cbc069a1527dd8fbdf6f8dca3f92dccc84e2"
             },
             "downloadUrl": "https://pixeldrain.net/u/BWhiYMyr?download"
           },
@@ -7612,7 +7693,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 2",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/uQAANqnz?download"
+              "hindi": "https://pixeldrain.net/u/uQAANqnz?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=THBYx28L8KdWBQSPGiuAe8B68O%2FkAdYxzLTgGb04odInMy3f82gO%2F0gr%2FSnlk3kg&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=8b11afc7b9c9927ff66a3eba7d7b0b40a32b0ada269bcb773f07a5fad1447e53"
             },
             "downloadUrl": "https://pixeldrain.net/u/uQAANqnz?download"
           },
@@ -7626,7 +7708,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 3",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/ageYQFUQ?download"
+              "hindi": "https://pixeldrain.net/u/ageYQFUQ?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=JY%2B9H0oV2VtnWQd%2BEpp8f0ThOWi%2BMKEZVOHJVpWGqcQ%2FFaPzgXedW%2B0lphmmTy8I&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=df56e7688d44f2d1825e1fe86f467c914df5ac93a30246f87600546f4bd4b19f"
             },
             "downloadUrl": "https://pixeldrain.net/u/ageYQFUQ?download"
           },
@@ -7640,7 +7723,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 4",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/MCJP8DdP?download"
+              "hindi": "https://pixeldrain.net/u/MCJP8DdP?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=j1KYmwOYwPJz0r2XG5r2THt2VR4ls6YHN5bCj5PsvBe80Ze5c0hOAQEw0wVSDH84&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=a9b228d90e8c18089cc7d54c6ebbc50e11d87480dcd0988f51cfcd24be1b8741"
             },
             "downloadUrl": "https://pixeldrain.net/u/MCJP8DdP?download"
           },
@@ -7654,7 +7738,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 5",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/uQDMTFP8?download"
+              "hindi": "https://pixeldrain.net/u/uQDMTFP8?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=DnycazEw0569GQVq%2BovVZo5AqESX%2FSh6wZwVwEf5qJwFe5wNhmdSVHn0kztP5cvh&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=17f0eda46bd308b0a06f91cd5cea5d1581cceadf5123398853040d12a0711ac1"
             },
             "downloadUrl": "https://pixeldrain.net/u/uQDMTFP8?download"
           },
@@ -7668,7 +7753,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 6",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/ieuJ3PQW?download"
+              "hindi": "https://pixeldrain.net/u/ieuJ3PQW?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=LeaVtGLryBqfvOxaAx4c1hobytxN%2ByjjfLeWt810YhX1F9jAIQNxxjv2t8L5cyBj&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=d7ce79a05e07bf7f2b52e9e52386b95fa1c57ca97804fef72300acf22f633131"
             },
             "downloadUrl": "https://pixeldrain.net/u/ieuJ3PQW?download"
           },
@@ -7682,7 +7768,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 7",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/heFJqT7k?download"
+              "hindi": "https://pixeldrain.net/u/heFJqT7k?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=0N%2Fi0Q0CrVuzE%2BLsmkChMKArrQpAAx%2Fzl%2BJJ0p9BTPcsqgLKgmDcXioyoCLm1%2F%2FS&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=112de8f0d85c99aaea68eab7ca3a61a0b9f86898e8814733ef2d6887253c32a9"
             },
             "downloadUrl": "https://pixeldrain.net/u/heFJqT7k?download"
           },
@@ -7696,7 +7783,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 8",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/QwJigh9r?download"
+              "hindi": "https://pixeldrain.net/u/QwJigh9r?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=NfIv6x45g7XtFsNRUyppg9Q8Sm8rbJGwVrY38oeYPsKyaOR9kOcOXLo0LGDjvdfq&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=d774c0b760d86a80171b78c8631623314a35c10bc82f90030e8d93ab6c5e5963"
             },
             "downloadUrl": "https://pixeldrain.net/u/QwJigh9r?download"
           },
@@ -7710,7 +7798,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 9",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/4hG3VLK7?download"
+              "hindi": "https://pixeldrain.net/u/4hG3VLK7?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=OepMo53H0O%2B%2FvYVkj0VB09spRqrIFmYp1U23UW%2FJyqUHy64ehJXQhz4Cl1jbocIu&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=3aab70c54d99ea95efc7e445752c40d7d70634626f2fb008c3886df524c43e26"
             },
             "downloadUrl": "https://pixeldrain.net/u/4hG3VLK7?download"
           },
@@ -7724,7 +7813,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 10",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/BGcUM8cJ?download"
+              "hindi": "https://pixeldrain.net/u/BGcUM8cJ?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=4F8x9LhXalsFuyjLE%2BodCFTfl1cjapYOJerUTh%2Bf57U3aNN4%2F0rVCUrNj29JilRf&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=614bb9d96b01445e3e34ce50a1daffcdee460b7a884e5ae8e8a01f3b5469fc81"
             },
             "downloadUrl": "https://pixeldrain.net/u/BGcUM8cJ?download"
           },
@@ -7738,7 +7828,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 11",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/Eie3zCaX?download"
+              "hindi": "https://pixeldrain.net/u/Eie3zCaX?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=YJnT3wHvol8Ok7wntvUr2s8Z9doyEAohB3%2BrSa9Srdvj35W1doyErgh8HPfF3ZtE&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=7a39d590325ef2b815fb9828dfaaf8f1eeb526b50e1437cc45dd588c64afbe07"
             },
             "downloadUrl": "https://pixeldrain.net/u/Eie3zCaX?download"
           },
@@ -7752,7 +7843,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 12",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/HHTGjQHg?download"
+              "hindi": "https://pixeldrain.net/u/HHTGjQHg?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=O8DZrb%2FAKtiSyckL1PVIG%2FgTUDxI1AOfq0WZSQDMWamNNksXZrmAxw5VYpxMCaMb&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=6bbaf67c55d8780818e9e8db21b081864bab17c6ae525a3b926ccff81ac9646e"
             },
             "downloadUrl": "https://pixeldrain.net/u/HHTGjQHg?download"
           },
@@ -7766,7 +7858,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 13",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/ZvgNftT8?download"
+              "hindi": "https://pixeldrain.net/u/ZvgNftT8?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=MpBAZ6pHNTAxMjhXSQKhTHNQiTtov70%2B0NRIB8K1W6h1GabgURzlqcuPGq5%2BueQ4&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=9b1bccae6f4910d7df6227aac905a52418b5152f65ccd4a554114864a5511c08"
             },
             "downloadUrl": "https://pixeldrain.net/u/ZvgNftT8?download"
           },
@@ -7780,7 +7873,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 14",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/UG4GNSX6?download"
+              "hindi": "https://pixeldrain.net/u/UG4GNSX6?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=0FHO1G4aXhbIvsIAtJLlkBH6w%2BgmTSFg5vtP%2BMFGB1l2o4dww7lyDwfEL5N1CTOw&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=96642b24e200c1281991154c83b0b31e1dc61cf958c5d225e09b353c062c2228"
             },
             "downloadUrl": "https://pixeldrain.net/u/UG4GNSX6?download"
           },
@@ -7794,7 +7888,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 15",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/5FWd5KWj?download"
+              "hindi": "https://pixeldrain.net/u/5FWd5KWj?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=g1HLK7%2FYo7N8oERjG3RflbHOcsAWXAH3OIdaY3wkCJgyQVH5nDgf5mQ8IGWit8by&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=103b0f9150d67857c9e23796af8423230ae54e12d6ae699c82e61beafa0ef20d"
             },
             "downloadUrl": "https://pixeldrain.net/u/5FWd5KWj?download"
           },
@@ -7808,7 +7903,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 16",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/D8VepSSZ?download"
+              "hindi": "https://pixeldrain.net/u/D8VepSSZ?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=%2BDYKD9MFglZsz59IdEjNyirspdv%2B4wpuiW7iwQIV38gWWLqryZOY52OG5QchRb5x&expiry=aYBkJ9T7hL5fLUYQARnelg%3D%3D&mac=eca198d88cd31dc55f516501c85c4f9670d407ce3fa81bb064c69029506e23a7"
             },
             "downloadUrl": "https://pixeldrain.net/u/D8VepSSZ?download"
           },
@@ -7822,7 +7918,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 17",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/o2PWDZw4?download"
+              "hindi": "https://pixeldrain.net/u/o2PWDZw4?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=494OCtGdbNp3uuEX4giBKJhBc9b%2B6phSADEFEKm5pLGk1GQXRBgkCK5aCWG4lSR%2B&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=369d10414303daa8828c312ecf61590322d6db0d5eb0acbdb531d631f3558ffa"
             },
             "downloadUrl": "https://pixeldrain.net/u/o2PWDZw4?download"
           },
@@ -7836,7 +7933,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 18",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/pQLYdVB4?download"
+              "hindi": "https://pixeldrain.net/u/pQLYdVB4?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=h4bKsIEdiEKiCwe0%2B6%2FmbsWoAu8%2BDOlehX6MQNaZik341l%2FYcGt8p7SIh8qOqM55&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=1a44a7f66f35b17b7f4aca3a10e60d08789661c7d12801dbd61c5dcb9919b2b6"
             },
             "downloadUrl": "https://pixeldrain.net/u/pQLYdVB4?download"
           },
@@ -7850,7 +7948,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 19",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/yhW1KyXD?download"
+              "hindi": "https://pixeldrain.net/u/yhW1KyXD?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=9PUGV1ei2Zu7tT7AgO9itteDhjaNHO%2BFkOHTA3R910kZoxgy7NEr%2F00EKhXGhaqD&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=9500c27656d75b6a82d7799cf93f8d20b72b6e5c975429f881e91e1d5f5facf3"
             },
             "downloadUrl": "https://pixeldrain.net/u/yhW1KyXD?download"
           },
@@ -7864,7 +7963,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 20",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/RBM3NZAY?download"
+              "hindi": "https://pixeldrain.net/u/RBM3NZAY?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=U3FUL6OI7Nfp3DGZsFTBbFjBTpFIu2Ai2t47ZiHA1nqVpJ5yBpFhLoV0E%2FAzqGGy&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=b9cb2430562e273b7414cec1c57ea68371ad39dc42e2ff918835093a73630af0"
             },
             "downloadUrl": "https://pixeldrain.net/u/RBM3NZAY?download"
           },
@@ -7878,7 +7978,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 21",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/h3SKF4ua?download"
+              "hindi": "https://pixeldrain.net/u/h3SKF4ua?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=NGWVRtyNmVHPvVWdl0VWVCsYuW47yNWNiYdJsSsmo9yQVRJrnbKX2syCHSYSYgVH&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=cd7e6e482032a7d60ea6520a99006cdc3d22a9def0f78d7f1e47f442975c3baf"
             },
             "downloadUrl": "https://pixeldrain.net/u/h3SKF4ua?download"
           },
@@ -7892,7 +7993,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 22",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://mega.nz/#!fgZBUBRA!vMBDlKD6g4ZIuH_mptxuELZoIYz31qb3ah73gspMMQ8"
+              "hindi": "https://mega.nz/#!fgZBUBRA!vMBDlKD6g4ZIuH_mptxuELZoIYz31qb3ah73gspMMQ8",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=bNt5pp52u36Dgj53JSCAc%2BhtPoFUgguvjKuGSzm7q6cM5eHAsXkMLKWAOouOBe1q&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=1c6784cdda2f521c147a52455998f1370cee27c94036df5a14d06d921848e4bf"
             },
             "downloadUrl": "https://mega.nz/#!fgZBUBRA!vMBDlKD6g4ZIuH_mptxuELZoIYz31qb3ah73gspMMQ8"
           },
@@ -7906,7 +8008,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 23",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://mega.nz/#!yhIGlRAQ!TwUqRHfqn-G-wcxfbYUPd_6xpTSySDabXeWrnH4xL-w"
+              "hindi": "https://mega.nz/#!yhIGlRAQ!TwUqRHfqn-G-wcxfbYUPd_6xpTSySDabXeWrnH4xL-w",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=siKyoia%2B3PHkGnoPUSLmCot7pZx3xiNjTvW7YUooR7ZTwhyeiwc8E23My6xK1A6y&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=3d91546960a6c70fea37142e967fc302ae146abdf7b056b24a51408c8d92a07c"
             },
             "downloadUrl": "https://mega.nz/#!yhIGlRAQ!TwUqRHfqn-G-wcxfbYUPd_6xpTSySDabXeWrnH4xL-w"
           },
@@ -7920,7 +8023,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 24",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://mega.nz/#!35xj3JYL!IFctwt68wJh2heRvjEei9Lgmkv69d1YsDC8qbVo9G1s"
+              "hindi": "https://mega.nz/#!35xj3JYL!IFctwt68wJh2heRvjEei9Lgmkv69d1YsDC8qbVo9G1s",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=iHfMQJyq2WAwfNV7gMh3oRt1Zf3Rkc2nkSewIeauwh6gdH0sQCELxRNW6ePdj0qf&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=ad3388098c837a511fc940dba2ef1477ba407642a68ac1484260e5b3d4d6115d"
             },
             "downloadUrl": "https://mega.nz/#!35xj3JYL!IFctwt68wJh2heRvjEei9Lgmkv69d1YsDC8qbVo9G1s"
           },
@@ -7934,7 +8038,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 25",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://mega.nz/#!z84SQS4A!xFmTwak3mZ39iPySxYlT2z7d752Fv4PSt6nYB_MFmRs"
+              "hindi": "https://mega.nz/#!z84SQS4A!xFmTwak3mZ39iPySxYlT2z7d752Fv4PSt6nYB_MFmRs",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=8wPwZIlTMyzTC3YuMd5pKLMy0JTwZnVIfvdti9JH8iFz4iS5SLCg6rOMFIU5%2B2W3&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=138404e90b9fa45c6929acb40065cc9ff73ea49866b997f1c4ceefbd14b38746"
             },
             "downloadUrl": "https://mega.nz/#!z84SQS4A!xFmTwak3mZ39iPySxYlT2z7d752Fv4PSt6nYB_MFmRs"
           },
@@ -7948,7 +8053,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 26",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/6h3QTgQG?download"
+              "hindi": "https://pixeldrain.net/u/6h3QTgQG?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=xqN7cDGM7Vv7pR5GOj7GJvbVipVY3l4feYii9FAUAtwBNrHhmyClsV5xh3A9ZvIR&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=04e61f7b85c065ab93f710c139555f01f1659a620eea35048b4f89c1320b8b6b"
             },
             "downloadUrl": "https://pixeldrain.net/u/6h3QTgQG?download"
           },
@@ -7962,7 +8068,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 27",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/FUzrXXMq?download"
+              "hindi": "https://pixeldrain.net/u/FUzrXXMq?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=ULXB%2F%2B1TrlWGh1e3sVyYl1YCbE%2BEtnm%2B4W%2FCTvDLekL%2F%2FWM6XxBf9Wyt1xB1SwFy&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=560dbfd752c4864478be0f714dfd1d48d60ac234d88a6ab87eddfcbb7349a4d7"
             },
             "downloadUrl": "https://pixeldrain.net/u/FUzrXXMq?download"
           },
@@ -7976,7 +8083,8 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 28",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://mega.nz/file/KkYyyBiR#I9JTLqI3uz7TP9u5KYxj5gkMNwwoLVg7Q0NT2mWd9Vo"
+              "hindi": "https://mega.nz/file/KkYyyBiR#I9JTLqI3uz7TP9u5KYxj5gkMNwwoLVg7Q0NT2mWd9Vo",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=%2FUsubOxOm2UlrRBihWqK5FYEE6sqFbd4H56035TbMYMRgBPR2pDoG%2BBXuhOJVYub&expiry=dRsyCe648DWvHDxkeoEUlw%3D%3D&mac=bef8c7dedb2f5e7538f4da684000210de502e0664c2f61a8f366ac26710be87c"
             },
             "downloadUrl": "https://mega.nz/file/KkYyyBiR#I9JTLqI3uz7TP9u5KYxj5gkMNwwoLVg7Q0NT2mWd9Vo"
           },
@@ -7991,7 +8099,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/ZjYCf2qh?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/ZjYCf2qh?download"
+              "hindi": "https://pixeldrain.net/u/ZjYCf2qh?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=5G6FW9u7d%2B2D2EwaMu7Uw1UjIOYtYoc0qpVqtg7p3oMuNlvNUzJWzvyJSW5OrHOx&expiry=fvri9OPUDSwuxpij1PafnA%3D%3D&mac=bc8867d37c1a1e1d0f60efbd343619e8ab877b5bbaa362842df11247ed2998aa"
             }
           },
           {
@@ -8005,10 +8114,18 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/aJwiqB4c?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/aJwiqB4c?download"
+              "hindi": "https://pixeldrain.net/u/aJwiqB4c?download",
+              "original": "https://worker-wandering-field-60c7.kayoanime124.workers.dev/download.aspx?file=aYwFZqENmK2VGqDUrQ9fup3uJGrxmD0RAOmZfSqMzyiqNE9euiULuVLryb%2FujNTL&expiry=fvri9OPUDSwuxpij1PafnA%3D%3D&mac=fa60b9b9886025197a32e3cbcb7f969906e82dbb42a7eac9f5f0a30410bceb32"
             }
           }
         ]
+      },
+      {
+        "number": 5,
+        "title": "Season 5",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": []
       }
     ],
     "episodes": [
@@ -8264,7 +8381,8 @@ export const ANIME_DATABASE = [
       }
     ],
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ]
   },
   {
@@ -8282,7 +8400,7 @@ export const ANIME_DATABASE = [
     "season": "Winter 2024",
     "studio": "Madhouse",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -8869,6 +8987,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 28",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -8886,7 +9007,7 @@ export const ANIME_DATABASE = [
     "season": "Fall 2022",
     "studio": "MAPPA",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -9152,6 +9273,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 12",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -10096,7 +10220,7 @@ export const ANIME_DATABASE = [
     "season": "Ongoing",
     "studio": "Toei Animation",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -10722,6 +10846,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 20",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -10739,7 +10866,7 @@ export const ANIME_DATABASE = [
     "season": "Fall 2018",
     "studio": "8bit",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": false,
     "isPopular": true,
     "genres": [
@@ -11733,6 +11860,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 24",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -11750,7 +11880,7 @@ export const ANIME_DATABASE = [
     "season": "July 2024",
     "studio": "CloverWorks",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": false,
     "isPopular": true,
     "genres": [
@@ -12016,6 +12146,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 12",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -12033,7 +12166,7 @@ export const ANIME_DATABASE = [
     "season": "Winter 2026",
     "studio": "MAPPA",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": false,
     "isPopular": true,
     "genres": [
@@ -12292,6 +12425,9 @@ export const ANIME_DATABASE = [
         "synopsis": "Episode 12",
         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
+    ],
+    "languages": [
+      "hindi"
     ]
   },
   {
@@ -12358,7 +12494,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "migration",
@@ -12424,7 +12565,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "blue-box",
@@ -13353,7 +13499,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "wacky-races-2017",
@@ -13417,7 +13568,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "snowball-earth",
@@ -13866,7 +14022,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "the-warrior-princess-and-the-barbaric-king",
@@ -14284,7 +14445,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "boonie-bears-time-twist",
@@ -14350,7 +14516,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "ice-age-collision-course",
@@ -14416,7 +14587,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "moana-2",
@@ -14479,7 +14655,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "boonie-bears-back-to-earth",
@@ -14544,7 +14725,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "dark-gathering",
@@ -14801,7 +14987,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "monsters-vs-aliens",
@@ -14867,7 +15058,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "the-angel-next-door-spoils-me-rotten",
@@ -15283,7 +15479,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "naruto-shippuden",
@@ -15735,7 +15936,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "classroom-of-the-elite",
@@ -16319,7 +16525,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "scoob",
@@ -16385,7 +16596,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "turning-red",
@@ -16451,7 +16667,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "finding-nemo",
@@ -16517,7 +16738,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "naruto-the-movie-ninja-clash-in-the-land-of-snow",
@@ -16584,7 +16810,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "swat-kats-the-radical-squadron",
@@ -17032,7 +17263,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "arifureta-from-commonplace-to-world-s-strongest",
@@ -17062,7 +17298,12 @@ export const ANIME_DATABASE = [
         "episodes": []
       }
     ],
-    "episodes": []
+    "episodes": [],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": false,
+    "hasSub": true
   },
   {
     "id": "reborn-as-a-vending-machine-i-now-wander-the-dungeon",
@@ -17479,7 +17720,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "haikyu",
@@ -17544,7 +17790,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "the-beginning-after-the-end",
@@ -17961,7 +18212,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "kuroko-s-basketball-2-would-you-mind-doing-that-once-more",
@@ -17991,7 +18247,12 @@ export const ANIME_DATABASE = [
         "episodes": []
       }
     ],
-    "episodes": []
+    "episodes": [],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": false,
+    "hasSub": true
   },
   {
     "id": "akudama-drive",
@@ -18409,7 +18670,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "dorothy-and-the-wizard-of-oz",
@@ -18474,7 +18740,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "sheep-wolves-2016",
@@ -18538,7 +18809,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "the-boss-baby-family-business",
@@ -18604,7 +18880,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "raya-and-the-last-dragon",
@@ -18669,7 +18950,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "astro-boy-2009",
@@ -18733,7 +19019,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "my-hero-academia-vigilantes",
@@ -19181,7 +19472,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "an-observation-log-of-my-fianc-e-who-calls-herself-a-villainess",
@@ -19597,7 +19893,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "the-sea-beast",
@@ -19662,7 +19963,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "captain-tsubasa",
@@ -21326,7 +21632,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "a-magnificent-life",
@@ -21390,7 +21701,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "wish-dragon",
@@ -21456,7 +21772,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "gantz",
@@ -21904,7 +22225,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "lord-of-mysteries",
@@ -22320,7 +22646,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-2022",
@@ -22385,7 +22716,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "boonie-bears-the-big-shrink",
@@ -22452,7 +22788,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "boonie-bears-future-reborn",
@@ -22517,7 +22858,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "watari-kun-s-is-about-to-collapse",
@@ -23407,7 +23753,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   },
   {
     "id": "arco",
@@ -23472,7 +23823,12 @@ export const ANIME_DATABASE = [
         },
         "hasTelegram": false
       }
-    ]
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "hasDub": true,
+    "hasSub": true
   }
 ];
 
