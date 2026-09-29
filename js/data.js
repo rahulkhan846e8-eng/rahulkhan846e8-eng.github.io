@@ -1216,7 +1216,7 @@ export const ANIME_DATABASE = [
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21087-sHb9zUZFsHe1.jpg",
     "rating": 8.5,
     "year": 2024,
-    "currentEpBadge": "S1",
+    "currentEpBadge": "S3-EP12",
     "status": "Airing",
     "type": "TV Series",
     "season": "2024",
@@ -1240,7 +1240,7 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 1,
-            "title": "Episode 1",
+            "title": "The Strongest Man",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 1",
@@ -1254,7 +1254,7 @@ export const ANIME_DATABASE = [
             "id": 2,
             "number": 2,
             "season": 1,
-            "title": "Episode 2",
+            "title": "The Lone Cyborg",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 2",
@@ -1268,7 +1268,7 @@ export const ANIME_DATABASE = [
             "id": 3,
             "number": 3,
             "season": 1,
-            "title": "Episode 3",
+            "title": "The Obsessive Scientist",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 3",
@@ -1282,7 +1282,7 @@ export const ANIME_DATABASE = [
             "id": 4,
             "number": 4,
             "season": 1,
-            "title": "Episode 4",
+            "title": "The Modern Ninja",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 4",
@@ -1296,7 +1296,7 @@ export const ANIME_DATABASE = [
             "id": 5,
             "number": 5,
             "season": 1,
-            "title": "Episode 5",
+            "title": "The Ultimate Mentor",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 5",
@@ -1310,7 +1310,7 @@ export const ANIME_DATABASE = [
             "id": 6,
             "number": 6,
             "season": 1,
-            "title": "Episode 6",
+            "title": "The Terrifying City",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 6",
@@ -1324,7 +1324,7 @@ export const ANIME_DATABASE = [
             "id": 7,
             "number": 7,
             "season": 1,
-            "title": "Episode 7",
+            "title": "The Ultimate Disciple",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 7",
@@ -1338,7 +1338,7 @@ export const ANIME_DATABASE = [
             "id": 8,
             "number": 8,
             "season": 1,
-            "title": "Episode 8",
+            "title": "The Deep Sea King",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 8",
@@ -1352,7 +1352,7 @@ export const ANIME_DATABASE = [
             "id": 9,
             "number": 9,
             "season": 1,
-            "title": "Episode 9",
+            "title": "Unyielding Justice",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 9",
@@ -1366,7 +1366,7 @@ export const ANIME_DATABASE = [
             "id": 10,
             "number": 10,
             "season": 1,
-            "title": "Episode 10",
+            "title": "Unparalleled Peril",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 10",
@@ -1380,7 +1380,7 @@ export const ANIME_DATABASE = [
             "id": 11,
             "number": 11,
             "season": 1,
-            "title": "Episode 11",
+            "title": "The Dominator of the Universe",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 11",
@@ -1394,7 +1394,7 @@ export const ANIME_DATABASE = [
             "id": 12,
             "number": 12,
             "season": 1,
-            "title": "Episode 12",
+            "title": "The Strongest Hero – Season Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
             "synopsis": "Episode 12",
@@ -1403,6 +1403,358 @@ export const ANIME_DATABASE = [
               "hindi": "https://pixeldrain.net/u/P7WU17DV?download"
             },
             "downloadUrl": "https://pixeldrain.net/u/P7WU17DV?download"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2015",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Return of the Hero",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 1 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/sr4nbPB6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/sr4nbPB6?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Human Monster",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 2 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/uAs1dqx5?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/uAs1dqx5?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "The Hunt Begins",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 3 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/kM6E9YHT?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/kM6E9YHT?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "The Metal Bat",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 4 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/JegtEk9t?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/JegtEk9t?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "Martial Arts Tournament",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 5 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8HyTMcMH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8HyTMcMH?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "The Uprising of the Monsters",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 6 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/L63eDYJZ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/L63eDYJZ?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Class S Heroes",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 7 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/My5fQEJV?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/My5fQEJV?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "The Strong Ones Fight Back",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 8 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/WjoAv6m4?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WjoAv6m4?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "The Ultimate Dilemma",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 9 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/gLDikVYG?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/gLDikVYG?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 2,
+            "title": "The Encircling Net of Justice",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 10 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/mKp9oTCP?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/mKp9oTCP?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 2,
+            "title": "Everyone’s Dignity NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 11 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Q4bA6rUb?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Q4bA6rUb?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 2,
+            "title": "Cleaning Up the Disciple’s Mess NEw! – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 12 of One-Punch Man (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/PQGxoJwX?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/PQGxoJwX?download"
+            }
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Season 3",
+        "airDate": "2015",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 3,
+            "title": "Strategy Meeting",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 1 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/m17jnkvk?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/m17jnkvk?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 3,
+            "title": "Monster Traits",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 2 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/KHmyaHCc?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/KHmyaHCc?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 3,
+            "title": "Organism Limits",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 3 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/oK9EhqZT?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/oK9EhqZT?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 3,
+            "title": "Counterattack Signal",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 4 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/G4tr5Lo1?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/G4tr5Lo1?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 3,
+            "title": "Monster King",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 5 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/9HRCAoFY?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/9HRCAoFY?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 3,
+            "title": "Motley Heroes",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 6 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/U8HjyLbc?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/U8HjyLbc?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 3,
+            "title": "Counterstrike",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 7 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/HXUjN1MS?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/HXUjN1MS?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 3,
+            "title": "Ninja Tale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 8 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/9ZGaMTvZ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/9ZGaMTvZ?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 3,
+            "title": "Brave Child -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 9 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/TtACBLJS#VKM0q5cvImmbyJq_uJj11S8dY1PELghlE7kKqAjLa_M",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/TtACBLJS#VKM0q5cvImmbyJq_uJj11S8dY1PELghlE7kKqAjLa_M"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 3,
+            "title": "Immortal Bloodbath",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 10 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/nYUwqojW?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/nYUwqojW?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 3,
+            "title": "Top Dragons -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 11 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/z9B3RJyb#qdEhluT6p7QPxm114aDH4oKmo1WOMDQxSAstve2H_4o",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/z9B3RJyb#qdEhluT6p7QPxm114aDH4oKmo1WOMDQxSAstve2H_4o"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 3,
+            "title": "Ultimate Lifeform – Season Finale -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+            "synopsis": "Episode 12 of One-Punch Man (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/exYwFDJC#PdAsrMdtA_3equnn4oUaAljsDxQ63W2nFFNVKk-qb1o",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/exYwFDJC#PdAsrMdtA_3equnn4oUaAljsDxQ63W2nFFNVKk-qb1o"
+            }
           }
         ]
       }
