@@ -1242,7 +1242,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Strongest Man",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 1",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1256,7 +1256,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Lone Cyborg",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 2",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1270,7 +1270,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Obsessive Scientist",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 3",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1284,7 +1284,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Modern Ninja",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 4",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1298,7 +1298,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Ultimate Mentor",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 5",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1312,7 +1312,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Terrifying City",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 6",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1326,7 +1326,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Ultimate Disciple",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 7",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1340,7 +1340,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Deep Sea King",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 8",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1354,7 +1354,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Unyielding Justice",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 9",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1368,7 +1368,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Unparalleled Peril",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 10",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1382,7 +1382,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Dominator of the Universe",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 11",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -1396,7 +1396,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Strongest Hero – Season Finale",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
             "synopsis": "Episode 12",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
@@ -20025,7 +20025,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 1",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 1",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RiNzk5ZDc0YTI5MTJjMWU2MmM0N2FkODk4ZjZjMTBhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA5VDE3MzIxOVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJBbiUyME9ic2VydmF0aW9uJTIwTG9nJTIwb2YlMjBNeSUyMEZpYW5jJUMzJUE5ZSUyMFdobyUyMENhbGxzJTIwSGVyc2VsZiUyMGElMjBWaWxsYWluZXNzJTIwUzAxRTAxJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT04OTdjMTZiZGFhMjdlMmIyMWE2M2I0MzA0N2JmNDgyMTk4NmU3YmViMTI3MDgwZTdiMzI2NzI5MjMzMjMxZjdhIiwidGltZXN0YW1wIjoxNzg4NDQ4MTQ4MDAwLCJoYXNoIjoiODZhNDkwYTVkNTFiZTc1MmVjZTc5NzU2ZTBjODRlYjc0YzliMDE0YjJkMjE0ZTcxMWNkOGI2ZWExYzc0Y2JkNiIsImZpbGVuYW1lIjoiQW4gT2JzZXJ2YXRpb24gTG9nIG9mIE15IEZpYW5jXHUwMGU5ZSBXaG8gQ2FsbHMgSGVyc2VsZiBhIFZpbGxhaW5lc3MgUzAxRTAxIFtIaW5kaV0ubWt2In0",
             "downloadLinks": {
@@ -20041,7 +20041,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 2",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 2",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvMzZjYTIwZDkzOGQ3OTg1YTBjMzY0NmU4ZGQxMDNkOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8wZmE1YTJlODRjZWEyNmE4N2Q4NDY1YmIxYWJjNzdlZT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTA0NjRhMTEyNzJlNWEwN2FiY2NlMzM3ZmQwYjYwY2M4JTJGMjAyNjA4MDIlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwMlQwNjM3NTJaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQW4lMjBPYnNlcnZhdGlvbiUyMExvZyUyMG9mJTIwTXklMjBGaWFuYyVDMyVBOWUlMjBXaG8lMjBDYWxscyUyMEhlcnNlbGYlMjBhJTIwVmlsbGFpbmVzcyUyMFMwMUUwMiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YjgxOTg3ODFiMTM1YmFjNDAzYjBhODc2ZmQ0YWM4MjYwNmI2MzY5YzdkNmVjOWU2ODU0M2FhODc0Y2IxMTE0ZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODE1MTAwMCwiaGFzaCI6Ijg1ZGMyMTZkYWY5N2EzYmIzYmY4MGYwOTFjYTk1MTI3YTkxMTIwYzc4Y2Y2MTVjNGU3ZWYzNGM5MGVmYzhhYzgiLCJmaWxlbmFtZSI6IkFuIE9ic2VydmF0aW9uIExvZyBvZiBNeSBGaWFuY1x1MDBlOWUgV2hvIENhbGxzIEhlcnNlbGYgYSBWaWxsYWluZXNzIFMwMUUwMiBbSGluZGldLm1rdiJ9",
             "downloadLinks": {
@@ -20057,7 +20057,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 3",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 3",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=b2f935e122132239208a9875ff23a6bc120a0019a4e261afc9b2f2acd754e760fe66f01812a79531ae7d492c024537a5868183124f85287b35716ba39a87d9e23f22948c97f6f8dc9bb85e7c24ec39171ac6e7fdc051a6cabdd0e7a1704587243a8b65dc52a50e064208957ed8ed2df0::ed2b0c4a07dc31a66fe4df17a1b12801",
             "downloadLinks": {
@@ -20073,7 +20073,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 4",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 4",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzg0MTAzYzhiZDI0ZDFlMjM4MTg2OGQ0MjI0YjcxZWQxP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA2MDE0M1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJBbiUyME9ic2VydmF0aW9uJTIwTG9nJTIwb2YlMjBNeSUyMEZpYW5jJUMzJUE5ZSUyMFdobyUyMENhbGxzJTIwSGVyc2VsZiUyMGElMjBWaWxsYWluZXNzJTIwUzAxRTA0JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01NGU5Zjk2MTc4ZmQ0ZTRhOTQ4Mzk4MTMxN2E1M2JhMDRkZmZhZmNkMWZiYWIyNGZjOTFjZTRjODczMjk1YjQ1IiwidGltZXN0YW1wIjoxNzg4NDQ4MTYwMDAwLCJoYXNoIjoiOGMwYmExN2ZhMzYzMzBmMGY5Mjk2MzhkZTRmMWNkYjRmYmEyNGZkY2U3YTFkNmNkZDE2M2I0Yzg3NzNmYzA5YyIsImZpbGVuYW1lIjoiQW4gT2JzZXJ2YXRpb24gTG9nIG9mIE15IEZpYW5jXHUwMGU5ZSBXaG8gQ2FsbHMgSGVyc2VsZiBhIFZpbGxhaW5lc3MgUzAxRTA0IFtIaW5kaV0ubWt2In0",
             "downloadLinks": {
@@ -20089,7 +20089,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 5",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 5",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9mYzVkYzBjMzJhNGVhMTVjNjlhZGU2ZWZjMGI3MDgyYT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MDUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwNVQxODU0MzVaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQW4lMjBPYnNlcnZhdGlvbiUyMExvZyUyMG9mJTIwTXklMjBGaWFuYyVDMyVBOWUlMjBXaG8lMjBDYWxscyUyMEhlcnNlbGYlMjBhJTIwVmlsbGFpbmVzcyUyMFMwMUUwNSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZjU2MjQ3ZmQ2ZTZkYTFjZTczNGFiMTY0ZDMxMTQ1NjZhMDQ3NDUxM2I4ZGJiOTRmOGEwMDNiZmNhYjJmY2U5ZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODE2NDAwMCwiaGFzaCI6ImNlODI0ZDk1MjhjZTNhOWVmYTcwMzQ0MzMxYjkwYWJjMzBlZjIwYmY5ZTYyODM1NjU1NTAzZThhOGVhNThkNTYiLCJmaWxlbmFtZSI6IkFuIE9ic2VydmF0aW9uIExvZyBvZiBNeSBGaWFuY1x1MDBlOWUgV2hvIENhbGxzIEhlcnNlbGYgYSBWaWxsYWluZXNzIFMwMUUwNSBbSGluZGldLm1rdiJ9",
             "downloadLinks": {
@@ -20105,7 +20105,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 6",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 6",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE2NWFmODU3ZDlhZDFiMGE2MzQzNzQyMDBhNDZjMDA5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA3MTMyNlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJBbiUyME9ic2VydmF0aW9uJTIwTG9nJTIwb2YlMjBNeSUyMEZpYW5jJUMzJUE5ZSUyMFdobyUyMENhbGxzJTIwSGVyc2VsZiUyMGElMjBWaWxsYWluZXNzJTIwUzAxRTA2JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0xNGMxZjAxYmIzZjE4MzhiMjAwOWViMjg1NTMyYzY0MzcwZDFmYmQyYjAwMmE4ZGUzYmY1YTNlNDgyNThjMTYzIiwidGltZXN0YW1wIjoxNzg4NDQ4MTY4MDAwLCJoYXNoIjoiOWZmOWZjY2RkOWU1YTc3NTlhMjYwOGNmZGZiYTNiNDQzYzJiNTljODJiZjVhMGJjZTk2Y2MyYzJiY2EzNzdjYSIsImZpbGVuYW1lIjoiQW4gT2JzZXJ2YXRpb24gTG9nIG9mIE15IEZpYW5jXHUwMGU5ZSBXaG8gQ2FsbHMgSGVyc2VsZiBhIFZpbGxhaW5lc3MgUzAxRTA2IFtIaW5kaV0ubWt2In0",
             "downloadLinks": {
@@ -20121,7 +20121,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 7",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 7",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=fed121d63f3838c6b4abf1af37daecf5a63617c6b62e4f9b32308f340bc4a4e1a096a3ba45f5c4e481054fcdc464eafaef7a628246f89769d6fe7918fe1a82156dd357f8ce5901e1f8eff5977f9fe6e803b89fd03fbf515ca85553a117204fbbce36bf7a31ab54799babbfb78236b90a::a0c791aa5377ec9f5ac2fbd00cd03597",
             "downloadLinks": {
@@ -20137,7 +20137,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 8",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 8",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9kOGE3ZWEyMGFhZTlmMjI5ZGIwNzhiNDY3MzM0MTM1ZT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwNzE1MTdaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQW4lMjBPYnNlcnZhdGlvbiUyMExvZyUyMG9mJTIwTXklMjBGaWFuYyVDMyVBOWUlMjBXaG8lMjBDYWxscyUyMEhlcnNlbGYlMjBhJTIwVmlsbGFpbmVzcyUyMFMwMUUwOCUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MzE2MTU4MDRhYzAzMjIwNmNiMGJiMjhkOWZjYjU0ZTMxN2RjNDI1ZGMyM2NjYTI3NGE4NjE5YTRjMzU3ZDA0MyIsInRpbWVzdGFtcCI6MTc4ODQ0ODE3NjAwMCwiaGFzaCI6ImIwODUyZTBiNTM0MzQ5OWIyN2I1YjkyYmQ2OGJmOTI3ZGU0NDI0NTNjNDQ3YmY5MDkzMmNmZWU2ZTFkZjBiNTkiLCJmaWxlbmFtZSI6IkFuIE9ic2VydmF0aW9uIExvZyBvZiBNeSBGaWFuY1x1MDBlOWUgV2hvIENhbGxzIEhlcnNlbGYgYSBWaWxsYWluZXNzIFMwMUUwOCBbSGluZGldLm1rdiJ9",
             "downloadLinks": {
@@ -20153,7 +20153,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 9",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 9",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYzBkZjFmMWY5NDQ5ODk5ODVmNTkxYWQyYmZjNjM4OD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQxMTQzMDZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyJTIwQW4lMjBPYnNlcnZhdGlvbiUyMExvZyUyMG9mJTIwTXklMjBGaWFuYyVDMyVBOWUlMjBXaG8lMjBDYWxscyUyMEhlcnNlbGYlMjBhJTIwVmlsbGFpbmVzcyUyMFMwMUUwOSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZDFlYzFjYWNlYWYzNmM1YjY4ZmU0MmQzNmMwYzZmOWE4NTE1M2JkOTQ3NWNiNmQyN2YzNTY3NjA1ZmNkMmZlZSIsInRpbWVzdGFtcCI6MTc4ODQ0ODE4MDAwMCwiaGFzaCI6ImI4NjI1ODRiN2I4OGQyYTI0NTAzNjhmMWI2OWY4ODJjZGMzMWEyZGVhMmI0YWFmMTQ5OGI5OWVlMjQ5ZjRiNjMiLCJmaWxlbmFtZSI6IkFuIE9ic2VydmF0aW9uIExvZyBvZiBNeSBGaWFuY1x1MDBlOWUgV2hvIENhbGxzIEhlcnNlbGYgYSBWaWxsYWluZXNzIFMwMUUwOSBbSGluZGldLm1rdiJ9",
             "downloadLinks": {
@@ -20169,7 +20169,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 10",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 10",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9lMmU1MDM3M2FlMzlkYjIzNTAyYWZlNGY4ZWM4MzY0Mz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMVQwNzM2MDhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyJTVCVGFtaWwlNUQlMjAtJTIwQW4lMjBPYnNlcnZhdGlvbiUyMExvZyUyMG9mJTIwTXklMjBGaWFuYyVDMyVBOWUlMjBXaG8lMjBDYWxscyUyMEhlcnNlbGYlMjBhJTIwVmlsbGFpbmVzcyUyMFMwMUUxMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWQ0NTE4ODRkYzU5NzBiYzdjYWE2YTgwNTI2MzExZTU0ZTczNWRjOWI2ZmE0MWQ1YTA4YWI3ZTU4Y2I0MWJlYzQiLCJ0aW1lc3RhbXAiOjE3ODg0NDgxODUwMDAsImhhc2giOiI2MzhkY2I1NWIzMGY5NmU3ZmE5MWQ0NWU5OTIzZDk5MmI4NmZkNDUwMDU5YzI4YWFkZjE5YjM1NGE5ZThmYjYxIiwiZmlsZW5hbWUiOiJbVGFtaWxdIC0gQW4gT2JzZXJ2YXRpb24gTG9nIG9mIE15IEZpYW5jXHUwMGU5ZSBXaG8gQ2FsbHMgSGVyc2VsZiBhIFZpbGxhaW5lc3MgUzAxRTEwLm1rdiJ9",
             "downloadLinks": {
@@ -20185,7 +20185,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 11",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 11",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2NiMGNiMzg4NThjZDNiNDdiNDQ0M2QyN2QxYmFkZDQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgxMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODEzVDE4MTQ0OVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJBbiUyME9ic2VydmF0aW9uJTIwTG9nJTIwb2YlMjBNeSUyMEZpYW5jJUMzJUE5ZSUyMFdobyUyMENhbGxzJTIwSGVyc2VsZiUyMGElMjBWaWxsYWluZXNzJTIwUzAxRTExJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0wOTcwZjVmMjllMzZiNjQ1OGNhOGIxNjc5NGVmZjkzM2YzZGU2MDhlNDA1N2YxYmIwOWRmYzNhYTgxMGZkNzE3IiwidGltZXN0YW1wIjoxNzg4NDQ4MTg4MDAwLCJoYXNoIjoiMWE3ZGY1MmU0MGM2NzljODU2NWIxNDZmOGUzNTEyMDEyMTdlYTZiOTBhNTcwYWRmYTg4ZTBjYzE4OTZhY2RmMiIsImZpbGVuYW1lIjoiQW4gT2JzZXJ2YXRpb24gTG9nIG9mIE15IEZpYW5jXHUwMGU5ZSBXaG8gQ2FsbHMgSGVyc2VsZiBhIFZpbGxhaW5lc3MgUzAxRTExIFtIaW5kaV0ubWt2In0",
             "downloadLinks": {
@@ -20201,7 +20201,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 12",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
             "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1 Episode 12",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Q2ZGIwNjQ0MWJlODI0Njk5MmIyNDY0M2JlZGVmMGQ4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA5MjkxN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJBbiUyME9ic2VydmF0aW9uJTIwTG9nJTIwb2YlMjBNeSUyMEZpYW5jJUMzJUE5ZSUyMFdobyUyMENhbGxzJTIwSGVyc2VsZiUyMGElMjBWaWxsYWluZXNzJTIwUzAxRTEyJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1mMWE3MWJlYzMxMTdkNGM2MTk2NDA1ZWM5YmMwMTA5M2M4OTQwY2Q0ZmE4ZWQyOTgwZDU0ZjY0NjUxMTIyY2MyIiwidGltZXN0YW1wIjoxNzg4NDQ4MTkyMDAwLCJoYXNoIjoiZTUwODEwNDM0ZWUwODk5MWViOWFlOWExNjY1MjZiZGRlOTU1YWU2YTg3YjQzYjY3ZDBhN2EwZmIyMjk4YTNlMSIsImZpbGVuYW1lIjoiQW4gT2JzZXJ2YXRpb24gTG9nIG9mIE15IEZpYW5jXHUwMGU5ZSBXaG8gQ2FsbHMgSGVyc2VsZiBhIFZpbGxhaW5lc3MgUzAxRTEyIFtIaW5kaV0ubWt2In0",
             "downloadLinks": {
@@ -22185,7 +22185,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/8/88/A_Magnificent_Life.jpg",
             "synopsis": "A Magnificent Life Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=ZdJcDYQopL2uWHj9M6UGrUDkHRr1YheWESIU%2Bf52naps%2FHR5hsbkeD2wYzOw9X4phw7jTXogN3CmAg0hpRs%2FUJPBxdqpa3ssnIYZYQCkyuOrVFc%3D",
             "downloadLinks": {
@@ -23411,7 +23411,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Day Peace Began to Collapse",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 1",
             "downloadUrl": "https://pixeldrain.net/u/9DbgYQRF?download",
             "downloadLinks": {
@@ -23428,7 +23428,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Small Lies",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 2",
             "downloadUrl": "https://pixeldrain.net/u/Z9nd3AwS?download",
             "downloadLinks": {
@@ -23445,7 +23445,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Worldly Desires, Begone",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 3",
             "downloadUrl": "https://pixeldrain.net/u/weZgfjjT?download",
             "downloadLinks": {
@@ -23462,7 +23462,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Showing and Being Seen",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 4",
             "downloadUrl": "https://pixeldrain.net/u/z35LMpUh?download",
             "downloadLinks": {
@@ -23479,7 +23479,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Ideal Partner",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 5",
             "downloadUrl": "https://pixeldrain.net/u/Vzk8HnU6?download",
             "downloadLinks": {
@@ -23496,7 +23496,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Confession",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 6",
             "downloadUrl": "https://pixeldrain.net/u/gTz57J1w?download",
             "downloadLinks": {
@@ -23513,7 +23513,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "After School, Just Before Summer Break",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 7",
             "downloadUrl": "https://pixeldrain.net/u/5BFkzGGf?download",
             "downloadLinks": {
@@ -23530,7 +23530,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "A Cute Junior",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 8",
             "downloadUrl": "https://pixeldrain.net/u/1PAkdKKW?download GlhXS5ta3YifQ",
             "downloadLinks": {
@@ -23547,7 +23547,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Fireworks",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 9",
             "downloadUrl": "https://pixeldrain.net/u/dnxU9w8y?download",
             "downloadLinks": {
@@ -23564,7 +23564,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "A Relationship I Don’t Want to Mess Up",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 10",
             "downloadUrl": "https://pixeldrain.net/u/vjCzzQnc?download",
             "downloadLinks": {
@@ -23581,7 +23581,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Still a Child",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 11",
             "downloadUrl": "https://pixeldrain.net/u/LzFswS2W?download",
             "downloadLinks": {
@@ -23598,7 +23598,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Being Independent",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 12",
             "downloadUrl": "https://pixeldrain.net/u/4x11JAyt?download",
             "downloadLinks": {
@@ -23615,7 +23615,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Do You Really Love Her?",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 13",
             "downloadUrl": "https://pixeldrain.net/u/sg8iKS34?download MFMwMUUxMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NGYxOGI3MzlhNWM1ZjI1NmYzN TdmYmZlNjE0ZTViZDA4ODVhNGZiZDgxZTE2MjhmYmU3ZWEwNTk0ZDI1NjNiZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODgzNTAwMC wiaGFzaCI6IjQ4ODhhNjcwZWU3MTM0ZGVmNmQ3YTFmZmY4ODI4MTFlODJkNjk2NGVmZGQxNmI4YzRkYWI4NDJhODIwYTYx NmMiLCJmaWxlbmFtZSI6IldhdGFyaS1rdW4ncyBJcyBBYm91dCB0byBDb2xsYXBzZSBTMDFFMTMgW1JhcmVUb29uc0luZGlhXS 5ta3YifQ",
             "downloadLinks": {
@@ -23632,7 +23632,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Nao",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 14",
             "downloadUrl": "https://pixeldrain.net/u/HxdjXbjp?download",
             "downloadLinks": {
@@ -23649,7 +23649,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "What It Means to Love Someone",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 15",
             "downloadUrl": "https://pixeldrain.net/u/vostQicu?download",
             "downloadLinks": {
@@ -23666,7 +23666,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "A Contract for Sex",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 16",
             "downloadUrl": "https://pixeldrain.net/u/WaqThg3k?download",
             "downloadLinks": {
@@ -23683,7 +23683,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Answers for Satsuki and Ishihara",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 17",
             "downloadUrl": "https://pixeldrain.net/u/X3Hmw3jd?download",
             "downloadLinks": {
@@ -23700,7 +23700,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "What They’re Searching For",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 18",
             "downloadUrl": "https://pixeldrain.net/u/JC3UNLAZ?download",
             "downloadLinks": {
@@ -23717,7 +23717,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Seeing Things",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 19",
             "downloadUrl": "https://pixeldrain.net/u/3anDLTuA?download",
             "downloadLinks": {
@@ -23734,7 +23734,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Now’s My Chance",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 20",
             "downloadUrl": "https://pixeldrain.net/u/qX4i3fLg?download",
             "downloadLinks": {
@@ -23751,7 +23751,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Honest Feelings",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 21",
             "downloadUrl": "https://pixeldrain.net/u/6grY95JF?download",
             "downloadLinks": {
@@ -23768,7 +23768,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The One I Need",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 22",
             "downloadUrl": "https://pixeldrain.net/u/YeT3u6UN?download",
             "downloadLinks": {
@@ -23785,7 +23785,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "A Story from Another Time",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 23",
             "downloadUrl": "https://pixeldrain.net/u/H8uTyxD1?download",
             "downloadLinks": {
@@ -23802,7 +23802,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "New Life",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 24",
             "downloadUrl": "https://pixeldrain.net/u/D9jjTrvr?download",
             "downloadLinks": {
@@ -23819,7 +23819,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Shape of a Family",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 25",
             "downloadUrl": "https://pixeldrain.net/u/AcTDwzjG?download",
             "downloadLinks": {
@@ -23836,7 +23836,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 26",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
             "synopsis": "Watari-kun’s ****** Is About to Collapse Season 1 Episode 26",
             "downloadUrl": "https://pixeldrain.net/u/Vgf8FnhA?download",
             "downloadLinks": {
@@ -24307,7 +24307,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/a/ae/Arco_poster.jpg",
             "synopsis": "Arco Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=gN9eEYaasKfLmXzAMYH%2B2I07bXru8D03W66U%2FjgGotUYTmPPXUN7fm7urNhvx6EkVTdb2%2FZ185DFP4qw%2Fj7Wrqg0F68jQdFaTrq23sOokUrywMo%3D",
             "downloadLinks": {
