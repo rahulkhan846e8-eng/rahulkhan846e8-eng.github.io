@@ -6198,13 +6198,13 @@ export const ANIME_DATABASE = [
     "rating": 8.9,
     "year": 2016,
     "audioBadge": "Hindi Dub",
-    "currentEpBadge": "S3-EP8",
+    "currentEpBadge": "S3-EP12",
     "status": "Completed",
     "type": "TV Series",
     "season": "July 2016",
     "studio": "Bones",
     "hasSub": true,
-    "hasDub": false,
+    "hasDub": true,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -6223,121 +6223,169 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 1,
-            "title": "Episode 1",
+            "title": "Self-Proclaimed Psychic: Reigen Arataka ~And Mob~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 1",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/2r3TWsuQ?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/2r3TWsuQ?download"
           },
           {
             "id": 2,
             "number": 2,
             "season": 1,
-            "title": "Episode 2",
+            "title": "Doubts About Youth ~The Telepathy Club Appears~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/qwrCW4GW?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/qwrCW4GW?download"
           },
           {
             "id": 3,
             "number": 3,
             "season": 1,
-            "title": "Episode 3",
+            "title": "An Invite to a Meeting ~Simply Put, I Just Want to Be Popular~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 3",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/wLAc4Vn9?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/wLAc4Vn9?download"
           },
           {
             "id": 4,
             "number": 4,
             "season": 1,
-            "title": "Episode 4",
+            "title": "Idiots Only Event ~Kin~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 4",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/i9fkugXV?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/i9fkugXV?download"
           },
           {
             "id": 5,
             "number": 5,
             "season": 1,
-            "title": "Episode 5",
+            "title": "OCHIMUSHA ~Psychic Powers and Me~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 5",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8xzjQ82c?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/8xzjQ82c?download"
           },
           {
             "id": 6,
             "number": 6,
             "season": 1,
-            "title": "Episode 6",
+            "title": "Discord ~To Become One~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 6",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ET1oaueS?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/ET1oaueS?download"
           },
           {
             "id": 7,
             "number": 7,
             "season": 1,
-            "title": "Episode 7",
+            "title": "Exaltation ~I’ve Obtained Loss~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 7",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/NiFYprBK?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/NiFYprBK?download"
           },
           {
             "id": 8,
             "number": 8,
             "season": 1,
-            "title": "Episode 8",
+            "title": "The Older Brother Bows ~Destructive Intent~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 8",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/14fPDhrG?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/14fPDhrG?download"
           },
           {
             "id": 9,
             "number": 9,
             "season": 1,
-            "title": "Episode 9",
+            "title": "Claw ~7th Division~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 9",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XHYpkrGb?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/XHYpkrGb?download"
           },
           {
             "id": 10,
             "number": 10,
             "season": 1,
-            "title": "Episode 10",
+            "title": "The Heinous Aura ~Mastermind~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 10",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/s1dsuY84?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/s1dsuY84?download"
           },
           {
             "id": 11,
             "number": 11,
             "season": 1,
-            "title": "Episode 11",
+            "title": "Master ~Leader~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 11",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/1MmxaRr4?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/1MmxaRr4?download"
           },
           {
             "id": 12,
             "number": 12,
             "season": 1,
-            "title": "Episode 12",
+            "title": "Mob and Reigen ~A Giant Tsuchinoko Appears~ – Season Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 12",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/2o8kdeZU?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/2o8kdeZU?download"
           }
         ]
       },
@@ -6350,131 +6398,197 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 2,
-            "title": "Episode 1",
+            "title": "Ripped Apart ~Someone Is Watching~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 1",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3y44CnJX?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/3y44CnJX?download"
           },
           {
             "id": 2,
             "number": 2,
             "season": 2,
-            "title": "Episode 2",
+            "title": "Urban Legends ~Encountering Rumors~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/c8gdskFd?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/c8gdskFd?download"
           },
           {
             "id": 3,
             "number": 3,
             "season": 2,
-            "title": "Episode 3",
+            "title": "One Danger After Another ~Degeneration~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 3",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/uJfi9BFR?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/uJfi9BFR?download"
           },
           {
             "id": 4,
             "number": 4,
             "season": 2,
-            "title": "Episode 4",
+            "title": "Inside ~Evil Spirit~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 4",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/k5vzih7Z?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/k5vzih7Z?download"
           },
           {
             "id": 5,
             "number": 5,
             "season": 2,
-            "title": "Episode 5",
+            "title": "Discord ~Choices~ -",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 5",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/MN8EELDD#lAVwvZwI3ilZw7wyEsVFsN7QzLBYc1q3t5wB7TZc5H8"
+            },
+            "downloadUrl": "https://mega.nz/file/MN8EELDD#lAVwvZwI3ilZw7wyEsVFsN7QzLBYc1q3t5wB7TZc5H8"
           },
           {
             "id": 6,
             "number": 6,
             "season": 2,
-            "title": "Episode 6",
+            "title": "Poor, Lonely, Whitey",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 6",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/s4eT1V3H?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/s4eT1V3H?download"
           },
           {
             "id": 7,
             "number": 7,
             "season": 2,
-            "title": "Episode 7",
+            "title": "Cornered ~True Identity~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 7",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/SHBhLhAG?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/SHBhLhAG?download"
           },
           {
             "id": 8,
             "number": 8,
             "season": 2,
-            "title": "Episode 8",
+            "title": "Even Then ~Continue Forward~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 8",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Ni8Cbo81?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/Ni8Cbo81?download"
           },
           {
             "id": 9,
             "number": 9,
             "season": 2,
-            "title": "Episode 9",
+            "title": "Show Me What You’ve Got ~Band Together~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 9",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DcWZsAjv?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/DcWZsAjv?download"
           },
           {
             "id": 10,
             "number": 10,
             "season": 2,
-            "title": "Episode 10",
+            "title": "Collision ~Power Type~ -",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 10",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/hRNxAY6L#CoYcRaI4B0cuZF_ejBqe2Ll7FPbLtHY5-sXY8ZQ7-Zw"
+            },
+            "downloadUrl": "https://mega.nz/file/hRNxAY6L#CoYcRaI4B0cuZF_ejBqe2Ll7FPbLtHY5-sXY8ZQ7-Zw"
           },
           {
             "id": 11,
             "number": 11,
             "season": 2,
-            "title": "Episode 11",
+            "title": "Guidance ~Psychic Sensor~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 11",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/rhWwBuFF?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/rhWwBuFF?download"
           },
           {
             "id": 12,
             "number": 12,
             "season": 2,
-            "title": "Episode 12",
+            "title": "The Battle for Social Rehabilitation ~Friendship~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 12",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WuipWTbA?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/WuipWTbA?download"
           },
           {
             "id": 13,
             "number": 13,
             "season": 2,
-            "title": "Episode 13",
+            "title": "Boss Fight ~The Final Light~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 13",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/5uU2EuSL?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/5uU2EuSL?download"
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 2,
+            "title": "SPECIAL – OVA – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+            "synopsis": "Episode 14 of Mob Psycho 100",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/dzMGxLFv?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/dzMGxLFv?download"
+            }
           }
         ]
       },
@@ -6487,121 +6601,169 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 3,
-            "title": "Episode 1",
+            "title": "Future ~Career Paths~ -",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 1",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/3TBiiTAD#rcWVYiM9QK7IW4Bh8S47rB0mZ2rkQBqvN2skDiBmmvg"
+            },
+            "downloadUrl": "https://mega.nz/file/3TBiiTAD#rcWVYiM9QK7IW4Bh8S47rB0mZ2rkQBqvN2skDiBmmvg"
           },
           {
             "id": 2,
             "number": 2,
             "season": 3,
-            "title": "Episode 2",
+            "title": "Yokai Hunter Amakusa Haruaki Appears! ~The Threat of a Hundred Demons!!~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WsD7L7Ye?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/WsD7L7Ye?download"
           },
           {
             "id": 3,
             "number": 3,
             "season": 3,
-            "title": "Episode 3",
+            "title": "Getting Carried Away ~100%~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 3",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DBwZ2Pmc?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/DBwZ2Pmc?download"
           },
           {
             "id": 4,
             "number": 4,
             "season": 3,
-            "title": "Episode 4",
+            "title": "Divine Tree 1 ~The Founder Appears~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 4",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/cDgyFhY3?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/cDgyFhY3?download"
           },
           {
             "id": 5,
             "number": 5,
             "season": 3,
-            "title": "Episode 5",
+            "title": "Divine Tree 2 ~Peace~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 5",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/QZc4YGFm?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/QZc4YGFm?download"
           },
           {
             "id": 6,
             "number": 6,
             "season": 3,
-            "title": "Episode 6",
+            "title": "Divine Tree 3 ~Dimple Is~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 6",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/UYqatYJD?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/UYqatYJD?download"
           },
           {
             "id": 7,
             "number": 7,
             "season": 3,
-            "title": "Episode 7",
+            "title": "Transmission 1 ~Winter Break~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 7",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/rqdKksaw?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/rqdKksaw?download"
           },
           {
             "id": 8,
             "number": 8,
             "season": 3,
-            "title": "Episode 8",
+            "title": "Transmission 2 ~Encountering the Unknown~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 8",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/a5Tuk6Q7?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/a5Tuk6Q7?download"
           },
           {
             "id": 9,
             "number": 9,
             "season": 3,
-            "title": "Episode 9",
+            "title": "Mob 1 ~Moving~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 9",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/zrdqFMD9?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/zrdqFMD9?download"
           },
           {
             "id": 10,
             "number": 10,
             "season": 3,
-            "title": "Episode 10",
+            "title": "Mob 2 ~Rival~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 10",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/bWx11F1C?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/bWx11F1C?download"
           },
           {
             "id": 11,
             "number": 11,
             "season": 3,
-            "title": "Episode 11",
+            "title": "Mob 3 ~Trauma~",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 11",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/dhbjFT2H?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/dhbjFT2H?download"
           },
           {
             "id": 12,
             "number": 12,
             "season": 3,
-            "title": "Episode 12",
+            "title": "Confession ~The Future~ NEw! – Season Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
             "synopsis": "Episode 12",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/mBydrz8Y?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/mBydrz8Y?download"
           }
         ]
       }
