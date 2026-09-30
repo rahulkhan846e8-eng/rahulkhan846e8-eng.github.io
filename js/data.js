@@ -12674,13 +12674,13 @@ export const ANIME_DATABASE = [
     "rating": 8.6,
     "year": 2026,
     "audioBadge": "Hindi Dub",
-    "currentEpBadge": "S1-EP1",
+    "currentEpBadge": "S1-EP12",
     "status": "Upcoming",
     "type": "TV Series",
     "season": "Winter 2026",
     "studio": "MAPPA",
     "hasSub": true,
-    "hasDub": false,
+    "hasDub": true,
     "isTrending": false,
     "isPopular": true,
     "genres": [
@@ -12699,51 +12699,71 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 1,
-            "title": "Episode 1",
+            "title": "The Future Is in Our Hands",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
             "synopsis": "Episode 1",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/V5z4ExSW?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/V5z4ExSW?download"
           },
           {
             "id": 2,
             "number": 2,
             "season": 1,
-            "title": "Episode 2",
+            "title": "The Choice Is Yours",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
             "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/LJovf4M1?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/LJovf4M1?download"
           },
           {
             "id": 3,
             "number": 3,
             "season": 1,
-            "title": "Episode 3",
+            "title": "WHAT’S MY NAME?",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
             "synopsis": "Episode 3",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/dXEPjCPd?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/dXEPjCPd?download"
           },
           {
             "id": 4,
             "number": 4,
             "season": 1,
-            "title": "Episode 4",
+            "title": "Two Is Not Enough",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
             "synopsis": "Episode 4",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/CAyE6Fob?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/CAyE6Fob?download"
           },
           {
             "id": 5,
             "number": 5,
             "season": 1,
-            "title": "Episode 5",
+            "title": "Young Gunz NEw!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
             "synopsis": "Episode 5",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/iNVXU9HM?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/iNVXU9HM?download"
           },
           {
             "id": 6,
