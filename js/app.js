@@ -603,11 +603,6 @@ class App {
             <img src="${anime.poster}" class="search-result-img" alt="${anime.title}" />
             <div class="search-result-info">
               <div class="search-result-title">${anime.title}</div>
-              <div class="search-result-meta">
-                <span class="badge badge-rating">★ ${anime.rating}</span>
-                <span class="badge badge-gold-pill" style="font-size: 0.65rem;">${anime.audioBadge || 'Multi-Audio'}</span>
-                <span>${(anime.genres || []).slice(0, 2).join(", ")}</span>
-              </div>
             </div>
           </div>
         `).join("");

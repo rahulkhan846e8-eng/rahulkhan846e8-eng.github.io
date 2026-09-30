@@ -24440,6 +24440,38 @@ export function getAnimeById(id) {
   return ANIME_DATABASE.find(item => item.id === clean || item.id === clean.replace(/\s+/g, '-')) || null;
 }
 
+function levenshteinDistance(s1, s2) {
+  if (s1 === s2) return 0;
+  if (!s1.length) return s2.length;
+  if (!s2.length) return s1.length;
+  const row = Array.from({ length: s2.length + 1 }, (_, i) => i);
+  for (let i = 0; i < s1.length; i++) {
+    let prev = i + 1;
+    for (let j = 0; j < s2.length; j++) {
+      const cost = s1[i] === s2[j] ? 0 : 1;
+      const cur = Math.min(row[j + 1] + 1, prev + 1, row[j] + cost);
+      row[j] = prev;
+      prev = cur;
+    }
+    row[s2.length] = prev;
+  }
+  return row[s2.length];
+}
+
+function checkFuzzyMatch(tok, word) {
+  if (tok.length < 4 || word.length < 4) return { isMatch: false, dist: 0 };
+  const d = levenshteinDistance(tok, word);
+  const minLen = Math.min(tok.length, word.length);
+  if (tok[0] === word[0]) {
+    if (minLen <= 5 && d <= 1) return { isMatch: true, dist: d };
+    if (minLen <= 8 && d <= 2) return { isMatch: true, dist: d };
+    if (minLen > 8 && d <= 3) return { isMatch: true, dist: d };
+  } else {
+    if (minLen >= 5 && d <= 1) return { isMatch: true, dist: d };
+  }
+  return { isMatch: false, dist: 0 };
+}
+
 export function searchAnime(query = "", genre = "All", type = "All", sortBy = "popularity") {
   let list = [...ANIME_DATABASE];
 
@@ -24453,59 +24485,116 @@ export function searchAnime(query = "", genre = "All", type = "All", sortBy = "p
 
   if (query && query.trim()) {
     const rawQ = query.toLowerCase().trim();
-    const cleanQ = rawQ.replace(/[-_]/g, ' ');
-    const qParts = cleanQ.split(/\s+/).filter(Boolean);
+    const cleanQ = rawQ.replace(/[^a-z0-9\s]/gi, ' ').replace(/\s+/g, ' ').trim();
+    const tokens = cleanQ.split(/\s+/).filter(Boolean);
 
-    // Score each anime based on Alphabet / Prefix recognition
+    if (tokens.length === 0) return list;
+
+    // Score each anime based on multi-keyword tokens and typo tolerance
     const scored = [];
     for (const item of list) {
-      const titleClean = (item.title || "").toLowerCase();
-      const idClean = (item.id || "").toLowerCase().replace(/[-_]/g, ' ');
-      const titleWords = titleClean.split(/\s+/);
-      const idWords = idClean.split(/\s+/);
-      const jpClean = (item.japaneseTitle || "").toLowerCase();
-      const studioClean = (item.studio || "").toLowerCase();
+      const titleRaw = (item.title || "").toLowerCase();
+      const titleClean = titleRaw.replace(/[^a-z0-9\s]/gi, ' ').replace(/\s+/g, ' ').trim();
+      const titleWords = titleClean.split(/\s+/).filter(Boolean);
+
+      const idClean = (item.id || "").toLowerCase().replace(/[^a-z0-9\s]/gi, ' ').replace(/\s+/g, ' ').trim();
+      const idWords = idClean.split(/\s+/).filter(Boolean);
+
+      const jpClean = (item.japaneseTitle || "").toLowerCase().replace(/[^a-z0-9\s]/gi, ' ').replace(/\s+/g, ' ').trim();
+      const jpWords = jpClean.split(/\s+/).filter(Boolean);
 
       let score = 0;
 
-      // 1. Exact Title Prefix match (Highest Priority, e.g. "na" matches "Naruto", "dea" matches "Death Note")
-      if (titleClean.startsWith(rawQ) || titleClean.startsWith(cleanQ)) {
+      // 1. Exact phrase recognition
+      if (titleClean === cleanQ || titleRaw === rawQ) {
+        score += 500;
+      } else if (titleClean.startsWith(cleanQ) || titleRaw.startsWith(rawQ)) {
+        score += 300;
+      } else if (titleClean.includes(cleanQ) || titleRaw.includes(rawQ)) {
         score += 200;
       }
-      // 2. Any Word in Title starts with query (e.g. "man" in "Chainsaw Man", "leveling" in "Solo Leveling", "slayer" in "Demon Slayer")
-      else if (titleWords.some(w => w.startsWith(rawQ) || w.startsWith(cleanQ))) {
-        score += 150;
+
+      // 2. Multi-token keyword & typo / fuzzy matching
+      let matchedTokens = 0;
+      for (const tok of tokens) {
+        let bestTokScore = 0;
+
+        // Match against title words
+        for (const word of titleWords) {
+          if (word === tok) {
+            bestTokScore = Math.max(bestTokScore, 100);
+          } else if (word.startsWith(tok)) {
+            bestTokScore = Math.max(bestTokScore, 80);
+          } else if (tok.length >= 3 && word.includes(tok)) {
+            bestTokScore = Math.max(bestTokScore, 50);
+          } else {
+            const { isMatch, dist } = checkFuzzyMatch(tok, word);
+            if (isMatch) {
+              bestTokScore = Math.max(bestTokScore, 65 - dist * 5);
+            }
+          }
+        }
+
+        // Match against slug / ID words if not strongly matched
+        if (bestTokScore < 70) {
+          for (const word of idWords) {
+            if (word === tok) {
+              bestTokScore = Math.max(bestTokScore, 70);
+            } else if (word.startsWith(tok)) {
+              bestTokScore = Math.max(bestTokScore, 55);
+            } else {
+              const { isMatch, dist } = checkFuzzyMatch(tok, word);
+              if (isMatch) {
+                bestTokScore = Math.max(bestTokScore, 55 - dist * 5);
+              }
+            }
+          }
+        }
+
+        // Match against Japanese / Romaji words
+        if (bestTokScore < 60) {
+          for (const word of jpWords) {
+            if (word === tok) {
+              bestTokScore = Math.max(bestTokScore, 60);
+            } else if (word.startsWith(tok)) {
+              bestTokScore = Math.max(bestTokScore, 45);
+            }
+          }
+        }
+
+        if (bestTokScore > 0) {
+          matchedTokens++;
+          score += bestTokScore;
+        }
       }
-      // 3. ID Slug prefix match
-      else if (idClean.startsWith(rawQ) || idWords.some(w => w.startsWith(rawQ))) {
-        score += 120;
+
+      // All-keyword match bonus
+      if (tokens.length > 0 && matchedTokens === tokens.length) {
+        score += 150 * tokens.length;
+      } else if (matchedTokens > 0) {
+        score += (matchedTokens / tokens.length) * 40;
       }
-      // 4. Substring inside title (e.g. "saw" inside "Chainsaw")
-      else if (titleClean.includes(rawQ) || titleClean.includes(cleanQ)) {
-        score += 80;
-      }
-      // 5. Japanese Title or Studio match
-      else if (jpClean.startsWith(rawQ) || studioClean.startsWith(rawQ)) {
-        score += 60;
-      }
-      // 6. Only for longer search queries (>= 4 characters), match genres or synopsis
-      else if (rawQ.length >= 4) {
+
+      // 3. Fallback: Genres / Synopsis only if score is 0 and query has 4+ characters
+      if (score === 0 && cleanQ.length >= 4) {
         const genresJoined = (item.genres || []).join(" ").toLowerCase();
         const synClean = (item.synopsis || "").toLowerCase();
-        if (genresJoined.includes(rawQ)) {
+        if (genresJoined.includes(cleanQ)) {
           score += 30;
-        } else if (synClean.includes(rawQ)) {
+        } else if (synClean.includes(cleanQ)) {
           score += 15;
         }
       }
 
       if (score > 0) {
+        // Tiebreaker based on rating and popularity
+        score += (item.rating || 0) * 0.5;
+        if (item.isTrending) score += 5;
         scored.push({ item, score });
       }
     }
 
-    // Sort strictly by relevance score descending
-    scored.sort((a, b) => b.score - a.score || b.item.rating - a.item.rating);
+    scored.sort((a, b) => b.score - a.score || (b.item.rating || 0) - (a.item.rating || 0));
     return scored.map(s => s.item);
   }
 
