@@ -839,19 +839,22 @@
   display: none !important;
 }
 
+.card-lang-badge,
 .card-ep-badge {
   position: absolute;
   bottom: 8px;
   left: 8px;
   background: #ffbe0b;
   color: #000000;
-  font-size: 0.68rem;
-  font-weight: 900;
-  padding: 2px 7px;
-  border-radius: 10px;
+  font-size: 0.64rem;
+  font-weight: 800;
+  padding: 2.5px 7.5px;
+  border-radius: 5px;
   text-transform: uppercase;
+  letter-spacing: 0.3px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
   z-index: 2;
+  white-space: nowrap;
 }
 
 .anime-card-overlay-btn {
@@ -886,7 +889,7 @@
 }
 
 .anime-card-body {
-  padding: 10px 12px 12px;
+  padding: 8px 10px 10px;
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -899,14 +902,11 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  margin-bottom: 3px;
+  margin-bottom: 0;
 }
 
 .anime-card-year {
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: #ffbe0b;
-  margin-top: 2px;
+  display: none !important;
 }
 
 /* --------------------------------------------------------------------------

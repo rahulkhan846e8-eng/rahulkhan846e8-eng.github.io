@@ -100,24 +100,61 @@ export class UIRenderer {
   }
 
   // --------------------------------------------------------------------------
+  // Language Badge Detector
+  // --------------------------------------------------------------------------
+  static getLanguageBadge(anime) {
+    if (!anime) return "HINDI DUB";
+
+    // 1. Explicit languages array
+    if (Array.isArray(anime.languages) && anime.languages.length > 0) {
+      const langs = anime.languages.map(l => String(l).toLowerCase().trim());
+      const hasH = langs.includes("hindi");
+      const hasO = langs.includes("original");
+      if (hasH && hasO) return "MULTI-AUDIO";
+      if (hasH) return "HINDI DUB";
+      if (hasO) return "ORIGINAL DUB";
+    }
+
+    // 2. Explicit audioBadge
+    if (anime.audioBadge) {
+      const b = String(anime.audioBadge).toLowerCase();
+      if (b.includes("multi")) return "MULTI-AUDIO";
+      if (b.includes("hindi")) return "HINDI DUB";
+      if (b.includes("original") || b.includes("sub") || b.includes("jap")) return "ORIGINAL DUB";
+    }
+
+    // 3. Scan episode / season download links
+    const allEpisodes = (anime.seasons || []).flatMap(s => s.episodes || []).concat(anime.episodes || []);
+    let hasHindi = false;
+    let hasOrig = false;
+    for (const ep of allEpisodes) {
+      if (ep.downloadLinks?.hindi || (ep.downloadUrl && !ep.downloadLinks?.original)) hasHindi = true;
+      if (ep.downloadLinks?.original) hasOrig = true;
+    }
+    if (hasHindi && hasOrig) return "MULTI-AUDIO";
+    if (hasHindi) return "HINDI DUB";
+    if (hasOrig) return "ORIGINAL DUB";
+
+    return anime.hasDub !== false ? "HINDI DUB" : "ORIGINAL DUB";
+  }
+
+  // --------------------------------------------------------------------------
   // Anime Card
   // --------------------------------------------------------------------------
   static renderAnimeCard(anime) {
-    const epBadge = anime.type === "Movie" ? "MOVIE" : (anime.currentEpBadge || `S1-EP${anime.episodes?.length || 12}`);
-    const year = anime.year || 2024;
+    const langBadge = UIRenderer.getLanguageBadge(anime);
 
     return `
       <div class="anime-card" data-anime-id="${anime.id}">
         <div class="anime-card-poster">
           <img src="${anime.poster}" alt="${anime.title}" loading="lazy" onerror="this.onerror=null; this.src=window.FALLBACK_POSTER;" />
-          <div class="card-ep-badge">${epBadge}</div>
+          <div class="card-lang-badge">${langBadge}</div>
           <div class="anime-card-overlay-btn" title="View Episodes">
             <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
           </div>
         </div>
         <div class="anime-card-body">
           <h4 class="anime-card-title" title="${anime.title}">${anime.title}</h4>
-          <div class="anime-card-year">${year}</div>
         </div>
       </div>
     `;

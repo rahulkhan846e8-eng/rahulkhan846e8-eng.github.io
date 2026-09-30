@@ -1315,17 +1315,18 @@
   }
 
   .catalog-grid .anime-card-year {
-    font-size: 0.68rem !important;
-    color: #94a3b8 !important;
+    display: none !important;
   }
 
+  .catalog-grid .card-lang-badge,
   .catalog-grid .card-ep-badge {
     font-size: 0.58rem !important;
-    padding: 2px 4px !important;
+    padding: 2px 5px !important;
     border-radius: 3px !important;
     bottom: 5px !important;
     left: 5px !important;
     font-weight: 800 !important;
+    white-space: nowrap !important;
   }
 
   .catalog-grid .anime-card-overlay-btn {
