@@ -12928,13 +12928,13 @@ export const ANIME_DATABASE = [
     "rating": 8.7,
     "year": 2024,
     "audioBadge": "Hindi Dub",
-    "currentEpBadge": "S2-EP4",
+    "currentEpBadge": "S2-EP8",
     "status": "Airing",
     "type": "TV Series",
     "season": "July 2024",
     "studio": "CloverWorks",
     "hasSub": true,
-    "hasDub": false,
+    "hasDub": true,
     "isTrending": false,
     "isPopular": true,
     "genres": [
@@ -12953,130 +12953,292 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 1,
-            "title": "Episode 1",
+            "title": "May 22nd",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 1",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/RFKuSwBh?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/RFKuSwBh?download"
           },
           {
             "id": 2,
             "number": 2,
             "season": 1,
-            "title": "Episode 2",
+            "title": "The Gentle Uncle",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZLKFZXaj?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/ZLKFZXaj?download"
           },
           {
             "id": 3,
             "number": 3,
             "season": 1,
-            "title": "Episode 3",
+            "title": "A Forest Inhabited by a God",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 3",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3x9gyQU3?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/3x9gyQU3?download"
           },
           {
             "id": 4,
             "number": 4,
             "season": 1,
-            "title": "Episode 4",
+            "title": "Sadamune Appears!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 4",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/S1aTuGZm?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/S1aTuGZm?download"
           },
           {
             "id": 5,
             "number": 5,
             "season": 1,
-            "title": "Episode 5",
+            "title": "Settling the Score! A Dog-Shooting Competition and then…",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 5",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Wj4ayAXp?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/Wj4ayAXp?download"
           },
           {
             "id": 6,
             "number": 6,
             "season": 1,
-            "title": "Episode 6",
+            "title": "Steal the Imperial Command from Ogasawara’s Residence at Night",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 6",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8P75BtVa?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/8P75BtVa?download"
           },
           {
             "id": 7,
             "number": 7,
             "season": 1,
-            "title": "Episode 7",
+            "title": "Children in Winter",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 7",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/KAaJAqiq?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/KAaJAqiq?download"
           },
           {
             "id": 8,
             "number": 8,
             "season": 1,
-            "title": "Episode 8",
+            "title": "A War of Hide and Seek",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 8",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DZg6tfms?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/DZg6tfms?download"
           },
           {
             "id": 9,
             "number": 9,
             "season": 1,
-            "title": "Episode 9",
+            "title": "My Buddha",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 9",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/W5YNbZUi?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/W5YNbZUi?download"
           },
           {
             "id": 10,
             "number": 10,
             "season": 1,
-            "title": "Episode 10",
+            "title": "A Perverted Kid and Disturbances of Holy Power",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 10",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/zryUF2uY?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/zryUF2uY?download"
           },
           {
             "id": 11,
             "number": 11,
             "season": 1,
-            "title": "Episode 11",
+            "title": "Samurais Who are Eager to Die & An Elusive Samurai",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 11",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/MPz2PdmC?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/MPz2PdmC?download"
           },
           {
             "id": 12,
             "number": 12,
             "season": 1,
-            "title": "Episode 12",
+            "title": "Hang in there, Tokiyuki, Until the Day You Retake Kamakura – Season Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
             "synopsis": "Episode 12",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/TN7AiksN?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/TN7AiksN?download"
           }
-        ]
+        ],
+        "isComingSoon": false
       },
       {
         "number": 2,
         "title": "Season 2",
         "airDate": "Coming Soon...",
-        "isComingSoon": true,
-        "episodes": []
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Longing for Sea Bream!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
+            "synopsis": "Episode 1 of The Elusive Samurai",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/L4hYyexr?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/L4hYyexr?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Ayako’s Heart-Pounding Operation!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
+            "synopsis": "Episode 2 of The Elusive Samurai",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/gZjUJ3KW?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/gZjUJ3KW?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Tokiyuki and Three Great Generals",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
+            "synopsis": "Episode 3 of The Elusive Samurai",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/1UKMJfjy?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/1UKMJfjy?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "The Warrior of Love: Shinano Mask!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
+            "synopsis": "Episode 4 of The Elusive Samurai",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/zPFjuVwY?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/zPFjuVwY?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "The Unyielding",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
+            "synopsis": "Episode 5 of The Elusive Samurai",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/XfLdikGw?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XfLdikGw?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "The Boy Who Became a God",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
+            "synopsis": "Episode 6 of The Elusive Samurai",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/g3VFLAdN?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/g3VFLAdN?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "My Uncle",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
+            "synopsis": "Episode 7 of The Elusive Samurai",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/4cZLoGvd?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/4cZLoGvd?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "Irreplaceable NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
+            "synopsis": "Episode 8 of The Elusive Samurai",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/UTmvoyqR?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/UTmvoyqR?download"
+            }
+          }
+        ]
       }
     ],
     "episodes": [
