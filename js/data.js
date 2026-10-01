@@ -9448,13 +9448,13 @@ export const ANIME_DATABASE = [
     "rating": 9.1,
     "year": 2024,
     "audioBadge": "Multi-Audio",
-    "currentEpBadge": "S1-EP28",
+    "currentEpBadge": "S2-EP10",
     "status": "Completed",
     "type": "TV Series",
     "season": "Winter 2024",
     "studio": "Madhouse",
     "hasSub": true,
-    "hasDub": false,
+    "hasDub": true,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -9756,8 +9756,149 @@ export const ANIME_DATABASE = [
         "number": 2,
         "title": "Season 2",
         "airDate": "Coming Soon...",
-        "isComingSoon": true,
-        "episodes": []
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Shall We Go, Then?",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 1 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/QMf8o3SS?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/QMf8o3SS?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "The Hero of the South -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 2 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/bv51QTzJ#OeaTB_Hwgtnd3yzvS-jOix_n_Svm8xdO5z5C6mZOqnc",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/bv51QTzJ#OeaTB_Hwgtnd3yzvS-jOix_n_Svm8xdO5z5C6mZOqnc"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Somewhere She’d Like",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 3 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ruZM6ty6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ruZM6ty6?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "Other People’s Homes -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 4 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/Xh53QbwB#Duh3BC3ZCQyXGW0TNzTkuaRrcGrFxC9dl1ZBqSe3svc",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/Xh53QbwB#Duh3BC3ZCQyXGW0TNzTkuaRrcGrFxC9dl1ZBqSe3svc"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "Logistics in the Northern Plateau",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 5 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/kq5JUUFX?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/kq5JUUFX?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "A Demon-Slaying Request -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 6 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/GXIlCZjL#-hqWsHGPJK8Xvr9uwyZ1vw2VuTMeJ-6OsuUBPvplatU",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/GXIlCZjL#-hqWsHGPJK8Xvr9uwyZ1vw2VuTMeJ-6OsuUBPvplatU"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "The Divine Revolte -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 7 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/r5wREDjI#2XpDk76rBZeotApXl2XN5XNSzvPEYcmFGSGGmDxZEpk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/r5wREDjI#2XpDk76rBZeotApXl2XN5XNSzvPEYcmFGSGGmDxZEpk"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "A Magnificent End -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 8 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/eOpWHCyS#iTQAwHJ7at1XMrluZmGY2qva0SyGHP3yau1u9TGaPsc",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/eOpWHCyS#iTQAwHJ7at1XMrluZmGY2qva0SyGHP3yau1u9TGaPsc"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "Himmel’s Memoirs",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 9 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/dKQp6EQR?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/dKQp6EQR?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 2,
+            "title": "A Beautiful Sight NEw! – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170068-ijY3tCP8KoWP.jpg",
+            "synopsis": "Episode 10 of Frieren: Beyond Journey's End",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8hWHGPmQ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8hWHGPmQ?download"
+            }
+          }
+        ]
       }
     ],
     "episodes": [
