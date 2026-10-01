@@ -15620,6 +15620,182 @@ export const ANIME_DATABASE = [
     "synopsis": "Amane lives alone in an apartment, and the most beautiful girl in school, Mahiru, lives just next door. They've almost never spoken&mdash;until the day he sees her in distress on a rainy day and lends her his umbrella. To return the favor, she offers him help around the house, and a relationship slowly begins to blossom as the distance between them closes... (Source: Yen Press)",
     "seasons": [
       {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Meet the Angel",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 1 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/hXnrrHto?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/hXnrrHto?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Dinner with the Angel -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 2 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/wefsroeowizwwhs",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/wefsroeowizwwhs"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Reward for the Angel",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 3 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/gWPui5M5?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/gWPui5M5?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "The Angel in the Christmas",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 4 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Q9pqDGNX?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Q9pqDGNX?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Hatsumode With the Angel",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 5 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/C2CxfKJi?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/C2CxfKJi?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "A Gift From the Angel",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 6 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/9sm1UaZW?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/9sm1UaZW?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "A Promise With the Angel",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 7 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/3yJpBV9w?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3yJpBV9w?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "The Angel in the New Term",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 8 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ipfhKgvv?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ipfhKgvv?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Going Out With the Angel",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 9 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/xpD8JYX9?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/xpD8JYX9?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "The Angel in the Dream",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 10 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/R334GcW1?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/R334GcW1?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The Angel Next Door Spoils Me Rotten",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 11 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/BvF69qwD?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/BvF69qwD?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Say Goodbye to My Cowardice – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+            "synopsis": "Episode 12 of The Angel Next Door Spoils Me Rotten (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/t4Yd982n?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/t4Yd982n?download"
+            }
+          }
+        ]
+      },
+      {
         "number": 2,
         "title": "Season 2",
         "airDate": "2023",
@@ -15629,15 +15805,16 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 2,
-            "title": "Episode 1",
+            "title": "Going to School Together and Making a Debut",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 1",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=99c4e4720023c249289f51d3df8ff1266d888044f4d9e84e53a0f0a7bc5e46983e51b3af9d26981c5428e6b950e293bad0710ccfc58b754c849528eefba13cfed4238ba2c2372c3106601faddb4ad39e90ecc488425ed9b753ed5722b80d023f::9dfa93e123a56fb20fc273fc7a12d472",
+            "downloadUrl": "https://pixeldrain.net/u/RgaMwLPi?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=99c4e4720023c249289f51d3df8ff1266d888044f4d9e84e53a0f0a7bc5e46983e51b3af9d26981c5428e6b950e293bad0710ccfc58b754c849528eefba13cfed4238ba2c2372c3106601faddb4ad39e90ecc488425ed9b753ed5722b80d023f::9dfa93e123a56fb20fc273fc7a12d472",
+              "1080p": "https://pixeldrain.net/u/RgaMwLPi?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=99c4e4720023c249289f51d3df8ff1266d888044f4d9e84e53a0f0a7bc5e46983e51b3af9d26981c5428e6b950e293bad0710ccfc58b754c849528eefba13cfed4238ba2c2372c3106601faddb4ad39e90ecc488425ed9b753ed5722b80d023f::9dfa93e123a56fb20fc273fc7a12d472",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=99c4e4720023c249289f51d3df8ff1266d888044f4d9e84e53a0f0a7bc5e46983e51b3af9d26981c5428e6b950e293bad0710ccfc58b754c849528eefba13cfed4238ba2c2372c3106601faddb4ad39e90ecc488425ed9b753ed5722b80d023f::9dfa93e123a56fb20fc273fc7a12d472"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=99c4e4720023c249289f51d3df8ff1266d888044f4d9e84e53a0f0a7bc5e46983e51b3af9d26981c5428e6b950e293bad0710ccfc58b754c849528eefba13cfed4238ba2c2372c3106601faddb4ad39e90ecc488425ed9b753ed5722b80d023f::9dfa93e123a56fb20fc273fc7a12d472",
+              "hindi": "https://pixeldrain.net/u/RgaMwLPi?download"
             },
             "hasTelegram": false
           },
@@ -15645,15 +15822,16 @@ export const ANIME_DATABASE = [
             "id": 2,
             "number": 2,
             "season": 2,
-            "title": "Episode 2",
+            "title": "The Start of Summer Vacation",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 2",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=5759fc91a370888da89977749e5b84c469519044621868dfb3d5d2e55bb154bd8badf6a9315bd861c42604a9f714c673b6fadd7f8d96e44a38db4f3578b8d17ada3690942a2c018b756c8ef080f120a06805d1c8877c2cd7cc57d839b17b72b3::51a4befa2a2fa5b8a15ab2fd30201411",
+            "downloadUrl": "https://pixeldrain.net/u/yBdbX2Bd?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=5759fc91a370888da89977749e5b84c469519044621868dfb3d5d2e55bb154bd8badf6a9315bd861c42604a9f714c673b6fadd7f8d96e44a38db4f3578b8d17ada3690942a2c018b756c8ef080f120a06805d1c8877c2cd7cc57d839b17b72b3::51a4befa2a2fa5b8a15ab2fd30201411",
+              "1080p": "https://pixeldrain.net/u/yBdbX2Bd?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=5759fc91a370888da89977749e5b84c469519044621868dfb3d5d2e55bb154bd8badf6a9315bd861c42604a9f714c673b6fadd7f8d96e44a38db4f3578b8d17ada3690942a2c018b756c8ef080f120a06805d1c8877c2cd7cc57d839b17b72b3::51a4befa2a2fa5b8a15ab2fd30201411",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=5759fc91a370888da89977749e5b84c469519044621868dfb3d5d2e55bb154bd8badf6a9315bd861c42604a9f714c673b6fadd7f8d96e44a38db4f3578b8d17ada3690942a2c018b756c8ef080f120a06805d1c8877c2cd7cc57d839b17b72b3::51a4befa2a2fa5b8a15ab2fd30201411"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=5759fc91a370888da89977749e5b84c469519044621868dfb3d5d2e55bb154bd8badf6a9315bd861c42604a9f714c673b6fadd7f8d96e44a38db4f3578b8d17ada3690942a2c018b756c8ef080f120a06805d1c8877c2cd7cc57d839b17b72b3::51a4befa2a2fa5b8a15ab2fd30201411",
+              "hindi": "https://pixeldrain.net/u/yBdbX2Bd?download"
             },
             "hasTelegram": false
           },
@@ -15661,15 +15839,16 @@ export const ANIME_DATABASE = [
             "id": 3,
             "number": 3,
             "season": 2,
-            "title": "Episode 3",
+            "title": "Homecoming and Revealing the Relationship",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 3",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=d882809f927b88037b3a6ff1487c56008a84c72dbbb4939de933c1cfdcc0c770613e1fe8c69a7e0afded071aea491915b375817b312a2e55b5d1720c60ec35b021206ba44190ea9e50602b8e936cb428233832fefc755f17f600c2082f97212a::876aa75e7d534a3e56ccb403c13524e1",
+            "downloadUrl": "https://pixeldrain.net/u/ejFte2pm?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=d882809f927b88037b3a6ff1487c56008a84c72dbbb4939de933c1cfdcc0c770613e1fe8c69a7e0afded071aea491915b375817b312a2e55b5d1720c60ec35b021206ba44190ea9e50602b8e936cb428233832fefc755f17f600c2082f97212a::876aa75e7d534a3e56ccb403c13524e1",
+              "1080p": "https://pixeldrain.net/u/ejFte2pm?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=d882809f927b88037b3a6ff1487c56008a84c72dbbb4939de933c1cfdcc0c770613e1fe8c69a7e0afded071aea491915b375817b312a2e55b5d1720c60ec35b021206ba44190ea9e50602b8e936cb428233832fefc755f17f600c2082f97212a::876aa75e7d534a3e56ccb403c13524e1",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=d882809f927b88037b3a6ff1487c56008a84c72dbbb4939de933c1cfdcc0c770613e1fe8c69a7e0afded071aea491915b375817b312a2e55b5d1720c60ec35b021206ba44190ea9e50602b8e936cb428233832fefc755f17f600c2082f97212a::876aa75e7d534a3e56ccb403c13524e1"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=d882809f927b88037b3a6ff1487c56008a84c72dbbb4939de933c1cfdcc0c770613e1fe8c69a7e0afded071aea491915b375817b312a2e55b5d1720c60ec35b021206ba44190ea9e50602b8e936cb428233832fefc755f17f600c2082f97212a::876aa75e7d534a3e56ccb403c13524e1",
+              "hindi": "https://pixeldrain.net/u/ejFte2pm?download"
             },
             "hasTelegram": false
           },
@@ -15677,15 +15856,16 @@ export const ANIME_DATABASE = [
             "id": 4,
             "number": 4,
             "season": 2,
-            "title": "Episode 4",
+            "title": "A Stay-at-Home Date With the Angel",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 4",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzExZmU4ZTI2OGY5YWJhN2JjN2Y3MWEyNjQzNTdlNzcyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDAxNDA1NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDQlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRkNzY1YTY1ZTU0ZDM5MWUwOTc0NDg0MDg3ZDJlYjBiMzlmZTViY2ViZmY0MjFhYjcxZTlmZjdlMTY1YmQ3NmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDczNzkwMDAsImhhc2giOiIwNzAzNWExMDgwN2Q3MjQ3ZjhlNDdkN2M1ZWNhODc4NDA3ZjJmODBiZDI2NTJlNmY3MGYxZmNkYzI2YTM1N2EwIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA0IFtIaW5kaV0gLm1rdiJ9",
+            "downloadUrl": "https://pixeldrain.net/u/wTBdoAyZ?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzExZmU4ZTI2OGY5YWJhN2JjN2Y3MWEyNjQzNTdlNzcyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDAxNDA1NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDQlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRkNzY1YTY1ZTU0ZDM5MWUwOTc0NDg0MDg3ZDJlYjBiMzlmZTViY2ViZmY0MjFhYjcxZTlmZjdlMTY1YmQ3NmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDczNzkwMDAsImhhc2giOiIwNzAzNWExMDgwN2Q3MjQ3ZjhlNDdkN2M1ZWNhODc4NDA3ZjJmODBiZDI2NTJlNmY3MGYxZmNkYzI2YTM1N2EwIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA0IFtIaW5kaV0gLm1rdiJ9",
+              "1080p": "https://pixeldrain.net/u/wTBdoAyZ?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzExZmU4ZTI2OGY5YWJhN2JjN2Y3MWEyNjQzNTdlNzcyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDAxNDA1NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDQlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRkNzY1YTY1ZTU0ZDM5MWUwOTc0NDg0MDg3ZDJlYjBiMzlmZTViY2ViZmY0MjFhYjcxZTlmZjdlMTY1YmQ3NmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDczNzkwMDAsImhhc2giOiIwNzAzNWExMDgwN2Q3MjQ3ZjhlNDdkN2M1ZWNhODc4NDA3ZjJmODBiZDI2NTJlNmY3MGYxZmNkYzI2YTM1N2EwIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA0IFtIaW5kaV0gLm1rdiJ9",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzExZmU4ZTI2OGY5YWJhN2JjN2Y3MWEyNjQzNTdlNzcyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDAxNDA1NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDQlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRkNzY1YTY1ZTU0ZDM5MWUwOTc0NDg0MDg3ZDJlYjBiMzlmZTViY2ViZmY0MjFhYjcxZTlmZjdlMTY1YmQ3NmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDczNzkwMDAsImhhc2giOiIwNzAzNWExMDgwN2Q3MjQ3ZjhlNDdkN2M1ZWNhODc4NDA3ZjJmODBiZDI2NTJlNmY3MGYxZmNkYzI2YTM1N2EwIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA0IFtIaW5kaV0gLm1rdiJ9"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzExZmU4ZTI2OGY5YWJhN2JjN2Y3MWEyNjQzNTdlNzcyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDAxNDA1NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDQlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRkNzY1YTY1ZTU0ZDM5MWUwOTc0NDg0MDg3ZDJlYjBiMzlmZTViY2ViZmY0MjFhYjcxZTlmZjdlMTY1YmQ3NmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDczNzkwMDAsImhhc2giOiIwNzAzNWExMDgwN2Q3MjQ3ZjhlNDdkN2M1ZWNhODc4NDA3ZjJmODBiZDI2NTJlNmY3MGYxZmNkYzI2YTM1N2EwIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA0IFtIaW5kaV0gLm1rdiJ9",
+              "hindi": "https://pixeldrain.net/u/wTBdoAyZ?download"
             },
             "hasTelegram": false
           },
@@ -15693,15 +15873,16 @@ export const ANIME_DATABASE = [
             "id": 5,
             "number": 5,
             "season": 2,
-            "title": "Episode 5",
+            "title": "A Summer Festival With the Angel",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 5",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jODhlMGIzMzliMjcwMTI2NzhkOWIyYjEwNTIxOGVlZD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwOTI0NTlaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA1JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1kZTg0MGU2YzgyMzQzNzdhZmI1MzRkMDQ2OWI5MjJjNzRlM2QxMDVhNTAwNWM4NTU2ODYzYjQ2NGU2Y2ZmMjE3IiwidGltZXN0YW1wIjoxNzg4NDQ3Mzg0MDAwLCJoYXNoIjoiMDA2OGVmY2M3ZDk0YjU2YzkzYjMxMmMzOTQxZmU0NDE4ZmQ1NDBhNThlN2ZhMWM0NzkwYzhkZTBjNDc3MjliNCIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwNSBbSGluZGldLm1rdiJ9",
+            "downloadUrl": "https://pixeldrain.net/u/oQLJAjD9?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jODhlMGIzMzliMjcwMTI2NzhkOWIyYjEwNTIxOGVlZD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwOTI0NTlaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA1JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1kZTg0MGU2YzgyMzQzNzdhZmI1MzRkMDQ2OWI5MjJjNzRlM2QxMDVhNTAwNWM4NTU2ODYzYjQ2NGU2Y2ZmMjE3IiwidGltZXN0YW1wIjoxNzg4NDQ3Mzg0MDAwLCJoYXNoIjoiMDA2OGVmY2M3ZDk0YjU2YzkzYjMxMmMzOTQxZmU0NDE4ZmQ1NDBhNThlN2ZhMWM0NzkwYzhkZTBjNDc3MjliNCIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwNSBbSGluZGldLm1rdiJ9",
+              "1080p": "https://pixeldrain.net/u/oQLJAjD9?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jODhlMGIzMzliMjcwMTI2NzhkOWIyYjEwNTIxOGVlZD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwOTI0NTlaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA1JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1kZTg0MGU2YzgyMzQzNzdhZmI1MzRkMDQ2OWI5MjJjNzRlM2QxMDVhNTAwNWM4NTU2ODYzYjQ2NGU2Y2ZmMjE3IiwidGltZXN0YW1wIjoxNzg4NDQ3Mzg0MDAwLCJoYXNoIjoiMDA2OGVmY2M3ZDk0YjU2YzkzYjMxMmMzOTQxZmU0NDE4ZmQ1NDBhNThlN2ZhMWM0NzkwYzhkZTBjNDc3MjliNCIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwNSBbSGluZGldLm1rdiJ9",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jODhlMGIzMzliMjcwMTI2NzhkOWIyYjEwNTIxOGVlZD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwOTI0NTlaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA1JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1kZTg0MGU2YzgyMzQzNzdhZmI1MzRkMDQ2OWI5MjJjNzRlM2QxMDVhNTAwNWM4NTU2ODYzYjQ2NGU2Y2ZmMjE3IiwidGltZXN0YW1wIjoxNzg4NDQ3Mzg0MDAwLCJoYXNoIjoiMDA2OGVmY2M3ZDk0YjU2YzkzYjMxMmMzOTQxZmU0NDE4ZmQ1NDBhNThlN2ZhMWM0NzkwYzhkZTBjNDc3MjliNCIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwNSBbSGluZGldLm1rdiJ9"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jODhlMGIzMzliMjcwMTI2NzhkOWIyYjEwNTIxOGVlZD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwOTI0NTlaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA1JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1kZTg0MGU2YzgyMzQzNzdhZmI1MzRkMDQ2OWI5MjJjNzRlM2QxMDVhNTAwNWM4NTU2ODYzYjQ2NGU2Y2ZmMjE3IiwidGltZXN0YW1wIjoxNzg4NDQ3Mzg0MDAwLCJoYXNoIjoiMDA2OGVmY2M3ZDk0YjU2YzkzYjMxMmMzOTQxZmU0NDE4ZmQ1NDBhNThlN2ZhMWM0NzkwYzhkZTBjNDc3MjliNCIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwNSBbSGluZGldLm1rdiJ9",
+              "hindi": "https://pixeldrain.net/u/oQLJAjD9?download"
             },
             "hasTelegram": false
           },
@@ -15709,15 +15890,16 @@ export const ANIME_DATABASE = [
             "id": 6,
             "number": 6,
             "season": 2,
-            "title": "Episode 6",
+            "title": "A Once-Desired, Now Undesired Meeting, and a Resolution",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 6",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4ZTU5MTY3MzViMmVkNmZiNjY0N2U4OGFlNDk0NTU3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1NVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDYlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWZjNjA5ODJkZTVkMThhNmMwNzMzYzVhNzQwYzJlZjRkYmI4YzIwMDViZjk1NWVhNjgxOWI2MjY1YjllMzY3ZWMiLCJ0aW1lc3RhbXAiOjE3ODg0NDczODgwMDAsImhhc2giOiI1ZGM0Y2U5OGM1OGExZjUwZTg5NGUyMGM5MjFmZmU4YjhiYTk3YzJjNTE0MzEzYWUwNTdhYzlhYWIxZWMxZDMzIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA2IFtIaW5kaV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/jserww9B?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4ZTU5MTY3MzViMmVkNmZiNjY0N2U4OGFlNDk0NTU3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1NVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDYlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWZjNjA5ODJkZTVkMThhNmMwNzMzYzVhNzQwYzJlZjRkYmI4YzIwMDViZjk1NWVhNjgxOWI2MjY1YjllMzY3ZWMiLCJ0aW1lc3RhbXAiOjE3ODg0NDczODgwMDAsImhhc2giOiI1ZGM0Y2U5OGM1OGExZjUwZTg5NGUyMGM5MjFmZmU4YjhiYTk3YzJjNTE0MzEzYWUwNTdhYzlhYWIxZWMxZDMzIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA2IFtIaW5kaV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/jserww9B?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4ZTU5MTY3MzViMmVkNmZiNjY0N2U4OGFlNDk0NTU3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1NVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDYlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWZjNjA5ODJkZTVkMThhNmMwNzMzYzVhNzQwYzJlZjRkYmI4YzIwMDViZjk1NWVhNjgxOWI2MjY1YjllMzY3ZWMiLCJ0aW1lc3RhbXAiOjE3ODg0NDczODgwMDAsImhhc2giOiI1ZGM0Y2U5OGM1OGExZjUwZTg5NGUyMGM5MjFmZmU4YjhiYTk3YzJjNTE0MzEzYWUwNTdhYzlhYWIxZWMxZDMzIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA2IFtIaW5kaV0ubWt2In0",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4ZTU5MTY3MzViMmVkNmZiNjY0N2U4OGFlNDk0NTU3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1NVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDYlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWZjNjA5ODJkZTVkMThhNmMwNzMzYzVhNzQwYzJlZjRkYmI4YzIwMDViZjk1NWVhNjgxOWI2MjY1YjllMzY3ZWMiLCJ0aW1lc3RhbXAiOjE3ODg0NDczODgwMDAsImhhc2giOiI1ZGM0Y2U5OGM1OGExZjUwZTg5NGUyMGM5MjFmZmU4YjhiYTk3YzJjNTE0MzEzYWUwNTdhYzlhYWIxZWMxZDMzIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA2IFtIaW5kaV0ubWt2In0"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4ZTU5MTY3MzViMmVkNmZiNjY0N2U4OGFlNDk0NTU3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1NVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDYlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWZjNjA5ODJkZTVkMThhNmMwNzMzYzVhNzQwYzJlZjRkYmI4YzIwMDViZjk1NWVhNjgxOWI2MjY1YjllMzY3ZWMiLCJ0aW1lc3RhbXAiOjE3ODg0NDczODgwMDAsImhhc2giOiI1ZGM0Y2U5OGM1OGExZjUwZTg5NGUyMGM5MjFmZmU4YjhiYTk3YzJjNTE0MzEzYWUwNTdhYzlhYWIxZWMxZDMzIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA2IFtIaW5kaV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/jserww9B?download"
             },
             "hasTelegram": false
           },
@@ -15725,15 +15907,16 @@ export const ANIME_DATABASE = [
             "id": 7,
             "number": 7,
             "season": 2,
-            "title": "Episode 7",
+            "title": "The Angel’s Pleas",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 7",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=bdcd6bc32edc814301268ece2cdc9b4b509cb7b893bfbbc33eaf11f000a391e24cf5bc9e579561a3b147f2c9b1f5b60e11a1eebb31ee9f7b03c46f547ac3cd668255c74c67df00e8cd1cc5152bb6a1fe91ab7f95658c797370d65b1b2d56d902::ad212e242ed2d5b6a2464d3a7b51df5a",
+            "downloadUrl": "https://pixeldrain.net/u/PBbnEovd?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=bdcd6bc32edc814301268ece2cdc9b4b509cb7b893bfbbc33eaf11f000a391e24cf5bc9e579561a3b147f2c9b1f5b60e11a1eebb31ee9f7b03c46f547ac3cd668255c74c67df00e8cd1cc5152bb6a1fe91ab7f95658c797370d65b1b2d56d902::ad212e242ed2d5b6a2464d3a7b51df5a",
+              "1080p": "https://pixeldrain.net/u/PBbnEovd?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=bdcd6bc32edc814301268ece2cdc9b4b509cb7b893bfbbc33eaf11f000a391e24cf5bc9e579561a3b147f2c9b1f5b60e11a1eebb31ee9f7b03c46f547ac3cd668255c74c67df00e8cd1cc5152bb6a1fe91ab7f95658c797370d65b1b2d56d902::ad212e242ed2d5b6a2464d3a7b51df5a",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=bdcd6bc32edc814301268ece2cdc9b4b509cb7b893bfbbc33eaf11f000a391e24cf5bc9e579561a3b147f2c9b1f5b60e11a1eebb31ee9f7b03c46f547ac3cd668255c74c67df00e8cd1cc5152bb6a1fe91ab7f95658c797370d65b1b2d56d902::ad212e242ed2d5b6a2464d3a7b51df5a"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=bdcd6bc32edc814301268ece2cdc9b4b509cb7b893bfbbc33eaf11f000a391e24cf5bc9e579561a3b147f2c9b1f5b60e11a1eebb31ee9f7b03c46f547ac3cd668255c74c67df00e8cd1cc5152bb6a1fe91ab7f95658c797370d65b1b2d56d902::ad212e242ed2d5b6a2464d3a7b51df5a",
+              "hindi": "https://pixeldrain.net/u/PBbnEovd?download"
             },
             "hasTelegram": false
           },
@@ -15741,15 +15924,16 @@ export const ANIME_DATABASE = [
             "id": 8,
             "number": 8,
             "season": 2,
-            "title": "Episode 8",
+            "title": "Culture Festival, Day One",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 8",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1FPajVHV1R6cDMyS0FZUzZZWmJ1TWg5Q1NBQmxfdWlyZFFHSTlMSHJ6VjltYzdZZU9yZFR0Y0MyTVVlYURjTEUydy1pZmN3dm1FQjZlWFNXOWdKTUt0d3RvZE4tVkwtRDJ1MHhVekNvMWpwQ3BKTUxtOWhhN3pjM0xtanR4aTdFYkhiVU1yVDR4Ynh2dXA4TDdrb1lhYjdDbUQ4LWV1bHluRUFDQVdqUW1tTmhKaHYzNjhxTTg2OGxhUU9DQ0ltUFQzcEI1a2ZLNkRpMEFCQ2d6bU0wQUhrUVcwSkhkdnEzTy01VTBhaHJZQkY1d1hxMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzM5ODAwMCwiaGFzaCI6ImViODI3OGY3YzAyYWYwNDlmYjhkYTJlYzBiODNkZGFmMDRlNmNmYzAyZDQ0MmIzMjRjNjA2NzQ0Y2EwYzczOGEiLCJmaWxlbmFtZSI6IlRoZSBBbmdlbCBOZXh0IERvb3IgU3BvaWxzIE1lIFJvdHRlbiBTMDJFMDggW0hpbmRpXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/ihY4R8FP?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1FPajVHV1R6cDMyS0FZUzZZWmJ1TWg5Q1NBQmxfdWlyZFFHSTlMSHJ6VjltYzdZZU9yZFR0Y0MyTVVlYURjTEUydy1pZmN3dm1FQjZlWFNXOWdKTUt0d3RvZE4tVkwtRDJ1MHhVekNvMWpwQ3BKTUxtOWhhN3pjM0xtanR4aTdFYkhiVU1yVDR4Ynh2dXA4TDdrb1lhYjdDbUQ4LWV1bHluRUFDQVdqUW1tTmhKaHYzNjhxTTg2OGxhUU9DQ0ltUFQzcEI1a2ZLNkRpMEFCQ2d6bU0wQUhrUVcwSkhkdnEzTy01VTBhaHJZQkY1d1hxMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzM5ODAwMCwiaGFzaCI6ImViODI3OGY3YzAyYWYwNDlmYjhkYTJlYzBiODNkZGFmMDRlNmNmYzAyZDQ0MmIzMjRjNjA2NzQ0Y2EwYzczOGEiLCJmaWxlbmFtZSI6IlRoZSBBbmdlbCBOZXh0IERvb3IgU3BvaWxzIE1lIFJvdHRlbiBTMDJFMDggW0hpbmRpXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/ihY4R8FP?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1FPajVHV1R6cDMyS0FZUzZZWmJ1TWg5Q1NBQmxfdWlyZFFHSTlMSHJ6VjltYzdZZU9yZFR0Y0MyTVVlYURjTEUydy1pZmN3dm1FQjZlWFNXOWdKTUt0d3RvZE4tVkwtRDJ1MHhVekNvMWpwQ3BKTUxtOWhhN3pjM0xtanR4aTdFYkhiVU1yVDR4Ynh2dXA4TDdrb1lhYjdDbUQ4LWV1bHluRUFDQVdqUW1tTmhKaHYzNjhxTTg2OGxhUU9DQ0ltUFQzcEI1a2ZLNkRpMEFCQ2d6bU0wQUhrUVcwSkhkdnEzTy01VTBhaHJZQkY1d1hxMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzM5ODAwMCwiaGFzaCI6ImViODI3OGY3YzAyYWYwNDlmYjhkYTJlYzBiODNkZGFmMDRlNmNmYzAyZDQ0MmIzMjRjNjA2NzQ0Y2EwYzczOGEiLCJmaWxlbmFtZSI6IlRoZSBBbmdlbCBOZXh0IERvb3IgU3BvaWxzIE1lIFJvdHRlbiBTMDJFMDggW0hpbmRpXS5ta3YifQ",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1FPajVHV1R6cDMyS0FZUzZZWmJ1TWg5Q1NBQmxfdWlyZFFHSTlMSHJ6VjltYzdZZU9yZFR0Y0MyTVVlYURjTEUydy1pZmN3dm1FQjZlWFNXOWdKTUt0d3RvZE4tVkwtRDJ1MHhVekNvMWpwQ3BKTUxtOWhhN3pjM0xtanR4aTdFYkhiVU1yVDR4Ynh2dXA4TDdrb1lhYjdDbUQ4LWV1bHluRUFDQVdqUW1tTmhKaHYzNjhxTTg2OGxhUU9DQ0ltUFQzcEI1a2ZLNkRpMEFCQ2d6bU0wQUhrUVcwSkhkdnEzTy01VTBhaHJZQkY1d1hxMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzM5ODAwMCwiaGFzaCI6ImViODI3OGY3YzAyYWYwNDlmYjhkYTJlYzBiODNkZGFmMDRlNmNmYzAyZDQ0MmIzMjRjNjA2NzQ0Y2EwYzczOGEiLCJmaWxlbmFtZSI6IlRoZSBBbmdlbCBOZXh0IERvb3IgU3BvaWxzIE1lIFJvdHRlbiBTMDJFMDggW0hpbmRpXS5ta3YifQ"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1FPajVHV1R6cDMyS0FZUzZZWmJ1TWg5Q1NBQmxfdWlyZFFHSTlMSHJ6VjltYzdZZU9yZFR0Y0MyTVVlYURjTEUydy1pZmN3dm1FQjZlWFNXOWdKTUt0d3RvZE4tVkwtRDJ1MHhVekNvMWpwQ3BKTUxtOWhhN3pjM0xtanR4aTdFYkhiVU1yVDR4Ynh2dXA4TDdrb1lhYjdDbUQ4LWV1bHluRUFDQVdqUW1tTmhKaHYzNjhxTTg2OGxhUU9DQ0ltUFQzcEI1a2ZLNkRpMEFCQ2d6bU0wQUhrUVcwSkhkdnEzTy01VTBhaHJZQkY1d1hxMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzM5ODAwMCwiaGFzaCI6ImViODI3OGY3YzAyYWYwNDlmYjhkYTJlYzBiODNkZGFmMDRlNmNmYzAyZDQ0MmIzMjRjNjA2NzQ0Y2EwYzczOGEiLCJmaWxlbmFtZSI6IlRoZSBBbmdlbCBOZXh0IERvb3IgU3BvaWxzIE1lIFJvdHRlbiBTMDJFMDggW0hpbmRpXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/ihY4R8FP?download"
             },
             "hasTelegram": false
           },
@@ -15757,15 +15941,16 @@ export const ANIME_DATABASE = [
             "id": 9,
             "number": 9,
             "season": 2,
-            "title": "Episode 9",
+            "title": "The Angel’s Request",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 9",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNGUwN2JiYzQyYmNkOWQ0YWM2Njk0MDdkZDM5YWMyOGUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8wYmExYzI4NTEwNDBhYTZmMWY3NTMyNjlmZWMyNGU0OD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWVlODI1ODI2Njk0MjM2NTJlZGI3ZjQyZmQzOGI0MTJjJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxOTU0MjhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA5JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01YThjNjlmNTY5MjcxNjBhMTFlZTg4NTU1NTFmZDJhMDBiY2RmYjI3YjI2MjBjNjM3MjE2NDE1MjY4OTEwZThlIiwidGltZXN0YW1wIjoxNzg4NDQ3NDA4MDAwLCJoYXNoIjoiZWM0MjhlYTkwYjQ4YjExNDkxYjc4NDEwZDJjOTA1NTA4OTViNjJjZmRmMzllOTY4NGUxYzQ3YWFhNmY5NDdiYyIsImZpbGV uYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwOSBbSGluZGldLm1rdiJ9",
+            "downloadUrl": "https://pixeldrain.net/u/Y1SAzTCt?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNGUwN2JiYzQyYmNkOWQ0YWM2Njk0MDdkZDM5YWMyOGUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8wYmExYzI4NTEwNDBhYTZmMWY3NTMyNjlmZWMyNGU0OD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWVlODI1ODI2Njk0MjM2NTJlZGI3ZjQyZmQzOGI0MTJjJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxOTU0MjhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA5JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01YThjNjlmNTY5MjcxNjBhMTFlZTg4NTU1NTFmZDJhMDBiY2RmYjI3YjI2MjBjNjM3MjE2NDE1MjY4OTEwZThlIiwidGltZXN0YW1wIjoxNzg4NDQ3NDA4MDAwLCJoYXNoIjoiZWM0MjhlYTkwYjQ4YjExNDkxYjc4NDEwZDJjOTA1NTA4OTViNjJjZmRmMzllOTY4NGUxYzQ3YWFhNmY5NDdiYyIsImZpbGV uYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwOSBbSGluZGldLm1rdiJ9",
+              "1080p": "https://pixeldrain.net/u/Y1SAzTCt?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNGUwN2JiYzQyYmNkOWQ0YWM2Njk0MDdkZDM5YWMyOGUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8wYmExYzI4NTEwNDBhYTZmMWY3NTMyNjlmZWMyNGU0OD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWVlODI1ODI2Njk0MjM2NTJlZGI3ZjQyZmQzOGI0MTJjJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxOTU0MjhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA5JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01YThjNjlmNTY5MjcxNjBhMTFlZTg4NTU1NTFmZDJhMDBiY2RmYjI3YjI2MjBjNjM3MjE2NDE1MjY4OTEwZThlIiwidGltZXN0YW1wIjoxNzg4NDQ3NDA4MDAwLCJoYXNoIjoiZWM0MjhlYTkwYjQ4YjExNDkxYjc4NDEwZDJjOTA1NTA4OTViNjJjZmRmMzllOTY4NGUxYzQ3YWFhNmY5NDdiYyIsImZpbGV uYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwOSBbSGluZGldLm1rdiJ9",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNGUwN2JiYzQyYmNkOWQ0YWM2Njk0MDdkZDM5YWMyOGUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8wYmExYzI4NTEwNDBhYTZmMWY3NTMyNjlmZWMyNGU0OD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWVlODI1ODI2Njk0MjM2NTJlZGI3ZjQyZmQzOGI0MTJjJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxOTU0MjhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA5JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01YThjNjlmNTY5MjcxNjBhMTFlZTg4NTU1NTFmZDJhMDBiY2RmYjI3YjI2MjBjNjM3MjE2NDE1MjY4OTEwZThlIiwidGltZXN0YW1wIjoxNzg4NDQ3NDA4MDAwLCJoYXNoIjoiZWM0MjhlYTkwYjQ4YjExNDkxYjc4NDEwZDJjOTA1NTA4OTViNjJjZmRmMzllOTY4NGUxYzQ3YWFhNmY5NDdiYyIsImZpbGV uYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwOSBbSGluZGldLm1rdiJ9"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNGUwN2JiYzQyYmNkOWQ0YWM2Njk0MDdkZDM5YWMyOGUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8wYmExYzI4NTEwNDBhYTZmMWY3NTMyNjlmZWMyNGU0OD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWVlODI1ODI2Njk0MjM2NTJlZGI3ZjQyZmQzOGI0MTJjJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxOTU0MjhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA5JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01YThjNjlmNTY5MjcxNjBhMTFlZTg4NTU1NTFmZDJhMDBiY2RmYjI3YjI2MjBjNjM3MjE2NDE1MjY4OTEwZThlIiwidGltZXN0YW1wIjoxNzg4NDQ3NDA4MDAwLCJoYXNoIjoiZWM0MjhlYTkwYjQ4YjExNDkxYjc4NDEwZDJjOTA1NTA4OTViNjJjZmRmMzllOTY4NGUxYzQ3YWFhNmY5NDdiYyIsImZpbGV uYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwOSBbSGluZGldLm1rdiJ9",
+              "hindi": "https://pixeldrain.net/u/Y1SAzTCt?download"
             },
             "hasTelegram": false
           },
@@ -15773,15 +15958,16 @@ export const ANIME_DATABASE = [
             "id": 10,
             "number": 10,
             "season": 2,
-            "title": "Episode 10",
+            "title": "An Important Promise With the Angel",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 10",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iN2EwZmQ5ZjJlYjc3NDRhNzBmOWM0YTFlYTQyZGI2ZT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwMTUzNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTEwJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT02YzkzOTMxMjg3M2M2MjgxOGJhYTAzYzBhZDY2NGUzNzI5ODQwNjM5MTExMzNmZWY1OGNhYzkyYWY2MWM0ZGQ0IiwidGltZXN0YW1wIjoxNzg4NDQ3NDE0MDAwLCJoYXNoIjoiY2QzYWIxMmNlNzdmMTVmNjNhYzM3YzNiOTYxZDUxNmZjOTBkZmYxYzBiOTc0YjBmYzFlNzU4MmRiNjU3NmM2NSIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUxMCBbSGluZGldLm1rdiJ9",
+            "downloadUrl": "https://pixeldrain.net/u/AeTYTvme?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iN2EwZmQ5ZjJlYjc3NDRhNzBmOWM0YTFlYTQyZGI2ZT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwMTUzNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTEwJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT02YzkzOTMxMjg3M2M2MjgxOGJhYTAzYzBhZDY2NGUzNzI5ODQwNjM5MTExMzNmZWY1OGNhYzkyYWY2MWM0ZGQ0IiwidGltZXN0YW1wIjoxNzg4NDQ3NDE0MDAwLCJoYXNoIjoiY2QzYWIxMmNlNzdmMTVmNjNhYzM3YzNiOTYxZDUxNmZjOTBkZmYxYzBiOTc0YjBmYzFlNzU4MmRiNjU3NmM2NSIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUxMCBbSGluZGldLm1rdiJ9",
+              "1080p": "https://pixeldrain.net/u/AeTYTvme?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iN2EwZmQ5ZjJlYjc3NDRhNzBmOWM0YTFlYTQyZGI2ZT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwMTUzNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTEwJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT02YzkzOTMxMjg3M2M2MjgxOGJhYTAzYzBhZDY2NGUzNzI5ODQwNjM5MTExMzNmZWY1OGNhYzkyYWY2MWM0ZGQ0IiwidGltZXN0YW1wIjoxNzg4NDQ3NDE0MDAwLCJoYXNoIjoiY2QzYWIxMmNlNzdmMTVmNjNhYzM3YzNiOTYxZDUxNmZjOTBkZmYxYzBiOTc0YjBmYzFlNzU4MmRiNjU3NmM2NSIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUxMCBbSGluZGldLm1rdiJ9",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iN2EwZmQ5ZjJlYjc3NDRhNzBmOWM0YTFlYTQyZGI2ZT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwMTUzNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTEwJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT02YzkzOTMxMjg3M2M2MjgxOGJhYTAzYzBhZDY2NGUzNzI5ODQwNjM5MTExMzNmZWY1OGNhYzkyYWY2MWM0ZGQ0IiwidGltZXN0YW1wIjoxNzg4NDQ3NDE0MDAwLCJoYXNoIjoiY2QzYWIxMmNlNzdmMTVmNjNhYzM3YzNiOTYxZDUxNmZjOTBkZmYxYzBiOTc0YjBmYzFlNzU4MmRiNjU3NmM2NSIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUxMCBbSGluZGldLm1rdiJ9"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iN2EwZmQ5ZjJlYjc3NDRhNzBmOWM0YTFlYTQyZGI2ZT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwMTUzNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTEwJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT02YzkzOTMxMjg3M2M2MjgxOGJhYTAzYzBhZDY2NGUzNzI5ODQwNjM5MTExMzNmZWY1OGNhYzkyYWY2MWM0ZGQ0IiwidGltZXN0YW1wIjoxNzg4NDQ3NDE0MDAwLCJoYXNoIjoiY2QzYWIxMmNlNzdmMTVmNjNhYzM3YzNiOTYxZDUxNmZjOTBkZmYxYzBiOTc0YjBmYzFlNzU4MmRiNjU3NmM2NSIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUxMCBbSGluZGldLm1rdiJ9",
+              "hindi": "https://pixeldrain.net/u/AeTYTvme?download"
             },
             "hasTelegram": false
           },
@@ -15789,15 +15975,16 @@ export const ANIME_DATABASE = [
             "id": 11,
             "number": 11,
             "season": 2,
-            "title": "Episode 11",
+            "title": "First Part-Time Job",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 11",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzQxNjhjMGU1NjUwNGNhOWJmNGNkMTA2MzU5NmEyZmRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDEwNTYwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTElMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTViMTk1M2JkMjZhOGFiNDkyYWUyMWM1YzVlMzk3M2EwZTQ1MjM3MGU4OTcwZTNjZTAzN2ZmYjU2YTJkNTZiMjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjEwMDAsImhhc2giOiJiMGY5ZDQyOTVlM2ZlNTdhNTY3MTBjMWVhM2I2NGQyNDJlYWRjOTM3MzU4MGVhZmMzM2M0MTBlNjgxOTFjY2QyIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTExIFtIaW5kaV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/RaLu3Spb?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzQxNjhjMGU1NjUwNGNhOWJmNGNkMTA2MzU5NmEyZmRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDEwNTYwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTElMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTViMTk1M2JkMjZhOGFiNDkyYWUyMWM1YzVlMzk3M2EwZTQ1MjM3MGU4OTcwZTNjZTAzN2ZmYjU2YTJkNTZiMjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjEwMDAsImhhc2giOiJiMGY5ZDQyOTVlM2ZlNTdhNTY3MTBjMWVhM2I2NGQyNDJlYWRjOTM3MzU4MGVhZmMzM2M0MTBlNjgxOTFjY2QyIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTExIFtIaW5kaV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/RaLu3Spb?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzQxNjhjMGU1NjUwNGNhOWJmNGNkMTA2MzU5NmEyZmRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDEwNTYwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTElMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTViMTk1M2JkMjZhOGFiNDkyYWUyMWM1YzVlMzk3M2EwZTQ1MjM3MGU4OTcwZTNjZTAzN2ZmYjU2YTJkNTZiMjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjEwMDAsImhhc2giOiJiMGY5ZDQyOTVlM2ZlNTdhNTY3MTBjMWVhM2I2NGQyNDJlYWRjOTM3MzU4MGVhZmMzM2M0MTBlNjgxOTFjY2QyIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTExIFtIaW5kaV0ubWt2In0",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzQxNjhjMGU1NjUwNGNhOWJmNGNkMTA2MzU5NmEyZmRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDEwNTYwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTElMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTViMTk1M2JkMjZhOGFiNDkyYWUyMWM1YzVlMzk3M2EwZTQ1MjM3MGU4OTcwZTNjZTAzN2ZmYjU2YTJkNTZiMjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjEwMDAsImhhc2giOiJiMGY5ZDQyOTVlM2ZlNTdhNTY3MTBjMWVhM2I2NGQyNDJlYWRjOTM3MzU4MGVhZmMzM2M0MTBlNjgxOTFjY2QyIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTExIFtIaW5kaV0ubWt2In0"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzQxNjhjMGU1NjUwNGNhOWJmNGNkMTA2MzU5NmEyZmRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDEwNTYwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTElMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTViMTk1M2JkMjZhOGFiNDkyYWUyMWM1YzVlMzk3M2EwZTQ1MjM3MGU4OTcwZTNjZTAzN2ZmYjU2YTJkNTZiMjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjEwMDAsImhhc2giOiJiMGY5ZDQyOTVlM2ZlNTdhNTY3MTBjMWVhM2I2NGQyNDJlYWRjOTM3MzU4MGVhZmMzM2M0MTBlNjgxOTFjY2QyIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTExIFtIaW5kaV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/RaLu3Spb?download"
             },
             "hasTelegram": false
           },
@@ -15805,15 +15992,16 @@ export const ANIME_DATABASE = [
             "id": 12,
             "number": 12,
             "season": 2,
-            "title": "Episode 12",
+            "title": "The Angel’s Big Day Arrives NEw! – Season Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
             "synopsis": "The Angel Next Door Spoils Me Rotten Season 2 Episode 12",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE0NWEyMjI0NDVlMTJjMzY2MzQwYTE1OTgxYzE5NzQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTIlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWY5NjMzNDA4N2E3M2NmZTg2Mzk4MTg2ZGZmMjkwMjQ1ODI1NTY3MDY1YTQ3YjQ3ZTFiODA5NGY5ZWNkM2NiNzYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjcwMDAsImhhc2giOiJmNGViZGNkZWI4YzlkZTJkNTlkZjYyOTJjZDU4OGE5MzViNDY4MThjMWRmNGY0NTMxZWE0MWE4ZWNjNDIwNzliIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTEyIFtIaW5kaV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/qkbCBW4g?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE0NWEyMjI0NDVlMTJjMzY2MzQwYTE1OTgxYzE5NzQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTIlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWY5NjMzNDA4N2E3M2NmZTg2Mzk4MTg2ZGZmMjkwMjQ1ODI1NTY3MDY1YTQ3YjQ3ZTFiODA5NGY5ZWNkM2NiNzYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjcwMDAsImhhc2giOiJmNGViZGNkZWI4YzlkZTJkNTlkZjYyOTJjZDU4OGE5MzViNDY4MThjMWRmNGY0NTMxZWE0MWE4ZWNjNDIwNzliIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTEyIFtIaW5kaV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/qkbCBW4g?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE0NWEyMjI0NDVlMTJjMzY2MzQwYTE1OTgxYzE5NzQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTIlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWY5NjMzNDA4N2E3M2NmZTg2Mzk4MTg2ZGZmMjkwMjQ1ODI1NTY3MDY1YTQ3YjQ3ZTFiODA5NGY5ZWNkM2NiNzYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjcwMDAsImhhc2giOiJmNGViZGNkZWI4YzlkZTJkNTlkZjYyOTJjZDU4OGE5MzViNDY4MThjMWRmNGY0NTMxZWE0MWE4ZWNjNDIwNzliIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTEyIFtIaW5kaV0ubWt2In0",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE0NWEyMjI0NDVlMTJjMzY2MzQwYTE1OTgxYzE5NzQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTIlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWY5NjMzNDA4N2E3M2NmZTg2Mzk4MTg2ZGZmMjkwMjQ1ODI1NTY3MDY1YTQ3YjQ3ZTFiODA5NGY5ZWNkM2NiNzYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjcwMDAsImhhc2giOiJmNGViZGNkZWI4YzlkZTJkNTlkZjYyOTJjZDU4OGE5MzViNDY4MThjMWRmNGY0NTMxZWE0MWE4ZWNjNDIwNzliIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTEyIFtIaW5kaV0ubWt2In0"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE0NWEyMjI0NDVlMTJjMzY2MzQwYTE1OTgxYzE5NzQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTIlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWY5NjMzNDA4N2E3M2NmZTg2Mzk4MTg2ZGZmMjkwMjQ1ODI1NTY3MDY1YTQ3YjQ3ZTFiODA5NGY5ZWNkM2NiNzYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjcwMDAsImhhc2giOiJmNGViZGNkZWI4YzlkZTJkNTlkZjYyOTJjZDU4OGE5MzViNDY4MThjMWRmNGY0NTMxZWE0MWE4ZWNjNDIwNzliIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTEyIFtIaW5kaV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/qkbCBW4g?download"
             },
             "hasTelegram": false
           }
