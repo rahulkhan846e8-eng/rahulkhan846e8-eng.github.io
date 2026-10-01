@@ -45,902 +45,6 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
-    "id": "arco-2025-movie",
-    "title": "Arco (2025) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Arco (2025) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Arco (2025) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw",
-            "downloadLinks": {
-              "hindi": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "boonie-bears-future-reborn-2025-movie",
-    "title": "Boonie Bears: Future Reborn (2025) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Boonie Bears: Future Reborn (2025) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Boonie Bears: Future Reborn (2025) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/A6vQaWaB?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/A6vQaWaB?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "boonie-bears-the-big-shrink-2018-movie",
-    "title": "Boonie Bears: The Big Shrink (2018) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Boonie Bears: The Big Shrink (2018) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Boonie Bears: The Big Shrink (2018) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/Luui67WU?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/Luui67WU?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "wish-dragon-2021-movie",
-    "title": "Wish Dragon (2021) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Wish Dragon (2021) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Wish Dragon (2021) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/VYbZwu6w?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/VYbZwu6w?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-magnificent-life-2025-movie",
-    "title": "A Magnificent Life (2025) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "A Magnificent Life (2025) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of A Magnificent Life (2025) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/h95S1NyP?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/h95S1NyP?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "the-sea-beast-2022-movie",
-    "title": "The Sea Beast (2022) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "The Sea Beast (2022) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of The Sea Beast (2022) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/76uT5LTJ?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/76uT5LTJ?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "astro-boy-2009-movie",
-    "title": "Astro Boy (2009) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Astro Boy (2009) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Astro Boy (2009) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/GEYVmeo9?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/GEYVmeo9?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "raya-and-the-last-dragon-2021-movie",
-    "title": "Raya and the Last Dragon (2021) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Raya and the Last Dragon (2021) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Raya and the Last Dragon (2021) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/hCRJPV6u?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/hCRJPV6u?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "the-boss-baby-family-business-2021-movie",
-    "title": "The Boss Baby: Family Business (2021) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "The Boss Baby: Family Business (2021) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of The Boss Baby: Family Business (2021) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/nSJWqrVT?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/nSJWqrVT?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "haikyu-ova",
-    "title": "Haikyu!! OVA",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP2",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Haikyu!! OVA anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Haikyu!! OVA (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
-            "downloadLinks": {
-              "hindi": ""
-            }
-          },
-          {
-            "id": 4,
-            "number": 4,
-            "season": 1,
-            "title": "[Hindi].mkv",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 4 of Haikyu!! OVA (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/5eJdwTgQ?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/5eJdwTgQ?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "finding-nemo-2003-movie",
-    "title": "Finding Nemo (2003) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Finding Nemo (2003) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Finding Nemo (2003) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/BPs6zE3D?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/BPs6zE3D?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "turning-red-2022-movie",
-    "title": "Turning Red (2022) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Turning Red (2022) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Turning Red (2022) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/utdih3Um?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/utdih3Um?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "big-top-scooby-doo-2012",
-    "title": "Big Top Scooby-Doo! (2012)",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Big Top Scooby-Doo! (2012) anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Episode 1 (Missing)",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Big Top Scooby-Doo! (2012) (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "",
-            "downloadLinks": {
-              "hindi": ""
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "monsters-vs-aliens-2009-movie",
-    "title": "Monsters vs Aliens (2009) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Monsters vs Aliens (2009) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Monsters vs Aliens (2009) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/ZmWbY9E3?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/ZmWbY9E3?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "boonie-bears-time-twist-2024-movie",
-    "title": "Boonie Bears: Time Twist (2024) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Boonie Bears: Time Twist (2024) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Boonie Bears: Time Twist (2024) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/jTi1P18N?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/jTi1P18N?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "the-boss-baby-2017-movie",
-    "title": "The Boss Baby (2017) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "The Boss Baby (2017) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of The Boss Baby (2017) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/yXz55qvL?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/yXz55qvL?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "migration-2023-movie",
-    "title": "Migration (2023) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Migration (2023) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Migration (2023) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/9kEzVtJH?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/9kEzVtJH?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "boonie-bears-the-big-top-secret-2016-movie",
-    "title": "Boonie Bears: The Big Top Secret (2016) Movie",
-    "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
-    "currentEpBadge": "S1-EP1",
-    "status": "Completed",
-    "type": "TV Series",
-    "season": "2024",
-    "studio": "Animation Studio",
-    "hasSub": true,
-    "hasDub": true,
-    "isTrending": true,
-    "isPopular": true,
-    "genres": [
-      "Action & Adventure"
-    ],
-    "synopsis": "Boonie Bears: The Big Top Secret (2016) Movie anime series streaming on ShinobiHub.",
-    "languages": [
-      "hindi"
-    ],
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 1,
-            "title": "Movie",
-            "runtime": "24m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-            "synopsis": "Episode 1 of Boonie Bears: The Big Top Secret (2016) Movie (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/KBnSyiMv?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/KBnSyiMv?download"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "captain-tsubasa-junior-youth-arc",
     "title": "Captain Tsubasa: Junior Youth Arc",
     "japaneseTitle": "キャプテン翼シーズン2 ジュニアユース編",
@@ -14436,11 +13540,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
             "synopsis": "Boonie Bears: The Big Top Secret Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D",
+            "downloadUrl": "https://pixeldrain.net/u/KBnSyiMv?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D",
-              "720p": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D",
-              "480p": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D"
+              "1080p": "https://pixeldrain.net/u/KBnSyiMv?download",
+              "720p": "https://pixeldrain.net/u/KBnSyiMv?download",
+              "480p": "https://pixeldrain.net/u/KBnSyiMv?download",
+              "hindi": "https://pixeldrain.net/u/KBnSyiMv?download"
             },
             "hasTelegram": false
           }
@@ -14456,11 +13561,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
         "synopsis": "Boonie Bears: The Big Top Secret Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D",
+        "downloadUrl": "https://pixeldrain.net/u/KBnSyiMv?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D",
-          "720p": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D",
-          "480p": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D"
+          "1080p": "https://pixeldrain.net/u/KBnSyiMv?download",
+          "720p": "https://pixeldrain.net/u/KBnSyiMv?download",
+          "480p": "https://pixeldrain.net/u/KBnSyiMv?download",
+          "hindi": "https://pixeldrain.net/u/KBnSyiMv?download"
         },
         "hasTelegram": false
       }
@@ -14507,11 +13613,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
             "synopsis": "Migration Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D",
+            "downloadUrl": "https://pixeldrain.net/u/9kEzVtJH?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D",
-              "720p": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D",
-              "480p": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D"
+              "1080p": "https://pixeldrain.net/u/9kEzVtJH?download",
+              "720p": "https://pixeldrain.net/u/9kEzVtJH?download",
+              "480p": "https://pixeldrain.net/u/9kEzVtJH?download",
+              "hindi": "https://pixeldrain.net/u/9kEzVtJH?download"
             },
             "hasTelegram": false
           }
@@ -14527,11 +13634,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
         "synopsis": "Migration Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D",
+        "downloadUrl": "https://pixeldrain.net/u/9kEzVtJH?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D",
-          "720p": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D",
-          "480p": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D"
+          "1080p": "https://pixeldrain.net/u/9kEzVtJH?download",
+          "720p": "https://pixeldrain.net/u/9kEzVtJH?download",
+          "480p": "https://pixeldrain.net/u/9kEzVtJH?download",
+          "hindi": "https://pixeldrain.net/u/9kEzVtJH?download"
         },
         "hasTelegram": false
       }
@@ -15441,11 +14549,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
             "synopsis": "The Boss Baby Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D",
+            "downloadUrl": "https://pixeldrain.net/u/yXz55qvL?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D",
-              "720p": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D",
-              "480p": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D"
+              "1080p": "https://pixeldrain.net/u/yXz55qvL?download",
+              "720p": "https://pixeldrain.net/u/yXz55qvL?download",
+              "480p": "https://pixeldrain.net/u/yXz55qvL?download",
+              "hindi": "https://pixeldrain.net/u/yXz55qvL?download"
             },
             "hasTelegram": false
           }
@@ -15461,11 +14570,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
         "synopsis": "The Boss Baby Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D",
+        "downloadUrl": "https://pixeldrain.net/u/yXz55qvL?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D",
-          "720p": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D",
-          "480p": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D"
+          "1080p": "https://pixeldrain.net/u/yXz55qvL?download",
+          "720p": "https://pixeldrain.net/u/yXz55qvL?download",
+          "480p": "https://pixeldrain.net/u/yXz55qvL?download",
+          "hindi": "https://pixeldrain.net/u/yXz55qvL?download"
         },
         "hasTelegram": false
       }
@@ -16458,11 +15568,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
             "synopsis": "Boonie Bears: Time Twist Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D",
+            "downloadUrl": "https://pixeldrain.net/u/jTi1P18N?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D",
-              "720p": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D",
-              "480p": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D"
+              "1080p": "https://pixeldrain.net/u/jTi1P18N?download",
+              "720p": "https://pixeldrain.net/u/jTi1P18N?download",
+              "480p": "https://pixeldrain.net/u/jTi1P18N?download",
+              "hindi": "https://pixeldrain.net/u/jTi1P18N?download"
             },
             "hasTelegram": false
           }
@@ -16478,11 +15589,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
         "synopsis": "Boonie Bears: Time Twist Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D",
+        "downloadUrl": "https://pixeldrain.net/u/jTi1P18N?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D",
-          "720p": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D",
-          "480p": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D"
+          "1080p": "https://pixeldrain.net/u/jTi1P18N?download",
+          "720p": "https://pixeldrain.net/u/jTi1P18N?download",
+          "480p": "https://pixeldrain.net/u/jTi1P18N?download",
+          "hindi": "https://pixeldrain.net/u/jTi1P18N?download"
         },
         "hasTelegram": false
       }
@@ -17000,11 +16112,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
             "synopsis": "Monsters vs. Aliens Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D",
+            "downloadUrl": "https://pixeldrain.net/u/ZmWbY9E3?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D",
-              "720p": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D",
-              "480p": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D"
+              "1080p": "https://pixeldrain.net/u/ZmWbY9E3?download",
+              "720p": "https://pixeldrain.net/u/ZmWbY9E3?download",
+              "480p": "https://pixeldrain.net/u/ZmWbY9E3?download",
+              "hindi": "https://pixeldrain.net/u/ZmWbY9E3?download"
             },
             "hasTelegram": false
           }
@@ -17020,11 +16133,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
         "synopsis": "Monsters vs. Aliens Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D",
+        "downloadUrl": "https://pixeldrain.net/u/ZmWbY9E3?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D",
-          "720p": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D",
-          "480p": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D"
+          "1080p": "https://pixeldrain.net/u/ZmWbY9E3?download",
+          "720p": "https://pixeldrain.net/u/ZmWbY9E3?download",
+          "480p": "https://pixeldrain.net/u/ZmWbY9E3?download",
+          "hindi": "https://pixeldrain.net/u/ZmWbY9E3?download"
         },
         "hasTelegram": false
       }
@@ -19256,11 +18370,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
             "synopsis": "Turning Red Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D",
+            "downloadUrl": "https://pixeldrain.net/u/utdih3Um?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D",
-              "720p": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D",
-              "480p": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D"
+              "1080p": "https://pixeldrain.net/u/utdih3Um?download",
+              "720p": "https://pixeldrain.net/u/utdih3Um?download",
+              "480p": "https://pixeldrain.net/u/utdih3Um?download",
+              "hindi": "https://pixeldrain.net/u/utdih3Um?download"
             },
             "hasTelegram": false
           }
@@ -19276,11 +18391,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
         "synopsis": "Turning Red Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D",
+        "downloadUrl": "https://pixeldrain.net/u/utdih3Um?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D",
-          "720p": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D",
-          "480p": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D"
+          "1080p": "https://pixeldrain.net/u/utdih3Um?download",
+          "720p": "https://pixeldrain.net/u/utdih3Um?download",
+          "480p": "https://pixeldrain.net/u/utdih3Um?download",
+          "hindi": "https://pixeldrain.net/u/utdih3Um?download"
         },
         "hasTelegram": false
       }
@@ -19327,11 +18443,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
             "synopsis": "Finding Nemo Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D",
+            "downloadUrl": "https://pixeldrain.net/u/BPs6zE3D?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D",
-              "720p": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D",
-              "480p": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D"
+              "1080p": "https://pixeldrain.net/u/BPs6zE3D?download",
+              "720p": "https://pixeldrain.net/u/BPs6zE3D?download",
+              "480p": "https://pixeldrain.net/u/BPs6zE3D?download",
+              "hindi": "https://pixeldrain.net/u/BPs6zE3D?download"
             },
             "hasTelegram": false
           }
@@ -19347,11 +18464,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
         "synopsis": "Finding Nemo Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D",
+        "downloadUrl": "https://pixeldrain.net/u/BPs6zE3D?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D",
-          "720p": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D",
-          "480p": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D"
+          "1080p": "https://pixeldrain.net/u/BPs6zE3D?download",
+          "720p": "https://pixeldrain.net/u/BPs6zE3D?download",
+          "480p": "https://pixeldrain.net/u/BPs6zE3D?download",
+          "hindi": "https://pixeldrain.net/u/BPs6zE3D?download"
         },
         "hasTelegram": false
       }
@@ -19402,8 +18520,8 @@ export const ANIME_DATABASE = [
             "downloadUrl": "https://pixeldrain.net/u/NUB3qz7z?download",
             "downloadLinks": {
               "1080p": "https://pixeldrain.net/u/NUB3qz7z?download",
-              "720p": "https://codedew.com/zipper/?url=EWfBQqtgy7OJ7WnSXX2RAeESYgkoKP5btSeUri3G0KM3k6OjaaRyLZ0j97%2FcPbiJ3oIF%2Fh%2BaIgIvbzvouHUgjceaXoIGHBzssR9UmAElFUFwQBI%3D",
-              "480p": "https://codedew.com/zipper/?url=EWfBQqtgy7OJ7WnSXX2RAeESYgkoKP5btSeUri3G0KM3k6OjaaRyLZ0j97%2FcPbiJ3oIF%2Fh%2BaIgIvbzvouHUgjceaXoIGHBzssR9UmAElFUFwQBI%3D",
+              "720p": "https://pixeldrain.net/u/NUB3qz7z?download",
+              "480p": "https://pixeldrain.net/u/NUB3qz7z?download",
               "hindi": "https://pixeldrain.net/u/NUB3qz7z?download"
             },
             "hasTelegram": false
@@ -19420,11 +18538,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx442-VJbmIVTgmne3.png",
         "synopsis": "Naruto the Movie: Ninja Clash in the Land of Snow Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=EWfBQqtgy7OJ7WnSXX2RAeESYgkoKP5btSeUri3G0KM3k6OjaaRyLZ0j97%2FcPbiJ3oIF%2Fh%2BaIgIvbzvouHUgjceaXoIGHBzssR9UmAElFUFwQBI%3D",
+        "downloadUrl": "https://pixeldrain.net/u/NUB3qz7z?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=EWfBQqtgy7OJ7WnSXX2RAeESYgkoKP5btSeUri3G0KM3k6OjaaRyLZ0j97%2FcPbiJ3oIF%2Fh%2BaIgIvbzvouHUgjceaXoIGHBzssR9UmAElFUFwQBI%3D",
-          "720p": "https://codedew.com/zipper/?url=EWfBQqtgy7OJ7WnSXX2RAeESYgkoKP5btSeUri3G0KM3k6OjaaRyLZ0j97%2FcPbiJ3oIF%2Fh%2BaIgIvbzvouHUgjceaXoIGHBzssR9UmAElFUFwQBI%3D",
-          "480p": "https://codedew.com/zipper/?url=EWfBQqtgy7OJ7WnSXX2RAeESYgkoKP5btSeUri3G0KM3k6OjaaRyLZ0j97%2FcPbiJ3oIF%2Fh%2BaIgIvbzvouHUgjceaXoIGHBzssR9UmAElFUFwQBI%3D"
+          "1080p": "https://pixeldrain.net/u/NUB3qz7z?download",
+          "720p": "https://pixeldrain.net/u/NUB3qz7z?download",
+          "480p": "https://pixeldrain.net/u/NUB3qz7z?download",
+          "hindi": "https://pixeldrain.net/u/NUB3qz7z?download"
         },
         "hasTelegram": false
       }
@@ -21161,11 +20280,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
             "synopsis": "HAIKYU!! Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=%2F87ijsPL6G4hi6Oj2HMj%2Bgh8UsdE5sC5VjYY%2B%2B9Iuo8QMSul420Ytm86zpcbCJjGUeUBhTo3bT54fXZPJrc0RxIMBR3BdNLOzcMRJ%2FxXkKZSn28%3D",
+            "downloadUrl": "https://pixeldrain.net/u/5eJdwTgQ?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=%2F87ijsPL6G4hi6Oj2HMj%2Bgh8UsdE5sC5VjYY%2B%2B9Iuo8QMSul420Ytm86zpcbCJjGUeUBhTo3bT54fXZPJrc0RxIMBR3BdNLOzcMRJ%2FxXkKZSn28%3D",
-              "720p": "https://codedew.com/zipper/?url=%2F87ijsPL6G4hi6Oj2HMj%2Bgh8UsdE5sC5VjYY%2B%2B9Iuo8QMSul420Ytm86zpcbCJjGUeUBhTo3bT54fXZPJrc0RxIMBR3BdNLOzcMRJ%2FxXkKZSn28%3D",
-              "480p": "https://codedew.com/zipper/?url=%2F87ijsPL6G4hi6Oj2HMj%2Bgh8UsdE5sC5VjYY%2B%2B9Iuo8QMSul420Ytm86zpcbCJjGUeUBhTo3bT54fXZPJrc0RxIMBR3BdNLOzcMRJ%2FxXkKZSn28%3D"
+              "1080p": "https://pixeldrain.net/u/5eJdwTgQ?download",
+              "720p": "https://pixeldrain.net/u/5eJdwTgQ?download",
+              "480p": "https://pixeldrain.net/u/5eJdwTgQ?download",
+              "hindi": "https://pixeldrain.net/u/5eJdwTgQ?download"
             },
             "hasTelegram": false
           }
@@ -21181,11 +20301,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
         "synopsis": "HAIKYU!! Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=%2F87ijsPL6G4hi6Oj2HMj%2Bgh8UsdE5sC5VjYY%2B%2B9Iuo8QMSul420Ytm86zpcbCJjGUeUBhTo3bT54fXZPJrc0RxIMBR3BdNLOzcMRJ%2FxXkKZSn28%3D",
+        "downloadUrl": "https://pixeldrain.net/u/5eJdwTgQ?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=%2F87ijsPL6G4hi6Oj2HMj%2Bgh8UsdE5sC5VjYY%2B%2B9Iuo8QMSul420Ytm86zpcbCJjGUeUBhTo3bT54fXZPJrc0RxIMBR3BdNLOzcMRJ%2FxXkKZSn28%3D",
-          "720p": "https://codedew.com/zipper/?url=%2F87ijsPL6G4hi6Oj2HMj%2Bgh8UsdE5sC5VjYY%2B%2B9Iuo8QMSul420Ytm86zpcbCJjGUeUBhTo3bT54fXZPJrc0RxIMBR3BdNLOzcMRJ%2FxXkKZSn28%3D",
-          "480p": "https://codedew.com/zipper/?url=%2F87ijsPL6G4hi6Oj2HMj%2Bgh8UsdE5sC5VjYY%2B%2B9Iuo8QMSul420Ytm86zpcbCJjGUeUBhTo3bT54fXZPJrc0RxIMBR3BdNLOzcMRJ%2FxXkKZSn28%3D"
+          "1080p": "https://pixeldrain.net/u/5eJdwTgQ?download",
+          "720p": "https://pixeldrain.net/u/5eJdwTgQ?download",
+          "480p": "https://pixeldrain.net/u/5eJdwTgQ?download",
+          "hindi": "https://pixeldrain.net/u/5eJdwTgQ?download"
         },
         "hasTelegram": false
       }
@@ -22195,8 +21316,8 @@ export const ANIME_DATABASE = [
             "downloadUrl": "https://pixeldrain.net/u/xhc2EstG?download",
             "downloadLinks": {
               "1080p": "https://pixeldrain.net/u/xhc2EstG?download",
-              "720p": "https://codedew.com/zipper/?url=EGCda7flTSNxB6f8czgjF9TWLDnwHCPZVFnTTJ%2B6Pqx7SbS8QuuITe3v6PQiPbCfB%2F9EORiF1TIbXKIVLntAQr9EDDm1ZWw4voyB3wpsUIJivcc%3D",
-              "480p": "https://codedew.com/zipper/?url=EGCda7flTSNxB6f8czgjF9TWLDnwHCPZVFnTTJ%2B6Pqx7SbS8QuuITe3v6PQiPbCfB%2F9EORiF1TIbXKIVLntAQr9EDDm1ZWw4voyB3wpsUIJivcc%3D",
+              "720p": "https://pixeldrain.net/u/xhc2EstG?download",
+              "480p": "https://pixeldrain.net/u/xhc2EstG?download",
               "hindi": "https://pixeldrain.net/u/xhc2EstG?download"
             },
             "hasTelegram": false
@@ -22213,11 +21334,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
         "synopsis": "Sheep & Wolves (2016) Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=EGCda7flTSNxB6f8czgjF9TWLDnwHCPZVFnTTJ%2B6Pqx7SbS8QuuITe3v6PQiPbCfB%2F9EORiF1TIbXKIVLntAQr9EDDm1ZWw4voyB3wpsUIJivcc%3D",
+        "downloadUrl": "https://pixeldrain.net/u/xhc2EstG?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=EGCda7flTSNxB6f8czgjF9TWLDnwHCPZVFnTTJ%2B6Pqx7SbS8QuuITe3v6PQiPbCfB%2F9EORiF1TIbXKIVLntAQr9EDDm1ZWw4voyB3wpsUIJivcc%3D",
-          "720p": "https://codedew.com/zipper/?url=EGCda7flTSNxB6f8czgjF9TWLDnwHCPZVFnTTJ%2B6Pqx7SbS8QuuITe3v6PQiPbCfB%2F9EORiF1TIbXKIVLntAQr9EDDm1ZWw4voyB3wpsUIJivcc%3D",
-          "480p": "https://codedew.com/zipper/?url=EGCda7flTSNxB6f8czgjF9TWLDnwHCPZVFnTTJ%2B6Pqx7SbS8QuuITe3v6PQiPbCfB%2F9EORiF1TIbXKIVLntAQr9EDDm1ZWw4voyB3wpsUIJivcc%3D"
+          "1080p": "https://pixeldrain.net/u/xhc2EstG?download",
+          "720p": "https://pixeldrain.net/u/xhc2EstG?download",
+          "480p": "https://pixeldrain.net/u/xhc2EstG?download",
+          "hindi": "https://pixeldrain.net/u/xhc2EstG?download"
         },
         "hasTelegram": false
       }
@@ -22264,11 +21386,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
             "synopsis": "The Boss Baby: Family Business Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D",
+            "downloadUrl": "https://pixeldrain.net/u/nSJWqrVT?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D",
-              "720p": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D",
-              "480p": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D"
+              "1080p": "https://pixeldrain.net/u/nSJWqrVT?download",
+              "720p": "https://pixeldrain.net/u/nSJWqrVT?download",
+              "480p": "https://pixeldrain.net/u/nSJWqrVT?download",
+              "hindi": "https://pixeldrain.net/u/nSJWqrVT?download"
             },
             "hasTelegram": false
           }
@@ -22284,11 +21407,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
         "synopsis": "The Boss Baby: Family Business Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D",
+        "downloadUrl": "https://pixeldrain.net/u/nSJWqrVT?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D",
-          "720p": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D",
-          "480p": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D"
+          "1080p": "https://pixeldrain.net/u/nSJWqrVT?download",
+          "720p": "https://pixeldrain.net/u/nSJWqrVT?download",
+          "480p": "https://pixeldrain.net/u/nSJWqrVT?download",
+          "hindi": "https://pixeldrain.net/u/nSJWqrVT?download"
         },
         "hasTelegram": false
       }
@@ -22334,11 +21458,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
             "synopsis": "Raya and the Last Dragon Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D",
+            "downloadUrl": "https://pixeldrain.net/u/hCRJPV6u?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D",
-              "720p": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D",
-              "480p": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D"
+              "1080p": "https://pixeldrain.net/u/hCRJPV6u?download",
+              "720p": "https://pixeldrain.net/u/hCRJPV6u?download",
+              "480p": "https://pixeldrain.net/u/hCRJPV6u?download",
+              "hindi": "https://pixeldrain.net/u/hCRJPV6u?download"
             },
             "hasTelegram": false
           }
@@ -22354,11 +21479,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
         "synopsis": "Raya and the Last Dragon Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D",
+        "downloadUrl": "https://pixeldrain.net/u/hCRJPV6u?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D",
-          "720p": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D",
-          "480p": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D"
+          "1080p": "https://pixeldrain.net/u/hCRJPV6u?download",
+          "720p": "https://pixeldrain.net/u/hCRJPV6u?download",
+          "480p": "https://pixeldrain.net/u/hCRJPV6u?download",
+          "hindi": "https://pixeldrain.net/u/hCRJPV6u?download"
         },
         "hasTelegram": false
       }
@@ -22403,11 +21529,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
             "synopsis": "Astro Boy (2009) Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D",
+            "downloadUrl": "https://pixeldrain.net/u/GEYVmeo9?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D",
-              "720p": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D",
-              "480p": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D"
+              "1080p": "https://pixeldrain.net/u/GEYVmeo9?download",
+              "720p": "https://pixeldrain.net/u/GEYVmeo9?download",
+              "480p": "https://pixeldrain.net/u/GEYVmeo9?download",
+              "hindi": "https://pixeldrain.net/u/GEYVmeo9?download"
             },
             "hasTelegram": false
           }
@@ -22423,11 +21550,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
         "synopsis": "Astro Boy (2009) Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D",
+        "downloadUrl": "https://pixeldrain.net/u/GEYVmeo9?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D",
-          "720p": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D",
-          "480p": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D"
+          "1080p": "https://pixeldrain.net/u/GEYVmeo9?download",
+          "720p": "https://pixeldrain.net/u/GEYVmeo9?download",
+          "480p": "https://pixeldrain.net/u/GEYVmeo9?download",
+          "hindi": "https://pixeldrain.net/u/GEYVmeo9?download"
         },
         "hasTelegram": false
       }
@@ -23359,11 +22487,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
             "synopsis": "The Sea Beast Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D",
+            "downloadUrl": "https://pixeldrain.net/u/76uT5LTJ?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D",
-              "720p": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D",
-              "480p": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D"
+              "1080p": "https://pixeldrain.net/u/76uT5LTJ?download",
+              "720p": "https://pixeldrain.net/u/76uT5LTJ?download",
+              "480p": "https://pixeldrain.net/u/76uT5LTJ?download",
+              "hindi": "https://pixeldrain.net/u/76uT5LTJ?download"
             },
             "hasTelegram": false
           }
@@ -23379,11 +22508,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
         "synopsis": "The Sea Beast Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D",
+        "downloadUrl": "https://pixeldrain.net/u/76uT5LTJ?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D",
-          "720p": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D",
-          "480p": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D"
+          "1080p": "https://pixeldrain.net/u/76uT5LTJ?download",
+          "720p": "https://pixeldrain.net/u/76uT5LTJ?download",
+          "480p": "https://pixeldrain.net/u/76uT5LTJ?download",
+          "hindi": "https://pixeldrain.net/u/76uT5LTJ?download"
         },
         "hasTelegram": false
       }
@@ -25162,11 +24292,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/8/88/A_Magnificent_Life.jpg",
             "synopsis": "A Magnificent Life Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=ZdJcDYQopL2uWHj9M6UGrUDkHRr1YheWESIU%2Bf52naps%2FHR5hsbkeD2wYzOw9X4phw7jTXogN3CmAg0hpRs%2FUJPBxdqpa3ssnIYZYQCkyuOrVFc%3D",
+            "downloadUrl": "https://pixeldrain.net/u/h95S1NyP?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=ZdJcDYQopL2uWHj9M6UGrUDkHRr1YheWESIU%2Bf52naps%2FHR5hsbkeD2wYzOw9X4phw7jTXogN3CmAg0hpRs%2FUJPBxdqpa3ssnIYZYQCkyuOrVFc%3D",
-              "720p": "https://codedew.com/zipper/?url=ZdJcDYQopL2uWHj9M6UGrUDkHRr1YheWESIU%2Bf52naps%2FHR5hsbkeD2wYzOw9X4phw7jTXogN3CmAg0hpRs%2FUJPBxdqpa3ssnIYZYQCkyuOrVFc%3D",
-              "480p": "https://codedew.com/zipper/?url=ZdJcDYQopL2uWHj9M6UGrUDkHRr1YheWESIU%2Bf52naps%2FHR5hsbkeD2wYzOw9X4phw7jTXogN3CmAg0hpRs%2FUJPBxdqpa3ssnIYZYQCkyuOrVFc%3D"
+              "1080p": "https://pixeldrain.net/u/h95S1NyP?download",
+              "720p": "https://pixeldrain.net/u/h95S1NyP?download",
+              "480p": "https://pixeldrain.net/u/h95S1NyP?download",
+              "hindi": "https://pixeldrain.net/u/h95S1NyP?download"
             },
             "hasTelegram": false
           }
@@ -25182,11 +24313,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
         "synopsis": "A Magnificent Life Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=ZdJcDYQopL2uWHj9M6UGrUDkHRr1YheWESIU%2Bf52naps%2FHR5hsbkeD2wYzOw9X4phw7jTXogN3CmAg0hpRs%2FUJPBxdqpa3ssnIYZYQCkyuOrVFc%3D",
+        "downloadUrl": "https://pixeldrain.net/u/h95S1NyP?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=ZdJcDYQopL2uWHj9M6UGrUDkHRr1YheWESIU%2Bf52naps%2FHR5hsbkeD2wYzOw9X4phw7jTXogN3CmAg0hpRs%2FUJPBxdqpa3ssnIYZYQCkyuOrVFc%3D",
-          "720p": "https://codedew.com/zipper/?url=ZdJcDYQopL2uWHj9M6UGrUDkHRr1YheWESIU%2Bf52naps%2FHR5hsbkeD2wYzOw9X4phw7jTXogN3CmAg0hpRs%2FUJPBxdqpa3ssnIYZYQCkyuOrVFc%3D",
-          "480p": "https://codedew.com/zipper/?url=ZdJcDYQopL2uWHj9M6UGrUDkHRr1YheWESIU%2Bf52naps%2FHR5hsbkeD2wYzOw9X4phw7jTXogN3CmAg0hpRs%2FUJPBxdqpa3ssnIYZYQCkyuOrVFc%3D"
+          "1080p": "https://pixeldrain.net/u/h95S1NyP?download",
+          "720p": "https://pixeldrain.net/u/h95S1NyP?download",
+          "480p": "https://pixeldrain.net/u/h95S1NyP?download",
+          "hindi": "https://pixeldrain.net/u/h95S1NyP?download"
         },
         "hasTelegram": false
       }
@@ -25233,11 +24365,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
             "synopsis": "Wish Dragon Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D",
+            "downloadUrl": "https://pixeldrain.net/u/VYbZwu6w?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D",
-              "720p": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D",
-              "480p": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D"
+              "1080p": "https://pixeldrain.net/u/VYbZwu6w?download",
+              "720p": "https://pixeldrain.net/u/VYbZwu6w?download",
+              "480p": "https://pixeldrain.net/u/VYbZwu6w?download",
+              "hindi": "https://pixeldrain.net/u/VYbZwu6w?download"
             },
             "hasTelegram": false
           }
@@ -25253,11 +24386,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
         "synopsis": "Wish Dragon Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D",
+        "downloadUrl": "https://pixeldrain.net/u/VYbZwu6w?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D",
-          "720p": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D",
-          "480p": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D"
+          "1080p": "https://pixeldrain.net/u/VYbZwu6w?download",
+          "720p": "https://pixeldrain.net/u/VYbZwu6w?download",
+          "480p": "https://pixeldrain.net/u/VYbZwu6w?download",
+          "hindi": "https://pixeldrain.net/u/VYbZwu6w?download"
         },
         "hasTelegram": false
       }
@@ -26382,8 +25516,8 @@ export const ANIME_DATABASE = [
             "downloadUrl": "https://pixeldrain.net/u/TdjBccvh?download",
             "downloadLinks": {
               "1080p": "https://pixeldrain.net/u/TdjBccvh?download",
-              "720p": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
-              "480p": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
+              "720p": "https://pixeldrain.net/u/TdjBccvh?download",
+              "480p": "https://pixeldrain.net/u/TdjBccvh?download",
               "hindi": "https://pixeldrain.net/u/TdjBccvh?download"
             },
             "hasTelegram": false
@@ -26400,11 +25534,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
         "synopsis": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022) Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
+        "downloadUrl": "https://pixeldrain.net/u/TdjBccvh?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
-          "720p": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
-          "480p": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D"
+          "1080p": "https://pixeldrain.net/u/TdjBccvh?download",
+          "720p": "https://pixeldrain.net/u/TdjBccvh?download",
+          "480p": "https://pixeldrain.net/u/TdjBccvh?download",
+          "hindi": "https://pixeldrain.net/u/TdjBccvh?download"
         },
         "hasTelegram": false
       }
@@ -26451,12 +25586,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
             "synopsis": "Boonie Bears: The Big Shrink Season 1 Episode 1",
-            "downloadUrl": "https://gamerxyt.com/hubcloud.php?host=hubcloud&id=imtjs6sxu9ltlmb&token=b016OE9aVVRLYzc0K3VocDhsWnRmNE4rc1BPZ0NOQjhTdnFCaTFhbDVxYz0=",
+            "downloadUrl": "https://pixeldrain.net/u/Luui67WU?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=AhH7%2B7gHb9zQy%2BeBddB6d%2FvCC93XGcsMLPMhbawOcUpjIUe%2FGiLNMlbGIL0Lna2GqKXxTDIK%2FmdMEBVVinsx8MhwqmaVA5v1tTF2AQgsahLmxLo%3D",
-              "720p": "https://codedew.com/zipper/?url=AhH7%2B7gHb9zQy%2BeBddB6d%2FvCC93XGcsMLPMhbawOcUpjIUe%2FGiLNMlbGIL0Lna2GqKXxTDIK%2FmdMEBVVinsx8MhwqmaVA5v1tTF2AQgsahLmxLo%3D",
-              "480p": "https://codedew.com/zipper/?url=AhH7%2B7gHb9zQy%2BeBddB6d%2FvCC93XGcsMLPMhbawOcUpjIUe%2FGiLNMlbGIL0Lna2GqKXxTDIK%2FmdMEBVVinsx8MhwqmaVA5v1tTF2AQgsahLmxLo%3D",
-              "hindi": "https://gamerxyt.com/hubcloud.php?host=hubcloud&id=imtjs6sxu9ltlmb&token=b016OE9aVVRLYzc0K3VocDhsWnRmNE4rc1BPZ0NOQjhTdnFCaTFhbDVxYz0="
+              "1080p": "https://pixeldrain.net/u/Luui67WU?download",
+              "720p": "https://pixeldrain.net/u/Luui67WU?download",
+              "480p": "https://pixeldrain.net/u/Luui67WU?download",
+              "hindi": "https://pixeldrain.net/u/Luui67WU?download"
             },
             "hasTelegram": false
           }
@@ -26472,11 +25607,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
         "synopsis": "Boonie Bears: The Big Shrink Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=AhH7%2B7gHb9zQy%2BeBddB6d%2FvCC93XGcsMLPMhbawOcUpjIUe%2FGiLNMlbGIL0Lna2GqKXxTDIK%2FmdMEBVVinsx8MhwqmaVA5v1tTF2AQgsahLmxLo%3D",
+        "downloadUrl": "https://pixeldrain.net/u/Luui67WU?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=AhH7%2B7gHb9zQy%2BeBddB6d%2FvCC93XGcsMLPMhbawOcUpjIUe%2FGiLNMlbGIL0Lna2GqKXxTDIK%2FmdMEBVVinsx8MhwqmaVA5v1tTF2AQgsahLmxLo%3D",
-          "720p": "https://codedew.com/zipper/?url=AhH7%2B7gHb9zQy%2BeBddB6d%2FvCC93XGcsMLPMhbawOcUpjIUe%2FGiLNMlbGIL0Lna2GqKXxTDIK%2FmdMEBVVinsx8MhwqmaVA5v1tTF2AQgsahLmxLo%3D",
-          "480p": "https://codedew.com/zipper/?url=AhH7%2B7gHb9zQy%2BeBddB6d%2FvCC93XGcsMLPMhbawOcUpjIUe%2FGiLNMlbGIL0Lna2GqKXxTDIK%2FmdMEBVVinsx8MhwqmaVA5v1tTF2AQgsahLmxLo%3D"
+          "1080p": "https://pixeldrain.net/u/Luui67WU?download",
+          "720p": "https://pixeldrain.net/u/Luui67WU?download",
+          "480p": "https://pixeldrain.net/u/Luui67WU?download",
+          "hindi": "https://pixeldrain.net/u/Luui67WU?download"
         },
         "hasTelegram": false
       }
@@ -26522,11 +25658,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
             "synopsis": "Boonie Bears: Future Reborn Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D",
+            "downloadUrl": "https://pixeldrain.net/u/A6vQaWaB?download",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D",
-              "720p": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D",
-              "480p": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D"
+              "1080p": "https://pixeldrain.net/u/A6vQaWaB?download",
+              "720p": "https://pixeldrain.net/u/A6vQaWaB?download",
+              "480p": "https://pixeldrain.net/u/A6vQaWaB?download",
+              "hindi": "https://pixeldrain.net/u/A6vQaWaB?download"
             },
             "hasTelegram": false
           }
@@ -26542,11 +25679,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
         "synopsis": "Boonie Bears: Future Reborn Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D",
+        "downloadUrl": "https://pixeldrain.net/u/A6vQaWaB?download",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D",
-          "720p": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D",
-          "480p": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D"
+          "1080p": "https://pixeldrain.net/u/A6vQaWaB?download",
+          "720p": "https://pixeldrain.net/u/A6vQaWaB?download",
+          "480p": "https://pixeldrain.net/u/A6vQaWaB?download",
+          "hindi": "https://pixeldrain.net/u/A6vQaWaB?download"
         },
         "hasTelegram": false
       }
@@ -27487,11 +26625,12 @@ export const ANIME_DATABASE = [
             "runtime": "1h 42m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/a/ae/Arco_poster.jpg",
             "synopsis": "Arco Season 1 Episode 1",
-            "downloadUrl": "https://codedew.com/zipper/?url=gN9eEYaasKfLmXzAMYH%2B2I07bXru8D03W66U%2FjgGotUYTmPPXUN7fm7urNhvx6EkVTdb2%2FZ185DFP4qw%2Fj7Wrqg0F68jQdFaTrq23sOokUrywMo%3D",
+            "downloadUrl": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw",
             "downloadLinks": {
-              "1080p": "https://codedew.com/zipper/?url=gN9eEYaasKfLmXzAMYH%2B2I07bXru8D03W66U%2FjgGotUYTmPPXUN7fm7urNhvx6EkVTdb2%2FZ185DFP4qw%2Fj7Wrqg0F68jQdFaTrq23sOokUrywMo%3D",
-              "720p": "https://codedew.com/zipper/?url=gN9eEYaasKfLmXzAMYH%2B2I07bXru8D03W66U%2FjgGotUYTmPPXUN7fm7urNhvx6EkVTdb2%2FZ185DFP4qw%2Fj7Wrqg0F68jQdFaTrq23sOokUrywMo%3D",
-              "480p": "https://codedew.com/zipper/?url=gN9eEYaasKfLmXzAMYH%2B2I07bXru8D03W66U%2FjgGotUYTmPPXUN7fm7urNhvx6EkVTdb2%2FZ185DFP4qw%2Fj7Wrqg0F68jQdFaTrq23sOokUrywMo%3D"
+              "1080p": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw",
+              "720p": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw",
+              "480p": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw",
+              "hindi": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw"
             },
             "hasTelegram": false
           }
@@ -27507,11 +26646,12 @@ export const ANIME_DATABASE = [
         "runtime": "1h 42m",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
         "synopsis": "Arco Season 1 Episode 1",
-        "downloadUrl": "https://codedew.com/zipper/?url=gN9eEYaasKfLmXzAMYH%2B2I07bXru8D03W66U%2FjgGotUYTmPPXUN7fm7urNhvx6EkVTdb2%2FZ185DFP4qw%2Fj7Wrqg0F68jQdFaTrq23sOokUrywMo%3D",
+        "downloadUrl": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw",
         "downloadLinks": {
-          "1080p": "https://codedew.com/zipper/?url=gN9eEYaasKfLmXzAMYH%2B2I07bXru8D03W66U%2FjgGotUYTmPPXUN7fm7urNhvx6EkVTdb2%2FZ185DFP4qw%2Fj7Wrqg0F68jQdFaTrq23sOokUrywMo%3D",
-          "720p": "https://codedew.com/zipper/?url=gN9eEYaasKfLmXzAMYH%2B2I07bXru8D03W66U%2FjgGotUYTmPPXUN7fm7urNhvx6EkVTdb2%2FZ185DFP4qw%2Fj7Wrqg0F68jQdFaTrq23sOokUrywMo%3D",
-          "480p": "https://codedew.com/zipper/?url=gN9eEYaasKfLmXzAMYH%2B2I07bXru8D03W66U%2FjgGotUYTmPPXUN7fm7urNhvx6EkVTdb2%2FZ185DFP4qw%2Fj7Wrqg0F68jQdFaTrq23sOokUrywMo%3D"
+          "1080p": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw",
+          "720p": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw",
+          "480p": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw",
+          "hindi": "https://mega.nz/file/CjoFQCQb#UIqoL_NZcbTdbldsZfqwrWqEOAyRbz29jLtQ_MVM9Kw"
         },
         "hasTelegram": false
       }
