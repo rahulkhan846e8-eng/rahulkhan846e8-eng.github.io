@@ -17176,12 +17176,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 1 Episode 9",
-            "downloadUrl": "https://pixeldrain.net/u/TBT41S61?download",
+            "downloadUrl": "https://pixeldrain.net/u/DAZzGRy8?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/TBT41S61?download",
+              "1080p": "https://pixeldrain.net/u/DAZzGRy8?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83ZmU1NDYzMzRmYjExN2I4ZjVhNWZmMjMzNDU0ODIwMj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxNDIyNTFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyJTVCVGFtaWwlNUQlMjAtJTIwQ2xhc3Nyb29tJTIwb2YlMjB0aGUlMjBFbGl0ZSUyMFMwMUUwOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9N2IyZDNjNmY2Y2M3ZmUzMzBkNDc3YTE2M2Y3YTgxOTM3ZWZmNDhkMGYwNWMxZTdhM2ViNGM3ZGQ3NjlhN2VhMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzU4MDAwMCwiaGFzaCI6ImMxNGMxMDNkNjQyOWExMThiNzI3MzRjOWZlZDg4NTc0YmNkMmEwYWQ5NmY1MmFhOTljMjY0NjFlZjgxOThjMDYiLCJmaWxlbmFtZSI6IltUYW1pbF0gLSBDbGFzc3Jvb20gb2YgdGhlIEVsaXRlIFMwMUUwOSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83ZmU1NDYzMzRmYjExN2I4ZjVhNWZmMjMzNDU0ODIwMj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxNDIyNTFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyJTVCVGFtaWwlNUQlMjAtJTIwQ2xhc3Nyb29tJTIwb2YlMjB0aGUlMjBFbGl0ZSUyMFMwMUUwOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9N2IyZDNjNmY2Y2M3ZmUzMzBkNDc3YTE2M2Y3YTgxOTM3ZWZmNDhkMGYwNWMxZTdhM2ViNGM3ZGQ3NjlhN2VhMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzU4MDAwMCwiaGFzaCI6ImMxNGMxMDNkNjQyOWExMThiNzI3MzRjOWZlZDg4NTc0YmNkMmEwYWQ5NmY1MmFhOTljMjY0NjFlZjgxOThjMDYiLCJmaWxlbmFtZSI6IltUYW1pbF0gLSBDbGFzc3Jvb20gb2YgdGhlIEVsaXRlIFMwMUUwOSBbUmFyZVRvb25zSW5kaWFdLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/TBT41S61?download"
+              "hindi": "https://pixeldrain.net/u/DAZzGRy8?download"
             },
             "hasTelegram": false
           },
@@ -17194,9 +17194,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 10 of Classroom of the Elite",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://mega.nz/file/7oIXQBIJ#Z2JhRwCm_3oaypVvQs0F88mVKIxao8y-IpOi1iQ6Wd4",
+            "downloadUrl": "https://pixeldrain.net/u/7aqZCSjG?download",
             "downloadLinks": {
-              "hindi": "https://mega.nz/file/7oIXQBIJ#Z2JhRwCm_3oaypVvQs0F88mVKIxao8y-IpOi1iQ6Wd4"
+              "hindi": "https://pixeldrain.net/u/7aqZCSjG?download"
             }
           },
           {
@@ -17207,12 +17207,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 1 Episode 11",
-            "downloadUrl": "https://pixeldrain.net/u/tSsVDYNk?download",
+            "downloadUrl": "https://pixeldrain.net/u/TBT41S61?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/tSsVDYNk?download",
+              "1080p": "https://pixeldrain.net/u/TBT41S61?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RhNTNhMDRhYThlMzBhYjk0NjU0YTRkMmZiN2JlMDdiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA1VDExNTIxOVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJUYW1pbCU1RCUyMC0lMjBDbGFzc3Jvb20lMjBvZiUyMHRoZSUyMEVsaXRlJTIwUzAxRTExJTIwJTVCUmFyZVRvb25zSW5kaWElNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yMGFiZTk3ZDY2ZDc3MGZjMzMzY2I5YzFiOTk4MDhlZDE0NDFmY2EzMzczMTVkYzViNzA2MGI5MjMzOTk0NmFkIiwidGltZXN0YW1wIjoxNzg4NDQ3NjA1MDAwLCJoYXNoIjoiNTE1YWIwMGQ2YzUxZWYwMjMxM2U2YjVjZGU0YmQxYmI2ZDdjNGE5NzY1MGU3ODIwMDhkYzQ1NWQxZTdlZjcxOCIsImZpbGVuYW1lIjoiW1RhbWlsXSAtIENsYXNzcm9vbSBvZiB0aGUgRWxpdGUgUzAxRTExIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RhNTNhMDRhYThlMzBhYjk0NjU0YTRkMmZiN2JlMDdiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA1VDExNTIxOVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJUYW1pbCU1RCUyMC0lMjBDbGFzc3Jvb20lMjBvZiUyMHRoZSUyMEVsaXRlJTIwUzAxRTExJTIwJTVCUmFyZVRvb25zSW5kaWElNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yMGFiZTk3ZDY2ZDc3MGZjMzMzY2I5YzFiOTk4MDhlZDE0NDFmY2EzMzczMTVkYzViNzA2MGI5MjMzOTk0NmFkIiwidGltZXN0YW1wIjoxNzg4NDQ3NjA1MDAwLCJoYXNoIjoiNTE1YWIwMGQ2YzUxZWYwMjMxM2U2YjVjZGU0YmQxYmI2ZDdjNGE5NzY1MGU3ODIwMDhkYzQ1NWQxZTdlZjcxOCIsImZpbGVuYW1lIjoiW1RhbWlsXSAtIENsYXNzcm9vbSBvZiB0aGUgRWxpdGUgUzAxRTExIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
-              "hindi": "https://pixeldrain.net/u/tSsVDYNk?download"
+              "hindi": "https://pixeldrain.net/u/TBT41S61?download"
             },
             "hasTelegram": false
           },
@@ -17224,12 +17224,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 1 Episode 12",
-            "downloadUrl": "https://mega.nz/file/qwQwAZia#FImbyVMAkYB9ee_x_A67HEQmG9gjslZm6X7368AyU9k",
+            "downloadUrl": "https://pixeldrain.net/u/6G12yNGC?download",
             "downloadLinks": {
-              "1080p": "https://mega.nz/file/qwQwAZia#FImbyVMAkYB9ee_x_A67HEQmG9gjslZm6X7368AyU9k",
+              "1080p": "https://pixeldrain.net/u/6G12yNGC?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzNlNThiOTMxM2IzYzZmYWZjZGQwYmZkZTc5YjBiMzFkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgxMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODEzVDExMDA1OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJUYW1pbCU1RCUyMC0lMjBDbGFzc3Jvb20lMjBvZiUyMHRoZSUyMEVsaXRlJTIwUzAxRTEyJTIwJTVCUmFyZVRvb25zSW5kaWElNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0zOThmYWVhM2UwMDc2ZmRkNTZlOGE3OWQyOTFkMDlhNmIxZGQ3ZTIwNjlmODU3ZWZiZDEzNTc4YTAwZDJhYzNhIiwidGltZXN0YW1wIjoxNzg4NDQ3NjE2MDAwLCJoYXNoIjoiZDUyNTk4ZDQ3N2QzMDJmZGMyOGFkNDdlNzRjZTJmYzljMThmNWUzMDkxOTAyMDY5NWY5MmNiNjhmZDkyZGNkOSIsImZpbGVuYW1lIjoiW1RhbWlsXSAtIENsYXNzcm9vbSBvZiB0aGUgRWxpdGUgUzAxRTEyIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzNlNThiOTMxM2IzYzZmYWZjZGQwYmZkZTc5YjBiMzFkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgxMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODEzVDExMDA1OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJUYW1pbCU1RCUyMC0lMjBDbGFzc3Jvb20lMjBvZiUyMHRoZSUyMEVsaXRlJTIwUzAxRTEyJTIwJTVCUmFyZVRvb25zSW5kaWElNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0zOThmYWVhM2UwMDc2ZmRkNTZlOGE3OWQyOTFkMDlhNmIxZGQ3ZTIwNjlmODU3ZWZiZDEzNTc4YTAwZDJhYzNhIiwidGltZXN0YW1wIjoxNzg4NDQ3NjE2MDAwLCJoYXNoIjoiZDUyNTk4ZDQ3N2QzMDJmZGMyOGFkNDdlNzRjZTJmYzljMThmNWUzMDkxOTAyMDY5NWY5MmNiNjhmZDkyZGNkOSIsImZpbGVuYW1lIjoiW1RhbWlsXSAtIENsYXNzcm9vbSBvZiB0aGUgRWxpdGUgUzAxRTEyIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
-              "hindi": "https://mega.nz/file/qwQwAZia#FImbyVMAkYB9ee_x_A67HEQmG9gjslZm6X7368AyU9k"
+              "hindi": "https://pixeldrain.net/u/6G12yNGC?download"
             },
             "hasTelegram": false
           }
@@ -17249,12 +17249,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 1",
-            "downloadUrl": "https://pixeldrain.net/u/3BDjmYDU?download",
+            "downloadUrl": "https://pixeldrain.net/u/NhDy98Pk?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/3BDjmYDU?download",
+              "1080p": "https://pixeldrain.net/u/NhDy98Pk?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=8daade2f6ee99a739d54a6148ffb405c4e73b8e108487c0b4d694aae004a711f8b45c0d092d4b78f0ffa9ec0429f92d3a576c6fdb1e28b3764d452a8445ded0051aabe890087d1628c6a7ff8f7743507f3cb5bc97fa098a7c3fa42e8a55f14fc::1bf3329b752b908477ebedea7403a984",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=8daade2f6ee99a739d54a6148ffb405c4e73b8e108487c0b4d694aae004a711f8b45c0d092d4b78f0ffa9ec0429f92d3a576c6fdb1e28b3764d452a8445ded0051aabe890087d1628c6a7ff8f7743507f3cb5bc97fa098a7c3fa42e8a55f14fc::1bf3329b752b908477ebedea7403a984",
-              "hindi": "https://pixeldrain.net/u/3BDjmYDU?download"
+              "hindi": "https://pixeldrain.net/u/NhDy98Pk?download"
             },
             "hasTelegram": false
           },
@@ -17266,12 +17266,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 2",
-            "downloadUrl": "https://pixeldrain.net/u/1srcCeWZ?download",
+            "downloadUrl": "https://pixeldrain.net/u/tSsVDYNk?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/1srcCeWZ?download",
+              "1080p": "https://pixeldrain.net/u/tSsVDYNk?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=c5407bb8cdb3b66ad99185fa65f879e75908dcd3d5c42633100cd0c0bd1f7e521703a474b595e438cddf74517ee67f536c70f07516cf566bb7da47fb665d69bc745ee39c002d57283b8730c3060d8685d91dd925667525bfb5686cb9a0cb132e::4e6bfc20903b5e7ebc524f2a234be252",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=c5407bb8cdb3b66ad99185fa65f879e75908dcd3d5c42633100cd0c0bd1f7e521703a474b595e438cddf74517ee67f536c70f07516cf566bb7da47fb665d69bc745ee39c002d57283b8730c3060d8685d91dd925667525bfb5686cb9a0cb132e::4e6bfc20903b5e7ebc524f2a234be252",
-              "hindi": "https://pixeldrain.net/u/1srcCeWZ?download"
+              "hindi": "https://pixeldrain.net/u/tSsVDYNk?download"
             },
             "hasTelegram": false
           },
@@ -17283,12 +17283,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 3",
-            "downloadUrl": "https://pixeldrain.net/u/D6QYc5Sm?download",
+            "downloadUrl": "https://pixeldrain.net/u/A7NoewRT?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/D6QYc5Sm?download",
+              "1080p": "https://pixeldrain.net/u/A7NoewRT?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=438ade390e4dd009219220f1cedeb36538f9dd0b298920446d34c87dd53db6e769ec3d00b53edb95461018f0d106fb304ddc9f9e46b58797e0fb483817938337f87e9a9205114aeccc2880222cbe962fd2a54fc263eb8330d0b32242bbaf3c70::8d56a2456280218d3f175ed20141530d",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=438ade390e4dd009219220f1cedeb36538f9dd0b298920446d34c87dd53db6e769ec3d00b53edb95461018f0d106fb304ddc9f9e46b58797e0fb483817938337f87e9a9205114aeccc2880222cbe962fd2a54fc263eb8330d0b32242bbaf3c70::8d56a2456280218d3f175ed20141530d",
-              "hindi": "https://pixeldrain.net/u/D6QYc5Sm?download"
+              "hindi": "https://pixeldrain.net/u/A7NoewRT?download"
             },
             "hasTelegram": false
           },
@@ -17300,12 +17300,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 4",
-            "downloadUrl": "https://pixeldrain.net/u/zEvcbCSo?download",
+            "downloadUrl": "https://pixeldrain.net/u/3BDjmYDU?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/zEvcbCSo?download",
+              "1080p": "https://pixeldrain.net/u/3BDjmYDU?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=39f6864822d8503e515c950740798aa2e25bbd846bf4b49e4b4341ac35b1a81a31773434d8b321a9187ad34469fd17f11e3834a4e2b3907a7d0f74db108261dd0b9996b7fce10454cfb6fa3b6fca869503af8f0653bc41fcc340bd5374f92c08::9f6fa5964241b6bfc268130132de2bc6",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=39f6864822d8503e515c950740798aa2e25bbd846bf4b49e4b4341ac35b1a81a31773434d8b321a9187ad34469fd17f11e3834a4e2b3907a7d0f74db108261dd0b9996b7fce10454cfb6fa3b6fca869503af8f0653bc41fcc340bd5374f92c08::9f6fa5964241b6bfc268130132de2bc6",
-              "hindi": "https://pixeldrain.net/u/zEvcbCSo?download"
+              "hindi": "https://pixeldrain.net/u/3BDjmYDU?download"
             },
             "hasTelegram": false
           },
@@ -17318,9 +17318,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 5 of Classroom of the Elite",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/Y3rBF3g3?download",
+            "downloadUrl": "https://pixeldrain.net/u/1srcCeWZ?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/Y3rBF3g3?download"
+              "hindi": "https://pixeldrain.net/u/1srcCeWZ?download"
             }
           },
           {
@@ -17331,12 +17331,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 6",
-            "downloadUrl": "https://pixeldrain.net/u/QPg6kY1D?download",
+            "downloadUrl": "https://pixeldrain.net/u/D6QYc5Sm?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/QPg6kY1D?download",
+              "1080p": "https://pixeldrain.net/u/D6QYc5Sm?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=482f8bcf335d4879601aea90bb9becf7f4407bf68471dc37aeb3ffbc0451327fdb4871a2e13817c996715f1b236f9d814ddc3ef1103c34260d0a07ff39686895f3183cfeca765c61938b87f8fb88642f71408719e912aa821d256d2346afc0e6::901b69769519af09a87cb6923d04d9b6",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=482f8bcf335d4879601aea90bb9becf7f4407bf68471dc37aeb3ffbc0451327fdb4871a2e13817c996715f1b236f9d814ddc3ef1103c34260d0a07ff39686895f3183cfeca765c61938b87f8fb88642f71408719e912aa821d256d2346afc0e6::901b69769519af09a87cb6923d04d9b6",
-              "hindi": "https://pixeldrain.net/u/QPg6kY1D?download"
+              "hindi": "https://pixeldrain.net/u/D6QYc5Sm?download"
             },
             "hasTelegram": false
           },
@@ -17348,12 +17348,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 7",
-            "downloadUrl": "https://pixeldrain.net/u/Vebdd1ac?download",
+            "downloadUrl": "https://pixeldrain.net/u/zEvcbCSo?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/Vebdd1ac?download",
+              "1080p": "https://pixeldrain.net/u/zEvcbCSo?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=b121e0ff1d1b8f1ad5703ba57bf29d80ab3c71d50d762d6716a5926e40f5e39d4094bf1bdbb7a3f1bc0b405a70bc5936ea2d036e207032400a05238c6498540c603ed6b6bdcc6b250bb7da5ef2d7feb2cec80dfc1d139518988eb8e9b8df0d08::9bdf1311ea41b07e5419523441b48dd9",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=b121e0ff1d1b8f1ad5703ba57bf29d80ab3c71d50d762d6716a5926e40f5e39d4094bf1bdbb7a3f1bc0b405a70bc5936ea2d036e207032400a05238c6498540c603ed6b6bdcc6b250bb7da5ef2d7feb2cec80dfc1d139518988eb8e9b8df0d08::9bdf1311ea41b07e5419523441b48dd9",
-              "hindi": "https://pixeldrain.net/u/Vebdd1ac?download"
+              "hindi": "https://pixeldrain.net/u/zEvcbCSo?download"
             },
             "hasTelegram": false
           },
@@ -17365,12 +17365,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 8",
-            "downloadUrl": "https://pixeldrain.net/u/5Q6JfUfx?download",
+            "downloadUrl": "https://pixeldrain.net/u/Y3rBF3g3?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/5Q6JfUfx?download",
+              "1080p": "https://pixeldrain.net/u/Y3rBF3g3?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=7561dd4490ee859c2205b65e3f4d8557b0f3d19565e6202562ecf0fcde3eb796b298788765202ce1f41a01a13e0d1ad9f8acec77600dd94f79a9b969b59cee1c764d817cf5b9a7f19ad3fe3bf3721848089605b47396cef11b4842297d4806bf::22b188618274ca881e919b6de7ccdc16",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=7561dd4490ee859c2205b65e3f4d8557b0f3d19565e6202562ecf0fcde3eb796b298788765202ce1f41a01a13e0d1ad9f8acec77600dd94f79a9b969b59cee1c764d817cf5b9a7f19ad3fe3bf3721848089605b47396cef11b4842297d4806bf::22b188618274ca881e919b6de7ccdc16",
-              "hindi": "https://pixeldrain.net/u/5Q6JfUfx?download"
+              "hindi": "https://pixeldrain.net/u/Y3rBF3g3?download"
             },
             "hasTelegram": false
           },
@@ -17382,12 +17382,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 9",
-            "downloadUrl": "https://pixeldrain.net/u/HmSgaYLL?download",
+            "downloadUrl": "https://pixeldrain.net/u/QPg6kY1D?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/HmSgaYLL?download",
+              "1080p": "https://pixeldrain.net/u/QPg6kY1D?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=e36c46b6d6e56bbbce7c4dab49a24aa3e2419987414b63e3eef25da6ad5f4403ae1031327546265781ab8f70f1750235a1e7274fd6567d31c79dba8aefea68eade19e100ba82c3c30dbcdb2d2ce5fc776e5595acb4a77d75f93c5ee67b376684::1cfdbe8026d32df3114f083f0da3dbc2",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=e36c46b6d6e56bbbce7c4dab49a24aa3e2419987414b63e3eef25da6ad5f4403ae1031327546265781ab8f70f1750235a1e7274fd6567d31c79dba8aefea68eade19e100ba82c3c30dbcdb2d2ce5fc776e5595acb4a77d75f93c5ee67b376684::1cfdbe8026d32df3114f083f0da3dbc2",
-              "hindi": "https://pixeldrain.net/u/HmSgaYLL?download"
+              "hindi": "https://pixeldrain.net/u/QPg6kY1D?download"
             },
             "hasTelegram": false
           },
@@ -17399,12 +17399,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 10",
-            "downloadUrl": "https://pixeldrain.net/u/4Mu7PuW9?download",
+            "downloadUrl": "https://pixeldrain.net/u/Vebdd1ac?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/4Mu7PuW9?download",
+              "1080p": "https://pixeldrain.net/u/Vebdd1ac?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=072276294f2278ecf081def8f5da4a100c5f464b34e610e6ece5de9c91f89a980189e6f7b9bb7e3f65ac14a0d9f2fafd38018657b3fa94481269abced264df9e2cfbb59b87bec85be6e3c59316cf04d1a43143ba3ed6cdba77badf01be597c87::ca5ef239da372d16e9b02fb0f2000e8c",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=072276294f2278ecf081def8f5da4a100c5f464b34e610e6ece5de9c91f89a980189e6f7b9bb7e3f65ac14a0d9f2fafd38018657b3fa94481269abced264df9e2cfbb59b87bec85be6e3c59316cf04d1a43143ba3ed6cdba77badf01be597c87::ca5ef239da372d16e9b02fb0f2000e8c",
-              "hindi": "https://pixeldrain.net/u/4Mu7PuW9?download"
+              "hindi": "https://pixeldrain.net/u/Vebdd1ac?download"
             },
             "hasTelegram": false
           },
@@ -17416,12 +17416,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 11",
-            "downloadUrl": "https://pixeldrain.net/u/TCYRvUKf?download",
+            "downloadUrl": "https://pixeldrain.net/u/5Q6JfUfx?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/TCYRvUKf?download",
+              "1080p": "https://pixeldrain.net/u/5Q6JfUfx?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=ced6f0bb62072fff1ae07ce5cbb955b0d401c7a7f6647641779398654ad98c4bac7430400a9f8208d864db5bc886ba605902eddc08db9480d29f3f3614199e3a16524d238dc7f86125dd02023cbf9aa0bfd4f380ef77eb3c85460d3d5b942769::0f10ce5fea8cfc456824abc9fc755e0a",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=ced6f0bb62072fff1ae07ce5cbb955b0d401c7a7f6647641779398654ad98c4bac7430400a9f8208d864db5bc886ba605902eddc08db9480d29f3f3614199e3a16524d238dc7f86125dd02023cbf9aa0bfd4f380ef77eb3c85460d3d5b942769::0f10ce5fea8cfc456824abc9fc755e0a",
-              "hindi": "https://pixeldrain.net/u/TCYRvUKf?download"
+              "hindi": "https://pixeldrain.net/u/5Q6JfUfx?download"
             },
             "hasTelegram": false
           },
@@ -17433,12 +17433,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 12",
-            "downloadUrl": "https://pixeldrain.net/u/NcwobYfv?download",
+            "downloadUrl": "https://pixeldrain.net/u/HmSgaYLL?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/NcwobYfv?download",
+              "1080p": "https://pixeldrain.net/u/HmSgaYLL?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=5f197120936268b86ab469ca63520c442164948248a59390da92c76c74c10ee5e457918b3722c268d0c2c6971bf6d31fbac8ce6935ff9ba08f0c864f6bd48a53e65189561d86463741db16c520e5ae5df7ab08c2ad09f970f150cf946b88c09f::6a2113fe286b93c6aef1ff101c12ebc7",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=5f197120936268b86ab469ca63520c442164948248a59390da92c76c74c10ee5e457918b3722c268d0c2c6971bf6d31fbac8ce6935ff9ba08f0c864f6bd48a53e65189561d86463741db16c520e5ae5df7ab08c2ad09f970f150cf946b88c09f::6a2113fe286b93c6aef1ff101c12ebc7",
-              "hindi": "https://pixeldrain.net/u/NcwobYfv?download"
+              "hindi": "https://pixeldrain.net/u/HmSgaYLL?download"
             },
             "hasTelegram": false
           },
@@ -17450,12 +17450,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Classroom of the Elite Season 2 Episode 13",
-            "downloadUrl": "https://pixeldrain.net/u/fNUwfA2U?download",
+            "downloadUrl": "https://pixeldrain.net/u/4Mu7PuW9?download",
             "downloadLinks": {
-              "1080p": "https://pixeldrain.net/u/fNUwfA2U?download",
+              "1080p": "https://pixeldrain.net/u/4Mu7PuW9?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=8c649f04d9b27582a4621cbce1fe07bc280a2cccd8c80f815d9cfc483f383b02342f04ee438588fdf757c154948fd42e6426221484480e1469b0ff159ab37a2db54567a4f3080926c35214a3a9087f771f812b9a00626fcca04e1df140701150::098fcec3386133252a0f093fa6b11e1b",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=8c649f04d9b27582a4621cbce1fe07bc280a2cccd8c80f815d9cfc483f383b02342f04ee438588fdf757c154948fd42e6426221484480e1469b0ff159ab37a2db54567a4f3080926c35214a3a9087f771f812b9a00626fcca04e1df140701150::098fcec3386133252a0f093fa6b11e1b",
-              "hindi": "https://pixeldrain.net/u/fNUwfA2U?download"
+              "hindi": "https://pixeldrain.net/u/4Mu7PuW9?download"
             },
             "hasTelegram": false
           }
@@ -17476,9 +17476,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 1 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/9ouCcc2Z?download",
+            "downloadUrl": "https://pixeldrain.net/u/TCYRvUKf?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/9ouCcc2Z?download"
+              "hindi": "https://pixeldrain.net/u/TCYRvUKf?download"
             }
           },
           {
@@ -17490,9 +17490,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 2 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/quYZAsGv?download",
+            "downloadUrl": "https://pixeldrain.net/u/NcwobYfv?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/quYZAsGv?download"
+              "hindi": "https://pixeldrain.net/u/NcwobYfv?download"
             }
           },
           {
@@ -17504,9 +17504,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 3 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/Adsd7GLw?download",
+            "downloadUrl": "https://pixeldrain.net/u/fNUwfA2U?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/Adsd7GLw?download"
+              "hindi": "https://pixeldrain.net/u/fNUwfA2U?download"
             }
           },
           {
@@ -17518,9 +17518,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 4 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/VGbASu7P?download",
+            "downloadUrl": "https://pixeldrain.net/u/9ouCcc2Z?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/VGbASu7P?download"
+              "hindi": "https://pixeldrain.net/u/9ouCcc2Z?download"
             }
           },
           {
@@ -17532,9 +17532,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 5 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/FacKWw91?download",
+            "downloadUrl": "https://pixeldrain.net/u/quYZAsGv?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/FacKWw91?download"
+              "hindi": "https://pixeldrain.net/u/quYZAsGv?download"
             }
           },
           {
@@ -17546,9 +17546,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 6 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/x1wzBkxr?download",
+            "downloadUrl": "https://pixeldrain.net/u/Adsd7GLw?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/x1wzBkxr?download"
+              "hindi": "https://pixeldrain.net/u/Adsd7GLw?download"
             }
           },
           {
@@ -17560,9 +17560,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 7 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/L8xqaxcA?download",
+            "downloadUrl": "https://pixeldrain.net/u/VGbASu7P?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/L8xqaxcA?download"
+              "hindi": "https://pixeldrain.net/u/VGbASu7P?download"
             }
           },
           {
@@ -17574,9 +17574,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 8 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/wwDxNYMS?download",
+            "downloadUrl": "https://pixeldrain.net/u/FacKWw91?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/wwDxNYMS?download"
+              "hindi": "https://pixeldrain.net/u/FacKWw91?download"
             }
           },
           {
@@ -17588,9 +17588,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 9 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/zdhvZeHu?download",
+            "downloadUrl": "https://pixeldrain.net/u/x1wzBkxr?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/zdhvZeHu?download"
+              "hindi": "https://pixeldrain.net/u/x1wzBkxr?download"
             }
           },
           {
@@ -17602,9 +17602,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 10 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/a7557wjM?download",
+            "downloadUrl": "https://pixeldrain.net/u/L8xqaxcA?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/a7557wjM?download"
+              "hindi": "https://pixeldrain.net/u/L8xqaxcA?download"
             }
           },
           {
@@ -17616,9 +17616,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 11 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/7YF4dCWQ?download",
+            "downloadUrl": "https://pixeldrain.net/u/wwDxNYMS?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/7YF4dCWQ?download"
+              "hindi": "https://pixeldrain.net/u/wwDxNYMS?download"
             }
           },
           {
@@ -17630,9 +17630,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 12 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/oPSMB2Qa?download",
+            "downloadUrl": "https://pixeldrain.net/u/zdhvZeHu?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/oPSMB2Qa?download"
+              "hindi": "https://pixeldrain.net/u/zdhvZeHu?download"
             }
           },
           {
@@ -17644,9 +17644,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
             "synopsis": "Episode 13 of Classroom of the Elite (Season 3)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/2VXUaNTZ?download",
+            "downloadUrl": "https://pixeldrain.net/u/a7557wjM?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/2VXUaNTZ?download"
+              "hindi": "https://pixeldrain.net/u/a7557wjM?download"
             }
           }
         ]
