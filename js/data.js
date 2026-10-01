@@ -1768,7 +1768,7 @@ export const ANIME_DATABASE = [
     "title": "DAN DA DAN",
     "japaneseTitle": "ダンダダン (Dandadan)",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171018-SpwPNAduszXP.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171018-SpwPNAduszXl.jpg",
     "rating": 8.7,
     "year": 2024,
     "currentEpBadge": "S2-EP12",
@@ -12968,7 +12968,7 @@ export const ANIME_DATABASE = [
     "id": "boonie-bears-the-big-top-secret",
     "title": "Boonie Bears: The Big Top Secret",
     "japaneseTitle": "熊出没之熊心归来 (Xiong Chumo: Xiong Xin Gui Lai)",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
     "rating": 7.2,
     "year": 2016,
@@ -12998,7 +12998,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
             "synopsis": "Boonie Bears: The Big Top Secret Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D",
             "downloadLinks": {
@@ -13018,7 +13018,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
         "synopsis": "Boonie Bears: The Big Top Secret Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=Eg1WRXnHQbBoXHjdcpugEE8Y4omrMsrIleYNkrPKp62ahsVYlwYOOcE4UQaaz5cRFiWN4hwhVk7a%2BavkEr0QwIQn86efMfTDxkFcAxN9MMs4xBg%3D",
         "downloadLinks": {
@@ -13039,7 +13039,7 @@ export const ANIME_DATABASE = [
     "id": "migration",
     "title": "Migration",
     "japaneseTitle": "FLY! (フライ!)",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
     "rating": 7.5,
     "year": 2023,
@@ -13069,7 +13069,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
             "synopsis": "Migration Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D",
             "downloadLinks": {
@@ -13089,7 +13089,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
         "synopsis": "Migration Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=vuP%2BSNHjdyAHFYjr4mwL1%2Fei%2FfjspAokCY%2FNJpr8t1sf247QG3oK%2B9wNSFSPIrIWiU9w02015KVnHegT%2BJSuqnIowUhOG2XItaDt6zc9jgecdJM%3D",
         "downloadLinks": {
@@ -13973,7 +13973,7 @@ export const ANIME_DATABASE = [
     "id": "the-boss-baby",
     "title": "The Boss Baby",
     "japaneseTitle": "ボス・ベイビー (Boss Baby)",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
     "rating": 7.8,
     "year": 2017,
@@ -14003,7 +14003,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
             "synopsis": "The Boss Baby Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D",
             "downloadLinks": {
@@ -14023,7 +14023,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/0e/The_Boss_Baby_poster.jpg",
         "synopsis": "The Boss Baby Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=MfiHdNibEtlcN1hSE3vKTLMnJEOodEfS84UeokYc2W0faO2l5Tx9%2Fc1ZGrBFQglSgdzDMpAA365EpxjY6ZYhBw1w%2B95GwnRQEE4oze%2F0u%2FQtnAU%3D",
         "downloadLinks": {
@@ -14044,7 +14044,7 @@ export const ANIME_DATABASE = [
     "id": "wacky-races-2017",
     "title": "Wacky Races (2017)",
     "japaneseTitle": "",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/290/725522.jpg",
     "poster": "https://static.tvmaze.com/uploads/images/original_untouched/290/725522.jpg",
     "rating": 8,
     "year": 2024,
@@ -14072,7 +14072,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/290/725522.jpg",
             "synopsis": "Wacky Races (2017) Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipcloud/?51zazkwgr9ghfvu",
             "downloadLinks": {
@@ -14092,7 +14092,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/290/725522.jpg",
         "synopsis": "Wacky Races (2017) Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipcloud/?51zazkwgr9ghfvu",
         "downloadLinks": {
@@ -14990,7 +14990,7 @@ export const ANIME_DATABASE = [
     "id": "boonie-bears-time-twist",
     "title": "Boonie Bears: Time Twist",
     "japaneseTitle": "熊出没·逆转时空 (Xiong Chumo: Ni Zhuan Shi Kong)",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
     "poster": "https://wsrv.nl/?url=https://s.movieinsider.com/images/boonie-bears-time-twist/p/600//846660_m1735865783.jpg",
     "rating": 7.6,
     "year": 2024,
@@ -15020,7 +15020,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
             "synopsis": "Boonie Bears: Time Twist Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D",
             "downloadLinks": {
@@ -15040,7 +15040,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
         "synopsis": "Boonie Bears: Time Twist Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=fCmX8tiMH098mKixsKo97rP5qzg5Me1pRBn1QlT8V1RNnSpkRT58QkTuleGwmtlZEgwljZVaA8w8fIAFhfvs5hAHXYxhV3%2FbAWP9dU4VjpzqtCI%3D",
         "downloadLinks": {
@@ -15061,7 +15061,7 @@ export const ANIME_DATABASE = [
     "id": "ice-age-collision-course",
     "title": "Ice Age: Collision Course",
     "japaneseTitle": "アイス・エイジ5/止めろ! 惑星大衝突",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
     "rating": 7.1,
     "year": 2016,
@@ -15091,7 +15091,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
             "synopsis": "Ice Age: Collision Course Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=tNBKm11PPHLBv%2FwStoOL9eWB6DnEYCag9Ai2HyOSaAw%2F1hIxo5j5237HjqdLjs24fRJgusU00RxXdsYIz26mU6VxuViwaLARFDH%2Bk7hiq%2FqlveE%3D",
             "downloadLinks": {
@@ -15111,7 +15111,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cf/Ice_Age_Collision_Course.jpg",
         "synopsis": "Ice Age: Collision Course Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=tNBKm11PPHLBv%2FwStoOL9eWB6DnEYCag9Ai2HyOSaAw%2F1hIxo5j5237HjqdLjs24fRJgusU00RxXdsYIz26mU6VxuViwaLARFDH%2Bk7hiq%2FqlveE%3D",
         "downloadLinks": {
@@ -15132,7 +15132,7 @@ export const ANIME_DATABASE = [
     "id": "moana-2",
     "title": "Moana 2",
     "japaneseTitle": "モアナと伝説の海2",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
     "rating": 8.2,
     "year": 2024,
@@ -15159,7 +15159,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
             "synopsis": "Moana to Densetsu no Umi 2 3D Short Anime Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=sJisIrXzkln34qTk%2FQzNsbyhnB84UjeT7sj7MJmVn9p4pRpXA0fZiZH7areDOPYbzr6wy8KkmsmriXOknY9LSiZOgwQQzxp3AhG8zNT3NOlvATM%3D",
             "downloadLinks": {
@@ -15179,7 +15179,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
         "synopsis": "Moana to Densetsu no Umi 2 3D Short Anime Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=sJisIrXzkln34qTk%2FQzNsbyhnB84UjeT7sj7MJmVn9p4pRpXA0fZiZH7areDOPYbzr6wy8KkmsmriXOknY9LSiZOgwQQzxp3AhG8zNT3NOlvATM%3D",
         "downloadLinks": {
@@ -15200,7 +15200,7 @@ export const ANIME_DATABASE = [
     "id": "boonie-bears-back-to-earth",
     "title": "Boonie Bears: Back to Earth",
     "japaneseTitle": "熊出没·重返地球",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
     "rating": 7.4,
     "year": 2022,
@@ -15229,7 +15229,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
             "synopsis": "Boonie Bears: Back to Earth Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=Vt3yNptDk9KbqmPumZF48Y1EwfVqfNwJUH1S8pD7mWw%2B%2BtBNPiSi3%2Fi5bS4z9V2Qz5z15Vzf0lM%2Fv0H86f4RNCtNVCgq%2Fse2QBcqQvZlvdS8%2F%2B0%3D",
             "downloadLinks": {
@@ -15249,7 +15249,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
         "synopsis": "Boonie Bears: Back to Earth Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=Vt3yNptDk9KbqmPumZF48Y1EwfVqfNwJUH1S8pD7mWw%2B%2BtBNPiSi3%2Fi5bS4z9V2Qz5z15Vzf0lM%2Fv0H86f4RNCtNVCgq%2Fse2QBcqQvZlvdS8%2F%2B0%3D",
         "downloadLinks": {
@@ -15532,7 +15532,7 @@ export const ANIME_DATABASE = [
     "id": "monsters-vs-aliens",
     "title": "Monsters vs. Aliens",
     "japaneseTitle": "モンスターVSエイリアン",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
     "rating": 7.3,
     "year": 2009,
@@ -15562,7 +15562,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
             "synopsis": "Monsters vs. Aliens Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D",
             "downloadLinks": {
@@ -15582,7 +15582,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
         "synopsis": "Monsters vs. Aliens Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=IBNigqN3cc%2FrYsOXAyt547BPT%2BIjr%2BuBx7TLVIwieHs5VsxpOHd6kBHwcwb7mmtKiIvgFZYBnKizFGTzE2eF1TZaNKwT6qpvnB%2FYjOkjEac0bvM%3D",
         "downloadLinks": {
@@ -17717,7 +17717,7 @@ export const ANIME_DATABASE = [
     "id": "scoob",
     "title": "Scoob!",
     "japaneseTitle": "弱虫スクービーの大冒険 (Yowamushi Scooby no Daibouken)",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
     "rating": 7.1,
     "year": 2020,
@@ -17747,7 +17747,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
             "synopsis": "Scoob! Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=tZv2ouulLK%2Fi9x%2B%2BbjhQWV2nBHLD0oUgETDSw5kow%2Bi83rDnl0%2F4a3sqO9b5ekpXhzzbLeqnjq20FdvVwp1VR9L0gyOLIRDN2SnrZ4CsMfkYDMI%3D",
             "downloadLinks": {
@@ -17767,7 +17767,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
         "synopsis": "Scoob! Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=tZv2ouulLK%2Fi9x%2B%2BbjhQWV2nBHLD0oUgETDSw5kow%2Bi83rDnl0%2F4a3sqO9b5ekpXhzzbLeqnjq20FdvVwp1VR9L0gyOLIRDN2SnrZ4CsMfkYDMI%3D",
         "downloadLinks": {
@@ -17788,7 +17788,7 @@ export const ANIME_DATABASE = [
     "id": "turning-red",
     "title": "Turning Red",
     "japaneseTitle": "私ときどきレッサーパンダ (Watashi Tokidoki Red Panda)",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
     "rating": 7.9,
     "year": 2022,
@@ -17818,7 +17818,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
             "synopsis": "Turning Red Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D",
             "downloadLinks": {
@@ -17838,7 +17838,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",
         "synopsis": "Turning Red Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=6ZzMpDk%2BqVvn7bwzH54kfAQqw6Uhox81LEux63KissmMrjk3mZ4J59BR8tLYlW3IiO%2FuOxOMK%2FONYj6MPhCGptH1YyD5vX5Nd%2F5sRhQayMMCliE%3D",
         "downloadLinks": {
@@ -17859,7 +17859,7 @@ export const ANIME_DATABASE = [
     "id": "finding-nemo",
     "title": "Finding Nemo",
     "japaneseTitle": "ファインディング・ニモ",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
     "rating": 8.6,
     "year": 2003,
@@ -17889,7 +17889,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
             "synopsis": "Finding Nemo Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D",
             "downloadLinks": {
@@ -17909,7 +17909,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
         "synopsis": "Finding Nemo Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=mortAdHgHPLR6q2WSPAZWLYpPlTQ3BUQdkHmoIdFEErWcUgod3dMyE1kqQoTLlJO4n6YOEgYrCHxF8kPyGmRne7MTP%2BYs6ZI%2F9aS2I2igP%2BcB58%3D",
         "downloadLinks": {
@@ -18002,7 +18002,7 @@ export const ANIME_DATABASE = [
     "id": "swat-kats-the-radical-squadron",
     "title": "SWAT Kats: The Radical Squadron",
     "japaneseTitle": "",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
     "poster": "https://static.tvmaze.com/uploads/images/original_untouched/53/133092.jpg",
     "rating": 8,
     "year": 2024,
@@ -18030,7 +18030,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Pastmaster Always Rings Twice NEw!",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 1",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZiNjI0ZGFhNjdiYjllMmNmMjgxMmE4NTA0YTRiNjA4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDExMjg1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NjQxM2VmM2IxYTJiZDU0MTZiNGNlNWNhZGRjMjIyMzQzMTgyNGQ3MDQxMmEwMjBiNmViODlmYzM5YWNkZjkwMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzYyOTAwMCwiaGFzaCI6IjVjODkwYjlkMTFmNTFjMmMyZjUxMDIzZmJlNzhlZDQzOTVlYTY4NWRmOTc2MjZhYTIzN2Q4ZDRjMGRkNDcwNDgiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -18046,7 +18046,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Giant Bacteria NEw!",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 2",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2FmMzYxN2JhYTk3YjVkODM4ZmVkODFlMDI1NmIwMzRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2NTQyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTdjMWM3ZGFiMWQyZTUzNTdmMjBmMGVlOWVjMTgxZWY1OTRjMDc2NjFiNTFkZjk1MDdiODU2ZWE1M2EzYTJkMyIsInRpbWVzdGFtcCI6MTc4ODQ0NzY0NDAwMCwiaGFzaCI6IjA1MmI2NDZiMmI1MTJmOTVmMTU2ZTI0NjNjZTRjMWMyN2IyNzQ0MTJmOTczM2U3OTc0NzUwM2VmNjI0OWZhZjMiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -18062,7 +18062,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Wrath of Dark Kat NEw!",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 3",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjkzNTFmMGY4ZTE2YmUwMWQxYzhmNzUzNWQyODk4ZjgucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY4NjUyMDRkNWQzMzYzOWEzNzYzZjZjMTM5ZjdmNDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NjgwOTM4ZjgyMTUzOTM1MWMyYmRiZTVmMjM4NjI5ZTElMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0MjM1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmE4ZGUwYTBiZWIxNWFlNGE3NGQzOTIyNTJiOTY4YzAzMTczNGMyNDlhNjZlZjZlMmMxYjRhZDBmOTIxNGYwZSIsInRpbWVzdGFtcCI6MTc4ODQ0NzY2NjAwMCwiaGFzaCI6IjI2NDFlN2ZjZTQ0MTQxMmU2ZTVjYThhMDgwMzk3YmUxMmE1Njg4NmJiMTZlMjRiZTgwNGI3MDc1NmEyOTQ3YmIiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -18078,7 +18078,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Destructive Nature",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 4",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=aa81180d4bacad41f4aac93c3cbe884272fe326f462baa3dd7b2319c02958f2eeaedba83c3dbb5fbbc70f6ca619c987353420911292d517d8f6b59d8f45f7a11536280df33094697bcfdf062741d96383ecb3b2016e804719c4747db35eff16318ef33c47e4bdbc56bdc51dcf7f0c0c9::c051e9a2590f7adb81892d916d7a843e",
             "downloadLinks": {
@@ -18094,7 +18094,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Metallikats",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 5",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=87a9cb15435ffcd2e758f6a14ddea2e2f204d4e0e44c93186b22b8cae2ad711c97be509b5aa7ee401fa442e17d987be536a783d7b17086f230532a6d6895dfee64309646bd8a12c7ec5f3b6f01c4b4a186d0f9027271d06f4b2b7a6e8d2164bda42b7803f1fb6e324068cbfbcf59154d::c16539a79a46678fb43a824d4b19fd17",
             "downloadLinks": {
@@ -18110,7 +18110,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Bride of the Pastmaster",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 6",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=dc3434fa8ec816441823fbf5223089a8984826568b0ea96d42307e9d83650d83db723628f2024001f36e36755bd72efdd87e6a561bd06c58ad7c85360e31143c69d792c8bbbabc6b07b206eabb2b75e12920779812db23a8704909fe0bd7bc1f8aae1dca2aa9733803f61fae794dfae5::da0ddb01aaee053b52ba5dade5dbbdc4",
             "downloadLinks": {
@@ -18126,7 +18126,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Night of the Dark Kat",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 7",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=61f341771e54db8a22748e84b142b87a9339ca3e8e917ca0b5a8429d343a4e4b0c8664eabbc99a4a67c3596a07ec4ec5b9aefb6fd8f8a3248319c0eff0ce2da7ec30818188ab8962c5139ba71aa8cb9e58203aad88430908f21bfaeef91491586abd6aed4100d8dbe20935c9ee49f566::374f401cb716bc8dd845ff25261aa91c",
             "downloadLinks": {
@@ -18142,7 +18142,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Chaos in Crystal",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 8",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=bb98ab3fb25383a837f78663d8ccd119225ad9c8739cb56da6bf2b4871297883481b00c3ab76e83a673a90848b47e731250f5ba43fefcdc04413746cf30753ed29d151aa21ea2d2f28f9e2a507125749bf1b8e61f827bfef738b7c55c629571117e5d207bf8c308e395c108fbab56c83::ab2610160eae4856327d13d82db37585",
             "downloadLinks": {
@@ -18158,7 +18158,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Ghost Pilot",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 9",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1p5TFFlZ0RGM0VzOGktRlY0bVdCUklaM3RNSHNSblpvTUlBdVNHa2JWemREQWw4ek13WmFYdUxnWmJiZlBoSUZzVHAwRVJZRkd6VGFjUUljckJ1emFBV2JtVElkX1R2ZFRLU0tmVUVjeUk4bFk5dmpnTVJzNUNlN1BCMzdyYnBVQWZyZFI2dVo4Z1l4SnpaTEdBVjZKYXpYVEJMRTB6TWVJbENoQjZKQk45aEJ2SEtVdlBrUDlwTkZ4VU5BSzBjY2hyRUJUQWlEanBvWDV4VU9tRG5ZdjZ0SEVTMXA1MThsZUFpRm94VFRYa3F4NVlnWSIsInRpbWVzdGFtcCI6MTc4ODQ0NzczMTAwMCwiaGFzaCI6IjNkZWMyZjI0MTJiOTY1YTcyODBkMWIwZjI1MmJkMzg1ZTg4M2Q4MmE1ZTdhOWY2MmVkZmQ5MmUyY2JjZjRjYmQiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDkgW1JhcmVUb29uc0luZGlhXSAgLm1rdiJ9",
             "downloadLinks": {
@@ -18174,7 +18174,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Metal Urgency",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 10",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=e5cb8dd71817c3dd8d97dad9068f63a02612cfe87e783fb4d5cd1139e2e21e328a421a6c7e8bcc53f3643c2a0d8e0580006129398b2213bc3453bb157ea0efa598ce656db041fc60a4611df3944dbf103b2cc5244606840b0aa9893d47a457ee::0d96a3135b4203023a10534ca5617464",
             "downloadLinks": {
@@ -18190,7 +18190,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Ci",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 11",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f403ea5602b436ffe733d5d823e72de8e5f50fbe12d7ffaa92b954fdd795a84fd368c7f22286c9be380bab008ed3849a2c017a735dc7e2416e7a9871d6155b3c4a38dfdd758ee8f41f3c1aa0150b239b4f2a2495ff70faf5b6cc279a1f458342::683b81e47a769e12b7d2ade6a4d29223",
             "downloadLinks": {
@@ -18206,7 +18206,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Enter the Madkat",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 12",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=792c7b5203a21b2cc7f99f92acba36e488a23ca3cd7d24a6e89f81d9a14d08e11da56857406d85aa2fedf99a2b118701cf2e72e74c37ad851b884749169c90692d4070afdde886a178805d528d82a0ec7a42661cecc9f1282aeaaa06b8e4a6a1::abb5071ea9987bbbccf00a01f9787eee",
             "downloadLinks": {
@@ -18222,7 +18222,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Katastrophe",
             "runtime": "24m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 13",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=12b4b40c215adf9ec48415719c7d8fce6bf50f8f32fe63d3f83fff7ff145bedd751370f9bff5a12b7dd122cd3ff9d247bc2554bac49e742cfd306efb802d24c16f9c04a22b496d6176a8918e45e44b93a8c48e54c121f66bc1de2fa911c72d4a5aaa0b67c7a61895130a5c06003af885::49f766865a63415262f76228c45a70c7",
             "downloadLinks": {
@@ -18242,7 +18242,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Pastmaster Always Rings Twice NEw!",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 1",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZiNjI0ZGFhNjdiYjllMmNmMjgxMmE4NTA0YTRiNjA4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDExMjg1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NjQxM2VmM2IxYTJiZDU0MTZiNGNlNWNhZGRjMjIyMzQzMTgyNGQ3MDQxMmEwMjBiNmViODlmYzM5YWNkZjkwMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzYyOTAwMCwiaGFzaCI6IjVjODkwYjlkMTFmNTFjMmMyZjUxMDIzZmJlNzhlZDQzOTVlYTY4NWRmOTc2MjZhYTIzN2Q4ZDRjMGRkNDcwNDgiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -18258,7 +18258,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Giant Bacteria NEw!",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 2",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2FmMzYxN2JhYTk3YjVkODM4ZmVkODFlMDI1NmIwMzRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2NTQyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTdjMWM3ZGFiMWQyZTUzNTdmMjBmMGVlOWVjMTgxZWY1OTRjMDc2NjFiNTFkZjk1MDdiODU2ZWE1M2EzYTJkMyIsInRpbWVzdGFtcCI6MTc4ODQ0NzY0NDAwMCwiaGFzaCI6IjA1MmI2NDZiMmI1MTJmOTVmMTU2ZTI0NjNjZTRjMWMyN2IyNzQ0MTJmOTczM2U3OTc0NzUwM2VmNjI0OWZhZjMiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -18274,7 +18274,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Wrath of Dark Kat NEw!",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 3",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjkzNTFmMGY4ZTE2YmUwMWQxYzhmNzUzNWQyODk4ZjgucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY4NjUyMDRkNWQzMzYzOWEzNzYzZjZjMTM5ZjdmNDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NjgwOTM4ZjgyMTUzOTM1MWMyYmRiZTVmMjM4NjI5ZTElMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0MjM1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmE4ZGUwYTBiZWIxNWFlNGE3NGQzOTIyNTJiOTY4YzAzMTczNGMyNDlhNjZlZjZlMmMxYjRhZDBmOTIxNGYwZSIsInRpbWVzdGFtcCI6MTc4ODQ0NzY2NjAwMCwiaGFzaCI6IjI2NDFlN2ZjZTQ0MTQxMmU2ZTVjYThhMDgwMzk3YmUxMmE1Njg4NmJiMTZlMjRiZTgwNGI3MDc1NmEyOTQ3YmIiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -18290,7 +18290,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Destructive Nature",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 4",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=aa81180d4bacad41f4aac93c3cbe884272fe326f462baa3dd7b2319c02958f2eeaedba83c3dbb5fbbc70f6ca619c987353420911292d517d8f6b59d8f45f7a11536280df33094697bcfdf062741d96383ecb3b2016e804719c4747db35eff16318ef33c47e4bdbc56bdc51dcf7f0c0c9::c051e9a2590f7adb81892d916d7a843e",
         "downloadLinks": {
@@ -18306,7 +18306,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Metallikats",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 5",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=87a9cb15435ffcd2e758f6a14ddea2e2f204d4e0e44c93186b22b8cae2ad711c97be509b5aa7ee401fa442e17d987be536a783d7b17086f230532a6d6895dfee64309646bd8a12c7ec5f3b6f01c4b4a186d0f9027271d06f4b2b7a6e8d2164bda42b7803f1fb6e324068cbfbcf59154d::c16539a79a46678fb43a824d4b19fd17",
         "downloadLinks": {
@@ -18322,7 +18322,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Bride of the Pastmaster",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 6",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=dc3434fa8ec816441823fbf5223089a8984826568b0ea96d42307e9d83650d83db723628f2024001f36e36755bd72efdd87e6a561bd06c58ad7c85360e31143c69d792c8bbbabc6b07b206eabb2b75e12920779812db23a8704909fe0bd7bc1f8aae1dca2aa9733803f61fae794dfae5::da0ddb01aaee053b52ba5dade5dbbdc4",
         "downloadLinks": {
@@ -18338,7 +18338,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Night of the Dark Kat",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 7",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=61f341771e54db8a22748e84b142b87a9339ca3e8e917ca0b5a8429d343a4e4b0c8664eabbc99a4a67c3596a07ec4ec5b9aefb6fd8f8a3248319c0eff0ce2da7ec30818188ab8962c5139ba71aa8cb9e58203aad88430908f21bfaeef91491586abd6aed4100d8dbe20935c9ee49f566::374f401cb716bc8dd845ff25261aa91c",
         "downloadLinks": {
@@ -18354,7 +18354,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Chaos in Crystal",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 8",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=bb98ab3fb25383a837f78663d8ccd119225ad9c8739cb56da6bf2b4871297883481b00c3ab76e83a673a90848b47e731250f5ba43fefcdc04413746cf30753ed29d151aa21ea2d2f28f9e2a507125749bf1b8e61f827bfef738b7c55c629571117e5d207bf8c308e395c108fbab56c83::ab2610160eae4856327d13d82db37585",
         "downloadLinks": {
@@ -18370,7 +18370,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Ghost Pilot",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 9",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1p5TFFlZ0RGM0VzOGktRlY0bVdCUklaM3RNSHNSblpvTUlBdVNHa2JWemREQWw4ek13WmFYdUxnWmJiZlBoSUZzVHAwRVJZRkd6VGFjUUljckJ1emFBV2JtVElkX1R2ZFRLU0tmVUVjeUk4bFk5dmpnTVJzNUNlN1BCMzdyYnBVQWZyZFI2dVo4Z1l4SnpaTEdBVjZKYXpYVEJMRTB6TWVJbENoQjZKQk45aEJ2SEtVdlBrUDlwTkZ4VU5BSzBjY2hyRUJUQWlEanBvWDV4VU9tRG5ZdjZ0SEVTMXA1MThsZUFpRm94VFRYa3F4NVlnWSIsInRpbWVzdGFtcCI6MTc4ODQ0NzczMTAwMCwiaGFzaCI6IjNkZWMyZjI0MTJiOTY1YTcyODBkMWIwZjI1MmJkMzg1ZTg4M2Q4MmE1ZTdhOWY2MmVkZmQ5MmUyY2JjZjRjYmQiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDkgW1JhcmVUb29uc0luZGlhXSAgLm1rdiJ9",
         "downloadLinks": {
@@ -18386,7 +18386,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Metal Urgency",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 10",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=e5cb8dd71817c3dd8d97dad9068f63a02612cfe87e783fb4d5cd1139e2e21e328a421a6c7e8bcc53f3643c2a0d8e0580006129398b2213bc3453bb157ea0efa598ce656db041fc60a4611df3944dbf103b2cc5244606840b0aa9893d47a457ee::0d96a3135b4203023a10534ca5617464",
         "downloadLinks": {
@@ -18402,7 +18402,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Ci",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 11",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f403ea5602b436ffe733d5d823e72de8e5f50fbe12d7ffaa92b954fdd795a84fd368c7f22286c9be380bab008ed3849a2c017a735dc7e2416e7a9871d6155b3c4a38dfdd758ee8f41f3c1aa0150b239b4f2a2495ff70faf5b6cc279a1f458342::683b81e47a769e12b7d2ade6a4d29223",
         "downloadLinks": {
@@ -18418,7 +18418,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Enter the Madkat",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 12",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=792c7b5203a21b2cc7f99f92acba36e488a23ca3cd7d24a6e89f81d9a14d08e11da56857406d85aa2fedf99a2b118701cf2e72e74c37ad851b884749169c90692d4070afdde886a178805d528d82a0ec7a42661cecc9f1282aeaaa06b8e4a6a1::abb5071ea9987bbbccf00a01f9787eee",
         "downloadLinks": {
@@ -18434,7 +18434,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Katastrophe",
         "runtime": "24m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
         "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 13",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=12b4b40c215adf9ec48415719c7d8fce6bf50f8f32fe63d3f83fff7ff145bedd751370f9bff5a12b7dd122cd3ff9d247bc2554bac49e742cfd306efb802d24c16f9c04a22b496d6176a8918e45e44b93a8c48e54c121f66bc1de2fa911c72d4a5aaa0b67c7a61895130a5c06003af885::49f766865a63415262f76228c45a70c7",
         "downloadLinks": {
@@ -20643,7 +20643,7 @@ export const ANIME_DATABASE = [
     "id": "dorothy-and-the-wizard-of-oz",
     "title": "Dorothy and the Wizard of Oz",
     "japaneseTitle": "オズの魔法使い (Oz no Mahoutsukai)",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/212/532263.jpg",
     "poster": "https://static.tvmaze.com/uploads/images/original_untouched/212/532263.jpg",
     "rating": 7.2,
     "year": 2017,
@@ -20672,7 +20672,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/212/532263.jpg",
             "synopsis": "Dorothy and the Wizard of Oz Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipcloud/?kdsjz8nb7nnrmqn",
             "downloadLinks": {
@@ -20692,7 +20692,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
+        "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/212/532263.jpg",
         "synopsis": "Dorothy and the Wizard of Oz Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipcloud/?kdsjz8nb7nnrmqn",
         "downloadLinks": {
@@ -20713,7 +20713,7 @@ export const ANIME_DATABASE = [
     "id": "sheep-wolves-2016",
     "title": "Sheep & Wolves (2016)",
     "japaneseTitle": "",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
     "rating": 8,
     "year": 2024,
@@ -20741,7 +20741,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
             "synopsis": "Sheep & Wolves (2016) Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=EGCda7flTSNxB6f8czgjF9TWLDnwHCPZVFnTTJ%2B6Pqx7SbS8QuuITe3v6PQiPbCfB%2F9EORiF1TIbXKIVLntAQr9EDDm1ZWw4voyB3wpsUIJivcc%3D",
             "downloadLinks": {
@@ -20761,7 +20761,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/4a/SheepandWolvesposter.jpg",
         "synopsis": "Sheep & Wolves (2016) Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=EGCda7flTSNxB6f8czgjF9TWLDnwHCPZVFnTTJ%2B6Pqx7SbS8QuuITe3v6PQiPbCfB%2F9EORiF1TIbXKIVLntAQr9EDDm1ZWw4voyB3wpsUIJivcc%3D",
         "downloadLinks": {
@@ -20782,7 +20782,7 @@ export const ANIME_DATABASE = [
     "id": "the-boss-baby-family-business",
     "title": "The Boss Baby: Family Business",
     "japaneseTitle": "ボス・ベイビー ファミリー・ミッション",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
     "rating": 7.3,
     "year": 2021,
@@ -20812,7 +20812,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
             "synopsis": "The Boss Baby: Family Business Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D",
             "downloadLinks": {
@@ -20832,7 +20832,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/3b/The_poster_for_The_Boss_Baby%2C_Family_Business%2C_with_new_date.jpg",
         "synopsis": "The Boss Baby: Family Business Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=jUQaBX3iCerGhfuJUxNHp80yH0WVZwbFVjkJ8YNMX3jc5TCv2OZmnME4fkfMOmzsXN6EbAbm4P%2Fd%2BvEguMbkjWm%2BT7LUq9wVNSYd1b%2BAe5DJSRI%3D",
         "downloadLinks": {
@@ -20853,7 +20853,7 @@ export const ANIME_DATABASE = [
     "id": "raya-and-the-last-dragon",
     "title": "Raya and the Last Dragon",
     "japaneseTitle": "ラーヤと龍の王国",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
     "rating": 8.3,
     "year": 2021,
@@ -20882,7 +20882,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
             "synopsis": "Raya and the Last Dragon Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D",
             "downloadLinks": {
@@ -20902,7 +20902,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png",
         "synopsis": "Raya and the Last Dragon Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=v4bC20qceRmQYN5Ms%2FwIuxoTiYseBRQDcYoZqT27JUBtbxkrbL5L2jItq7wOgi9JgjtEFIYZQ4Wly9p0s%2BOfK2ybZBvR7SYh9uVxSmp3lDtcwBM%3D",
         "downloadLinks": {
@@ -20923,7 +20923,7 @@ export const ANIME_DATABASE = [
     "id": "astro-boy-2009",
     "title": "Astro Boy (2009)",
     "japaneseTitle": "",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
     "rating": 8,
     "year": 2024,
@@ -20951,7 +20951,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
             "synopsis": "Astro Boy (2009) Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D",
             "downloadLinks": {
@@ -20971,7 +20971,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_boy_ver7.jpg",
         "synopsis": "Astro Boy (2009) Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=UgXzB7ExPiGFTwtvyuy%2BZ%2Fv8jGBTg6NQzAj%2BSUg3cye%2FO8cqcS13DWLle69qG18YYjo973%2B5%2Bxiz79GXXiSIxWklMoIiyVJ2Q5ctUOcK3Mza%2BgQ%3D",
         "downloadLinks": {
@@ -21020,7 +21020,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Day",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 1",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzZjMzM3NzZiODJmYmJmN2RlMTczODkzOTJhZjM5Mzc0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDA4MTkxMlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDElMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT03N2Y2NTU5ZDJhNzNkNDYxZDBjNzdkYTA3YTU4NDcxY2MyZGQxMWI4OTA1N2I5Y2JmZTc0YmQyMjAyNzNiOTliIiwidGltZXN0YW1wIjoxNzg4NDQ4MDAzMDAwLCJoYXNoIjoiZjY1MzcwMDVjMDlkMjI4NmMwMWM3MzU3Zjg1YmZjNWY4ZDQ4YjEyM2U0N2ZiZWVjMmZkNWRiNTJmOTY4NWU1MiIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwMSAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21036,7 +21036,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Crabtastic Rampage!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 2",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzJiZDQzYTc0N2NkYTFiNGMxN2VlNTEyNGRkNDZhNWY0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDA4MjQ1N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDIlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYTU1YTk3YzI5NTkxNTk0ZTIxNDYyODg5YTRlMDc1NzkxZjQxNTYyNDM0Y2Y5OTgyYTdlM2I3YTg0YmNjZWRmIiwidGltZXN0YW1wIjoxNzg4NDQ4MDA5MDAwLCJoYXNoIjoiZjdlNzQ0NTE4NmQ4N2YyMzAzNmNlNzQ2ZjE0Y2U2ZDcwMmZiMTU3NjU3ZjNiZDY5ZjQxYWNkNjBiMzg5NWJjNiIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwMiAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21052,7 +21052,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Public and Private",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 3",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzg2YTMyMzUwN2Y4MjkzMzUzNGQxNzEzZjhiNTI0ZDRiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDA4MzIxM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjAlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDMlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1mZGVlZjEyYTM2Y2E2MTUxMzM4OTI5YmM3YmEyZGI2ODM3OTQzOTE1NDdmZjg0NjQxMmNlZTMzMThkN2ZiOWU2IiwidGltZXN0YW1wIjoxNzg4NDQ4MDcwMDAwLCJoYXNoIjoiMTBlMzZmZTY4Y2Q1NDUyZjc1OGM5YWUwNDk3YjhhMzlkZjRiMmM2YTFjYTBlMGIyZjMzZjNmMWJkNGY4ZWRkOCIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwMyAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21068,7 +21068,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "A Rational Man",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 4",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1MjFjYjk2NWYyZDNiNDQ0OTZjYzA0ODdhZjMzNThkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTEwNlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDQlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT05YjNhN2FlZTE2M2ExY2MyYTg3YmYxNzk0MzBhOWQxYjUyMTU4MjQwNGNiY2I3YTA0NTJkZWEwY2FlYjFhODVhIiwidGltZXN0YW1wIjoxNzg4NDQ4MDc5MDAwLCJoYXNoIjoiNDMxODgyYTQ0NWU5OTU1MGM0ZWQ2NzMzNWZiMWFkZTdiMzVlM2M2OWRhMTNhMDkzNzBlZWNhM2IwNzc0MGExMCIsI mZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNCAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21084,7 +21084,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "The Man Returns",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 5",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzg3ZWQzZDFjYzUzNzhkZjU4ZTI0MzFkZGMxYTg4ODMyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTM0N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDUlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01MWFhM2UwYTE2ODMwYTY4MDRlOGFhMGM1NjEyN2EwOWE4MDdmMzgyYTQ4MzRkNWU0YzQ5NWE4ZTQ1NTFmNzdkIiwidGltZXN0YW1wIjoxNzg4NDQ4MDg0MDAwLCJoYXNoIjoiNGE2OWQ4MzlmZDFhODk4NGMzODdjYWY4Yjg4ZjhlNjVhMjVlNzQzMGUyZjgzZDZiZWIzYjQxNGUwZjczYzZkOSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNSAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21100,7 +21100,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Rain and Clouds",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 6",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UzMTg4ZDM3YTQ3NDU0YTMyZmM2MWRkMzQ4ZGQ2NjIwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTUyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDYlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0wMWVmMGMzZjEwZGJmMTg5MmE0MzcyYzRkNWRiM2I1NThlZjFkNTcxMmQxZTZiM2M4MzFhMWI1NDQzYjYzMjU2IiwidGltZXN0YW1wIjoxNzg4NDQ4MDkyMDAwLCJoYXNoIjoiYmVkZDE3ZTFjMmJhNGI0YmE1MzgzMTMxMTllNzA4YTc2OTFkOGE3Y2QwODk2Yzk1ODAwZDEzNTA4MmM1OWQ3YiIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNiAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21116,7 +21116,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Glass Sky",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 7",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY3ZDk4ZThjYjhlYjk0ZTUzMzBhOTUxMTc1NTk1MGMwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE1Mjk0MVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDclMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT03ZGNlMmJhYjAxYWZiMDA5NDllM2IxMTZkMDMxY2U4ZDBjOTJiOWExNjYwMmRjODQ1MjYwYjQ5MjdiMWZkZjViIiwidGltZXN0YW1wIjoxNzg4NDQ4MTA1MDAwLCJoYXNoIjoiYjQxODIzOGIwZDdiZmJhOTJhYTI2NDA0ZGE3ODNmOTAwN2E3YjMwZWMyYmU0ODA1MWE2NGI0ZjUwZDQyNWRhZCIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNyAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21132,7 +21132,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "A Sky with No Rain Left",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 8",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMxNjBkYTE4ZTRiNTE1NzY4NjExZDRjMTA1ZDQ3MzZjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDA1OVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDglMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYjI3MmE0ZmIwYWE3MDQ4N2Q0MmNhYjE3OWRiZGE5MGU1NzIxNWI0MjdlMTFjMmI3ZGZiMzhiM2JhZjhlZWU0IiwidGltZXN0YW1wIjoxNzg4NDQ4MTEwMDAwLCJoYXNoIjoiYjA2NGE4OTI4NWMyYzcyNGEzYjAwZDE2NTc3YTc0MWUxODM4ZDEzMjc5NTBiMDc4OGQ2NjcwNDc0ZmY0ZDgxNyIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwOCAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21148,7 +21148,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Farewell Party!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 9",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RmMTliYmUwNmY4OGYxNmRmODUyMmY0NDA5ODcwNjkwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDIzOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDklMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYTBjYzRmOTYzMDRiNzM4MTAxMDU2ZjI3NmQ4NTVmM2E5ZjI3MjBmODcyNTE5MGRiM2U1YzM4Yjk0YjIwMzk3IiwidGltZXN0YW1wIjoxNzg4NDQ4MTE5MDAwLCJoYX NoIjoiOTgwZDEwNjg2MDA5NTc1YTZjMmJiNGUwZWM2ZDY1MmQyODlkMDg1MDg1NjU5NTlhMGFjMDU3MTIxOGUwMjkzZiIsIm ZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwOSAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21164,7 +21164,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Zero Hour",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 10",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMzMzU3MGU2MDFlYTk3MWQ0NThmMjcxZmI4ZTBjMTRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDQwM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTAlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yZTMwMDNhMmEyMWY5NjBkOGM5NzY1ZDExN2U2ODI2MDQzYWExNGRlMzFlYTRjZTlkY2VjMTRlOWNiNTU3ODAxIiwidGltZXN0YW1wIjoxNzg4NDQ4MTI4MDAwLCJoYXNoIjoiYmY0ZWI5Y2Y1ODIyZTQxNzkwZDZlYjcwZWQ0ZWQ1YWNhZTIxZTc5Mjg3MWM0MmE0ZThhZmM5ZTRkYTYzODYxMyIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMCAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21180,7 +21180,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Balloon Soul",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 11",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzYxMjZiMDg1M2M2YWUwNWMxYWM5M2Y3NTI3YzM0MDdkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDQ1OVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTElMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT04MzJlZDE4ZjI0MTg3OGE0MzE1M2Q2ZDU1ZWNiMmU3ZWI1ODRjYjU5MGIzOTg3MTEyNmMzNGEzMzc3ZTVhYjA0IiwidGltZXN0YW1wIjoxNzg4NDQ4MTM2MDAwLCJoYXNoIjoiZjE4NzdiNDc4MWNiZTcxY2M1MDUzYTVmZGYzZDg1YzhkZmUyYWNiZjI3NWZkNzYwNjQzN2Q0YWI1YWI4ZjY4YSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMSAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21196,7 +21196,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "This Is a Hero!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 12",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Q3YjBmMzgyMjI5MTVjZDc4NzA4ZjQwY2ZiY2E1NjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDYwNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTIlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT03MzcxOWRjZDExY2NhYzg4Y2ZjMzNiMGNlZDlhMWU1NjMwNjBlOWZmNzg2NjEzMTU4NDZhYzJhOGNlNDg0MmUwIiwidGltZXN0YW1wIjoxNzg4NDQ4MTM5MDAwLCJoYXNoIjoiMzJhODYwYmQzMDRlZDQ0YWU1ZDZjODBmZWE4YWJhMTIyMDk5ODBkOGU5YTYxYmY2MmNjNWI2NmY3Yjg2YzRlMSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMiAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21212,7 +21212,7 @@ export const ANIME_DATABASE = [
             "season": 2,
             "title": "Graduation and Career Path",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
             "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 13",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RjNWU3YjQ1Nzk1NWZkNzk3ZDk4MWQ2NjE0M2EyNTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDczM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTMlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT00MmQ4MjY2YTRmMjQ2ZGVlYmY5MmM1MDVhY2NmODZjYTQ0ZGUyOTk0ZmQ0YzZlYTYzNzY3YTQwZmMyY2RhYTVlIiwidGltZXN0YW1wIjoxNzg4NDQ4MTQ0MDAwLCJoYXNoIjoiZjNjOTcyZTc1MmEwYjllNjAwOGM0N2NkNGY2N2Q0MzBiOTE2YmI4MWEwNWNkMWE5MzQ1NzU3M2Q1NmY1OGY0OSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMyAtIEhpbmRpLm1rdiJ9",
             "downloadLinks": {
@@ -21232,7 +21232,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Day",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 1",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzZjMzM3NzZiODJmYmJmN2RlMTczODkzOTJhZjM5Mzc0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDA4MTkxMlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDElMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT03N2Y2NTU5ZDJhNzNkNDYxZDBjNzdkYTA3YTU4NDcxY2MyZGQxMWI4OTA1N2I5Y2JmZTc0YmQyMjAyNzNiOTliIiwidGltZXN0YW1wIjoxNzg4NDQ4MDAzMDAwLCJoYXNoIjoiZjY1MzcwMDVjMDlkMjI4NmMwMWM3MzU3Zjg1YmZjNWY4ZDQ4YjEyM2U0N2ZiZWVjMmZkNWRiNTJmOTY4NWU1MiIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwMSAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21248,7 +21248,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Crabtastic Rampage!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 2",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzJiZDQzYTc0N2NkYTFiNGMxN2VlNTEyNGRkNDZhNWY0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDA4MjQ1N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDIlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYTU1YTk3YzI5NTkxNTk0ZTIxNDYyODg5YTRlMDc1NzkxZjQxNTYyNDM0Y2Y5OTgyYTdlM2I3YTg0YmNjZWRmIiwidGltZXN0YW1wIjoxNzg4NDQ4MDA5MDAwLCJoYXNoIjoiZjdlNzQ0NTE4NmQ4N2YyMzAzNmNlNzQ2ZjE0Y2U2ZDcwMmZiMTU3NjU3ZjNiZDY5ZjQxYWNkNjBiMzg5NWJjNiIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwMiAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21264,7 +21264,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Public and Private",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 3",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzg2YTMyMzUwN2Y4MjkzMzUzNGQxNzEzZjhiNTI0ZDRiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDA4MzIxM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjAlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDMlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1mZGVlZjEyYTM2Y2E2MTUxMzM4OTI5YmM3YmEyZGI2ODM3OTQzOTE1NDdmZjg0NjQxMmNlZTMzMThkN2ZiOWU2IiwidGltZXN0YW1wIjoxNzg4NDQ4MDcwMDAwLCJoYXNoIjoiMTBlMzZmZTY4Y2Q1NDUyZjc1OGM5YWUwNDk3YjhhMzlkZjRiMmM2YTFjYTBlMGIyZjMzZjNmMWJkNGY4ZWRkOCIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwMyAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21280,7 +21280,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "A Rational Man",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 4",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1MjFjYjk2NWYyZDNiNDQ0OTZjYzA0ODdhZjMzNThkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTEwNlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDQlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT05YjNhN2FlZTE2M2ExY2MyYTg3YmYxNzk0MzBhOWQxYjUyMTU4MjQwNGNiY2I3YTA0NTJkZWEwY2FlYjFhODVhIiwidGltZXN0YW1wIjoxNzg4NDQ4MDc5MDAwLCJoYXNoIjoiNDMxODgyYTQ0NWU5OTU1MGM0ZWQ2NzMzNWZiMWFkZTdiMzVlM2M2OWRhMTNhMDkzNzBlZWNhM2IwNzc0MGExMCIsI mZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNCAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21296,7 +21296,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "The Man Returns",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 5",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzg3ZWQzZDFjYzUzNzhkZjU4ZTI0MzFkZGMxYTg4ODMyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTM0N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDUlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01MWFhM2UwYTE2ODMwYTY4MDRlOGFhMGM1NjEyN2EwOWE4MDdmMzgyYTQ4MzRkNWU0YzQ5NWE4ZTQ1NTFmNzdkIiwidGltZXN0YW1wIjoxNzg4NDQ4MDg0MDAwLCJoYXNoIjoiNGE2OWQ4MzlmZDFhODk4NGMzODdjYWY4Yjg4ZjhlNjVhMjVlNzQzMGUyZjgzZDZiZWIzYjQxNGUwZjczYzZkOSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNSAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21312,7 +21312,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Rain and Clouds",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 6",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UzMTg4ZDM3YTQ3NDU0YTMyZmM2MWRkMzQ4ZGQ2NjIwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTUyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDYlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0wMWVmMGMzZjEwZGJmMTg5MmE0MzcyYzRkNWRiM2I1NThlZjFkNTcxMmQxZTZiM2M4MzFhMWI1NDQzYjYzMjU2IiwidGltZXN0YW1wIjoxNzg4NDQ4MDkyMDAwLCJoYXNoIjoiYmVkZDE3ZTFjMmJhNGI0YmE1MzgzMTMxMTllNzA4YTc2OTFkOGE3Y2QwODk2Yzk1ODAwZDEzNTA4MmM1OWQ3YiIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNiAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21328,7 +21328,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Glass Sky",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 7",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY3ZDk4ZThjYjhlYjk0ZTUzMzBhOTUxMTc1NTk1MGMwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE1Mjk0MVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDclMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT03ZGNlMmJhYjAxYWZiMDA5NDllM2IxMTZkMDMxY2U4ZDBjOTJiOWExNjYwMmRjODQ1MjYwYjQ5MjdiMWZkZjViIiwidGltZXN0YW1wIjoxNzg4NDQ4MTA1MDAwLCJoYXNoIjoiYjQxODIzOGIwZDdiZmJhOTJhYTI2NDA0ZGE3ODNmOTAwN2E3YjMwZWMyYmU0ODA1MWE2NGI0ZjUwZDQyNWRhZCIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNyAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21344,7 +21344,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "A Sky with No Rain Left",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 8",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMxNjBkYTE4ZTRiNTE1NzY4NjExZDRjMTA1ZDQ3MzZjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDA1OVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDglMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYjI3MmE0ZmIwYWE3MDQ4N2Q0MmNhYjE3OWRiZGE5MGU1NzIxNWI0MjdlMTFjMmI3ZGZiMzhiM2JhZjhlZWU0IiwidGltZXN0YW1wIjoxNzg4NDQ4MTEwMDAwLCJoYXNoIjoiYjA2NGE4OTI4NWMyYzcyNGEzYjAwZDE2NTc3YTc0MWUxODM4ZDEzMjc5NTBiMDc4OGQ2NjcwNDc0ZmY0ZDgxNyIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwOCAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21360,7 +21360,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Farewell Party!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 9",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RmMTliYmUwNmY4OGYxNmRmODUyMmY0NDA5ODcwNjkwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDIzOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDklMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYTBjYzRmOTYzMDRiNzM4MTAxMDU2ZjI3NmQ4NTVmM2E5ZjI3MjBmODcyNTE5MGRiM2U1YzM4Yjk0YjIwMzk3IiwidGltZXN0YW1wIjoxNzg4NDQ4MTE5MDAwLCJoYX NoIjoiOTgwZDEwNjg2MDA5NTc1YTZjMmJiNGUwZWM2ZDY1MmQyODlkMDg1MDg1NjU5NTlhMGFjMDU3MTIxOGUwMjkzZiIsIm ZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwOSAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21376,7 +21376,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Zero Hour",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 10",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMzMzU3MGU2MDFlYTk3MWQ0NThmMjcxZmI4ZTBjMTRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDQwM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTAlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yZTMwMDNhMmEyMWY5NjBkOGM5NzY1ZDExN2U2ODI2MDQzYWExNGRlMzFlYTRjZTlkY2VjMTRlOWNiNTU3ODAxIiwidGltZXN0YW1wIjoxNzg4NDQ4MTI4MDAwLCJoYXNoIjoiYmY0ZWI5Y2Y1ODIyZTQxNzkwZDZlYjcwZWQ0ZWQ1YWNhZTIxZTc5Mjg3MWM0MmE0ZThhZmM5ZTRkYTYzODYxMyIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMCAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21392,7 +21392,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Balloon Soul",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 11",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzYxMjZiMDg1M2M2YWUwNWMxYWM5M2Y3NTI3YzM0MDdkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDQ1OVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTElMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT04MzJlZDE4ZjI0MTg3OGE0MzE1M2Q2ZDU1ZWNiMmU3ZWI1ODRjYjU5MGIzOTg3MTEyNmMzNGEzMzc3ZTVhYjA0IiwidGltZXN0YW1wIjoxNzg4NDQ4MTM2MDAwLCJoYXNoIjoiZjE4NzdiNDc4MWNiZTcxY2M1MDUzYTVmZGYzZDg1YzhkZmUyYWNiZjI3NWZkNzYwNjQzN2Q0YWI1YWI4ZjY4YSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMSAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21408,7 +21408,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "This Is a Hero!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 12",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Q3YjBmMzgyMjI5MTVjZDc4NzA4ZjQwY2ZiY2E1NjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDYwNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTIlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT03MzcxOWRjZDExY2NhYzg4Y2ZjMzNiMGNlZDlhMWU1NjMwNjBlOWZmNzg2NjEzMTU4NDZhYzJhOGNlNDg0MmUwIiwidGltZXN0YW1wIjoxNzg4NDQ4MTM5MDAwLCJoYXNoIjoiMzJhODYwYmQzMDRlZDQ0YWU1ZDZjODBmZWE4YWJhMTIyMDk5ODBkOGU5YTYxYmY2MmNjNWI2NmY3Yjg2YzRlMSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMiAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21424,7 +21424,7 @@ export const ANIME_DATABASE = [
         "season": 2,
         "title": "Graduation and Career Path",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-oYM1T5Sg1zR1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
         "synopsis": "My Hero Academia: Vigilantes () Season 2 Episode 13",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RjNWU3YjQ1Nzk1NWZkNzk3ZDk4MWQ2NjE0M2EyNTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDczM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTMlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT00MmQ4MjY2YTRmMjQ2ZGVlYmY5MmM1MDVhY2NmODZjYTQ0ZGUyOTk0ZmQ0YzZlYTYzNzY3YTQwZmMyY2RhYTVlIiwidGltZXN0YW1wIjoxNzg4NDQ4MTQ0MDAwLCJoYXNoIjoiZjNjOTcyZTc1MmEwYjllNjAwOGM0N2NkNGY2N2Q0MzBiOTE2YmI4MWEwNWNkMWE5MzQ1NzU3M2Q1NmY1OGY0OSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMyAtIEhpbmRpLm1rdiJ9",
         "downloadLinks": {
@@ -21866,7 +21866,7 @@ export const ANIME_DATABASE = [
     "id": "the-sea-beast",
     "title": "The Sea Beast",
     "japaneseTitle": "ジェイコブと海の怪物",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
     "rating": 8.1,
     "year": 2022,
@@ -21895,7 +21895,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
             "synopsis": "The Sea Beast Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D",
             "downloadLinks": {
@@ -21915,7 +21915,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
         "synopsis": "The Sea Beast Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=Sq3QYvDW68riGOMwi6dTj57Q6bMyaTuSzKLSXMk7Bn838Y8hZ6xYFOcPm223ebCf4PXoeXdtBpKid%2Bw2LI5M1QiDBAK67XP2AlTDXoim0CD7%2B9E%3D",
         "downloadLinks": {
@@ -21936,7 +21936,7 @@ export const ANIME_DATABASE = [
     "id": "captain-tsubasa",
     "title": "Captain Tsubasa",
     "japaneseTitle": "",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2116-banner.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2116-DccGEDGnsqcu.jpg",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
     "rating": 8,
     "year": 2024,
@@ -21964,7 +21964,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Take Flight",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 1",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=5eb8a1497e50418d3763c7467c3c508ce514f060cb3132b6177fca942388cc828222445ef9b241914611aa2709bc7cfd99e4901abf0de9201fa05aa3af457ea3788d9f6dd80f68ca13a4e0848c3780e12b86a22d6d30f695f7a400a8d3ec6b8824c52363f0a8e1c64d95b3fd2d23994f::d651bf6c3f0432b56601aa368089c5af",
             "downloadLinks": {
@@ -21980,7 +21980,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "He’s flying!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 2",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=82805a977aa5cc20502f10cf2ecccc890d79bb0101e7002a5913a754f09eecceb1e7e5ddb16ef93205227bb7b04232b6e1c90e82ed6698fb98e9627a6d6635a46f15f6862a938ae2366de18c52d7a66b8bfe0e63f89f89426a06b3002b007cc07a3d41a10e03842070d410c23750ce5f::b61f6772ad472adc60194a4c8cd22f4c",
             "downloadLinks": {
@@ -21996,7 +21996,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "A New Beginning for the Nankatsu Football Club",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 3",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=b1d1bd16ce115a6f20082fa4fc5fbb30b2da23aa634ea2e60ef14f4f71cc6d11f6b2cdccf95ff78b881c8baedd840ac9d8abda02d35362b0640560e68b88eae93f9772bd2be6ced062431d328a7916c54215c171228b1997b28d5881eee870ef26ca666733edc6ebc5c9c7b48f733103::2365a4ae074ed3e87d932467d060997f",
             "downloadLinks": {
@@ -22012,7 +22012,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Tsubasa and Roberto",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 4",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=c728c0c89c9bb4ea6cebb677fac3f0065fda0b82d1774affb643eb3e2f704df07f80d7ee808b90587532dbb6921c141f490f94a9c2250dea931239063ead1e48c64203e13d04f7d575e9f31f9468ea24d7c27a7d9904b8081c791cdf80adefeebfb95a3bdd9b13dae244565b055e2b38::5ab2fe7500df666deb6bbcf3e2bb8045",
             "downloadLinks": {
@@ -22028,7 +22028,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "On The Way To The Inter",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 5",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=784620773a1371621ff46a566104635ec2b3441ed0d77a2e8660eb5a87f19be472e0b402cec4a3c35f0b57cd0fbb1527d906c81c2bb4aa95312eaa9bab1af98cfd28e141fd1acb37ea0ceceba29cb78a352ee85106f56a076b492f3da124c41d85eac00ed7924cacac64d38f5565d095::17d2b78f28918f2d08a5f5990e17e29d",
             "downloadLinks": {
@@ -22044,7 +22044,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Kick",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 6",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=c4b64a5413bce53906650b429097270f4328a1e5d0bdb06aa44f160a9fdacdde53fbaebccfbd754759f67b2d90fec34dab314550bf85172eaff541ee6c5c3bb7ee63c2ea83be8538b878ecc496d1e499173b5cc8eecbb50e63cb8b966967c8e1::5ac193b5d47a77ffee79f7494f3048c5",
             "downloadLinks": {
@@ -22060,7 +22060,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Fantasista Tsubasa",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 7",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f344899725ca3f9424be0a1070a7a1e5b540330c06077babda9db2463ecf28047610304c4b5e508fb13f898ac8c99b5606ad2cee027490ddcce0130bc72f4d039f479e62550ca25c1cd2973d2c7c911837d04786d6a29190abd342938ba1485a::be9072e79a65d2f7a4aa12be29fd36d2",
             "downloadLinks": {
@@ -22076,7 +22076,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Birth of Nankatsu Golden Duo",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 8",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=58182f80c5aade61d58261a12445c9ddca50d1e463ba55b3f72558ea0a584da74803c2658b3be53f0c5032e4b357c346f15f04073f8b401502512f0c9d481547e22a53a31fc30403e996cb4349a3ec35d75292c7b2f1871f202b88b19319cc86::c5f4f63d869e74e93c96e06568cc81a8",
             "downloadLinks": {
@@ -22092,7 +22092,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Debonair End of Act",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 9",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=79eef822c60cec7e6f1a6bb652e7a225e6778bad01f17ddb618c4e383235f8f0921e973a1d264a9c93c689530e265343c5e3fdf3320fe03672254a5276cf44f0bbb88527c79069bf50ad7a3e398a3445f419b370fcb19736d63dda11931de9b2::fda28883ad9bed066acbe3b46d139119",
             "downloadLinks": {
@@ -22108,7 +22108,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Kojiro Arrives",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 10",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=b2d7caf6a3baa61a1f459a8eec9a449e9945c33bb8dd5346fc7cd4698e68fe7832c1f55416404af64ccb7885c92802c198f9e7fec60d358f4891688fe895c16d5c3f663d8c6e31c56ba89f1cb915a13c57423f746acc9cbae459b7deecf8819f::c6acacd9d0fe86fab27bd2d3e2dd7a0b",
             "downloadLinks": {
@@ -22124,7 +22124,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "A Surprisingly Difficult Match",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 11",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=7ebdaddb02d9d6ac45834fc34d30f7dc7643da7e26d0ec350c7a62a7dd220b8f1f61d3982e5f24dc2be9c8dc1c9ca154cfe684b8eb9951112211bc71c633a1fafb4b584b9e2754401f7e6affaa9deb22b20ed48b29c1f6a5597d951a3aaf4d14::69d7a51767aa1d5dce558de8f705f19a",
             "downloadLinks": {
@@ -22140,7 +22140,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Crushing Wakabayashi",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 12",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=b57fb1c4bb75a71beb459de5c6fffe8f846e205ce99d2ed853996d334bb553989c5e834e890b0a47f910ee6379d5fd4cf70cbbf8e1d525cd6571a6939485ebb128a4d0a420f94c2b25bb02d198d065f75629b4a6059bb82e93f84d9fe79238c7::ba997d9656a137d9b9af28191b784bb8",
             "downloadLinks": {
@@ -22156,7 +22156,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Nankatsu burns to beat Meiwa",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 14",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybDhTYmZqd0xoR3BKb000eGMxeUo3N0QxcVNJdm9XVWhPeFh6UVZoUlgwOC1TVS14eTFTWTVDVE92Z25XMFh4akVRblowQVVpazdCXy01SkprX0x0UE5ncEF6RTgxT2p3TnFmRXdWRXNGVzJrR085aHRWc0dnN20wNDBBazlNemVUNXg0MzRVZF9aeEM5d0JtUDRiX05UVXdaVUo2ck5YNENyWllXTktiMXpQcEZmY3l5RVdrbjQ4bDkzQUhnc3JsSkZ6LS1HUFBhQi05Z1k3WDBQS3hlOWZoWm91NmNIaldaX1JBTWxXcGlrekNncVZRVGxDdE94eWR0NHlVdTlicHE0YlpzUWZ6MU9MS0VVaHV1MkNQQ3hqaXQxZDlxTzZ1N296VkN3MnN1TnVtV3E3SGhDUUNGZWNmWlgySDBMU3c0QVFVeXl1dUFuSm1jSi1Jbmd0OE9CcFAzMkk3b21EdTlsWFFnY0JxMktabFp4X2RMeXBWSzc2aTh4a3FHUVk5bGkxeDA0aHNBdXJHT2xnY3pPbjBkc0o3bjBNZVVMMzNxenotWFJ5aGl5RTlrQU9CR1kxdGpPNkJoRFAxRDFZQVI4WnB1dlgxWmRiRHNLQzVXN1Nmb2paX3Frei12QmlqZUNkbXBrOFJRR0pHRmYyRmlQX0Jub0lqUXpISzJkM243NldTSVFnOFRiS3I5R0NWX0lTYS1fckpjTTdMa1ZNOWNOa1VfLVFFdE9laEQtY3RkZ1BHV1RoNk53NTJaSHRZM1hyZEViVnVVTEhSbWVkeXhabEVQdVd0WHhnM0wtOGhKaDlfNi0wVnh2YjMwX2o1SEVUdmdJeGcyUWRERXNEeUFYak53Ym5hSmVJRjNsdEI5ZEZxX3E3ajNQVGV1ZW51RWVlX1pzYUE3VHhxWnA4VFMyWGkyVlFZOVF1S2ZjQkZqbXdEeGZZZUtYQnBMVUNrRDVyUk5IT05SUkRwdUtab3JqSjgwSzBGLVFqTmFmeG5FY3hqaEUtZWtBOTRnQURkb2p4R0RXallHS1N5T2RCY3NnQTFvNXAtdkl4YXB4dUIyTW1zWTFTVW5vMzBRVmVYOVdiMm1JVGdsN3JvYWxUTnpuQ041QmpzUmdpWlVVTzI1bXV2a25xb3k4OU9PaWxfZ0pNRl9lRmp1T0NaT2pjWG5MbDBSMko2cUdiOGp6bnVmb01BeVB5aml0RGZWZXdIU21sM0JRNi1ZR2ZJVDltdU9UUC1qUlhCalV2TEtKSTJYRThhRmw0bjZfVjZlR1JWMllaRzlSWWd5SEYwVHhUTUJjeHlsbll0amNDOUNDU0Q1LTdlNkNteWw2Y3pxeGY4RlNLV21Ub2p4aEFNeWpTZndLcVdfTXg3YWpENVYxNWJILVhIZFYyUzdUcXVXZTEyY1VyN1J2WG9wTlc1QXNXalFKbWVreU5UbVMzTmFfTHU5STBCU3FndzFHVWNwUkMyTlRWVW1fbUU2QzNseVQ5VVRhUHhhQkI3QzlUMURfNVlZIiwidGltZXN0YW1wIjoxNzg4NDQ4MjQ1MDAwLCJoYXNoIjoiZDgwNjFkNjc0ZjdjOTMxZjI4ZmQ3MzJkZDVjYjg5ZWRmNjdmNTQ4NGNhYWRlM2EyY2ZkMDk0NGMyYjc1YWFkYyIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNCBbUmFyZVRvb25zSW5kaWFdIC5ta3YifQ",
             "downloadLinks": {
@@ -22172,7 +22172,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "I will not lose, because it is my dream!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 15",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybVlDS19GYXNoX1Jic0d0YTR0aFg1ZzJfWUxmN05Id0RkdUgwZm1zcWNMeDVUS1B1ZzV1SUVISVFGc2NRYmF5ZWZ0Y3pFM0VaYkF1NHZ0bDVld3ZPVDRMbmtuNFMyR0JCekF6OFpsNjY2bXpxWkRHak1FeFJaWWhQVGx4NXhSRnowcnF6Wm1IbG96TTNaSHctUXJfQ3VlazR1MEdjaHBqaktiQ09DVXNjazNCTzF3ZjlJQ0cyRXhFdFRqMEtLRFZCdGFVX3B6S3h6bGxxT3ByQ3lsblNmYVJKS0NuVlpTbXFja2syTENGSzhtbjBITkRNWVo0ajNSS0NwMXMtZkpIN0xwWmJLNnBSTGEzakJPalh0dUpRRUVBdGt0Q0FVWnpzX0Rub2lKSXdDVkNfUWx3cHJPRzZfQVBQeWRKLWRpUGF2UmJtbU4yVnNtb1B4dHlTd2RoNGk5UjVlQ2V3TGlaZFNKcGdxRHRocHJ4OHBFRUR3bjRvVTRWSnBNX1YyMDQ3N18tXzVIdnRLQmhDR1UtLXoyVEI1d3Z1RWxXb1RQVGJrQ2pGbEo4QkRXa1pBWUFleGpKR0IwWlFiTmlnamYtcFpvT0lweDYzYmlyUllKRkgtM1ZXeExQSWRuRzBDMlVvY3lGR1NVekc4ai1FV3JDWWJJUmtJNUxmMW1YaXZEeWFWRmJEbHJQcXJsZ2RKVWhsU2R3TEtxTWoxaWNybThTd1Fhd3RrS1NfVXFDQWtBYy1vQnFIVGZ4N2lkbFlORk1tRHY2NkhFYXhWVnBkVjR5OVNVYXhIT2F4VEg1YURtcFRlWEFFU254V2hvcnkxdFpsdmpBMTZ4N3JfQl9 oeWhqNkJ0VzUzUWtiYnhqY25ZSlJkZVoxNmlOeEhNdDhiMnllOVdCNzRlVFNvMUM1R3pOUFZTaEkxZjdEOWs0LVE0RXl3TVpYZ VMtV2JwVkFIalAxMW15VmpyajBHbHVJWVF6S0xKNjBFeUZyejlmT1Q3Zy1TZ251OTlHVWZvS1N0cW9lT3NHd2x1dEpwQlpRNTYt cmdZTFp5Y0VZZHpHZmZtUzlqTDEwazRscFltV1NndklUMGFnYmZESldNUFVhbWtNcVYtSHE1QjNhdVlVb1VuUUpMYjI5TGpTczZ RUlBpcVVBUkUwTUdHWG9zSnUtMzQ3TzJSNXNlOE5xUjRKSWVDbXpKNnR6ck13RFdVNmxFcHVlajVvNFZYeUdiM3MyaDlhdW VxeWRjVEI3R3JsSkd5cGhIN1pFX2Etdjg4LWZTVGRRR00wVVpGSUdnU2x6YU5iOVZ3N2dfbmM5MlJlOXM4TFBTSVZyS3BmM0J KZ1o5WUFKQVJGXzJUaF9FYXpyOHRraUtPYjBITWk2NHF6LVFpZTV4SGQ4aWNRcUpqTlBwcTA1RVA3WF9BQmw0XzctajctSH gtZnQwSlIwU2t4OGlQanNxVW1XZWlSY0lHWDVPbjk0aDU0Q0ZXd2Eyb05CbHBRT1U0WUNpRFp5QUNDeFNTV1lnIiwidGltZXN0 YW1wIjoxNzg4NDQ4MjUxMDAwLCJoYXNoIjoiMjIyNTI1YzZhOWVlMWZiYjhhOGNlMzNhOWMyMWMzOWNiNzJhMmJlYTdjNDdjM GMyM2Y1YmRkN2U3ODdhYmRhMCIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNSBbUmFyZVRvb25zSW5kaWF dIC5ta3YifQ",
             "downloadLinks": {
@@ -22188,7 +22188,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "This is Acrobatic Football!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 16",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=754273c7d035323e023ac5fd7e46a0a0cfc1dd62ba91aa63802f347cee87eef3c69e2b951f9773674cb7c58c488fadbd9bc912c3143c64078ef3ab235f6ae465c1f2d05ce77299f29ff53992c012db3ce73f2f125ab9435ef194cfaa568caa90::5bdde2c233098539eeda1628ac17c315",
             "downloadLinks": {
@@ -22204,7 +22204,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 17",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 17",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=acd537874c1c1091f651337d70d26a80fe9d051cfaaf58b1ef9b3a386a879abde9a82a8098fa45d0b22f2c33d27d8881f5655716e36e2a4ca4a293f429150d7f5c838a1677649830557cc3ba5a3795420661e3cd7070baf6f04a83574add2f6a9a07dc0bc81f0bb76e9a50defb63d0de::a239d26d3d176e02257fcb4e8f00994a",
             "downloadLinks": {
@@ -22220,7 +22220,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Road to the final",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 18",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=089380532108a6cf9185af3f8e6418f0efa7cf2bf4732ce276fe28c87bacba3fad90c40193a775ac1cbb51d12d05e2adb6d6a8a34f209b760380291d8a950961f8179b388690004900f088eee4af598a50daf44eba50ad60f1e2ea1c4e090c4c::e162a2159e7c172052f741195bdfe196",
             "downloadLinks": {
@@ -22236,7 +22236,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Tough match between Meiwa and Furano!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 19",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzcxMmQwZjE5MGI3NzM1YThkZjI3ODU1YTYwY2NiZWEyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA0VDIxNDQzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUxOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YTUwYTYzNGQwNmU2MmMwMmUyOGI0Nzc3MThjOGVjNDc3MzJiM2E5OTBmOTRhNWViMGY3N2U4NjUzMmU2MzI3NCIsInRpbWVzdGFtcCI6MTc4ODQ0ODI2ODAwMCwiaGFzaCI6IjcwM2IwNDU0ZDE4M2VlNTU2MzFlMzU2ZjI3ZDIyMjc4NDNhOWQ0YzI3OTNlZWM1NTRiY2MzNGZlODI0ODAyNjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMTkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22252,7 +22252,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Musashi’s secret plan",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 20",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83ZjAwNzE5MThhNzU5OTMyNmI3ZGQyNzdlMTBhYzViZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA3MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMFQxMTEwNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRjZDU4N2QyNmY1MTdmYjcyNWRiNmJlMDYwMzVlMjYwN2NlYjg1MGM2MGRlZGNjNzMxZWM5MWU0YzcwY2M1ODkiLCJ0aW1lc3RhbXAiOjE3ODg0NDgyNzEwMDAsImhhc2giOiI2MDEwYjgxZWVhM2VmM2M1YzM1NDhmODA0OTgxM2FjZGRhYjdiNmE5NGFlMzg5NDMyMDY0N2ZhMTEzOWRlNGIwIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTIwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
             "downloadLinks": {
@@ -22268,7 +22268,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Crystal Star",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 21",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=e454e9c1be1aeb61c2db6427a0975f5a6116973bc5ed0fbb766320ff4d67166e386bdc52a7b5666f8cedde5b425324c2c8cfdfa9b5dcd0110c0829459289b2a68cbf11a4f1a0d5fecdb930c827c4783d536b1136b3764f2d6aa7f1450d3ed1909168915f4be6f4ca2e98622ab807b527::b5019a9769caba03588ae4cffa41dce7",
             "downloadLinks": {
@@ -22284,7 +22284,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Decisive play stoppage",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 22",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=24d36dcb956a9953da76e7aef7ec0c16faa4aecdd6bb169206a8eb1ce191a426109ff273b9b08e49f5220897ad03bd5f879ada6c94ce65196391cd240e8fa1637f68d0bd381c48201f6228c918568cbf69be4979eae70bbd088256bc42518af3::bfab67676606d00a13c85a9fc6143729",
             "downloadLinks": {
@@ -22300,7 +22300,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Prodigy Goalkeeper Returns!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 23",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=5e8cd5691d40019af288ef99a16dda15d97bdc6418cb1d7a4761d4ebcf78fa67672f7964fa03b8d550eff9109cdfc46617277a342289f35d9483e9e03abdc1d9e6f89f6643d15d653d7b159bfebd3191e5e22f812c9f24dff98cce7dc58927d1::9e872a192768c04d4171e20d389fe21a",
             "downloadLinks": {
@@ -22316,7 +22316,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Tenacity, Definitely Tenacity!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 24",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=5a2951df182e69ce12517a604173fa75764b7e50d098be49c446524c5a3ec5c1bfb8799471ec33acbd146e13889445ca39a6e669df4fb371663ffac3ea401dbdebe67753a5780777203b3cc73c41a42bb953a8b8db5884db544603b2efe3ec14::7ccd6df69234ff5b776ff10b850ffc3d",
             "downloadLinks": {
@@ -22332,7 +22332,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Blazing Counter Attack",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 25",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2M3NTVkOTFlNjExNTQ0NWZhMmExNTgyOWE3ODExZTg1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTY0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YzA2NjcxMWM4OWRlYjg3NmQ1NTBiOTk1ZTAxYmQ4ZTg2ZTExODA4MTUxY2VlZDdiYmNjMGU0YjQ1MGZjODY4NyIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NTAwMCwiaGFzaCI6Ijk2ZDQ4ZTZhMmM2ODFkNmNjYTc0Mjk1OTNkOThlNmNkM2U4ODY5MzQxMmRkMjI2NDA4MzY3ZWRmNjY1Mjc3ZTAiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22348,7 +22348,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Illusory Goal",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 26",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1OGFlYzk1MTVlNDQxZmVlNjkzNmI2MGEyNjQ1MjhiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTcyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MzYyMjRhYWZhYzE0NmNkMTM4ZGJjYzlmMTVjNmRhMGZkZmYwZmU4YjQ4NWY4OWFjNTliYzdmNWU2MDUwODQ4YSIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NzAwMCwiaGFzaCI6IjRmYWYyOTJkNzJhMmU2MzA1ZmVmMDVmNDFhZmU3MjU2OWRhNmFiMWEwNGQzY2IzMmJmYjk1NGZjY2ViNjAzZmEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22364,7 +22364,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Moment of Glory",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 27",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=29c50182d77abf313db48612292bce31b898dfa8d4a96ac6e7c5079633c13082effccab700bc219c7540fddf95ca172ed594148e2b9c77b13d0523aad994b586ddb370f172efe9807824bd9660d26b3aa2f7662bdc9073f0421c6fbb8e20ed62::eb7191a4afffd4ea658e7dd53c1a4f4b",
             "downloadLinks": {
@@ -22380,7 +22380,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Everyone’s Setting Off",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 28",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2IzMDlmZDNhMWU1NjgyMTM1Y2Y4ZDQyZGJkNTA0ZTlkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA1MDIwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyOCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZmQ1YzIwMzc2OGNkZWVlN2UwOTE5ZjljMDUxNGRmN2VjM2MwYzQ4ODI5NGM2ODA5ZDVhMWZkOGQ2N2JlMDFlYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMwMzAwMCwiaGFzaCI6IjEzYjNhNTFkYmUyNDVjMTM3YjdhY2RkOGU5OTJkNjYyZGFkYzE5MjA5MGQzMmI1NDM5YmY3MWY3N2NjOTM0MzMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22396,7 +22396,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Opening of the Summer (Start)!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 29",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8zYzQ5NjMyOTI2MTY0ZmVlZDRiNjY5M2MzOWI2NDRhYj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4MDhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjklMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxYWUwM2Y3NGU2Y2Y2ZTVhM2EwYzE0NDY4MzFlYmViYjhlYTBlMDIxODkyYjMyMDgzNmZhYWNmYzNkMDQyMDgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDYwMDAsImhhc2giOiJiNmVlYjBmNmJkNTNjMzE4NjY5ZmYzMWI3MTY1ZDA0YTc3YjgyZWEzMWQyNzM0NDc1MzRmMDM5YWYwYTNiZTViIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTI5IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
             "downloadLinks": {
@@ -22412,7 +22412,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Prefectural Tournament Final Game! Falcon Shoot Appeared!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 30",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jYTk2OThkMmQ1MDJiZWEwMzI2NmJiYmFmMWJhMzQ5Nz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4NTZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMzAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTcwZThhNDhjZGNkMzQxMzNkMTAwZGRkYjg3YWRlMjE3ZmNjZmNhMzJlMTUyMzE1ZjdjMGQ1MjIzOTk2OGU4ZTAiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDkwMDAsImhhc2giOiJhNzFlZTdiOTBiNDk3NjNkNTExMmI4MWM0ZTIyOTY4ZjE5N2E5YjY5NmQ1YzU3MjBhZmM0MTE1ZjliMjQ4YTQzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTMwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
             "downloadLinks": {
@@ -22428,7 +22428,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Falcon versus Tsubasa",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 31",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2MxOGFiOTMyNzYxOGVhMGUyNDU1MDAyZmE5N2MzZDRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1Mzk1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ODdlNmUyMjFhZTM0ZjMyMDE0MWQxNTQ3OTUyNjMwZmFjMjNhMjMzZWQ4MGU4YzQ0ZDU3MjM3MTFkN2U1YzgwYyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxMjAwMCwiaGFzaCI6IjM0ZDA2OWI1ZmU1OTI0ZGZhZDZjNTE0MTEzOGE3OTE4NWU0NTk2ODY3ZTZhMTc1NzRhMDc0ZGNiZmQwMzc3MjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22444,7 +22444,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Defeated Tsubasa! Hyuga versus Misugi",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 32",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE2OWUwZWQ0MTA3Mjc1NjAwNWNlYTgyYTJhNjJhMDQ3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1NDEzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmVjMDBjMGJjZTk1ZjU1YjU0NGZkNzI2NDJmNDhkMTNmNGIzYTJlNDIzNzYxMzk4MmFkN2E2ODljYzIwODUyMCIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxNzAwMCwiaGFzaCI6IjViNjVlZTQ3MWVkYjlkZmU4ZDE2ZjJkMDU1NTdhZjM5ZTM3MDYzNGUyYTcwMzJkNDZjOTMwZDJmZTZiYjEwNzIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22460,7 +22460,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Tokyo Tournament Conclusion",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 33",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YwYTY0NzQyZWU3ZWQ0ODkyOGI5MWRmYzU2YWRkYmVmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTI1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZGUxYWE0YjUzNmU5Mjc2YzMzZmYyYTNiNzhjYjI4NWY2OGY4ODMzNWQ2OGMwYTU5Y2MyODIyNTFlNWQzMzY3MyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMDAwMCwiaGFzaCI6IjMxNTEzZDZkOWQ1NWQzYjRhYTE1MDMxODY5YjkyNThkY2I1M2EzZTQwZDUxNzg0OWQ3MjY0ZjFkZjc4NzRjZjIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22476,7 +22476,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 34",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 34",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzA4ZTIwZDFhMzdkMThiMWYzMTVlOTBiMzQ0MTBkMTVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDExNTYxNVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MjFjYTI1MWQwNjM4NmU1Y2RhYTU5MmVkZTdjYWJhZWI5MThjMGQ5MmJmNzQwOTY0YzhiYmU1YjY2NDIyNDExZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMzAwMCwiaGFzaCI6IjcyNDA4YzhjZTlmYzcwZWVkNTkzMzZjNjYwYjEyMmFmOTdkM2MwNGQ2OGQ0MWRiYTBkYThjOTVmZmE2OTZjMWEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzQgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22492,7 +22492,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Razor Power Explosion",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 35",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzBjNTViOGViNGM4NWYyY2YyYzkxMWZmYTg4ODE2ZDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTU0OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNSUyMCU 1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg1ZTcxZjY5MjkwNWQyNzUzYzMyMGNkYWU5N2JhMj hmZTgzZmNiNjI3ZGZjOTVjNmYzNzNlNjA3ODIwNjhiYSIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyNjAwMCwiaGFzaCI6ImE4NmE1N GJlMzVmNTRmZGE5M2UwNGYyYWFlZGQ5MDZmMjViYzM3NmI0Nzk0OTRmN2NiYmQ1YTBjODE0NDFjNzQiLCJmaWxlbmFtZS I6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22508,7 +22508,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Everyone’s Decision",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 36",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2NmMDc3NDgzYWUwMTU1ZGExMWMxMmU5MzIyODdhMjhkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA3MTIxN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg4NTUxNzNmOTMxOTVkNzhkNjhiZmIxNTcyODQyYjQxZDZhN2ExZDVlZjRmZTQwMjYxYzA0ZTgwYjVjNzVkNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyOTAwMCwiaGFzaCI6Ijk3YTVhZjM1NmI3MDI3NzE3ODQxMjY1YmZkMjk0NjEyYmU4ZjNhYWQ1OGVjN2Q4NzY4Y2M3N2I0MzBlNTY1OTEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22524,7 +22524,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Skylab Hurricane!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 37",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=13c26f55c5f112dedc172d8b98c0b87ffe218f050338e62fb19ab3185dfc74fe7333028cf2aeaaafe332a544d3ae239b43ca80ad07d22c4aa23adb626c0afd9dbca5446ed2b49b6d4c63e7e3faef19a36b41914af554dff6f017a5be2bf710b4::56b9f23656cb9b80390698b0f5dca49d",
             "downloadLinks": {
@@ -22540,7 +22540,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Assault! Tachibana Brothers",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 38",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=3d84913bd67c56e612879f0ef29a569dbd74beeb1b6125b6eda4332a98305abf2f6fd2d7a8a9bbc82f1e312bdeac30d965b3297bda500fb3b585943fcb132f19bedbfc79a0de95b33872c59596cc008e030cfb4f5275d25a03f5b220ae4eb64499f345a58063f756dfc62c02e3a1cd0e::a6ba6f0cd330283247a512d6fc7c5924",
             "downloadLinks": {
@@ -22556,7 +22556,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Nankatsu versus Hanawa Conclusion!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 39",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f096586a4e5633319b201a86b689b6fe68f0ae2c0ecfda3ef191d8b82b2191558a474147a100a9d7d7612ddb5ef3b16e79c7f08b9683e664d89a15e6f87d25f95c88fac08e7e2c45326961dd4693ea4eb7aa8a0b6973f93a4c2d500be5290a8c::9ae26e0b8bc4bd2ce399e9923645df16",
             "downloadLinks": {
@@ -22572,7 +22572,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Furano goes to the front!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 40",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=8ab6da2c9a21c7b2e023271e9675a3c84cd9da67adef4aa900086e1ea4fbc6c10db6c357af93b08c46421d21a22ea606af2d74b930ef70fcc88af034aa7c07fc71eb09fd564d8cffc0e9139d5295ffedd7682d39e3583b3b31552f55ad51d576425e7dff6443f17dded5749d62f74dda::1b28677ce18f640286ca3e565627ccfe",
             "downloadLinks": {
@@ -22588,7 +22588,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Fearful Dark Horse",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 41",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=3af1ebdb3ab47204e23572aa23354214046e1fae61c44ea0d1abb665a171b0f641d929d1d1fed04e716fcaddbe1248363239ed208e78b27484a69e9df77d7f7eebb973bd71f88dea72214bd852cef11702698ee4f8791a426b103c8f9c3bf69d73d3f3747951cb21c7ee62c6a51f1996::20bba40e849ca4ac92b1c4dcdbf46964",
             "downloadLinks": {
@@ -22604,7 +22604,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Phoenix Tsubasa",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 42",
             "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=9a45475588635ca45f4742a3dffeed0be605ff727dfe0e72b6dc6901c3e100b2c7fd4b88e08ed2ccf1781ff765a4472935dc9a4c49016d710e146ca9b9e46d474abd4e3f9850a9654949e9c3ec964498ac4828a6d99eb45fa52b137dfa546148a23ae4e2d56ec9562e5c3115e863e521::5dfca935c5aff15f702a0ac5ce39ccd1",
             "downloadLinks": {
@@ -22620,7 +22620,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The supplication of the tiger",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 43",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYTZkYjExZGJhNGRiMmYzYzliOGU1MzU1YTNkNGNiZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDA4MzVaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDMlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWVlNjliZTJlMjYyMWIwOWRlZmQxYjYzOWZkYWZhZTk4OWUxNzBjMmZlM2MxZmE5MWE5MjIwZTRkNDM0YmQxMDEiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNTUwMDAsImhhc2giOiJjMWU4NDY0M2Q1Y2FiNjhhOWEwYzcyNmM0OTRjZmIxZTIzODMyZjNjZDc0ZmVjZGQ4OGI1OWI4MzliNzExYjAzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQzIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
             "downloadLinks": {
@@ -22636,7 +22636,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Number 10 vs Number 10",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 44",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8yYzNjMjNhYWIxZmUzNTg5MGUxOTAxY2E3M2I0N2Q0MD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDExNDdaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDQlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTBmZGYzMGQ4Mjg3ZDRlMWIyYzBkYWY4NzA1NzlmMjNmNTI5OGQyNDVmMTE4MmYzMjQwNTJhYmZkZTkyYjAxZjgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjEwMDAsImhhc2giOiIxNjE5ZGRlNz U5YWE2ZTFkNTBjN2ViYmQ2MzMzZGZjZjJjZmM1NjliMWYwNDM5ZWRiNGQ2YjExODI1YmQ3MjBlIiwiZmlsZW5hbWUiOiJDYXB0 YWluIFRzdWJhc2EgUzAxRTQ0IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
             "downloadLinks": {
@@ -22652,7 +22652,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Tears in Airport",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 45",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYzhjMWY5ZDQ5YjBjNzI2YjA2NDVjOGY5NTQ1NzJhMj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMVQwOTAwNDRaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDUlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWE2ZGY3Y2ZhNTA0NTM3YTE0NmMyMzZkNDU0M2I1ZWZiZDY2NGJjZWJmNjcwMzE2MTg2OWU2YmQ4MzRiYWU2NzciLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjQwMDAsImhhc2giOiIwZGU3NWIxZjczZmY5YmZkMzFiZjc4Y2FiYTFlY2U2NTAzNDIzMzJhNjdkNTY4YWM3MTk3N2RjYTE1NzhmNGY0IiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQ1IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
             "downloadLinks": {
@@ -22668,7 +22668,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Kick off of the Century",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 46",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4MjJmMzVmYjQ0NDIyNTE5OGY5ZjE2NDFlZWI4MTkzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDEyNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTY3NWI0YjlhMjcyZWMzZjg2ODc1MjY1NDY3OWFmYjkwYjcwZWY3NzAzOWE4NzA2YmQxOTBhMzg4ZGQ0YmYyMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM2NzAwMCwiaGFzaCI6IjAzMjUxOWFkNjhiN2UyYjBhNGM1Zjk0YWRmMGFkMzExYzNkMjk3MjVkYTI3NThlOTk5MjcwNTdjZThhMDI1MTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22684,7 +22684,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Confrontation of Destiny Once More",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 47",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UxZGZkNmVjNzYxZGRhN2ZjOTlhZDkyNzQxYmQzYzdjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDIxMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NmM4ZTg1ZWY3NGEwZDEwYjNjMzVkZTVhNjA2ODhhZjk3MDEzNTM0ZTM5NGNmNGEyMTJhN2YxY2NjNTRlMzFlOSIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MDAwMCwiaGFzaCI6Ijc3NzI3ZGZiMmYyYjc3NDRhNDNhMTcwN2ZlYjViNDg5NzFjMmI0YjA5MmY5MjRiYzg5YmJjNTNlNGE0NWZiNDYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDcgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22700,7 +22700,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The King Toho",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 48",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY5ZWIxNGZmYjFhNGVkMjM5MmZkMDlkYWMxNjI5NjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDMxOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MmNkOTQzMWE1ZTZjZDQ5MjkwZWNjMTMyOWY3ZmM4YzA2N2FlNWQ3OTIwOGI3NDc2NWUzZjc5Zjc3MDUyZmVhZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MzAwMCwiaGFzaCI6IjBlM2ZjYTJiOWYyMjlhMmNjMGY4ZmE1ZDFkMDIwY2YxMDE3MDhhYTkwZDE5ZmFmNjFjYTJjOWQ3OWMwYjQ3OWMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22716,7 +22716,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Incandescent Fighters, the Fierce Tiger and Tsubasa",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 49",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzk5NmU3Mjg1YjI4YTI0NzUxYzk2MTRjZDE0ZWViZGI2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MDcyM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9N2U1NzRlYTBiODM4NDZiMThlNzM1MTg2MDMzMmQ2MjBjNzY5Nzg5NmVmZTFlMTg3NDlhYTRjMmJkNGFmMTBhNyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3NzAwMCwiaGFzaCI6ImNkZDU4ODA4ODgzNDIzMWFkZTkwMWVmOGM0ZDNmZjgzMjk3NWYzZjhjN2ViN2VmNDFiNDlkOTRiMjZmMThkNWMiLCJmaWxlbmFtZSI6IkNh cHRhaW4gVHN1YmFzYSBTMDFFNDkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22732,7 +22732,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "All",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 50",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YxYTY5ZmJiNjgwOTFlYWJjODBmYzljZDcwZTU1OTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MzUwMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZWQ0YTQxMjVkNzljNGM5ZmYyMWJjODE2NmI3YzA5OGMyMGMwZDljNjdmNWY0Yjk4ZDk4MzMxMzQzNGY0OWEwNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3OTAwMCwiaGFzaCI6IjQ4ZTQ1YTJmZDlmODg0MTE0ZmRmOTkzYzA3MmI3ZTgzNTMyNTdiMjhhNThkZTgxNzVjYTAyNTg0NzA1NDkyZDUiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTAgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22748,7 +22748,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Miracle Drive Shoot!",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 51",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzc0NTk5NTY4Y2U3MWRlMGUzM2ZiNDVkZGM0ZGY1Mzk2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MTMyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Mzg1ZDZlZTFiMjk5MmE4NzU1MjNkZWZjNmZjOTZmOWQyNWNiOGVhMGJlZWE4M2EwM2YyNDBlNjEyZmNlOTMwMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4MzAwMCwiaGFzaCI6ImQwZDA1ZDU5YjE5N2FkMjRhZmE4ZDhmMGQyOWNiMGFiN2Q4MGRhYjM4YTA4NjdiNTAzN2I5MDI4YWJjMjRiNTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22764,7 +22764,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 52",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 52",
             "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzhkZWQxNzhhZDBhODAyM2E2NTljZDI1Y2NkMzdhMDZhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MjA0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTBkMzY1ZTg0MWMyMjJhN2JjZTZmNTQxNzczMzYyNTY0MzA2YTM2NGJkYTFlZDNkZGE2NzE1OGVlYmRhYTRmNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4NjAwMCwiaGFzaCI6IjI0NTIxMTUwODdlNDQ5MTg1NjE4YjU3N2RiYWY3MmRkNzJkNTNjZDFmNTFmNDAxM2ZmMjYwMzJmOWRlYTRjY2YiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
             "downloadLinks": {
@@ -22784,7 +22784,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Take Flight",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 1",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=5eb8a1497e50418d3763c7467c3c508ce514f060cb3132b6177fca942388cc828222445ef9b241914611aa2709bc7cfd99e4901abf0de9201fa05aa3af457ea3788d9f6dd80f68ca13a4e0848c3780e12b86a22d6d30f695f7a400a8d3ec6b8824c52363f0a8e1c64d95b3fd2d23994f::d651bf6c3f0432b56601aa368089c5af",
         "downloadLinks": {
@@ -22800,7 +22800,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "He’s flying!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 2",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=82805a977aa5cc20502f10cf2ecccc890d79bb0101e7002a5913a754f09eecceb1e7e5ddb16ef93205227bb7b04232b6e1c90e82ed6698fb98e9627a6d6635a46f15f6862a938ae2366de18c52d7a66b8bfe0e63f89f89426a06b3002b007cc07a3d41a10e03842070d410c23750ce5f::b61f6772ad472adc60194a4c8cd22f4c",
         "downloadLinks": {
@@ -22816,7 +22816,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "A New Beginning for the Nankatsu Football Club",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 3",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=b1d1bd16ce115a6f20082fa4fc5fbb30b2da23aa634ea2e60ef14f4f71cc6d11f6b2cdccf95ff78b881c8baedd840ac9d8abda02d35362b0640560e68b88eae93f9772bd2be6ced062431d328a7916c54215c171228b1997b28d5881eee870ef26ca666733edc6ebc5c9c7b48f733103::2365a4ae074ed3e87d932467d060997f",
         "downloadLinks": {
@@ -22832,7 +22832,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Tsubasa and Roberto",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 4",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=c728c0c89c9bb4ea6cebb677fac3f0065fda0b82d1774affb643eb3e2f704df07f80d7ee808b90587532dbb6921c141f490f94a9c2250dea931239063ead1e48c64203e13d04f7d575e9f31f9468ea24d7c27a7d9904b8081c791cdf80adefeebfb95a3bdd9b13dae244565b055e2b38::5ab2fe7500df666deb6bbcf3e2bb8045",
         "downloadLinks": {
@@ -22848,7 +22848,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "On The Way To The Inter",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 5",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=784620773a1371621ff46a566104635ec2b3441ed0d77a2e8660eb5a87f19be472e0b402cec4a3c35f0b57cd0fbb1527d906c81c2bb4aa95312eaa9bab1af98cfd28e141fd1acb37ea0ceceba29cb78a352ee85106f56a076b492f3da124c41d85eac00ed7924cacac64d38f5565d095::17d2b78f28918f2d08a5f5990e17e29d",
         "downloadLinks": {
@@ -22864,7 +22864,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Kick",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 6",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=c4b64a5413bce53906650b429097270f4328a1e5d0bdb06aa44f160a9fdacdde53fbaebccfbd754759f67b2d90fec34dab314550bf85172eaff541ee6c5c3bb7ee63c2ea83be8538b878ecc496d1e499173b5cc8eecbb50e63cb8b966967c8e1::5ac193b5d47a77ffee79f7494f3048c5",
         "downloadLinks": {
@@ -22880,7 +22880,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Fantasista Tsubasa",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 7",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f344899725ca3f9424be0a1070a7a1e5b540330c06077babda9db2463ecf28047610304c4b5e508fb13f898ac8c99b5606ad2cee027490ddcce0130bc72f4d039f479e62550ca25c1cd2973d2c7c911837d04786d6a29190abd342938ba1485a::be9072e79a65d2f7a4aa12be29fd36d2",
         "downloadLinks": {
@@ -22896,7 +22896,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Birth of Nankatsu Golden Duo",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 8",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=58182f80c5aade61d58261a12445c9ddca50d1e463ba55b3f72558ea0a584da74803c2658b3be53f0c5032e4b357c346f15f04073f8b401502512f0c9d481547e22a53a31fc30403e996cb4349a3ec35d75292c7b2f1871f202b88b19319cc86::c5f4f63d869e74e93c96e06568cc81a8",
         "downloadLinks": {
@@ -22912,7 +22912,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Debonair End of Act",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 9",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=79eef822c60cec7e6f1a6bb652e7a225e6778bad01f17ddb618c4e383235f8f0921e973a1d264a9c93c689530e265343c5e3fdf3320fe03672254a5276cf44f0bbb88527c79069bf50ad7a3e398a3445f419b370fcb19736d63dda11931de9b2::fda28883ad9bed066acbe3b46d139119",
         "downloadLinks": {
@@ -22928,7 +22928,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Kojiro Arrives",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 10",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=b2d7caf6a3baa61a1f459a8eec9a449e9945c33bb8dd5346fc7cd4698e68fe7832c1f55416404af64ccb7885c92802c198f9e7fec60d358f4891688fe895c16d5c3f663d8c6e31c56ba89f1cb915a13c57423f746acc9cbae459b7deecf8819f::c6acacd9d0fe86fab27bd2d3e2dd7a0b",
         "downloadLinks": {
@@ -22944,7 +22944,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "A Surprisingly Difficult Match",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 11",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=7ebdaddb02d9d6ac45834fc34d30f7dc7643da7e26d0ec350c7a62a7dd220b8f1f61d3982e5f24dc2be9c8dc1c9ca154cfe684b8eb9951112211bc71c633a1fafb4b584b9e2754401f7e6affaa9deb22b20ed48b29c1f6a5597d951a3aaf4d14::69d7a51767aa1d5dce558de8f705f19a",
         "downloadLinks": {
@@ -22960,7 +22960,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Crushing Wakabayashi",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 12",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=b57fb1c4bb75a71beb459de5c6fffe8f846e205ce99d2ed853996d334bb553989c5e834e890b0a47f910ee6379d5fd4cf70cbbf8e1d525cd6571a6939485ebb128a4d0a420f94c2b25bb02d198d065f75629b4a6059bb82e93f84d9fe79238c7::ba997d9656a137d9b9af28191b784bb8",
         "downloadLinks": {
@@ -22976,7 +22976,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Nankatsu burns to beat Meiwa",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 14",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybDhTYmZqd0xoR3BKb000eGMxeUo3N0QxcVNJdm9XVWhPeFh6UVZoUlgwOC1TVS14eTFTWTVDVE92Z25XMFh4akVRblowQVVpazdCXy01SkprX0x0UE5ncEF6RTgxT2p3TnFmRXdWRXNGVzJrR085aHRWc0dnN20wNDBBazlNemVUNXg0MzRVZF9aeEM5d0JtUDRiX05UVXdaVUo2ck5YNENyWllXTktiMXpQcEZmY3l5RVdrbjQ4bDkzQUhnc3JsSkZ6LS1HUFBhQi05Z1k3WDBQS3hlOWZoWm91NmNIaldaX1JBTWxXcGlrekNncVZRVGxDdE94eWR0NHlVdTlicHE0YlpzUWZ6MU9MS0VVaHV1MkNQQ3hqaXQxZDlxTzZ1N296VkN3MnN1TnVtV3E3SGhDUUNGZWNmWlgySDBMU3c0QVFVeXl1dUFuSm1jSi1Jbmd0OE9CcFAzMkk3b21EdTlsWFFnY0JxMktabFp4X2RMeXBWSzc2aTh4a3FHUVk5bGkxeDA0aHNBdXJHT2xnY3pPbjBkc0o3bjBNZVVMMzNxenotWFJ5aGl5RTlrQU9CR1kxdGpPNkJoRFAxRDFZQVI4WnB1dlgxWmRiRHNLQzVXN1Nmb2paX3Frei12QmlqZUNkbXBrOFJRR0pHRmYyRmlQX0Jub0lqUXpISzJkM243NldTSVFnOFRiS3I5R0NWX0lTYS1fckpjTTdMa1ZNOWNOa1VfLVFFdE9laEQtY3RkZ1BHV1RoNk53NTJaSHRZM1hyZEViVnVVTEhSbWVkeXhabEVQdVd0WHhnM0wtOGhKaDlfNi0wVnh2YjMwX2o1SEVUdmdJeGcyUWRERXNEeUFYak53Ym5hSmVJRjNsdEI5ZEZxX3E3ajNQVGV1ZW51RWVlX1pzYUE3VHhxWnA4VFMyWGkyVlFZOVF1S2ZjQkZqbXdEeGZZZUtYQnBMVUNrRDVyUk5IT05SUkRwdUtab3JqSjgwSzBGLVFqTmFmeG5FY3hqaEUtZWtBOTRnQURkb2p4R0RXallHS1N5T2RCY3NnQTFvNXAtdkl4YXB4dUIyTW1zWTFTVW5vMzBRVmVYOVdiMm1JVGdsN3JvYWxUTnpuQ041QmpzUmdpWlVVTzI1bXV2a25xb3k4OU9PaWxfZ0pNRl9lRmp1T0NaT2pjWG5MbDBSMko2cUdiOGp6bnVmb01BeVB5aml0RGZWZXdIU21sM0JRNi1ZR2ZJVDltdU9UUC1qUlhCalV2TEtKSTJYRThhRmw0bjZfVjZlR1JWMllaRzlSWWd5SEYwVHhUTUJjeHlsbll0amNDOUNDU0Q1LTdlNkNteWw2Y3pxeGY4RlNLV21Ub2p4aEFNeWpTZndLcVdfTXg3YWpENVYxNWJILVhIZFYyUzdUcXVXZTEyY1VyN1J2WG9wTlc1QXNXalFKbWVreU5UbVMzTmFfTHU5STBCU3FndzFHVWNwUkMyTlRWVW1fbUU2QzNseVQ5VVRhUHhhQkI3QzlUMURfNVlZIiwidGltZXN0YW1wIjoxNzg4NDQ4MjQ1MDAwLCJoYXNoIjoiZDgwNjFkNjc0ZjdjOTMxZjI4ZmQ3MzJkZDVjYjg5ZWRmNjdmNTQ4NGNhYWRlM2EyY2ZkMDk0NGMyYjc1YWFkYyIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNCBbUmFyZVRvb25zSW5kaWFdIC5ta3YifQ",
         "downloadLinks": {
@@ -22992,7 +22992,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "I will not lose, because it is my dream!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 15",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybVlDS19GYXNoX1Jic0d0YTR0aFg1ZzJfWUxmN05Id0RkdUgwZm1zcWNMeDVUS1B1ZzV1SUVISVFGc2NRYmF5ZWZ0Y3pFM0VaYkF1NHZ0bDVld3ZPVDRMbmtuNFMyR0JCekF6OFpsNjY2bXpxWkRHak1FeFJaWWhQVGx4NXhSRnowcnF6Wm1IbG96TTNaSHctUXJfQ3VlazR1MEdjaHBqaktiQ09DVXNjazNCTzF3ZjlJQ0cyRXhFdFRqMEtLRFZCdGFVX3B6S3h6bGxxT3ByQ3lsblNmYVJKS0NuVlpTbXFja2syTENGSzhtbjBITkRNWVo0ajNSS0NwMXMtZkpIN0xwWmJLNnBSTGEzakJPalh0dUpRRUVBdGt0Q0FVWnpzX0Rub2lKSXdDVkNfUWx3cHJPRzZfQVBQeWRKLWRpUGF2UmJtbU4yVnNtb1B4dHlTd2RoNGk5UjVlQ2V3TGlaZFNKcGdxRHRocHJ4OHBFRUR3bjRvVTRWSnBNX1YyMDQ3N18tXzVIdnRLQmhDR1UtLXoyVEI1d3Z1RWxXb1RQVGJrQ2pGbEo4QkRXa1pBWUFleGpKR0IwWlFiTmlnamYtcFpvT0lweDYzYmlyUllKRkgtM1ZXeExQSWRuRzBDMlVvY3lGR1NVekc4ai1FV3JDWWJJUmtJNUxmMW1YaXZEeWFWRmJEbHJQcXJsZ2RKVWhsU2R3TEtxTWoxaWNybThTd1Fhd3RrS1NfVXFDQWtBYy1vQnFIVGZ4N2lkbFlORk1tRHY2NkhFYXhWVnBkVjR5OVNVYXhIT2F4VEg1YURtcFRlWEFFU254V2hvcnkxdFpsdmpBMTZ4N3JfQl9 oeWhqNkJ0VzUzUWtiYnhqY25ZSlJkZVoxNmlOeEhNdDhiMnllOVdCNzRlVFNvMUM1R3pOUFZTaEkxZjdEOWs0LVE0RXl3TVpYZ VMtV2JwVkFIalAxMW15VmpyajBHbHVJWVF6S0xKNjBFeUZyejlmT1Q3Zy1TZ251OTlHVWZvS1N0cW9lT3NHd2x1dEpwQlpRNTYt cmdZTFp5Y0VZZHpHZmZtUzlqTDEwazRscFltV1NndklUMGFnYmZESldNUFVhbWtNcVYtSHE1QjNhdVlVb1VuUUpMYjI5TGpTczZ RUlBpcVVBUkUwTUdHWG9zSnUtMzQ3TzJSNXNlOE5xUjRKSWVDbXpKNnR6ck13RFdVNmxFcHVlajVvNFZYeUdiM3MyaDlhdW VxeWRjVEI3R3JsSkd5cGhIN1pFX2Etdjg4LWZTVGRRR00wVVpGSUdnU2x6YU5iOVZ3N2dfbmM5MlJlOXM4TFBTSVZyS3BmM0J KZ1o5WUFKQVJGXzJUaF9FYXpyOHRraUtPYjBITWk2NHF6LVFpZTV4SGQ4aWNRcUpqTlBwcTA1RVA3WF9BQmw0XzctajctSH gtZnQwSlIwU2t4OGlQanNxVW1XZWlSY0lHWDVPbjk0aDU0Q0ZXd2Eyb05CbHBRT1U0WUNpRFp5QUNDeFNTV1lnIiwidGltZXN0 YW1wIjoxNzg4NDQ4MjUxMDAwLCJoYXNoIjoiMjIyNTI1YzZhOWVlMWZiYjhhOGNlMzNhOWMyMWMzOWNiNzJhMmJlYTdjNDdjM GMyM2Y1YmRkN2U3ODdhYmRhMCIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNSBbUmFyZVRvb25zSW5kaWF dIC5ta3YifQ",
         "downloadLinks": {
@@ -23008,7 +23008,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "This is Acrobatic Football!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 16",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=754273c7d035323e023ac5fd7e46a0a0cfc1dd62ba91aa63802f347cee87eef3c69e2b951f9773674cb7c58c488fadbd9bc912c3143c64078ef3ab235f6ae465c1f2d05ce77299f29ff53992c012db3ce73f2f125ab9435ef194cfaa568caa90::5bdde2c233098539eeda1628ac17c315",
         "downloadLinks": {
@@ -23024,7 +23024,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Episode 17",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 17",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=acd537874c1c1091f651337d70d26a80fe9d051cfaaf58b1ef9b3a386a879abde9a82a8098fa45d0b22f2c33d27d8881f5655716e36e2a4ca4a293f429150d7f5c838a1677649830557cc3ba5a3795420661e3cd7070baf6f04a83574add2f6a9a07dc0bc81f0bb76e9a50defb63d0de::a239d26d3d176e02257fcb4e8f00994a",
         "downloadLinks": {
@@ -23040,7 +23040,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Road to the final",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 18",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=089380532108a6cf9185af3f8e6418f0efa7cf2bf4732ce276fe28c87bacba3fad90c40193a775ac1cbb51d12d05e2adb6d6a8a34f209b760380291d8a950961f8179b388690004900f088eee4af598a50daf44eba50ad60f1e2ea1c4e090c4c::e162a2159e7c172052f741195bdfe196",
         "downloadLinks": {
@@ -23056,7 +23056,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Tough match between Meiwa and Furano!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 19",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzcxMmQwZjE5MGI3NzM1YThkZjI3ODU1YTYwY2NiZWEyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA0VDIxNDQzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUxOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YTUwYTYzNGQwNmU2MmMwMmUyOGI0Nzc3MThjOGVjNDc3MzJiM2E5OTBmOTRhNWViMGY3N2U4NjUzMmU2MzI3NCIsInRpbWVzdGFtcCI6MTc4ODQ0ODI2ODAwMCwiaGFzaCI6IjcwM2IwNDU0ZDE4M2VlNTU2MzFlMzU2ZjI3ZDIyMjc4NDNhOWQ0YzI3OTNlZWM1NTRiY2MzNGZlODI0ODAyNjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMTkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23072,7 +23072,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Musashi’s secret plan",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 20",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83ZjAwNzE5MThhNzU5OTMyNmI3ZGQyNzdlMTBhYzViZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA3MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMFQxMTEwNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRjZDU4N2QyNmY1MTdmYjcyNWRiNmJlMDYwMzVlMjYwN2NlYjg1MGM2MGRlZGNjNzMxZWM5MWU0YzcwY2M1ODkiLCJ0aW1lc3RhbXAiOjE3ODg0NDgyNzEwMDAsImhhc2giOiI2MDEwYjgxZWVhM2VmM2M1YzM1NDhmODA0OTgxM2FjZGRhYjdiNmE5NGFlMzg5NDMyMDY0N2ZhMTEzOWRlNGIwIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTIwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
         "downloadLinks": {
@@ -23088,7 +23088,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Crystal Star",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 21",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=e454e9c1be1aeb61c2db6427a0975f5a6116973bc5ed0fbb766320ff4d67166e386bdc52a7b5666f8cedde5b425324c2c8cfdfa9b5dcd0110c0829459289b2a68cbf11a4f1a0d5fecdb930c827c4783d536b1136b3764f2d6aa7f1450d3ed1909168915f4be6f4ca2e98622ab807b527::b5019a9769caba03588ae4cffa41dce7",
         "downloadLinks": {
@@ -23104,7 +23104,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Decisive play stoppage",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 22",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=24d36dcb956a9953da76e7aef7ec0c16faa4aecdd6bb169206a8eb1ce191a426109ff273b9b08e49f5220897ad03bd5f879ada6c94ce65196391cd240e8fa1637f68d0bd381c48201f6228c918568cbf69be4979eae70bbd088256bc42518af3::bfab67676606d00a13c85a9fc6143729",
         "downloadLinks": {
@@ -23120,7 +23120,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Prodigy Goalkeeper Returns!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 23",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=5e8cd5691d40019af288ef99a16dda15d97bdc6418cb1d7a4761d4ebcf78fa67672f7964fa03b8d550eff9109cdfc46617277a342289f35d9483e9e03abdc1d9e6f89f6643d15d653d7b159bfebd3191e5e22f812c9f24dff98cce7dc58927d1::9e872a192768c04d4171e20d389fe21a",
         "downloadLinks": {
@@ -23136,7 +23136,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Tenacity, Definitely Tenacity!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 24",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=5a2951df182e69ce12517a604173fa75764b7e50d098be49c446524c5a3ec5c1bfb8799471ec33acbd146e13889445ca39a6e669df4fb371663ffac3ea401dbdebe67753a5780777203b3cc73c41a42bb953a8b8db5884db544603b2efe3ec14::7ccd6df69234ff5b776ff10b850ffc3d",
         "downloadLinks": {
@@ -23152,7 +23152,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Blazing Counter Attack",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 25",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2M3NTVkOTFlNjExNTQ0NWZhMmExNTgyOWE3ODExZTg1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTY0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YzA2NjcxMWM4OWRlYjg3NmQ1NTBiOTk1ZTAxYmQ4ZTg2ZTExODA4MTUxY2VlZDdiYmNjMGU0YjQ1MGZjODY4NyIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NTAwMCwiaGFzaCI6Ijk2ZDQ4ZTZhMmM2ODFkNmNjYTc0Mjk1OTNkOThlNmNkM2U4ODY5MzQxMmRkMjI2NDA4MzY3ZWRmNjY1Mjc3ZTAiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23168,7 +23168,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Illusory Goal",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 26",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1OGFlYzk1MTVlNDQxZmVlNjkzNmI2MGEyNjQ1MjhiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTcyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MzYyMjRhYWZhYzE0NmNkMTM4ZGJjYzlmMTVjNmRhMGZkZmYwZmU4YjQ4NWY4OWFjNTliYzdmNWU2MDUwODQ4YSIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NzAwMCwiaGFzaCI6IjRmYWYyOTJkNzJhMmU2MzA1ZmVmMDVmNDFhZmU3MjU2OWRhNmFiMWEwNGQzY2IzMmJmYjk1NGZjY2ViNjAzZmEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23184,7 +23184,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Moment of Glory",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 27",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=29c50182d77abf313db48612292bce31b898dfa8d4a96ac6e7c5079633c13082effccab700bc219c7540fddf95ca172ed594148e2b9c77b13d0523aad994b586ddb370f172efe9807824bd9660d26b3aa2f7662bdc9073f0421c6fbb8e20ed62::eb7191a4afffd4ea658e7dd53c1a4f4b",
         "downloadLinks": {
@@ -23200,7 +23200,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Everyone’s Setting Off",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 28",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2IzMDlmZDNhMWU1NjgyMTM1Y2Y4ZDQyZGJkNTA0ZTlkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA1MDIwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyOCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZmQ1YzIwMzc2OGNkZWVlN2UwOTE5ZjljMDUxNGRmN2VjM2MwYzQ4ODI5NGM2ODA5ZDVhMWZkOGQ2N2JlMDFlYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMwMzAwMCwiaGFzaCI6IjEzYjNhNTFkYmUyNDVjMTM3YjdhY2RkOGU5OTJkNjYyZGFkYzE5MjA5MGQzMmI1NDM5YmY3MWY3N2NjOTM0MzMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23216,7 +23216,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Opening of the Summer (Start)!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 29",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8zYzQ5NjMyOTI2MTY0ZmVlZDRiNjY5M2MzOWI2NDRhYj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4MDhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjklMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxYWUwM2Y3NGU2Y2Y2ZTVhM2EwYzE0NDY4MzFlYmViYjhlYTBlMDIxODkyYjMyMDgzNmZhYWNmYzNkMDQyMDgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDYwMDAsImhhc2giOiJiNmVlYjBmNmJkNTNjMzE4NjY5ZmYzMWI3MTY1ZDA0YTc3YjgyZWEzMWQyNzM0NDc1MzRmMDM5YWYwYTNiZTViIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTI5IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
         "downloadLinks": {
@@ -23232,7 +23232,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Prefectural Tournament Final Game! Falcon Shoot Appeared!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 30",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jYTk2OThkMmQ1MDJiZWEwMzI2NmJiYmFmMWJhMzQ5Nz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4NTZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMzAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTcwZThhNDhjZGNkMzQxMzNkMTAwZGRkYjg3YWRlMjE3ZmNjZmNhMzJlMTUyMzE1ZjdjMGQ1MjIzOTk2OGU4ZTAiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDkwMDAsImhhc2giOiJhNzFlZTdiOTBiNDk3NjNkNTExMmI4MWM0ZTIyOTY4ZjE5N2E5YjY5NmQ1YzU3MjBhZmM0MTE1ZjliMjQ4YTQzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTMwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
         "downloadLinks": {
@@ -23248,7 +23248,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Falcon versus Tsubasa",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 31",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2MxOGFiOTMyNzYxOGVhMGUyNDU1MDAyZmE5N2MzZDRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1Mzk1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ODdlNmUyMjFhZTM0ZjMyMDE0MWQxNTQ3OTUyNjMwZmFjMjNhMjMzZWQ4MGU4YzQ0ZDU3MjM3MTFkN2U1YzgwYyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxMjAwMCwiaGFzaCI6IjM0ZDA2OWI1ZmU1OTI0ZGZhZDZjNTE0MTEzOGE3OTE4NWU0NTk2ODY3ZTZhMTc1NzRhMDc0ZGNiZmQwMzc3MjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23264,7 +23264,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Defeated Tsubasa! Hyuga versus Misugi",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 32",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE2OWUwZWQ0MTA3Mjc1NjAwNWNlYTgyYTJhNjJhMDQ3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1NDEzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmVjMDBjMGJjZTk1ZjU1YjU0NGZkNzI2NDJmNDhkMTNmNGIzYTJlNDIzNzYxMzk4MmFkN2E2ODljYzIwODUyMCIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxNzAwMCwiaGFzaCI6IjViNjVlZTQ3MWVkYjlkZmU4ZDE2ZjJkMDU1NTdhZjM5ZTM3MDYzNGUyYTcwMzJkNDZjOTMwZDJmZTZiYjEwNzIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23280,7 +23280,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Tokyo Tournament Conclusion",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 33",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YwYTY0NzQyZWU3ZWQ0ODkyOGI5MWRmYzU2YWRkYmVmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTI1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZGUxYWE0YjUzNmU5Mjc2YzMzZmYyYTNiNzhjYjI4NWY2OGY4ODMzNWQ2OGMwYTU5Y2MyODIyNTFlNWQzMzY3MyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMDAwMCwiaGFzaCI6IjMxNTEzZDZkOWQ1NWQzYjRhYTE1MDMxODY5YjkyNThkY2I1M2EzZTQwZDUxNzg0OWQ3MjY0ZjFkZjc4NzRjZjIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23296,7 +23296,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Episode 34",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 34",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzA4ZTIwZDFhMzdkMThiMWYzMTVlOTBiMzQ0MTBkMTVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDExNTYxNVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MjFjYTI1MWQwNjM4NmU1Y2RhYTU5MmVkZTdjYWJhZWI5MThjMGQ5MmJmNzQwOTY0YzhiYmU1YjY2NDIyNDExZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMzAwMCwiaGFzaCI6IjcyNDA4YzhjZTlmYzcwZWVkNTkzMzZjNjYwYjEyMmFmOTdkM2MwNGQ2OGQ0MWRiYTBkYThjOTVmZmE2OTZjMWEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzQgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23312,7 +23312,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Razor Power Explosion",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 35",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzBjNTViOGViNGM4NWYyY2YyYzkxMWZmYTg4ODE2ZDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTU0OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNSUyMCU 1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg1ZTcxZjY5MjkwNWQyNzUzYzMyMGNkYWU5N2JhMj hmZTgzZmNiNjI3ZGZjOTVjNmYzNzNlNjA3ODIwNjhiYSIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyNjAwMCwiaGFzaCI6ImE4NmE1N GJlMzVmNTRmZGE5M2UwNGYyYWFlZGQ5MDZmMjViYzM3NmI0Nzk0OTRmN2NiYmQ1YTBjODE0NDFjNzQiLCJmaWxlbmFtZS I6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23328,7 +23328,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Everyone’s Decision",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 36",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2NmMDc3NDgzYWUwMTU1ZGExMWMxMmU5MzIyODdhMjhkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA3MTIxN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg4NTUxNzNmOTMxOTVkNzhkNjhiZmIxNTcyODQyYjQxZDZhN2ExZDVlZjRmZTQwMjYxYzA0ZTgwYjVjNzVkNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyOTAwMCwiaGFzaCI6Ijk3YTVhZjM1NmI3MDI3NzE3ODQxMjY1YmZkMjk0NjEyYmU4ZjNhYWQ1OGVjN2Q4NzY4Y2M3N2I0MzBlNTY1OTEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23344,7 +23344,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Skylab Hurricane!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 37",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=13c26f55c5f112dedc172d8b98c0b87ffe218f050338e62fb19ab3185dfc74fe7333028cf2aeaaafe332a544d3ae239b43ca80ad07d22c4aa23adb626c0afd9dbca5446ed2b49b6d4c63e7e3faef19a36b41914af554dff6f017a5be2bf710b4::56b9f23656cb9b80390698b0f5dca49d",
         "downloadLinks": {
@@ -23360,7 +23360,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Assault! Tachibana Brothers",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 38",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=3d84913bd67c56e612879f0ef29a569dbd74beeb1b6125b6eda4332a98305abf2f6fd2d7a8a9bbc82f1e312bdeac30d965b3297bda500fb3b585943fcb132f19bedbfc79a0de95b33872c59596cc008e030cfb4f5275d25a03f5b220ae4eb64499f345a58063f756dfc62c02e3a1cd0e::a6ba6f0cd330283247a512d6fc7c5924",
         "downloadLinks": {
@@ -23376,7 +23376,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Nankatsu versus Hanawa Conclusion!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 39",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f096586a4e5633319b201a86b689b6fe68f0ae2c0ecfda3ef191d8b82b2191558a474147a100a9d7d7612ddb5ef3b16e79c7f08b9683e664d89a15e6f87d25f95c88fac08e7e2c45326961dd4693ea4eb7aa8a0b6973f93a4c2d500be5290a8c::9ae26e0b8bc4bd2ce399e9923645df16",
         "downloadLinks": {
@@ -23392,7 +23392,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Furano goes to the front!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 40",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=8ab6da2c9a21c7b2e023271e9675a3c84cd9da67adef4aa900086e1ea4fbc6c10db6c357af93b08c46421d21a22ea606af2d74b930ef70fcc88af034aa7c07fc71eb09fd564d8cffc0e9139d5295ffedd7682d39e3583b3b31552f55ad51d576425e7dff6443f17dded5749d62f74dda::1b28677ce18f640286ca3e565627ccfe",
         "downloadLinks": {
@@ -23408,7 +23408,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Fearful Dark Horse",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 41",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=3af1ebdb3ab47204e23572aa23354214046e1fae61c44ea0d1abb665a171b0f641d929d1d1fed04e716fcaddbe1248363239ed208e78b27484a69e9df77d7f7eebb973bd71f88dea72214bd852cef11702698ee4f8791a426b103c8f9c3bf69d73d3f3747951cb21c7ee62c6a51f1996::20bba40e849ca4ac92b1c4dcdbf46964",
         "downloadLinks": {
@@ -23424,7 +23424,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Phoenix Tsubasa",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 42",
         "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=9a45475588635ca45f4742a3dffeed0be605ff727dfe0e72b6dc6901c3e100b2c7fd4b88e08ed2ccf1781ff765a4472935dc9a4c49016d710e146ca9b9e46d474abd4e3f9850a9654949e9c3ec964498ac4828a6d99eb45fa52b137dfa546148a23ae4e2d56ec9562e5c3115e863e521::5dfca935c5aff15f702a0ac5ce39ccd1",
         "downloadLinks": {
@@ -23440,7 +23440,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The supplication of the tiger",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 43",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYTZkYjExZGJhNGRiMmYzYzliOGU1MzU1YTNkNGNiZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDA4MzVaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDMlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWVlNjliZTJlMjYyMWIwOWRlZmQxYjYzOWZkYWZhZTk4OWUxNzBjMmZlM2MxZmE5MWE5MjIwZTRkNDM0YmQxMDEiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNTUwMDAsImhhc2giOiJjMWU4NDY0M2Q1Y2FiNjhhOWEwYzcyNmM0OTRjZmIxZTIzODMyZjNjZDc0ZmVjZGQ4OGI1OWI4MzliNzExYjAzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQzIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
         "downloadLinks": {
@@ -23456,7 +23456,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Number 10 vs Number 10",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 44",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8yYzNjMjNhYWIxZmUzNTg5MGUxOTAxY2E3M2I0N2Q0MD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDExNDdaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDQlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTBmZGYzMGQ4Mjg3ZDRlMWIyYzBkYWY4NzA1NzlmMjNmNTI5OGQyNDVmMTE4MmYzMjQwNTJhYmZkZTkyYjAxZjgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjEwMDAsImhhc2giOiIxNjE5ZGRlNz U5YWE2ZTFkNTBjN2ViYmQ2MzMzZGZjZjJjZmM1NjliMWYwNDM5ZWRiNGQ2YjExODI1YmQ3MjBlIiwiZmlsZW5hbWUiOiJDYXB0 YWluIFRzdWJhc2EgUzAxRTQ0IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
         "downloadLinks": {
@@ -23472,7 +23472,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Tears in Airport",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 45",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYzhjMWY5ZDQ5YjBjNzI2YjA2NDVjOGY5NTQ1NzJhMj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMVQwOTAwNDRaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDUlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWE2ZGY3Y2ZhNTA0NTM3YTE0NmMyMzZkNDU0M2I1ZWZiZDY2NGJjZWJmNjcwMzE2MTg2OWU2YmQ4MzRiYWU2NzciLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjQwMDAsImhhc2giOiIwZGU3NWIxZjczZmY5YmZkMzFiZjc4Y2FiYTFlY2U2NTAzNDIzMzJhNjdkNTY4YWM3MTk3N2RjYTE1NzhmNGY0IiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQ1IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
         "downloadLinks": {
@@ -23488,7 +23488,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Kick off of the Century",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 46",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4MjJmMzVmYjQ0NDIyNTE5OGY5ZjE2NDFlZWI4MTkzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDEyNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTY3NWI0YjlhMjcyZWMzZjg2ODc1MjY1NDY3OWFmYjkwYjcwZWY3NzAzOWE4NzA2YmQxOTBhMzg4ZGQ0YmYyMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM2NzAwMCwiaGFzaCI6IjAzMjUxOWFkNjhiN2UyYjBhNGM1Zjk0YWRmMGFkMzExYzNkMjk3MjVkYTI3NThlOTk5MjcwNTdjZThhMDI1MTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23504,7 +23504,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Confrontation of Destiny Once More",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 47",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UxZGZkNmVjNzYxZGRhN2ZjOTlhZDkyNzQxYmQzYzdjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDIxMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NmM4ZTg1ZWY3NGEwZDEwYjNjMzVkZTVhNjA2ODhhZjk3MDEzNTM0ZTM5NGNmNGEyMTJhN2YxY2NjNTRlMzFlOSIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MDAwMCwiaGFzaCI6Ijc3NzI3ZGZiMmYyYjc3NDRhNDNhMTcwN2ZlYjViNDg5NzFjMmI0YjA5MmY5MjRiYzg5YmJjNTNlNGE0NWZiNDYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDcgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23520,7 +23520,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The King Toho",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 48",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY5ZWIxNGZmYjFhNGVkMjM5MmZkMDlkYWMxNjI5NjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDMxOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MmNkOTQzMWE1ZTZjZDQ5MjkwZWNjMTMyOWY3ZmM4YzA2N2FlNWQ3OTIwOGI3NDc2NWUzZjc5Zjc3MDUyZmVhZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MzAwMCwiaGFzaCI6IjBlM2ZjYTJiOWYyMjlhMmNjMGY4ZmE1ZDFkMDIwY2YxMDE3MDhhYTkwZDE5ZmFmNjFjYTJjOWQ3OWMwYjQ3OWMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23536,7 +23536,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Incandescent Fighters, the Fierce Tiger and Tsubasa",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 49",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzk5NmU3Mjg1YjI4YTI0NzUxYzk2MTRjZDE0ZWViZGI2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MDcyM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9N2U1NzRlYTBiODM4NDZiMThlNzM1MTg2MDMzMmQ2MjBjNzY5Nzg5NmVmZTFlMTg3NDlhYTRjMmJkNGFmMTBhNyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3NzAwMCwiaGFzaCI6ImNkZDU4ODA4ODgzNDIzMWFkZTkwMWVmOGM0ZDNmZjgzMjk3NWYzZjhjN2ViN2VmNDFiNDlkOTRiMjZmMThkNWMiLCJmaWxlbmFtZSI6IkNh cHRhaW4gVHN1YmFzYSBTMDFFNDkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23552,7 +23552,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "All",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 50",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YxYTY5ZmJiNjgwOTFlYWJjODBmYzljZDcwZTU1OTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MzUwMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZWQ0YTQxMjVkNzljNGM5ZmYyMWJjODE2NmI3YzA5OGMyMGMwZDljNjdmNWY0Yjk4ZDk4MzMxMzQzNGY0OWEwNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3OTAwMCwiaGFzaCI6IjQ4ZTQ1YTJmZDlmODg0MTE0ZmRmOTkzYzA3MmI3ZTgzNTMyNTdiMjhhNThkZTgxNzVjYTAyNTg0NzA1NDkyZDUiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTAgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23568,7 +23568,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Miracle Drive Shoot!",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 51",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzc0NTk5NTY4Y2U3MWRlMGUzM2ZiNDVkZGM0ZGY1Mzk2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MTMyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Mzg1ZDZlZTFiMjk5MmE4NzU1MjNkZWZjNmZjOTZmOWQyNWNiOGVhMGJlZWE4M2EwM2YyNDBlNjEyZmNlOTMwMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4MzAwMCwiaGFzaCI6ImQwZDA1ZDU5YjE5N2FkMjRhZmE4ZDhmMGQyOWNiMGFiN2Q4MGRhYjM4YTA4NjdiNTAzN2I5MDI4YWJjMjRiNTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23584,7 +23584,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Episode 52",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2116-vI6d4J88kZeq.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
         "synopsis": "Captain Tsubasa Season 1 Episode 52",
         "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzhkZWQxNzhhZDBhODAyM2E2NTljZDI1Y2NkMzdhMDZhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MjA0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTBkMzY1ZTg0MWMyMjJhN2JjZTZmNTQxNzczMzYyNTY0MzA2YTM2NGJkYTFlZDNkZGE2NzE1OGVlYmRhYTRmNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4NjAwMCwiaGFzaCI6IjI0NTIxMTUwODdlNDQ5MTg1NjE4YjU3N2RiYWY3MmRkNzJkNTNjZDFmNTFmNDAxM2ZmMjYwMzJmOWRlYTRjY2YiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
         "downloadLinks": {
@@ -23674,7 +23674,7 @@ export const ANIME_DATABASE = [
     "id": "wish-dragon",
     "title": "Wish Dragon",
     "japaneseTitle": "ウィッシュ・ドラゴン",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
     "rating": 7.9,
     "year": 2021,
@@ -23704,7 +23704,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
             "synopsis": "Wish Dragon Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D",
             "downloadLinks": {
@@ -23724,7 +23724,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/d/d7/Wish_Dragon.png",
         "synopsis": "Wish Dragon Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=ZlPZN5wdkXeshGEjLuSUdZd%2FdyCAR3ELowFVlz%2BIX2JoFvi4szTyZacRyYu%2FQdJqH20aRKj2vbjwLkh%2FdZdVszlmRPDvXfTcgdO77U80EuJ4WNo%3D",
         "downloadLinks": {
@@ -24429,7 +24429,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Fool",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 1",
             "downloadUrl": "https://pixeldrain.net/u/uqiY3W2D?download",
             "downloadLinks": {
@@ -24445,7 +24445,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Beyonder",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 2",
             "downloadUrl": "https://pixeldrain.net/u/NAw1aNix?download",
             "downloadLinks": {
@@ -24461,7 +24461,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Notebook",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 3",
             "downloadUrl": "https://pixeldrain.net/u/LKrmPqPJ?download",
             "downloadLinks": {
@@ -24477,7 +24477,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Magic Mirror",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 4",
             "downloadUrl": "https://pixeldrain.net/u/mEfJ6Fa5?download",
             "downloadLinks": {
@@ -24493,7 +24493,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Hero",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 5",
             "downloadUrl": "https://pixeldrain.net/u/jKZy5Gjc?download",
             "downloadLinks": {
@@ -24509,7 +24509,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Teacher",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 6",
             "downloadUrl": "https://pixeldrain.net/u/nBbCHLyx?download",
             "downloadLinks": {
@@ -24525,7 +24525,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Coincidence",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 7",
             "downloadUrl": "https://pixeldrain.net/u/AZuSVcfg?download",
             "downloadLinks": {
@@ -24541,7 +24541,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Losing Control",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 8",
             "downloadUrl": "https://pixeldrain.net/u/VsLMNAhG?download",
             "downloadLinks": {
@@ -24557,7 +24557,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Gathering",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 9",
             "downloadUrl": "https://pixeldrain.net/u/z6FCy4mA?download",
             "downloadLinks": {
@@ -24573,7 +24573,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Clue",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 10",
             "downloadUrl": "https://pixeldrain.net/u/TUCGZaVe?download",
             "downloadLinks": {
@@ -24589,7 +24589,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Bomb",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 12",
             "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=89d9e3116678b3d8b59af8d92cef64a5ebff9590781eae29d2d30aec83cd3217f46d94ff5e18dcb89e62632c2c3323128a5af73e33685e2baf8d811aa1481b2d440841ef112436c9bb3d0ff997d5fa26c27b0480c2ac4eb504478fad5f5c3ac0::93141fbf9f84eb4c1eb21716c7ac75a3",
             "downloadLinks": {
@@ -24605,7 +24605,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Episode 13",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
             "synopsis": "Lord of Mysteries Season 1 Episode 13",
             "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybHNYSm1sRDBxWDNyVFR5V0lvQjdVQU1NMExId3ZTNng1T3JUZ3ktMlJnRDgzNzBGd0ZXZzhfR1ZWLUk1Vms0T3pHTnlNTGRDY3VkdzRFY09fVGdJck8tQlhaMmxQSnNXd0tGbHZNZ05jeXZWOTZ2dURyaURSQmFrZkhMWktTVXNVcFFCaGp1Ul9sN3ZoUXVacWMzZXczTnpQNkVtVlVsQVlpY2tJclU2ZVl1UmNSSndJQ1pxdXJpMmhwaEF5WUxwZDhYNTZTTUZzZVA3ay1pemlGNDhVNmN0Z2RUdVdYNDI4Sm1iRmk0MXdSRE0wZ01NdyIsInRpbWVzdGFtcCI6MTc4ODQ0ODU0ODAwMCwiaGFzaCI6IjU1YjFhYWYzMWZjNzcwNzBlN2I2MGY5OGJmNzZlNWU3ZjA3NjgxMTAwYzlkM2YzNjUwZTQ3MGQwMjAxNmZiYjkiLCJmaWxlbmFtZSI6IkxvcmQgb2YgTXlzdGVyaWVzIFMwMUUxMyBbSGluZGldLm1rdiJ9",
             "downloadLinks": {
@@ -24625,7 +24625,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Fool",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 1",
         "downloadUrl": "https://pixeldrain.net/u/uqiY3W2D?download",
         "downloadLinks": {
@@ -24641,7 +24641,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Beyonder",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 2",
         "downloadUrl": "https://pixeldrain.net/u/NAw1aNix?download",
         "downloadLinks": {
@@ -24657,7 +24657,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Notebook",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 3",
         "downloadUrl": "https://pixeldrain.net/u/LKrmPqPJ?download",
         "downloadLinks": {
@@ -24673,7 +24673,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Magic Mirror",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 4",
         "downloadUrl": "https://pixeldrain.net/u/mEfJ6Fa5?download",
         "downloadLinks": {
@@ -24689,7 +24689,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Hero",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 5",
         "downloadUrl": "https://pixeldrain.net/u/jKZy5Gjc?download",
         "downloadLinks": {
@@ -24705,7 +24705,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Teacher",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 6",
         "downloadUrl": "https://pixeldrain.net/u/nBbCHLyx?download",
         "downloadLinks": {
@@ -24721,7 +24721,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Coincidence",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 7",
         "downloadUrl": "https://pixeldrain.net/u/AZuSVcfg?download",
         "downloadLinks": {
@@ -24737,7 +24737,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Losing Control",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 8",
         "downloadUrl": "https://pixeldrain.net/u/VsLMNAhG?download",
         "downloadLinks": {
@@ -24753,7 +24753,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Gathering",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 9",
         "downloadUrl": "https://pixeldrain.net/u/z6FCy4mA?download",
         "downloadLinks": {
@@ -24769,7 +24769,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Clue",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 10",
         "downloadUrl": "https://pixeldrain.net/u/TUCGZaVe?download",
         "downloadLinks": {
@@ -24785,7 +24785,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "The Bomb",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 12",
         "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=89d9e3116678b3d8b59af8d92cef64a5ebff9590781eae29d2d30aec83cd3217f46d94ff5e18dcb89e62632c2c3323128a5af73e33685e2baf8d811aa1481b2d440841ef112436c9bb3d0ff997d5fa26c27b0480c2ac4eb504478fad5f5c3ac0::93141fbf9f84eb4c1eb21716c7ac75a3",
         "downloadLinks": {
@@ -24801,7 +24801,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Episode 13",
         "runtime": "24m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138992-E6B2j6i2N1g.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
         "synopsis": "Lord of Mysteries Season 1 Episode 13",
         "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybHNYSm1sRDBxWDNyVFR5V0lvQjdVQU1NMExId3ZTNng1T3JUZ3ktMlJnRDgzNzBGd0ZXZzhfR1ZWLUk1Vms0T3pHTnlNTGRDY3VkdzRFY09fVGdJck8tQlhaMmxQSnNXd0tGbHZNZ05jeXZWOTZ2dURyaURSQmFrZkhMWktTVXNVcFFCaGp1Ul9sN3ZoUXVacWMzZXczTnpQNkVtVlVsQVlpY2tJclU2ZVl1UmNSSndJQ1pxdXJpMmhwaEF5WUxwZDhYNTZTTUZzZVA3ay1pemlGNDhVNmN0Z2RUdVdYNDI4Sm1iRmk0MXdSRE0wZ01NdyIsInRpbWVzdGFtcCI6MTc4ODQ0ODU0ODAwMCwiaGFzaCI6IjU1YjFhYWYzMWZjNzcwNzBlN2I2MGY5OGJmNzZlNWU3ZjA3NjgxMTAwYzlkM2YzNjUwZTQ3MGQwMjAxNmZiYjkiLCJmaWxlbmFtZSI6IkxvcmQgb2YgTXlzdGVyaWVzIFMwMUUxMyBbSGluZGldLm1rdiJ9",
         "downloadLinks": {
@@ -24822,7 +24822,7 @@ export const ANIME_DATABASE = [
     "id": "that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-2022",
     "title": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022)",
     "japaneseTitle": "",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139518-7sPZ8hO08cO0.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139498-f6sMOwOTBQv4.jpg",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
     "rating": 8,
     "year": 2024,
@@ -24850,7 +24850,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-gLd93v2u67K7.jpg",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
             "synopsis": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022) Season 1 Episode 1",
             "downloadUrl": "https://gamerxyt.com/hubcloud.php?host=hubcloud&id=7csc8swjssc7ws1&token=akVQRXFJQ0w0Z25VeWE3VGNZRVBxNkEzQlQzNmQrYlRLbEZ6OXNwTVpBaz0=",
             "downloadLinks": {
@@ -24871,7 +24871,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-gLd93v2u67K7.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
         "synopsis": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022) Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=qaAxmZWrGy8%2Bzxh6XeNIbmetbQ3pvl%2BUzpslFmOS7Lx754DkMgzpdcnwMYAO74BFp5SZw27cb2hRUwr1ZJJdDJjZeUB2u74VmSyJeLSzq%2BTpOX4%3D",
         "downloadLinks": {
@@ -24892,7 +24892,7 @@ export const ANIME_DATABASE = [
     "id": "boonie-bears-the-big-shrink",
     "title": "Boonie Bears: The Big Shrink",
     "japaneseTitle": "熊出没·变形记",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
     "poster": "https://wsrv.nl/?url=https://img.goldposter.com/2018/01/boonie-bears-big-shrink_poster_goldposter_com_13.jpg",
     "rating": 7.2,
     "year": 2018,
@@ -24922,7 +24922,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
             "synopsis": "Boonie Bears: The Big Shrink Season 1 Episode 1",
             "downloadUrl": "https://gamerxyt.com/hubcloud.php?host=hubcloud&id=imtjs6sxu9ltlmb&token=b016OE9aVVRLYzc0K3VocDhsWnRmNE4rc1BPZ0NOQjhTdnFCaTFhbDVxYz0=",
             "downloadLinks": {
@@ -24943,7 +24943,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/4/49/Boonie_Bears_III_poster.jpeg",
         "synopsis": "Boonie Bears: The Big Shrink Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=AhH7%2B7gHb9zQy%2BeBddB6d%2FvCC93XGcsMLPMhbawOcUpjIUe%2FGiLNMlbGIL0Lna2GqKXxTDIK%2FmdMEBVVinsx8MhwqmaVA5v1tTF2AQgsahLmxLo%3D",
         "downloadLinks": {
@@ -24964,7 +24964,7 @@ export const ANIME_DATABASE = [
     "id": "boonie-bears-future-reborn",
     "title": "Boonie Bears: Future Reborn",
     "japaneseTitle": "熊出没之重启未来",
-    "banner": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+    "banner": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
     "poster": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/3d/Boonie_Bears_Future_Reborn_poster.jpg",
     "rating": 7.5,
     "year": 2025,
@@ -24993,7 +24993,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Full Movie / Season Direct Download",
             "runtime": "1h 42m",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+            "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
             "synopsis": "Boonie Bears: Future Reborn Season 1 Episode 1",
             "downloadUrl": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D",
             "downloadLinks": {
@@ -25013,7 +25013,7 @@ export const ANIME_DATABASE = [
         "season": 1,
         "title": "Full Movie / Season Direct Download",
         "runtime": "1h 42m",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
+        "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/39/Boonie_Bears_Back_to_Earth.jpg",
         "synopsis": "Boonie Bears: Future Reborn Season 1 Episode 1",
         "downloadUrl": "https://codedew.com/zipper/?url=XK0vUnEl5flQ8N0JHXwwQqnDnQKxg9Pf%2FgTfcfXep5fmb2DVGKxTZbobysWKkCjbg4WoyferyNluozfbTXUXg3SbemGHzD4mzpkA6i8iIBZHtrA%3D",
         "downloadLinks": {
