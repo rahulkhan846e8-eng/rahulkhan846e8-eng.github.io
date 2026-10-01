@@ -18379,11 +18379,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 1",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZiNjI0ZGFhNjdiYjllMmNmMjgxMmE4NTA0YTRiNjA4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDExMjg1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NjQxM2VmM2IxYTJiZDU0MTZiNGNlNWNhZGRjMjIyMzQzMTgyNGQ3MDQxMmEwMjBiNmViODlmYzM5YWNkZjkwMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzYyOTAwMCwiaGFzaCI6IjVjODkwYjlkMTFmNTFjMmMyZjUxMDIzZmJlNzhlZDQzOTVlYTY4NWRmOTc2MjZhYTIzN2Q4ZDRjMGRkNDcwNDgiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZiNjI0ZGFhNjdiYjllMmNmMjgxMmE4NTA0YTRiNjA4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDExMjg1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NjQxM2VmM2IxYTJiZDU0MTZiNGNlNWNhZGRjMjIyMzQzMTgyNGQ3MDQxMmEwMjBiNmViODlmYzM5YWNkZjkwMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzYyOTAwMCwiaGFzaCI6IjVjODkwYjlkMTFmNTFjMmMyZjUxMDIzZmJlNzhlZDQzOTVlYTY4NWRmOTc2MjZhYTIzN2Q4ZDRjMGRkNDcwNDgiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZiNjI0ZGFhNjdiYjllMmNmMjgxMmE4NTA0YTRiNjA4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDExMjg1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NjQxM2VmM2IxYTJiZDU0MTZiNGNlNWNhZGRjMjIyMzQzMTgyNGQ3MDQxMmEwMjBiNmViODlmYzM5YWNkZjkwMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzYyOTAwMCwiaGFzaCI6IjVjODkwYjlkMTFmNTFjMmMyZjUxMDIzZmJlNzhlZDQzOTVlYTY4NWRmOTc2MjZhYTIzN2Q4ZDRjMGRkNDcwNDgiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZiNjI0ZGFhNjdiYjllMmNmMjgxMmE4NTA0YTRiNjA4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDExMjg1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NjQxM2VmM2IxYTJiZDU0MTZiNGNlNWNhZGRjMjIyMzQzMTgyNGQ3MDQxMmEwMjBiNmViODlmYzM5YWNkZjkwMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzYyOTAwMCwiaGFzaCI6IjVjODkwYjlkMTFmNTFjMmMyZjUxMDIzZmJlNzhlZDQzOTVlYTY4NWRmOTc2MjZhYTIzN2Q4ZDRjMGRkNDcwNDgiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZiNjI0ZGFhNjdiYjllMmNmMjgxMmE4NTA0YTRiNjA4P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDExMjg1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NjQxM2VmM2IxYTJiZDU0MTZiNGNlNWNhZGRjMjIyMzQzMTgyNGQ3MDQxMmEwMjBiNmViODlmYzM5YWNkZjkwMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzYyOTAwMCwiaGFzaCI6IjVjODkwYjlkMTFmNTFjMmMyZjUxMDIzZmJlNzhlZDQzOTVlYTY4NWRmOTc2MjZhYTIzN2Q4ZDRjMGRkNDcwNDgiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25"
             },
             "hasTelegram": false
           },
@@ -18395,11 +18396,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 2",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2FmMzYxN2JhYTk3YjVkODM4ZmVkODFlMDI1NmIwMzRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2NTQyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTdjMWM3ZGFiMWQyZTUzNTdmMjBmMGVlOWVjMTgxZWY1OTRjMDc2NjFiNTFkZjk1MDdiODU2ZWE1M2EzYTJkMyIsInRpbWVzdGFtcCI6MTc4ODQ0NzY0NDAwMCwiaGFzaCI6IjA1MmI2NDZiMmI1MTJmOTVmMTU2ZTI0NjNjZTRjMWMyN2IyNzQ0MTJmOTczM2U3OTc0NzUwM2VmNjI0OWZhZjMiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2FmMzYxN2JhYTk3YjVkODM4ZmVkODFlMDI1NmIwMzRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2NTQyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTdjMWM3ZGFiMWQyZTUzNTdmMjBmMGVlOWVjMTgxZWY1OTRjMDc2NjFiNTFkZjk1MDdiODU2ZWE1M2EzYTJkMyIsInRpbWVzdGFtcCI6MTc4ODQ0NzY0NDAwMCwiaGFzaCI6IjA1MmI2NDZiMmI1MTJmOTVmMTU2ZTI0NjNjZTRjMWMyN2IyNzQ0MTJmOTczM2U3OTc0NzUwM2VmNjI0OWZhZjMiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2FmMzYxN2JhYTk3YjVkODM4ZmVkODFlMDI1NmIwMzRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2NTQyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTdjMWM3ZGFiMWQyZTUzNTdmMjBmMGVlOWVjMTgxZWY1OTRjMDc2NjFiNTFkZjk1MDdiODU2ZWE1M2EzYTJkMyIsInRpbWVzdGFtcCI6MTc4ODQ0NzY0NDAwMCwiaGFzaCI6IjA1MmI2NDZiMmI1MTJmOTVmMTU2ZTI0NjNjZTRjMWMyN2IyNzQ0MTJmOTczM2U3OTc0NzUwM2VmNjI0OWZhZjMiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2FmMzYxN2JhYTk3YjVkODM4ZmVkODFlMDI1NmIwMzRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2NTQyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTdjMWM3ZGFiMWQyZTUzNTdmMjBmMGVlOWVjMTgxZWY1OTRjMDc2NjFiNTFkZjk1MDdiODU2ZWE1M2EzYTJkMyIsInRpbWVzdGFtcCI6MTc4ODQ0NzY0NDAwMCwiaGFzaCI6IjA1MmI2NDZiMmI1MTJmOTVmMTU2ZTI0NjNjZTRjMWMyN2IyNzQ0MTJmOTczM2U3OTc0NzUwM2VmNjI0OWZhZjMiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2FmMzYxN2JhYTk3YjVkODM4ZmVkODFlMDI1NmIwMzRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2NTQyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTdjMWM3ZGFiMWQyZTUzNTdmMjBmMGVlOWVjMTgxZWY1OTRjMDc2NjFiNTFkZjk1MDdiODU2ZWE1M2EzYTJkMyIsInRpbWVzdGFtcCI6MTc4ODQ0NzY0NDAwMCwiaGFzaCI6IjA1MmI2NDZiMmI1MTJmOTVmMTU2ZTI0NjNjZTRjMWMyN2IyNzQ0MTJmOTczM2U3OTc0NzUwM2VmNjI0OWZhZjMiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25"
             },
             "hasTelegram": false
           },
@@ -18411,11 +18413,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 3",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjkzNTFmMGY4ZTE2YmUwMWQxYzhmNzUzNWQyODk4ZjgucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY4NjUyMDRkNWQzMzYzOWEzNzYzZjZjMTM5ZjdmNDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NjgwOTM4ZjgyMTUzOTM1MWMyYmRiZTVmMjM4NjI5ZTElMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0MjM1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmE4ZGUwYTBiZWIxNWFlNGE3NGQzOTIyNTJiOTY4YzAzMTczNGMyNDlhNjZlZjZlMmMxYjRhZDBmOTIxNGYwZSIsInRpbWVzdGFtcCI6MTc4ODQ0NzY2NjAwMCwiaGFzaCI6IjI2NDFlN2ZjZTQ0MTQxMmU2ZTVjYThhMDgwMzk3YmUxMmE1Njg4NmJiMTZlMjRiZTgwNGI3MDc1NmEyOTQ3YmIiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjkzNTFmMGY4ZTE2YmUwMWQxYzhmNzUzNWQyODk4ZjgucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY4NjUyMDRkNWQzMzYzOWEzNzYzZjZjMTM5ZjdmNDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NjgwOTM4ZjgyMTUzOTM1MWMyYmRiZTVmMjM4NjI5ZTElMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0MjM1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmE4ZGUwYTBiZWIxNWFlNGE3NGQzOTIyNTJiOTY4YzAzMTczNGMyNDlhNjZlZjZlMmMxYjRhZDBmOTIxNGYwZSIsInRpbWVzdGFtcCI6MTc4ODQ0NzY2NjAwMCwiaGFzaCI6IjI2NDFlN2ZjZTQ0MTQxMmU2ZTVjYThhMDgwMzk3YmUxMmE1Njg4NmJiMTZlMjRiZTgwNGI3MDc1NmEyOTQ3YmIiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjkzNTFmMGY4ZTE2YmUwMWQxYzhmNzUzNWQyODk4ZjgucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY4NjUyMDRkNWQzMzYzOWEzNzYzZjZjMTM5ZjdmNDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NjgwOTM4ZjgyMTUzOTM1MWMyYmRiZTVmMjM4NjI5ZTElMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0MjM1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmE4ZGUwYTBiZWIxNWFlNGE3NGQzOTIyNTJiOTY4YzAzMTczNGMyNDlhNjZlZjZlMmMxYjRhZDBmOTIxNGYwZSIsInRpbWVzdGFtcCI6MTc4ODQ0NzY2NjAwMCwiaGFzaCI6IjI2NDFlN2ZjZTQ0MTQxMmU2ZTVjYThhMDgwMzk3YmUxMmE1Njg4NmJiMTZlMjRiZTgwNGI3MDc1NmEyOTQ3YmIiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjkzNTFmMGY4ZTE2YmUwMWQxYzhmNzUzNWQyODk4ZjgucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY4NjUyMDRkNWQzMzYzOWEzNzYzZjZjMTM5ZjdmNDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NjgwOTM4ZjgyMTUzOTM1MWMyYmRiZTVmMjM4NjI5ZTElMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0MjM1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmE4ZGUwYTBiZWIxNWFlNGE3NGQzOTIyNTJiOTY4YzAzMTczNGMyNDlhNjZlZjZlMmMxYjRhZDBmOTIxNGYwZSIsInRpbWVzdGFtcCI6MTc4ODQ0NzY2NjAwMCwiaGFzaCI6IjI2NDFlN2ZjZTQ0MTQxMmU2ZTVjYThhMDgwMzk3YmUxMmE1Njg4NmJiMTZlMjRiZTgwNGI3MDc1NmEyOTQ3YmIiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjkzNTFmMGY4ZTE2YmUwMWQxYzhmNzUzNWQyODk4ZjgucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY4NjUyMDRkNWQzMzYzOWEzNzYzZjZjMTM5ZjdmNDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NjgwOTM4ZjgyMTUzOTM1MWMyYmRiZTVmMjM4NjI5ZTElMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0MjM1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBTV0FUJTIwS2F0cyUyMFRoZSUyMFJhZGljYWwlMjBTcXVhZHJvbiUyMFMwMUUwMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmE4ZGUwYTBiZWIxNWFlNGE3NGQzOTIyNTJiOTY4YzAzMTczNGMyNDlhNjZlZjZlMmMxYjRhZDBmOTIxNGYwZSIsInRpbWVzdGFtcCI6MTc4ODQ0NzY2NjAwMCwiaGFzaCI6IjI2NDFlN2ZjZTQ0MTQxMmU2ZTVjYThhMDgwMzk3YmUxMmE1Njg4NmJiMTZlMjRiZTgwNGI3MDc1NmEyOTQ3YmIiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25"
             },
             "hasTelegram": false
           },
@@ -18427,11 +18430,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 4",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=aa81180d4bacad41f4aac93c3cbe884272fe326f462baa3dd7b2319c02958f2eeaedba83c3dbb5fbbc70f6ca619c987353420911292d517d8f6b59d8f45f7a11536280df33094697bcfdf062741d96383ecb3b2016e804719c4747db35eff16318ef33c47e4bdbc56bdc51dcf7f0c0c9::c051e9a2590f7adb81892d916d7a843e",
+            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=aa81180d4bacad41f4aac93c3cbe884272fe326f462baa3dd7b2319c02958f2eeaedba83c3dbb5fbbc70f6ca619c987353420911292d517d8f6b59d8f45f7a11536280df33094697bcfdf062741d96383ecb3b2016e804719c4747db35eff16318ef33c47e4bdbc56bdc51dcf7f0c0c9::c051e9a2590f7adb81892d916d7a843e",
+              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=aa81180d4bacad41f4aac93c3cbe884272fe326f462baa3dd7b2319c02958f2eeaedba83c3dbb5fbbc70f6ca619c987353420911292d517d8f6b59d8f45f7a11536280df33094697bcfdf062741d96383ecb3b2016e804719c4747db35eff16318ef33c47e4bdbc56bdc51dcf7f0c0c9::c051e9a2590f7adb81892d916d7a843e",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=aa81180d4bacad41f4aac93c3cbe884272fe326f462baa3dd7b2319c02958f2eeaedba83c3dbb5fbbc70f6ca619c987353420911292d517d8f6b59d8f45f7a11536280df33094697bcfdf062741d96383ecb3b2016e804719c4747db35eff16318ef33c47e4bdbc56bdc51dcf7f0c0c9::c051e9a2590f7adb81892d916d7a843e"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=aa81180d4bacad41f4aac93c3cbe884272fe326f462baa3dd7b2319c02958f2eeaedba83c3dbb5fbbc70f6ca619c987353420911292d517d8f6b59d8f45f7a11536280df33094697bcfdf062741d96383ecb3b2016e804719c4747db35eff16318ef33c47e4bdbc56bdc51dcf7f0c0c9::c051e9a2590f7adb81892d916d7a843e",
+              "hindi": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25"
             },
             "hasTelegram": false
           },
@@ -18443,11 +18447,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 5",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=87a9cb15435ffcd2e758f6a14ddea2e2f204d4e0e44c93186b22b8cae2ad711c97be509b5aa7ee401fa442e17d987be536a783d7b17086f230532a6d6895dfee64309646bd8a12c7ec5f3b6f01c4b4a186d0f9027271d06f4b2b7a6e8d2164bda42b7803f1fb6e324068cbfbcf59154d::c16539a79a46678fb43a824d4b19fd17",
+            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=87a9cb15435ffcd2e758f6a14ddea2e2f204d4e0e44c93186b22b8cae2ad711c97be509b5aa7ee401fa442e17d987be536a783d7b17086f230532a6d6895dfee64309646bd8a12c7ec5f3b6f01c4b4a186d0f9027271d06f4b2b7a6e8d2164bda42b7803f1fb6e324068cbfbcf59154d::c16539a79a46678fb43a824d4b19fd17",
+              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=87a9cb15435ffcd2e758f6a14ddea2e2f204d4e0e44c93186b22b8cae2ad711c97be509b5aa7ee401fa442e17d987be536a783d7b17086f230532a6d6895dfee64309646bd8a12c7ec5f3b6f01c4b4a186d0f9027271d06f4b2b7a6e8d2164bda42b7803f1fb6e324068cbfbcf59154d::c16539a79a46678fb43a824d4b19fd17",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=87a9cb15435ffcd2e758f6a14ddea2e2f204d4e0e44c93186b22b8cae2ad711c97be509b5aa7ee401fa442e17d987be536a783d7b17086f230532a6d6895dfee64309646bd8a12c7ec5f3b6f01c4b4a186d0f9027271d06f4b2b7a6e8d2164bda42b7803f1fb6e324068cbfbcf59154d::c16539a79a46678fb43a824d4b19fd17"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=87a9cb15435ffcd2e758f6a14ddea2e2f204d4e0e44c93186b22b8cae2ad711c97be509b5aa7ee401fa442e17d987be536a783d7b17086f230532a6d6895dfee64309646bd8a12c7ec5f3b6f01c4b4a186d0f9027271d06f4b2b7a6e8d2164bda42b7803f1fb6e324068cbfbcf59154d::c16539a79a46678fb43a824d4b19fd17",
+              "hindi": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25"
             },
             "hasTelegram": false
           },
@@ -18459,11 +18464,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 6",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=dc3434fa8ec816441823fbf5223089a8984826568b0ea96d42307e9d83650d83db723628f2024001f36e36755bd72efdd87e6a561bd06c58ad7c85360e31143c69d792c8bbbabc6b07b206eabb2b75e12920779812db23a8704909fe0bd7bc1f8aae1dca2aa9733803f61fae794dfae5::da0ddb01aaee053b52ba5dade5dbbdc4",
+            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=dc3434fa8ec816441823fbf5223089a8984826568b0ea96d42307e9d83650d83db723628f2024001f36e36755bd72efdd87e6a561bd06c58ad7c85360e31143c69d792c8bbbabc6b07b206eabb2b75e12920779812db23a8704909fe0bd7bc1f8aae1dca2aa9733803f61fae794dfae5::da0ddb01aaee053b52ba5dade5dbbdc4",
+              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=dc3434fa8ec816441823fbf5223089a8984826568b0ea96d42307e9d83650d83db723628f2024001f36e36755bd72efdd87e6a561bd06c58ad7c85360e31143c69d792c8bbbabc6b07b206eabb2b75e12920779812db23a8704909fe0bd7bc1f8aae1dca2aa9733803f61fae794dfae5::da0ddb01aaee053b52ba5dade5dbbdc4",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=dc3434fa8ec816441823fbf5223089a8984826568b0ea96d42307e9d83650d83db723628f2024001f36e36755bd72efdd87e6a561bd06c58ad7c85360e31143c69d792c8bbbabc6b07b206eabb2b75e12920779812db23a8704909fe0bd7bc1f8aae1dca2aa9733803f61fae794dfae5::da0ddb01aaee053b52ba5dade5dbbdc4"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=dc3434fa8ec816441823fbf5223089a8984826568b0ea96d42307e9d83650d83db723628f2024001f36e36755bd72efdd87e6a561bd06c58ad7c85360e31143c69d792c8bbbabc6b07b206eabb2b75e12920779812db23a8704909fe0bd7bc1f8aae1dca2aa9733803f61fae794dfae5::da0ddb01aaee053b52ba5dade5dbbdc4",
+              "hindi": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25"
             },
             "hasTelegram": false
           },
@@ -18475,11 +18481,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 7",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=61f341771e54db8a22748e84b142b87a9339ca3e8e917ca0b5a8429d343a4e4b0c8664eabbc99a4a67c3596a07ec4ec5b9aefb6fd8f8a3248319c0eff0ce2da7ec30818188ab8962c5139ba71aa8cb9e58203aad88430908f21bfaeef91491586abd6aed4100d8dbe20935c9ee49f566::374f401cb716bc8dd845ff25261aa91c",
+            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=61f341771e54db8a22748e84b142b87a9339ca3e8e917ca0b5a8429d343a4e4b0c8664eabbc99a4a67c3596a07ec4ec5b9aefb6fd8f8a3248319c0eff0ce2da7ec30818188ab8962c5139ba71aa8cb9e58203aad88430908f21bfaeef91491586abd6aed4100d8dbe20935c9ee49f566::374f401cb716bc8dd845ff25261aa91c",
+              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=61f341771e54db8a22748e84b142b87a9339ca3e8e917ca0b5a8429d343a4e4b0c8664eabbc99a4a67c3596a07ec4ec5b9aefb6fd8f8a3248319c0eff0ce2da7ec30818188ab8962c5139ba71aa8cb9e58203aad88430908f21bfaeef91491586abd6aed4100d8dbe20935c9ee49f566::374f401cb716bc8dd845ff25261aa91c",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=61f341771e54db8a22748e84b142b87a9339ca3e8e917ca0b5a8429d343a4e4b0c8664eabbc99a4a67c3596a07ec4ec5b9aefb6fd8f8a3248319c0eff0ce2da7ec30818188ab8962c5139ba71aa8cb9e58203aad88430908f21bfaeef91491586abd6aed4100d8dbe20935c9ee49f566::374f401cb716bc8dd845ff25261aa91c"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=61f341771e54db8a22748e84b142b87a9339ca3e8e917ca0b5a8429d343a4e4b0c8664eabbc99a4a67c3596a07ec4ec5b9aefb6fd8f8a3248319c0eff0ce2da7ec30818188ab8962c5139ba71aa8cb9e58203aad88430908f21bfaeef91491586abd6aed4100d8dbe20935c9ee49f566::374f401cb716bc8dd845ff25261aa91c",
+              "hindi": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX"
             },
             "hasTelegram": false
           },
@@ -18491,11 +18498,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 8",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=bb98ab3fb25383a837f78663d8ccd119225ad9c8739cb56da6bf2b4871297883481b00c3ab76e83a673a90848b47e731250f5ba43fefcdc04413746cf30753ed29d151aa21ea2d2f28f9e2a507125749bf1b8e61f827bfef738b7c55c629571117e5d207bf8c308e395c108fbab56c83::ab2610160eae4856327d13d82db37585",
+            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=bb98ab3fb25383a837f78663d8ccd119225ad9c8739cb56da6bf2b4871297883481b00c3ab76e83a673a90848b47e731250f5ba43fefcdc04413746cf30753ed29d151aa21ea2d2f28f9e2a507125749bf1b8e61f827bfef738b7c55c629571117e5d207bf8c308e395c108fbab56c83::ab2610160eae4856327d13d82db37585",
+              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=bb98ab3fb25383a837f78663d8ccd119225ad9c8739cb56da6bf2b4871297883481b00c3ab76e83a673a90848b47e731250f5ba43fefcdc04413746cf30753ed29d151aa21ea2d2f28f9e2a507125749bf1b8e61f827bfef738b7c55c629571117e5d207bf8c308e395c108fbab56c83::ab2610160eae4856327d13d82db37585",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=bb98ab3fb25383a837f78663d8ccd119225ad9c8739cb56da6bf2b4871297883481b00c3ab76e83a673a90848b47e731250f5ba43fefcdc04413746cf30753ed29d151aa21ea2d2f28f9e2a507125749bf1b8e61f827bfef738b7c55c629571117e5d207bf8c308e395c108fbab56c83::ab2610160eae4856327d13d82db37585"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=bb98ab3fb25383a837f78663d8ccd119225ad9c8739cb56da6bf2b4871297883481b00c3ab76e83a673a90848b47e731250f5ba43fefcdc04413746cf30753ed29d151aa21ea2d2f28f9e2a507125749bf1b8e61f827bfef738b7c55c629571117e5d207bf8c308e395c108fbab56c83::ab2610160eae4856327d13d82db37585",
+              "hindi": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25"
             },
             "hasTelegram": false
           },
@@ -18507,11 +18515,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 9",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1p5TFFlZ0RGM0VzOGktRlY0bVdCUklaM3RNSHNSblpvTUlBdVNHa2JWemREQWw4ek13WmFYdUxnWmJiZlBoSUZzVHAwRVJZRkd6VGFjUUljckJ1emFBV2JtVElkX1R2ZFRLU0tmVUVjeUk4bFk5dmpnTVJzNUNlN1BCMzdyYnBVQWZyZFI2dVo4Z1l4SnpaTEdBVjZKYXpYVEJMRTB6TWVJbENoQjZKQk45aEJ2SEtVdlBrUDlwTkZ4VU5BSzBjY2hyRUJUQWlEanBvWDV4VU9tRG5ZdjZ0SEVTMXA1MThsZUFpRm94VFRYa3F4NVlnWSIsInRpbWVzdGFtcCI6MTc4ODQ0NzczMTAwMCwiaGFzaCI6IjNkZWMyZjI0MTJiOTY1YTcyODBkMWIwZjI1MmJkMzg1ZTg4M2Q4MmE1ZTdhOWY2MmVkZmQ5MmUyY2JjZjRjYmQiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDkgW1JhcmVUb29uc0luZGlhXSAgLm1rdiJ9",
+            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1p5TFFlZ0RGM0VzOGktRlY0bVdCUklaM3RNSHNSblpvTUlBdVNHa2JWemREQWw4ek13WmFYdUxnWmJiZlBoSUZzVHAwRVJZRkd6VGFjUUljckJ1emFBV2JtVElkX1R2ZFRLU0tmVUVjeUk4bFk5dmpnTVJzNUNlN1BCMzdyYnBVQWZyZFI2dVo4Z1l4SnpaTEdBVjZKYXpYVEJMRTB6TWVJbENoQjZKQk45aEJ2SEtVdlBrUDlwTkZ4VU5BSzBjY2hyRUJUQWlEanBvWDV4VU9tRG5ZdjZ0SEVTMXA1MThsZUFpRm94VFRYa3F4NVlnWSIsInRpbWVzdGFtcCI6MTc4ODQ0NzczMTAwMCwiaGFzaCI6IjNkZWMyZjI0MTJiOTY1YTcyODBkMWIwZjI1MmJkMzg1ZTg4M2Q4MmE1ZTdhOWY2MmVkZmQ5MmUyY2JjZjRjYmQiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDkgW1JhcmVUb29uc0luZGlhXSAgLm1rdiJ9",
+              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1p5TFFlZ0RGM0VzOGktRlY0bVdCUklaM3RNSHNSblpvTUlBdVNHa2JWemREQWw4ek13WmFYdUxnWmJiZlBoSUZzVHAwRVJZRkd6VGFjUUljckJ1emFBV2JtVElkX1R2ZFRLU0tmVUVjeUk4bFk5dmpnTVJzNUNlN1BCMzdyYnBVQWZyZFI2dVo4Z1l4SnpaTEdBVjZKYXpYVEJMRTB6TWVJbENoQjZKQk45aEJ2SEtVdlBrUDlwTkZ4VU5BSzBjY2hyRUJUQWlEanBvWDV4VU9tRG5ZdjZ0SEVTMXA1MThsZUFpRm94VFRYa3F4NVlnWSIsInRpbWVzdGFtcCI6MTc4ODQ0NzczMTAwMCwiaGFzaCI6IjNkZWMyZjI0MTJiOTY1YTcyODBkMWIwZjI1MmJkMzg1ZTg4M2Q4MmE1ZTdhOWY2MmVkZmQ5MmUyY2JjZjRjYmQiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDkgW1JhcmVUb29uc0luZGlhXSAgLm1rdiJ9",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1p5TFFlZ0RGM0VzOGktRlY0bVdCUklaM3RNSHNSblpvTUlBdVNHa2JWemREQWw4ek13WmFYdUxnWmJiZlBoSUZzVHAwRVJZRkd6VGFjUUljckJ1emFBV2JtVElkX1R2ZFRLU0tmVUVjeUk4bFk5dmpnTVJzNUNlN1BCMzdyYnBVQWZyZFI2dVo4Z1l4SnpaTEdBVjZKYXpYVEJMRTB6TWVJbENoQjZKQk45aEJ2SEtVdlBrUDlwTkZ4VU5BSzBjY2hyRUJUQWlEanBvWDV4VU9tRG5ZdjZ0SEVTMXA1MThsZUFpRm94VFRYa3F4NVlnWSIsInRpbWVzdGFtcCI6MTc4ODQ0NzczMTAwMCwiaGFzaCI6IjNkZWMyZjI0MTJiOTY1YTcyODBkMWIwZjI1MmJkMzg1ZTg4M2Q4MmE1ZTdhOWY2MmVkZmQ5MmUyY2JjZjRjYmQiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDkgW1JhcmVUb29uc0luZGlhXSAgLm1rdiJ9"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1p5TFFlZ0RGM0VzOGktRlY0bVdCUklaM3RNSHNSblpvTUlBdVNHa2JWemREQWw4ek13WmFYdUxnWmJiZlBoSUZzVHAwRVJZRkd6VGFjUUljckJ1emFBV2JtVElkX1R2ZFRLU0tmVUVjeUk4bFk5dmpnTVJzNUNlN1BCMzdyYnBVQWZyZFI2dVo4Z1l4SnpaTEdBVjZKYXpYVEJMRTB6TWVJbENoQjZKQk45aEJ2SEtVdlBrUDlwTkZ4VU5BSzBjY2hyRUJUQWlEanBvWDV4VU9tRG5ZdjZ0SEVTMXA1MThsZUFpRm94VFRYa3F4NVlnWSIsInRpbWVzdGFtcCI6MTc4ODQ0NzczMTAwMCwiaGFzaCI6IjNkZWMyZjI0MTJiOTY1YTcyODBkMWIwZjI1MmJkMzg1ZTg4M2Q4MmE1ZTdhOWY2MmVkZmQ5MmUyY2JjZjRjYmQiLCJmaWxlbmFtZSI6IlNXQVQgS2F0cyBUaGUgUmFkaWNhbCBTcXVhZHJvbiBTMDFFMDkgW1JhcmVUb29uc0luZGlhXSAgLm1rdiJ9",
+              "hindi": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX"
             },
             "hasTelegram": false
           },
@@ -18523,11 +18532,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 10",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=e5cb8dd71817c3dd8d97dad9068f63a02612cfe87e783fb4d5cd1139e2e21e328a421a6c7e8bcc53f3643c2a0d8e0580006129398b2213bc3453bb157ea0efa598ce656db041fc60a4611df3944dbf103b2cc5244606840b0aa9893d47a457ee::0d96a3135b4203023a10534ca5617464",
+            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=e5cb8dd71817c3dd8d97dad9068f63a02612cfe87e783fb4d5cd1139e2e21e328a421a6c7e8bcc53f3643c2a0d8e0580006129398b2213bc3453bb157ea0efa598ce656db041fc60a4611df3944dbf103b2cc5244606840b0aa9893d47a457ee::0d96a3135b4203023a10534ca5617464",
+              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=e5cb8dd71817c3dd8d97dad9068f63a02612cfe87e783fb4d5cd1139e2e21e328a421a6c7e8bcc53f3643c2a0d8e0580006129398b2213bc3453bb157ea0efa598ce656db041fc60a4611df3944dbf103b2cc5244606840b0aa9893d47a457ee::0d96a3135b4203023a10534ca5617464",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=e5cb8dd71817c3dd8d97dad9068f63a02612cfe87e783fb4d5cd1139e2e21e328a421a6c7e8bcc53f3643c2a0d8e0580006129398b2213bc3453bb157ea0efa598ce656db041fc60a4611df3944dbf103b2cc5244606840b0aa9893d47a457ee::0d96a3135b4203023a10534ca5617464"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=e5cb8dd71817c3dd8d97dad9068f63a02612cfe87e783fb4d5cd1139e2e21e328a421a6c7e8bcc53f3643c2a0d8e0580006129398b2213bc3453bb157ea0efa598ce656db041fc60a4611df3944dbf103b2cc5244606840b0aa9893d47a457ee::0d96a3135b4203023a10534ca5617464",
+              "hindi": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX"
             },
             "hasTelegram": false
           },
@@ -18539,11 +18549,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 11",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f403ea5602b436ffe733d5d823e72de8e5f50fbe12d7ffaa92b954fdd795a84fd368c7f22286c9be380bab008ed3849a2c017a735dc7e2416e7a9871d6155b3c4a38dfdd758ee8f41f3c1aa0150b239b4f2a2495ff70faf5b6cc279a1f458342::683b81e47a769e12b7d2ade6a4d29223",
+            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=f403ea5602b436ffe733d5d823e72de8e5f50fbe12d7ffaa92b954fdd795a84fd368c7f22286c9be380bab008ed3849a2c017a735dc7e2416e7a9871d6155b3c4a38dfdd758ee8f41f3c1aa0150b239b4f2a2495ff70faf5b6cc279a1f458342::683b81e47a769e12b7d2ade6a4d29223",
+              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=f403ea5602b436ffe733d5d823e72de8e5f50fbe12d7ffaa92b954fdd795a84fd368c7f22286c9be380bab008ed3849a2c017a735dc7e2416e7a9871d6155b3c4a38dfdd758ee8f41f3c1aa0150b239b4f2a2495ff70faf5b6cc279a1f458342::683b81e47a769e12b7d2ade6a4d29223",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=f403ea5602b436ffe733d5d823e72de8e5f50fbe12d7ffaa92b954fdd795a84fd368c7f22286c9be380bab008ed3849a2c017a735dc7e2416e7a9871d6155b3c4a38dfdd758ee8f41f3c1aa0150b239b4f2a2495ff70faf5b6cc279a1f458342::683b81e47a769e12b7d2ade6a4d29223"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=f403ea5602b436ffe733d5d823e72de8e5f50fbe12d7ffaa92b954fdd795a84fd368c7f22286c9be380bab008ed3849a2c017a735dc7e2416e7a9871d6155b3c4a38dfdd758ee8f41f3c1aa0150b239b4f2a2495ff70faf5b6cc279a1f458342::683b81e47a769e12b7d2ade6a4d29223",
+              "hindi": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25"
             },
             "hasTelegram": false
           },
@@ -18555,11 +18566,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 12",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=792c7b5203a21b2cc7f99f92acba36e488a23ca3cd7d24a6e89f81d9a14d08e11da56857406d85aa2fedf99a2b118701cf2e72e74c37ad851b884749169c90692d4070afdde886a178805d528d82a0ec7a42661cecc9f1282aeaaa06b8e4a6a1::abb5071ea9987bbbccf00a01f9787eee",
+            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=792c7b5203a21b2cc7f99f92acba36e488a23ca3cd7d24a6e89f81d9a14d08e11da56857406d85aa2fedf99a2b118701cf2e72e74c37ad851b884749169c90692d4070afdde886a178805d528d82a0ec7a42661cecc9f1282aeaaa06b8e4a6a1::abb5071ea9987bbbccf00a01f9787eee",
+              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=792c7b5203a21b2cc7f99f92acba36e488a23ca3cd7d24a6e89f81d9a14d08e11da56857406d85aa2fedf99a2b118701cf2e72e74c37ad851b884749169c90692d4070afdde886a178805d528d82a0ec7a42661cecc9f1282aeaaa06b8e4a6a1::abb5071ea9987bbbccf00a01f9787eee",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=792c7b5203a21b2cc7f99f92acba36e488a23ca3cd7d24a6e89f81d9a14d08e11da56857406d85aa2fedf99a2b118701cf2e72e74c37ad851b884749169c90692d4070afdde886a178805d528d82a0ec7a42661cecc9f1282aeaaa06b8e4a6a1::abb5071ea9987bbbccf00a01f9787eee"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=792c7b5203a21b2cc7f99f92acba36e488a23ca3cd7d24a6e89f81d9a14d08e11da56857406d85aa2fedf99a2b118701cf2e72e74c37ad851b884749169c90692d4070afdde886a178805d528d82a0ec7a42661cecc9f1282aeaaa06b8e4a6a1::abb5071ea9987bbbccf00a01f9787eee",
+              "hindi": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb25"
             },
             "hasTelegram": false
           },
@@ -18571,11 +18583,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fb/SwatKatsseason2.jpg",
             "synopsis": "SWAT Kats: The Radical Squadron -2 Season 1 Episode 13",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=12b4b40c215adf9ec48415719c7d8fce6bf50f8f32fe63d3f83fff7ff145bedd751370f9bff5a12b7dd122cd3ff9d247bc2554bac49e742cfd306efb802d24c16f9c04a22b496d6176a8918e45e44b93a8c48e54c121f66bc1de2fa911c72d4a5aaa0b67c7a61895130a5c06003af885::49f766865a63415262f76228c45a70c7",
+            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=12b4b40c215adf9ec48415719c7d8fce6bf50f8f32fe63d3f83fff7ff145bedd751370f9bff5a12b7dd122cd3ff9d247bc2554bac49e742cfd306efb802d24c16f9c04a22b496d6176a8918e45e44b93a8c48e54c121f66bc1de2fa911c72d4a5aaa0b67c7a61895130a5c06003af885::49f766865a63415262f76228c45a70c7",
+              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=12b4b40c215adf9ec48415719c7d8fce6bf50f8f32fe63d3f83fff7ff145bedd751370f9bff5a12b7dd122cd3ff9d247bc2554bac49e742cfd306efb802d24c16f9c04a22b496d6176a8918e45e44b93a8c48e54c121f66bc1de2fa911c72d4a5aaa0b67c7a61895130a5c06003af885::49f766865a63415262f76228c45a70c7",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=12b4b40c215adf9ec48415719c7d8fce6bf50f8f32fe63d3f83fff7ff145bedd751370f9bff5a12b7dd122cd3ff9d247bc2554bac49e742cfd306efb802d24c16f9c04a22b496d6176a8918e45e44b93a8c48e54c121f66bc1de2fa911c72d4a5aaa0b67c7a61895130a5c06003af885::49f766865a63415262f76228c45a70c7"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=12b4b40c215adf9ec48415719c7d8fce6bf50f8f32fe63d3f83fff7ff145bedd751370f9bff5a12b7dd122cd3ff9d247bc2554bac49e742cfd306efb802d24c16f9c04a22b496d6176a8918e45e44b93a8c48e54c121f66bc1de2fa911c72d4a5aaa0b67c7a61895130a5c06003af885::49f766865a63415262f76228c45a70c7",
+              "hindi": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZX"
             },
             "hasTelegram": false
           }
@@ -20130,6 +20143,182 @@ export const ANIME_DATABASE = [
     "synopsis": "After a mysterious death, King Grey is reborn as Arthur Leywin on the magical continent of Dicathen. Although he enters his second life as a baby, his previous wisdom remains. He begins to master magic and forge his own path as the years go by, seeking to correct the mistakes of his past life.  (Source: Crunchyroll)",
     "seasons": [
       {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Rebirth of the King",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 1 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/jG6Cbt5w?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/jG6Cbt5w?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "The King, Under Attack",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 2 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/D4nkuVrR?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/D4nkuVrR?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Meeting the King",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 3 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/cMrht5hn?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/cMrht5hn?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "The King, Saved -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 4 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/eQg1RRTC#RMr_kTjixXIbuGt-UTPQMIQ1HPcm8ZoQNZdWftTmcmw",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/eQg1RRTC#RMr_kTjixXIbuGt-UTPQMIQ1HPcm8ZoQNZdWftTmcmw"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "The King’s Test",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 5 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/3o2PJLcj?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3o2PJLcj?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "The King’s Training",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 6 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/iKCHzLPC?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/iKCHzLPC?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "The King Says Goodbye -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 7 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/OlIgwYZJ#HVqBFnnvkp7grEtHXDjBTVUiwkag5tr_zdhbc5elWxY",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/OlIgwYZJ#HVqBFnnvkp7grEtHXDjBTVUiwkag5tr_zdhbc5elWxY"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Reunited with the King -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 8 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/ScFHkC5K#bcwJgr_KN7M3o4Y80NISBIhq3XnlOpI0C18k735rCMw",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/ScFHkC5K#bcwJgr_KN7M3o4Y80NISBIhq3XnlOpI0C18k735rCMw"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "The King Teaches -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 9 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/tB4B0IjA#s7DVYGg_ATKTmf0XulseEfPZzMvEQo5bax82KEhpGj8",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/tB4B0IjA#s7DVYGg_ATKTmf0XulseEfPZzMvEQo5bax82KEhpGj8"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "The King’s Defiance -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 10 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/pdAy1I5S#OSger7pWZuii0DmXX3iufy4XvJixcpiOmDOiqSd6UBo",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/pdAy1I5S#OSger7pWZuii0DmXX3iufy4XvJixcpiOmDOiqSd6UBo"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The King’s Decision -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 11 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/H15SQb5C#SZ8al6L0WENYRx2d76OOPOU02ED5IQSLp36h5C_9FSA",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/H15SQb5C#SZ8al6L0WENYRx2d76OOPOU02ED5IQSLp36h5C_9FSA"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "The King’s Departure – Season Finale -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+            "synopsis": "Episode 12 of The Beginning After the End (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/qt5XBbZB#euClx6EClKvAKw1XXQW03YGdkcB06R2AIhWBDdw8X4o",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/qt5XBbZB#euClx6EClKvAKw1XXQW03YGdkcB06R2AIhWBDdw8X4o"
+            }
+          }
+        ]
+      },
+      {
         "number": 2,
         "title": "Season 2",
         "airDate": "2025",
@@ -20143,11 +20332,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 1",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2JmNzQ3YjYyYWZlOWYxMTZkM2JmZmUyZDY4MDE1YTBkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDAyMjk0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Y2U5NjgzZDJhNzIwYjg2ZmVjYjNlNGJjNDc0NzkxZTM5MGZmNWI4Mjc5ZTJmOWNiNTdiMzYwNGJmNjMwMDUzOCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg0NjAwMCwiaGFzaCI6ImRlOGM1ZmMwNzI2NjNlMTdjZTdjOTlkMDM1NWRmYjFkNGUxY2JlZDM1ZGIyYjlkYTQ3YzIwMWFiZDYzNDA2NDciLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDEgW0hpbmRpXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/bg4f1nrQ?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2JmNzQ3YjYyYWZlOWYxMTZkM2JmZmUyZDY4MDE1YTBkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDAyMjk0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Y2U5NjgzZDJhNzIwYjg2ZmVjYjNlNGJjNDc0NzkxZTM5MGZmNWI4Mjc5ZTJmOWNiNTdiMzYwNGJmNjMwMDUzOCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg0NjAwMCwiaGFzaCI6ImRlOGM1ZmMwNzI2NjNlMTdjZTdjOTlkMDM1NWRmYjFkNGUxY2JlZDM1ZGIyYjlkYTQ3YzIwMWFiZDYzNDA2NDciLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDEgW0hpbmRpXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/bg4f1nrQ?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2JmNzQ3YjYyYWZlOWYxMTZkM2JmZmUyZDY4MDE1YTBkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDAyMjk0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Y2U5NjgzZDJhNzIwYjg2ZmVjYjNlNGJjNDc0NzkxZTM5MGZmNWI4Mjc5ZTJmOWNiNTdiMzYwNGJmNjMwMDUzOCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg0NjAwMCwiaGFzaCI6ImRlOGM1ZmMwNzI2NjNlMTdjZTdjOTlkMDM1NWRmYjFkNGUxY2JlZDM1ZGIyYjlkYTQ3YzIwMWFiZDYzNDA2NDciLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDEgW0hpbmRpXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2JmNzQ3YjYyYWZlOWYxMTZkM2JmZmUyZDY4MDE1YTBkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDAyMjk0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Y2U5NjgzZDJhNzIwYjg2ZmVjYjNlNGJjNDc0NzkxZTM5MGZmNWI4Mjc5ZTJmOWNiNTdiMzYwNGJmNjMwMDUzOCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg0NjAwMCwiaGFzaCI6ImRlOGM1ZmMwNzI2NjNlMTdjZTdjOTlkMDM1NWRmYjFkNGUxY2JlZDM1ZGIyYjlkYTQ3YzIwMWFiZDYzNDA2NDciLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDEgW0hpbmRpXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2JmNzQ3YjYyYWZlOWYxMTZkM2JmZmUyZDY4MDE1YTBkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDAyMjk0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Y2U5NjgzZDJhNzIwYjg2ZmVjYjNlNGJjNDc0NzkxZTM5MGZmNWI4Mjc5ZTJmOWNiNTdiMzYwNGJmNjMwMDUzOCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg0NjAwMCwiaGFzaCI6ImRlOGM1ZmMwNzI2NjNlMTdjZTdjOTlkMDM1NWRmYjFkNGUxY2JlZDM1ZGIyYjlkYTQ3YzIwMWFiZDYzNDA2NDciLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDEgW0hpbmRpXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/bg4f1nrQ?download"
             },
             "hasTelegram": false
           },
@@ -20159,11 +20349,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 2",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=071174f0cbd98714624752e329f8251ae6f541a74725ec214bc842e694c97f8fd28adf9106713c9dfc66b49e4e57ac93de089c387b7cdbb3ff70b5565a7446eb89ed20045737d47c0fd8e696922f82a28398830be489374bea969cc64b155c337111337ac59ed155477fac091a7cb101::dac4ddab8d9f51db902eb4225676994e",
+            "downloadUrl": "https://pixeldrain.net/u/8mwK3SrQ?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=071174f0cbd98714624752e329f8251ae6f541a74725ec214bc842e694c97f8fd28adf9106713c9dfc66b49e4e57ac93de089c387b7cdbb3ff70b5565a7446eb89ed20045737d47c0fd8e696922f82a28398830be489374bea969cc64b155c337111337ac59ed155477fac091a7cb101::dac4ddab8d9f51db902eb4225676994e",
+              "1080p": "https://pixeldrain.net/u/8mwK3SrQ?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=071174f0cbd98714624752e329f8251ae6f541a74725ec214bc842e694c97f8fd28adf9106713c9dfc66b49e4e57ac93de089c387b7cdbb3ff70b5565a7446eb89ed20045737d47c0fd8e696922f82a28398830be489374bea969cc64b155c337111337ac59ed155477fac091a7cb101::dac4ddab8d9f51db902eb4225676994e",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=071174f0cbd98714624752e329f8251ae6f541a74725ec214bc842e694c97f8fd28adf9106713c9dfc66b49e4e57ac93de089c387b7cdbb3ff70b5565a7446eb89ed20045737d47c0fd8e696922f82a28398830be489374bea969cc64b155c337111337ac59ed155477fac091a7cb101::dac4ddab8d9f51db902eb4225676994e"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=071174f0cbd98714624752e329f8251ae6f541a74725ec214bc842e694c97f8fd28adf9106713c9dfc66b49e4e57ac93de089c387b7cdbb3ff70b5565a7446eb89ed20045737d47c0fd8e696922f82a28398830be489374bea969cc64b155c337111337ac59ed155477fac091a7cb101::dac4ddab8d9f51db902eb4225676994e",
+              "hindi": "https://pixeldrain.net/u/8mwK3SrQ?download"
             },
             "hasTelegram": false
           },
@@ -20175,11 +20366,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 3",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=913c5ff76a1f5cb1daaef3db0f7a3957ea731419161e2e2bfa8c7df0b37e9894ac13f364116f85ca45c75f85a3d38cead4c7217573b30a4249aaa7c5de29092833958080f0ef0a77fd8837b0b8028a19c86a5dd087c0ce94dd41e2930c81a406::662ada40445e3f053055fd8f6d781318",
+            "downloadUrl": "https://pixeldrain.net/u/UrBiH4nQ?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=913c5ff76a1f5cb1daaef3db0f7a3957ea731419161e2e2bfa8c7df0b37e9894ac13f364116f85ca45c75f85a3d38cead4c7217573b30a4249aaa7c5de29092833958080f0ef0a77fd8837b0b8028a19c86a5dd087c0ce94dd41e2930c81a406::662ada40445e3f053055fd8f6d781318",
+              "1080p": "https://pixeldrain.net/u/UrBiH4nQ?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=913c5ff76a1f5cb1daaef3db0f7a3957ea731419161e2e2bfa8c7df0b37e9894ac13f364116f85ca45c75f85a3d38cead4c7217573b30a4249aaa7c5de29092833958080f0ef0a77fd8837b0b8028a19c86a5dd087c0ce94dd41e2930c81a406::662ada40445e3f053055fd8f6d781318",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=913c5ff76a1f5cb1daaef3db0f7a3957ea731419161e2e2bfa8c7df0b37e9894ac13f364116f85ca45c75f85a3d38cead4c7217573b30a4249aaa7c5de29092833958080f0ef0a77fd8837b0b8028a19c86a5dd087c0ce94dd41e2930c81a406::662ada40445e3f053055fd8f6d781318"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=913c5ff76a1f5cb1daaef3db0f7a3957ea731419161e2e2bfa8c7df0b37e9894ac13f364116f85ca45c75f85a3d38cead4c7217573b30a4249aaa7c5de29092833958080f0ef0a77fd8837b0b8028a19c86a5dd087c0ce94dd41e2930c81a406::662ada40445e3f053055fd8f6d781318",
+              "hindi": "https://pixeldrain.net/u/UrBiH4nQ?download"
             },
             "hasTelegram": false
           },
@@ -20191,11 +20383,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 4",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=f87b56e74d11c1321b7742221d0be2ec5c6f8dee3c1aa3dd805f6facd4972aedc57791619e7e02cc37097a9c1a8b8f6dac8619bc4741196bf010dc38e4f42046a4040b816ebac6056b24341cd598015038bfdd335870d0dd805257a4c8b1e7284b2e728b02824bdf1cb29de319125db7::d6e1d77a8882cfc563a005316ff52b03",
+            "downloadUrl": "https://pixeldrain.net/u/gYbJNvrr?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=f87b56e74d11c1321b7742221d0be2ec5c6f8dee3c1aa3dd805f6facd4972aedc57791619e7e02cc37097a9c1a8b8f6dac8619bc4741196bf010dc38e4f42046a4040b816ebac6056b24341cd598015038bfdd335870d0dd805257a4c8b1e7284b2e728b02824bdf1cb29de319125db7::d6e1d77a8882cfc563a005316ff52b03",
+              "1080p": "https://pixeldrain.net/u/gYbJNvrr?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=f87b56e74d11c1321b7742221d0be2ec5c6f8dee3c1aa3dd805f6facd4972aedc57791619e7e02cc37097a9c1a8b8f6dac8619bc4741196bf010dc38e4f42046a4040b816ebac6056b24341cd598015038bfdd335870d0dd805257a4c8b1e7284b2e728b02824bdf1cb29de319125db7::d6e1d77a8882cfc563a005316ff52b03",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=f87b56e74d11c1321b7742221d0be2ec5c6f8dee3c1aa3dd805f6facd4972aedc57791619e7e02cc37097a9c1a8b8f6dac8619bc4741196bf010dc38e4f42046a4040b816ebac6056b24341cd598015038bfdd335870d0dd805257a4c8b1e7284b2e728b02824bdf1cb29de319125db7::d6e1d77a8882cfc563a005316ff52b03"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=f87b56e74d11c1321b7742221d0be2ec5c6f8dee3c1aa3dd805f6facd4972aedc57791619e7e02cc37097a9c1a8b8f6dac8619bc4741196bf010dc38e4f42046a4040b816ebac6056b24341cd598015038bfdd335870d0dd805257a4c8b1e7284b2e728b02824bdf1cb29de319125db7::d6e1d77a8882cfc563a005316ff52b03",
+              "hindi": "https://pixeldrain.net/u/gYbJNvrr?download"
             },
             "hasTelegram": false
           },
@@ -20207,11 +20400,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 5",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC84OTU2YWE0NzhlYWI3ZDVjMzA4YTI0YmJhNGQ1Y2Q3Yz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MTYlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxNlQxNjA0NDNaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDUlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTVjN2E4NWJiYmFkOWI3NWYxMTMyMzdlNTg2NGMyODhhZjMxMDNlM2E3MGUyY2QxMWRjNGU1OGI4MTAwMjgyYmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NjQwMDAsImhhc2giOiJjZGRmOWNkZDVkZWE4MDBkOWU3ZWYwYmRkYjAyNWIzZTkyMzVmNWVhNjZjOTA3NDdmYjM1NjM1MWZjNTYyZTY0IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA1IFtIaW5kaV0gLm1rdiJ9",
+            "downloadUrl": "https://pixeldrain.net/u/WFFdafHV?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC84OTU2YWE0NzhlYWI3ZDVjMzA4YTI0YmJhNGQ1Y2Q3Yz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MTYlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxNlQxNjA0NDNaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDUlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTVjN2E4NWJiYmFkOWI3NWYxMTMyMzdlNTg2NGMyODhhZjMxMDNlM2E3MGUyY2QxMWRjNGU1OGI4MTAwMjgyYmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NjQwMDAsImhhc2giOiJjZGRmOWNkZDVkZWE4MDBkOWU3ZWYwYmRkYjAyNWIzZTkyMzVmNWVhNjZjOTA3NDdmYjM1NjM1MWZjNTYyZTY0IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA1IFtIaW5kaV0gLm1rdiJ9",
+              "1080p": "https://pixeldrain.net/u/WFFdafHV?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC84OTU2YWE0NzhlYWI3ZDVjMzA4YTI0YmJhNGQ1Y2Q3Yz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MTYlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxNlQxNjA0NDNaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDUlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTVjN2E4NWJiYmFkOWI3NWYxMTMyMzdlNTg2NGMyODhhZjMxMDNlM2E3MGUyY2QxMWRjNGU1OGI4MTAwMjgyYmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NjQwMDAsImhhc2giOiJjZGRmOWNkZDVkZWE4MDBkOWU3ZWYwYmRkYjAyNWIzZTkyMzVmNWVhNjZjOTA3NDdmYjM1NjM1MWZjNTYyZTY0IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA1IFtIaW5kaV0gLm1rdiJ9",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC84OTU2YWE0NzhlYWI3ZDVjMzA4YTI0YmJhNGQ1Y2Q3Yz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MTYlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxNlQxNjA0NDNaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDUlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTVjN2E4NWJiYmFkOWI3NWYxMTMyMzdlNTg2NGMyODhhZjMxMDNlM2E3MGUyY2QxMWRjNGU1OGI4MTAwMjgyYmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NjQwMDAsImhhc2giOiJjZGRmOWNkZDVkZWE4MDBkOWU3ZWYwYmRkYjAyNWIzZTkyMzVmNWVhNjZjOTA3NDdmYjM1NjM1MWZjNTYyZTY0IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA1IFtIaW5kaV0gLm1rdiJ9"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC84OTU2YWE0NzhlYWI3ZDVjMzA4YTI0YmJhNGQ1Y2Q3Yz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MTYlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxNlQxNjA0NDNaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDUlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTVjN2E4NWJiYmFkOWI3NWYxMTMyMzdlNTg2NGMyODhhZjMxMDNlM2E3MGUyY2QxMWRjNGU1OGI4MTAwMjgyYmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NjQwMDAsImhhc2giOiJjZGRmOWNkZDVkZWE4MDBkOWU3ZWYwYmRkYjAyNWIzZTkyMzVmNWVhNjZjOTA3NDdmYjM1NjM1MWZjNTYyZTY0IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA1IFtIaW5kaV0gLm1rdiJ9",
+              "hindi": "https://pixeldrain.net/u/WFFdafHV?download"
             },
             "hasTelegram": false
           },
@@ -20223,11 +20417,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 6",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzI1OGFiMGRmZTVkZWY3MjM4NWNjYzM2NGMyNjZlMDQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDcyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE0NTMyMVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwNiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZDJhNGJiZTI5ZWI5NDI5NmM4MTRjYjUwOTQ0ZWJhY2QxODhlM2IzN2IzZjVlMGY3NzE0Y2I4Njc3NzczNGEyZCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg3MDAwMCwiaGFzaCI6ImRmNmZiYzA3OTJhNDQwZjZkNWNjODkxZDM1ZWIxODI3MDc5ZjlhODhiYzEyNGM5YWIwNzNmMzkwZjczNzRlNWYiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDYgW0hpbmRpXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/NJmjTXM7?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzI1OGFiMGRmZTVkZWY3MjM4NWNjYzM2NGMyNjZlMDQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDcyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE0NTMyMVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwNiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZDJhNGJiZTI5ZWI5NDI5NmM4MTRjYjUwOTQ0ZWJhY2QxODhlM2IzN2IzZjVlMGY3NzE0Y2I4Njc3NzczNGEyZCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg3MDAwMCwiaGFzaCI6ImRmNmZiYzA3OTJhNDQwZjZkNWNjODkxZDM1ZWIxODI3MDc5ZjlhODhiYzEyNGM5YWIwNzNmMzkwZjczNzRlNWYiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDYgW0hpbmRpXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/NJmjTXM7?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzI1OGFiMGRmZTVkZWY3MjM4NWNjYzM2NGMyNjZlMDQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDcyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE0NTMyMVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwNiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZDJhNGJiZTI5ZWI5NDI5NmM4MTRjYjUwOTQ0ZWJhY2QxODhlM2IzN2IzZjVlMGY3NzE0Y2I4Njc3NzczNGEyZCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg3MDAwMCwiaGFzaCI6ImRmNmZiYzA3OTJhNDQwZjZkNWNjODkxZDM1ZWIxODI3MDc5ZjlhODhiYzEyNGM5YWIwNzNmMzkwZjczNzRlNWYiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDYgW0hpbmRpXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzI1OGFiMGRmZTVkZWY3MjM4NWNjYzM2NGMyNjZlMDQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDcyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE0NTMyMVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwNiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZDJhNGJiZTI5ZWI5NDI5NmM4MTRjYjUwOTQ0ZWJhY2QxODhlM2IzN2IzZjVlMGY3NzE0Y2I4Njc3NzczNGEyZCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg3MDAwMCwiaGFzaCI6ImRmNmZiYzA3OTJhNDQwZjZkNWNjODkxZDM1ZWIxODI3MDc5ZjlhODhiYzEyNGM5YWIwNzNmMzkwZjczNzRlNWYiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDYgW0hpbmRpXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzI1OGFiMGRmZTVkZWY3MjM4NWNjYzM2NGMyNjZlMDQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDcyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE0NTMyMVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUwNiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZDJhNGJiZTI5ZWI5NDI5NmM4MTRjYjUwOTQ0ZWJhY2QxODhlM2IzN2IzZjVlMGY3NzE0Y2I4Njc3NzczNGEyZCIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg3MDAwMCwiaGFzaCI6ImRmNmZiYzA3OTJhNDQwZjZkNWNjODkxZDM1ZWIxODI3MDc5ZjlhODhiYzEyNGM5YWIwNzNmMzkwZjczNzRlNWYiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMDYgW0hpbmRpXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/NJmjTXM7?download"
             },
             "hasTelegram": false
           },
@@ -20239,11 +20434,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 7",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9hZTE3YWQ3MjNkY2JjNDNlNmE0Y2Y1NWQzZGQ0NmNlYz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MTElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxMVQxMzE4MTFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDclMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTlmMGUwMDBkMDA3MTQ2Nzg1MTI5ZjIwYjUxOTI1NjVlZDgwZDA1MTE5OWVmNTQyOTBiYmFlZWYxOTlmNDAyMGIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzUwMDAsImhhc2giOiJmNWI3NTY5NWUyZWY0YzExMDkwYzcxMGQwYjE3MzBlNzJlZjRlMDVhNGEyN2FkNGY0YjY5Y2E1MTM1ZDE1OTc1IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA3IFtIaW5kaV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/TZSbRw5Y?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9hZTE3YWQ3MjNkY2JjNDNlNmE0Y2Y1NWQzZGQ0NmNlYz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MTElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxMVQxMzE4MTFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDclMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTlmMGUwMDBkMDA3MTQ2Nzg1MTI5ZjIwYjUxOTI1NjVlZDgwZDA1MTE5OWVmNTQyOTBiYmFlZWYxOTlmNDAyMGIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzUwMDAsImhhc2giOiJmNWI3NTY5NWUyZWY0YzExMDkwYzcxMGQwYjE3MzBlNzJlZjRlMDVhNGEyN2FkNGY0YjY5Y2E1MTM1ZDE1OTc1IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA3IFtIaW5kaV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/TZSbRw5Y?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9hZTE3YWQ3MjNkY2JjNDNlNmE0Y2Y1NWQzZGQ0NmNlYz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MTElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxMVQxMzE4MTFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDclMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTlmMGUwMDBkMDA3MTQ2Nzg1MTI5ZjIwYjUxOTI1NjVlZDgwZDA1MTE5OWVmNTQyOTBiYmFlZWYxOTlmNDAyMGIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzUwMDAsImhhc2giOiJmNWI3NTY5NWUyZWY0YzExMDkwYzcxMGQwYjE3MzBlNzJlZjRlMDVhNGEyN2FkNGY0YjY5Y2E1MTM1ZDE1OTc1IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA3IFtIaW5kaV0ubWt2In0",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9hZTE3YWQ3MjNkY2JjNDNlNmE0Y2Y1NWQzZGQ0NmNlYz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MTElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxMVQxMzE4MTFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDclMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTlmMGUwMDBkMDA3MTQ2Nzg1MTI5ZjIwYjUxOTI1NjVlZDgwZDA1MTE5OWVmNTQyOTBiYmFlZWYxOTlmNDAyMGIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzUwMDAsImhhc2giOiJmNWI3NTY5NWUyZWY0YzExMDkwYzcxMGQwYjE3MzBlNzJlZjRlMDVhNGEyN2FkNGY0YjY5Y2E1MTM1ZDE1OTc1IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA3IFtIaW5kaV0ubWt2In0"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9hZTE3YWQ3MjNkY2JjNDNlNmE0Y2Y1NWQzZGQ0NmNlYz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MTElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxMVQxMzE4MTFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDclMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTlmMGUwMDBkMDA3MTQ2Nzg1MTI5ZjIwYjUxOTI1NjVlZDgwZDA1MTE5OWVmNTQyOTBiYmFlZWYxOTlmNDAyMGIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzUwMDAsImhhc2giOiJmNWI3NTY5NWUyZWY0YzExMDkwYzcxMGQwYjE3MzBlNzJlZjRlMDVhNGEyN2FkNGY0YjY5Y2E1MTM1ZDE1OTc1IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA3IFtIaW5kaV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/TZSbRw5Y?download"
             },
             "hasTelegram": false
           },
@@ -20255,11 +20451,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 8",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iZGQ1YzY2ZWE2ZTIwMTdjYzczY2RjMDQwNmQ3M2IxND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MDclMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwN1QyMTI4MDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDglMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxZDY2MGUwNmI5NmUxZjdlNmU3MWYwNmRmOTQ3NGIzMGI0ZDVmYzViYzc2Y2MyZWFlZTM2M2M2MDhkNWU1MmUiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzkwMDAsImhhc2giOiJlZWQ2NTA4ZWRhYzI4ZGY2YjZhNWY1OGY2Y2ExMmQ2ZDBjNTIwZGMzZGQ5ODhjMmU1ZDhlOTE2M2E5ZTI3Mzc3IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA4IFtIaW5kaV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/ysf4Qj6J?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iZGQ1YzY2ZWE2ZTIwMTdjYzczY2RjMDQwNmQ3M2IxND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MDclMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwN1QyMTI4MDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDglMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxZDY2MGUwNmI5NmUxZjdlNmU3MWYwNmRmOTQ3NGIzMGI0ZDVmYzViYzc2Y2MyZWFlZTM2M2M2MDhkNWU1MmUiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzkwMDAsImhhc2giOiJlZWQ2NTA4ZWRhYzI4ZGY2YjZhNWY1OGY2Y2ExMmQ2ZDBjNTIwZGMzZGQ5ODhjMmU1ZDhlOTE2M2E5ZTI3Mzc3IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA4IFtIaW5kaV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/ysf4Qj6J?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iZGQ1YzY2ZWE2ZTIwMTdjYzczY2RjMDQwNmQ3M2IxND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MDclMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwN1QyMTI4MDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDglMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxZDY2MGUwNmI5NmUxZjdlNmU3MWYwNmRmOTQ3NGIzMGI0ZDVmYzViYzc2Y2MyZWFlZTM2M2M2MDhkNWU1MmUiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzkwMDAsImhhc2giOiJlZWQ2NTA4ZWRhYzI4ZGY2YjZhNWY1OGY2Y2ExMmQ2ZDBjNTIwZGMzZGQ5ODhjMmU1ZDhlOTE2M2E5ZTI3Mzc3IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA4IFtIaW5kaV0ubWt2In0",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iZGQ1YzY2ZWE2ZTIwMTdjYzczY2RjMDQwNmQ3M2IxND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MDclMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwN1QyMTI4MDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDglMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxZDY2MGUwNmI5NmUxZjdlNmU3MWYwNmRmOTQ3NGIzMGI0ZDVmYzViYzc2Y2MyZWFlZTM2M2M2MDhkNWU1MmUiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzkwMDAsImhhc2giOiJlZWQ2NTA4ZWRhYzI4ZGY2YjZhNWY1OGY2Y2ExMmQ2ZDBjNTIwZGMzZGQ5ODhjMmU1ZDhlOTE2M2E5ZTI3Mzc3IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA4IFtIaW5kaV0ubWt2In0"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iZGQ1YzY2ZWE2ZTIwMTdjYzczY2RjMDQwNmQ3M2IxND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA4MDclMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwN1QyMTI4MDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDglMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxZDY2MGUwNmI5NmUxZjdlNmU3MWYwNmRmOTQ3NGIzMGI0ZDVmYzViYzc2Y2MyZWFlZTM2M2M2MDhkNWU1MmUiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4NzkwMDAsImhhc2giOiJlZWQ2NTA4ZWRhYzI4ZGY2YjZhNWY1OGY2Y2ExMmQ2ZDBjNTIwZGMzZGQ5ODhjMmU1ZDhlOTE2M2E5ZTI3Mzc3IiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA4IFtIaW5kaV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/ysf4Qj6J?download"
             },
             "hasTelegram": false
           },
@@ -20271,11 +20468,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 9",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83NTkxNzlhZTcxMDg3MTdkNmVlZjJlNzgwNjA4MGY2MT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MDQlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwNFQyMDUwMzZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDklMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWI4NGJhYjQ3MjNkMzlhNzRlMjQ3ZTMxZmFkN2IwOWE5YjhlZDlkZWNlYWQ4MjY1NzAyODkxNDY4YjQxNjZkNjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4ODMwMDAsImhhc2giOiIwOTkzZmE3NjVmZDFkMzkxMjZhZDBhYzAwY2I1NzdjNjA4MGI0NDNhOWNjMmI5ZjVkZTBjNTFmNzczYzdkMDUyIiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA5IFtIaW5kaV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/PCP2ZgHN?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83NTkxNzlhZTcxMDg3MTdkNmVlZjJlNzgwNjA4MGY2MT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MDQlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwNFQyMDUwMzZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDklMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWI4NGJhYjQ3MjNkMzlhNzRlMjQ3ZTMxZmFkN2IwOWE5YjhlZDlkZWNlYWQ4MjY1NzAyODkxNDY4YjQxNjZkNjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4ODMwMDAsImhhc2giOiIwOTkzZmE3NjVmZDFkMzkxMjZhZDBhYzAwY2I1NzdjNjA4MGI0NDNhOWNjMmI5ZjVkZTBjNTFmNzczYzdkMDUyIiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA5IFtIaW5kaV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/PCP2ZgHN?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83NTkxNzlhZTcxMDg3MTdkNmVlZjJlNzgwNjA4MGY2MT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MDQlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwNFQyMDUwMzZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDklMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWI4NGJhYjQ3MjNkMzlhNzRlMjQ3ZTMxZmFkN2IwOWE5YjhlZDlkZWNlYWQ4MjY1NzAyODkxNDY4YjQxNjZkNjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4ODMwMDAsImhhc2giOiIwOTkzZmE3NjVmZDFkMzkxMjZhZDBhYzAwY2I1NzdjNjA4MGI0NDNhOWNjMmI5ZjVkZTBjNTFmNzczYzdkMDUyIiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA5IFtIaW5kaV0ubWt2In0",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83NTkxNzlhZTcxMDg3MTdkNmVlZjJlNzgwNjA4MGY2MT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MDQlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwNFQyMDUwMzZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDklMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWI4NGJhYjQ3MjNkMzlhNzRlMjQ3ZTMxZmFkN2IwOWE5YjhlZDlkZWNlYWQ4MjY1NzAyODkxNDY4YjQxNjZkNjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4ODMwMDAsImhhc2giOiIwOTkzZmE3NjVmZDFkMzkxMjZhZDBhYzAwY2I1NzdjNjA4MGI0NDNhOWNjMmI5ZjVkZTBjNTFmNzczYzdkMDUyIiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA5IFtIaW5kaV0ubWt2In0"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83NTkxNzlhZTcxMDg3MTdkNmVlZjJlNzgwNjA4MGY2MT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MDQlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwNFQyMDUwMzZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQmVnaW5uaW5nJTIwQWZ0ZXIlMjB0aGUlMjBFbmQlMjBTMDJFMDklMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWI4NGJhYjQ3MjNkMzlhNzRlMjQ3ZTMxZmFkN2IwOWE5YjhlZDlkZWNlYWQ4MjY1NzAyODkxNDY4YjQxNjZkNjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc4ODMwMDAsImhhc2giOiIwOTkzZmE3NjVmZDFkMzkxMjZhZDBhYzAwY2I1NzdjNjA4MGI0NDNhOWNjMmI5ZjVkZTBjNTFmNzczYzdkMDUyIiwiZmlsZW5hbWUiOiJUaGUgQmVnaW5uaW5nIEFmdGVyIHRoZSBFbmQgUzAyRTA5IFtIaW5kaV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/PCP2ZgHN?download"
             },
             "hasTelegram": false
           },
@@ -20287,11 +20485,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 10",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=cf667fd567b20d315455fd5731dd02443bac191c8e734d70701391e6586935bfc26d9b725b9e15327ba39bc77be3caffbdd69c73bd87937f35dc1faada6945a728d433c3ef181c53b1feeeda7669914a55628e66bbf965350b88fdc6aaf896d6::b37d969ead8b8c411764001bd5b8ac9c",
+            "downloadUrl": "https://pixeldrain.net/u/Wa2MPob9?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=cf667fd567b20d315455fd5731dd02443bac191c8e734d70701391e6586935bfc26d9b725b9e15327ba39bc77be3caffbdd69c73bd87937f35dc1faada6945a728d433c3ef181c53b1feeeda7669914a55628e66bbf965350b88fdc6aaf896d6::b37d969ead8b8c411764001bd5b8ac9c",
+              "1080p": "https://pixeldrain.net/u/Wa2MPob9?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=cf667fd567b20d315455fd5731dd02443bac191c8e734d70701391e6586935bfc26d9b725b9e15327ba39bc77be3caffbdd69c73bd87937f35dc1faada6945a728d433c3ef181c53b1feeeda7669914a55628e66bbf965350b88fdc6aaf896d6::b37d969ead8b8c411764001bd5b8ac9c",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=cf667fd567b20d315455fd5731dd02443bac191c8e734d70701391e6586935bfc26d9b725b9e15327ba39bc77be3caffbdd69c73bd87937f35dc1faada6945a728d433c3ef181c53b1feeeda7669914a55628e66bbf965350b88fdc6aaf896d6::b37d969ead8b8c411764001bd5b8ac9c"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=cf667fd567b20d315455fd5731dd02443bac191c8e734d70701391e6586935bfc26d9b725b9e15327ba39bc77be3caffbdd69c73bd87937f35dc1faada6945a728d433c3ef181c53b1feeeda7669914a55628e66bbf965350b88fdc6aaf896d6::b37d969ead8b8c411764001bd5b8ac9c",
+              "hindi": "https://pixeldrain.net/u/Wa2MPob9?download"
             },
             "hasTelegram": false
           },
@@ -20303,11 +20502,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 11",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZmN2NjZGI5YTAyNjg1NTg2ZmRkMmUwMjE0YTk5YWVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzcwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9M2VjMTI2YzBlYjhkNmM0Mzk1ZmQzODkyNGFhZTE0NWRiNDcxMmM2ODIzZmU0YzlmMjY0YTFhMDI5M2ZhZjkzMiIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg5ODAwMCwiaGFzaCI6ImI4ZGZjMDUxY2U3MjAzNjZiNDc1NWZiYjBkZmIwYjAzMjk0YjVhMGRkODM4ZmY5YWRiZjIxYTMyZTM5NzAwNmIiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTEgW0hpbmRpXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/XdHc7bx1?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZmN2NjZGI5YTAyNjg1NTg2ZmRkMmUwMjE0YTk5YWVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzcwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9M2VjMTI2YzBlYjhkNmM0Mzk1ZmQzODkyNGFhZTE0NWRiNDcxMmM2ODIzZmU0YzlmMjY0YTFhMDI5M2ZhZjkzMiIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg5ODAwMCwiaGFzaCI6ImI4ZGZjMDUxY2U3MjAzNjZiNDc1NWZiYjBkZmIwYjAzMjk0YjVhMGRkODM4ZmY5YWRiZjIxYTMyZTM5NzAwNmIiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTEgW0hpbmRpXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/XdHc7bx1?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZmN2NjZGI5YTAyNjg1NTg2ZmRkMmUwMjE0YTk5YWVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzcwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9M2VjMTI2YzBlYjhkNmM0Mzk1ZmQzODkyNGFhZTE0NWRiNDcxMmM2ODIzZmU0YzlmMjY0YTFhMDI5M2ZhZjkzMiIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg5ODAwMCwiaGFzaCI6ImI4ZGZjMDUxY2U3MjAzNjZiNDc1NWZiYjBkZmIwYjAzMjk0YjVhMGRkODM4ZmY5YWRiZjIxYTMyZTM5NzAwNmIiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTEgW0hpbmRpXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZmN2NjZGI5YTAyNjg1NTg2ZmRkMmUwMjE0YTk5YWVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzcwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9M2VjMTI2YzBlYjhkNmM0Mzk1ZmQzODkyNGFhZTE0NWRiNDcxMmM2ODIzZmU0YzlmMjY0YTFhMDI5M2ZhZjkzMiIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg5ODAwMCwiaGFzaCI6ImI4ZGZjMDUxY2U3MjAzNjZiNDc1NWZiYjBkZmIwYjAzMjk0YjVhMGRkODM4ZmY5YWRiZjIxYTMyZTM5NzAwNmIiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTEgW0hpbmRpXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2ZmN2NjZGI5YTAyNjg1NTg2ZmRkMmUwMjE0YTk5YWVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzcwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMSUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9M2VjMTI2YzBlYjhkNmM0Mzk1ZmQzODkyNGFhZTE0NWRiNDcxMmM2ODIzZmU0YzlmMjY0YTFhMDI5M2ZhZjkzMiIsInRpbWVzdGFtcCI6MTc4ODQ0Nzg5ODAwMCwiaGFzaCI6ImI4ZGZjMDUxY2U3MjAzNjZiNDc1NWZiYjBkZmIwYjAzMjk0YjVhMGRkODM4ZmY5YWRiZjIxYTMyZTM5NzAwNmIiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTEgW0hpbmRpXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/XdHc7bx1?download"
             },
             "hasTelegram": false
           },
@@ -20315,15 +20515,16 @@ export const ANIME_DATABASE = [
             "id": 12,
             "number": 12,
             "season": 2,
-            "title": "Episode 12",
+            "title": "The King Enrolls NEw! – Season Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
             "synopsis": "The Beginning After the End Season 2 Episode 12",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvM2E3NzFiMjI5NmQxYzg3ODc4ZWRlN2Y2YjEzNDZjMWUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2I1ZjMxZWE3MmMyZjk0Mzc1NTdiZTZhN2NlNzBlY2ViP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9ZWIzMjNkYTc2MjU3MWJkYjQ3Nzc2MjRiYTZkZDA0MjQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzc1M1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MGRlYTgxYzUyYTMwN2EwZDA2ZmM2YjQ2ODAzODg1OTAyMGNmMDdmOWY5NzZkNzRiOWNmOTdmMDM5MWI3NmQzMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzkwOTAwMCwiaGFzaCI6IjRjZTJjNDg5YzFkNTJkYTZiZjRjYjkzMDgyYzY0YjE5MmU2NTdlY2U4NGFjMjgyMzY3MzJjNDVjOTkxYjljODEiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTIgW0hpbmRpXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/NPGWewT9?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvM2E3NzFiMjI5NmQxYzg3ODc4ZWRlN2Y2YjEzNDZjMWUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2I1ZjMxZWE3MmMyZjk0Mzc1NTdiZTZhN2NlNzBlY2ViP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9ZWIzMjNkYTc2MjU3MWJkYjQ3Nzc2MjRiYTZkZDA0MjQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzc1M1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MGRlYTgxYzUyYTMwN2EwZDA2ZmM2YjQ2ODAzODg1OTAyMGNmMDdmOWY5NzZkNzRiOWNmOTdmMDM5MWI3NmQzMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzkwOTAwMCwiaGFzaCI6IjRjZTJjNDg5YzFkNTJkYTZiZjRjYjkzMDgyYzY0YjE5MmU2NTdlY2U4NGFjMjgyMzY3MzJjNDVjOTkxYjljODEiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTIgW0hpbmRpXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/NPGWewT9?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvM2E3NzFiMjI5NmQxYzg3ODc4ZWRlN2Y2YjEzNDZjMWUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2I1ZjMxZWE3MmMyZjk0Mzc1NTdiZTZhN2NlNzBlY2ViP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9ZWIzMjNkYTc2MjU3MWJkYjQ3Nzc2MjRiYTZkZDA0MjQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzc1M1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MGRlYTgxYzUyYTMwN2EwZDA2ZmM2YjQ2ODAzODg1OTAyMGNmMDdmOWY5NzZkNzRiOWNmOTdmMDM5MWI3NmQzMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzkwOTAwMCwiaGFzaCI6IjRjZTJjNDg5YzFkNTJkYTZiZjRjYjkzMDgyYzY0YjE5MmU2NTdlY2U4NGFjMjgyMzY3MzJjNDVjOTkxYjljODEiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTIgW0hpbmRpXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvM2E3NzFiMjI5NmQxYzg3ODc4ZWRlN2Y2YjEzNDZjMWUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2I1ZjMxZWE3MmMyZjk0Mzc1NTdiZTZhN2NlNzBlY2ViP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9ZWIzMjNkYTc2MjU3MWJkYjQ3Nzc2MjRiYTZkZDA0MjQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzc1M1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MGRlYTgxYzUyYTMwN2EwZDA2ZmM2YjQ2ODAzODg1OTAyMGNmMDdmOWY5NzZkNzRiOWNmOTdmMDM5MWI3NmQzMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzkwOTAwMCwiaGFzaCI6IjRjZTJjNDg5YzFkNTJkYTZiZjRjYjkzMDgyYzY0YjE5MmU2NTdlY2U4NGFjMjgyMzY3MzJjNDVjOTkxYjljODEiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTIgW0hpbmRpXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvM2E3NzFiMjI5NmQxYzg3ODc4ZWRlN2Y2YjEzNDZjMWUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2I1ZjMxZWE3MmMyZjk0Mzc1NTdiZTZhN2NlNzBlY2ViP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9ZWIzMjNkYTc2MjU3MWJkYjQ3Nzc2MjRiYTZkZDA0MjQlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDEwMzc1M1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBCZWdpbm5pbmclMjBBZnRlciUyMHRoZSUyMEVuZCUyMFMwMkUxMiUyMCU1QkhpbmRpJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MGRlYTgxYzUyYTMwN2EwZDA2ZmM2YjQ2ODAzODg1OTAyMGNmMDdmOWY5NzZkNzRiOWNmOTdmMDM5MWI3NmQzMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzkwOTAwMCwiaGFzaCI6IjRjZTJjNDg5YzFkNTJkYTZiZjRjYjkzMDgyYzY0YjE5MmU2NTdlY2U4NGFjMjgyMzY3MzJjNDVjOTkxYjljODEiLCJmaWxlbmFtZSI6IlRoZSBCZWdpbm5pbmcgQWZ0ZXIgdGhlIEVuZCBTMDJFMTIgW0hpbmRpXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/NPGWewT9?download"
             },
             "hasTelegram": false
           }
