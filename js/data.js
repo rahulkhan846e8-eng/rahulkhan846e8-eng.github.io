@@ -20531,41 +20531,6 @@ export const ANIME_DATABASE = [
     "hasSub": true
   },
   {
-    "id": "kuroko-s-basketball-2-would-you-mind-doing-that-once-more",
-    "title": "Kuroko's Basketball 2: Would You Mind Doing That Once More",
-    "japaneseTitle": "黒子のバスケ 「もう一回やりませんか」",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20603-pDr9npQfRK4x.jpg",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20603-pDr9npQfRK4x.jpg",
-    "rating": 7.3,
-    "year": 2014,
-    "audioBadge": "Multi-Audio (Hindi Dub)",
-    "currentEpBadge": "S1-EP0",
-    "status": "Completed",
-    "type": "TV Series",
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "season": "2014",
-    "studio": "Animation Studio",
-    "synopsis": "Bundled with the sixth Blu-ray/DVD.\r \r Episode \"41.5 Quarter\" will adapt the 124th chapter from the manga, which depicts when Kuroko and Aomine met.",
-    "seasons": [
-      {
-        "number": 1,
-        "title": "Season 1",
-        "airDate": "2014",
-        "isComingSoon": true,
-        "episodes": []
-      }
-    ],
-    "episodes": [],
-    "languages": [
-      "hindi"
-    ],
-    "hasDub": false,
-    "hasSub": true
-  },
-  {
     "id": "akudama-drive",
     "title": "Akudama Drive",
     "japaneseTitle": "アクダマドライブ",
