@@ -45,6 +45,546 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "captain-tsubasa-junior-youth-arc",
+    "title": "Captain Tsubasa: Junior Youth Arc",
+    "japaneseTitle": "キャプテン翼シーズン2 ジュニアユース編",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163024-rFtOWsDQy12B.jpg",
+    "rating": 7.3,
+    "year": 2023,
+    "currentEpBadge": "S2-EP36",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2023",
+    "studio": "Studio KAI",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "synopsis": "The International Junior Youth Tournament in Paris, France, is about to begin, and Tsubasa, Misaki, Wakabayashi, Hyuga, and Wakashimazu are ready. Japan’s team of elite players is to face off against the best the soccer world has to offer. Germany’s Schneider, France’s Pierre, Argentina’s Diaz, and Italy’s Hernandez await, along with a host of other new rivals. Let the battle begin! \n(Source: VIZ Media)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "A New Challenge",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 1 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/nGJQWRXe?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/nGJQWRXe?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Greetings to an Old Rival",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 2 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/g49uMCYW?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/g49uMCYW?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Professional Warrior",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 3 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/pb6fUuod?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/pb6fUuod?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "Starting Again from Zero",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 4 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/DdC5Womn?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DdC5Womn?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "Another Heavy Hitter",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 5 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/WYLLJd6m?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WYLLJd6m?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "Action! Japan Junior Youth!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 6 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/q6sNkn4S?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/q6sNkn4S?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Converge on Paris!!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 7 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/bfh2XiTJ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/bfh2XiTJ?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "I’m Taro Misaki",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 8 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ZqvQ37jx?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZqvQ37jx?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "A Great Journey",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 9 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/mmP1f57b?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/mmP1f57b?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 2,
+            "title": "They’ve Returned the Golden Duo",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 10 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/RPAyCyNs?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/RPAyCyNs?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 2,
+            "title": "The Fierce Tiger Awakens",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 11 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/pHJDWdth?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/pHJDWdth?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 2,
+            "title": "Destined for Victory",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 12 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/o4VePQ7e?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/o4VePQ7e?download"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 2,
+            "title": "A Pledge in the Starry Sky – Part 1 Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 13 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/YLuNbbb8?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/YLuNbbb8?download"
+            }
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 2,
+            "title": "Never Give Up",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 14 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/SwcsRHtA?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/SwcsRHtA?download"
+            }
+          },
+          {
+            "id": 15,
+            "number": 15,
+            "season": 2,
+            "title": "Japan Junior Youth Strikes Back",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 15 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Pq8JnvcW?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Pq8JnvcW?download"
+            }
+          },
+          {
+            "id": 16,
+            "number": 16,
+            "season": 2,
+            "title": "A Battle of Ups and Downs",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 16 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/NCzKYb1V?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/NCzKYb1V?download"
+            }
+          },
+          {
+            "id": 17,
+            "number": 17,
+            "season": 2,
+            "title": "The Young Noble of the Field Returns!!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 17 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/W2pH16Nv?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/W2pH16Nv?download"
+            }
+          },
+          {
+            "id": 18,
+            "number": 18,
+            "season": 2,
+            "title": "The Top Four Assemble!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 18 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/LGzhmRYJ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/LGzhmRYJ?download"
+            }
+          },
+          {
+            "id": 19,
+            "number": 19,
+            "season": 2,
+            "title": "The Ball of Fire Revealed -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 19 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/aHgg3JoA#GI6p0LXK6RCYT4VZ3QaiEs4cHA9nnrx3DjLJ0vMEUzc",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/aHgg3JoA#GI6p0LXK6RCYT4VZ3QaiEs4cHA9nnrx3DjLJ0vMEUzc"
+            }
+          },
+          {
+            "id": 20,
+            "number": 20,
+            "season": 2,
+            "title": "The Battle Begins!! Japan vs. France",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 20 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/aECXdcku?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/aECXdcku?download"
+            }
+          },
+          {
+            "id": 21,
+            "number": 21,
+            "season": 2,
+            "title": "10 vs. 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 21 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/qN6cc243?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/qN6cc243?download"
+            }
+          },
+          {
+            "id": 22,
+            "number": 22,
+            "season": 2,
+            "title": "The Elegant Beast Attacks",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 22 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/HQ8gsxMM?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/HQ8gsxMM?download"
+            }
+          },
+          {
+            "id": 23,
+            "number": 23,
+            "season": 2,
+            "title": "Misaki vs. Pierre",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 23 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ASWYgotP?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ASWYgotP?download"
+            }
+          },
+          {
+            "id": 24,
+            "number": 24,
+            "season": 2,
+            "title": "Overtime in the Rain",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 24 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/4Vt1LsP6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/4Vt1LsP6?download"
+            }
+          },
+          {
+            "id": 25,
+            "number": 25,
+            "season": 2,
+            "title": "A Wounded Final Defense",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 25 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Pngx5qX5?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Pngx5qX5?download"
+            }
+          },
+          {
+            "id": 26,
+            "number": 26,
+            "season": 2,
+            "title": "The Miracle Fist – Part 2 Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 26 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/svAQrEMr?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/svAQrEMr?download"
+            }
+          },
+          {
+            "id": 27,
+            "number": 27,
+            "season": 2,
+            "title": "The Lions of the Final",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 27 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/XW1sCbbV?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XW1sCbbV?download"
+            }
+          },
+          {
+            "id": 28,
+            "number": 28,
+            "season": 2,
+            "title": "A Shooting Storm",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 28 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8QsfwfpF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8QsfwfpF?download"
+            }
+          },
+          {
+            "id": 29,
+            "number": 29,
+            "season": 2,
+            "title": "Schneider vs. Wakabayashi",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 29 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/asNva1gT?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/asNva1gT?download"
+            }
+          },
+          {
+            "id": 30,
+            "number": 30,
+            "season": 2,
+            "title": "A Blazing First Point",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 30 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/sYvfk7QT?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/sYvfk7QT?download"
+            }
+          },
+          {
+            "id": 31,
+            "number": 31,
+            "season": 2,
+            "title": "The Most Powerful Shot in History",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 31 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/7xDjsZCv?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/7xDjsZCv?download"
+            }
+          },
+          {
+            "id": 32,
+            "number": 32,
+            "season": 2,
+            "title": "A Hat in Tatters",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 32 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/iqP7gN1G?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/iqP7gN1G?download"
+            }
+          },
+          {
+            "id": 33,
+            "number": 33,
+            "season": 2,
+            "title": "Respond to the Message!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 33 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/YTRX3Lep?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/YTRX3Lep?download"
+            }
+          },
+          {
+            "id": 34,
+            "number": 34,
+            "season": 2,
+            "title": "A Glimpse at Global Greatness!? NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 34 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/nsLsbK8Z?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/nsLsbK8Z?download"
+            }
+          },
+          {
+            "id": 35,
+            "number": 35,
+            "season": 2,
+            "title": "It’s Done! NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 35 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/DKwuXfqH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DKwuXfqH?download"
+            }
+          },
+          {
+            "id": 36,
+            "number": 36,
+            "season": 2,
+            "title": "A Promise to the Heavens NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-ZOvC0mgdXNm9.jpg",
+            "synopsis": "Episode 36 of Captain Tsubasa: Junior Youth Arc (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/AdLBYUpE?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/AdLBYUpE?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "red-river",
     "title": "Red River",
     "japaneseTitle": "天は赤い河のほとり",
@@ -21941,7 +22481,7 @@ export const ANIME_DATABASE = [
     "rating": 8,
     "year": 2024,
     "audioBadge": "Multi-Audio (Hindi Dub)",
-    "currentEpBadge": "S1-EP51",
+    "currentEpBadge": "S1-EP52",
     "status": "Completed",
     "type": "TV Series",
     "genres": [
@@ -21966,11 +22506,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 1",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=5eb8a1497e50418d3763c7467c3c508ce514f060cb3132b6177fca942388cc828222445ef9b241914611aa2709bc7cfd99e4901abf0de9201fa05aa3af457ea3788d9f6dd80f68ca13a4e0848c3780e12b86a22d6d30f695f7a400a8d3ec6b8824c52363f0a8e1c64d95b3fd2d23994f::d651bf6c3f0432b56601aa368089c5af",
+            "downloadUrl": "https://pixeldrain.net/u/Fax5orXd?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=5eb8a1497e50418d3763c7467c3c508ce514f060cb3132b6177fca942388cc828222445ef9b241914611aa2709bc7cfd99e4901abf0de9201fa05aa3af457ea3788d9f6dd80f68ca13a4e0848c3780e12b86a22d6d30f695f7a400a8d3ec6b8824c52363f0a8e1c64d95b3fd2d23994f::d651bf6c3f0432b56601aa368089c5af",
+              "1080p": "https://pixeldrain.net/u/Fax5orXd?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=5eb8a1497e50418d3763c7467c3c508ce514f060cb3132b6177fca942388cc828222445ef9b241914611aa2709bc7cfd99e4901abf0de9201fa05aa3af457ea3788d9f6dd80f68ca13a4e0848c3780e12b86a22d6d30f695f7a400a8d3ec6b8824c52363f0a8e1c64d95b3fd2d23994f::d651bf6c3f0432b56601aa368089c5af",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=5eb8a1497e50418d3763c7467c3c508ce514f060cb3132b6177fca942388cc828222445ef9b241914611aa2709bc7cfd99e4901abf0de9201fa05aa3af457ea3788d9f6dd80f68ca13a4e0848c3780e12b86a22d6d30f695f7a400a8d3ec6b8824c52363f0a8e1c64d95b3fd2d23994f::d651bf6c3f0432b56601aa368089c5af"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=5eb8a1497e50418d3763c7467c3c508ce514f060cb3132b6177fca942388cc828222445ef9b241914611aa2709bc7cfd99e4901abf0de9201fa05aa3af457ea3788d9f6dd80f68ca13a4e0848c3780e12b86a22d6d30f695f7a400a8d3ec6b8824c52363f0a8e1c64d95b3fd2d23994f::d651bf6c3f0432b56601aa368089c5af",
+              "hindi": "https://pixeldrain.net/u/Fax5orXd?download"
             },
             "hasTelegram": false
           },
@@ -21982,11 +22523,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 2",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=82805a977aa5cc20502f10cf2ecccc890d79bb0101e7002a5913a754f09eecceb1e7e5ddb16ef93205227bb7b04232b6e1c90e82ed6698fb98e9627a6d6635a46f15f6862a938ae2366de18c52d7a66b8bfe0e63f89f89426a06b3002b007cc07a3d41a10e03842070d410c23750ce5f::b61f6772ad472adc60194a4c8cd22f4c",
+            "downloadUrl": "https://pixeldrain.net/u/2XbbV6nq?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=82805a977aa5cc20502f10cf2ecccc890d79bb0101e7002a5913a754f09eecceb1e7e5ddb16ef93205227bb7b04232b6e1c90e82ed6698fb98e9627a6d6635a46f15f6862a938ae2366de18c52d7a66b8bfe0e63f89f89426a06b3002b007cc07a3d41a10e03842070d410c23750ce5f::b61f6772ad472adc60194a4c8cd22f4c",
+              "1080p": "https://pixeldrain.net/u/2XbbV6nq?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=82805a977aa5cc20502f10cf2ecccc890d79bb0101e7002a5913a754f09eecceb1e7e5ddb16ef93205227bb7b04232b6e1c90e82ed6698fb98e9627a6d6635a46f15f6862a938ae2366de18c52d7a66b8bfe0e63f89f89426a06b3002b007cc07a3d41a10e03842070d410c23750ce5f::b61f6772ad472adc60194a4c8cd22f4c",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=82805a977aa5cc20502f10cf2ecccc890d79bb0101e7002a5913a754f09eecceb1e7e5ddb16ef93205227bb7b04232b6e1c90e82ed6698fb98e9627a6d6635a46f15f6862a938ae2366de18c52d7a66b8bfe0e63f89f89426a06b3002b007cc07a3d41a10e03842070d410c23750ce5f::b61f6772ad472adc60194a4c8cd22f4c"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=82805a977aa5cc20502f10cf2ecccc890d79bb0101e7002a5913a754f09eecceb1e7e5ddb16ef93205227bb7b04232b6e1c90e82ed6698fb98e9627a6d6635a46f15f6862a938ae2366de18c52d7a66b8bfe0e63f89f89426a06b3002b007cc07a3d41a10e03842070d410c23750ce5f::b61f6772ad472adc60194a4c8cd22f4c",
+              "hindi": "https://pixeldrain.net/u/2XbbV6nq?download"
             },
             "hasTelegram": false
           },
@@ -21998,11 +22540,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 3",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=b1d1bd16ce115a6f20082fa4fc5fbb30b2da23aa634ea2e60ef14f4f71cc6d11f6b2cdccf95ff78b881c8baedd840ac9d8abda02d35362b0640560e68b88eae93f9772bd2be6ced062431d328a7916c54215c171228b1997b28d5881eee870ef26ca666733edc6ebc5c9c7b48f733103::2365a4ae074ed3e87d932467d060997f",
+            "downloadUrl": "https://pixeldrain.net/u/EeAmAG98?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=b1d1bd16ce115a6f20082fa4fc5fbb30b2da23aa634ea2e60ef14f4f71cc6d11f6b2cdccf95ff78b881c8baedd840ac9d8abda02d35362b0640560e68b88eae93f9772bd2be6ced062431d328a7916c54215c171228b1997b28d5881eee870ef26ca666733edc6ebc5c9c7b48f733103::2365a4ae074ed3e87d932467d060997f",
+              "1080p": "https://pixeldrain.net/u/EeAmAG98?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=b1d1bd16ce115a6f20082fa4fc5fbb30b2da23aa634ea2e60ef14f4f71cc6d11f6b2cdccf95ff78b881c8baedd840ac9d8abda02d35362b0640560e68b88eae93f9772bd2be6ced062431d328a7916c54215c171228b1997b28d5881eee870ef26ca666733edc6ebc5c9c7b48f733103::2365a4ae074ed3e87d932467d060997f",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=b1d1bd16ce115a6f20082fa4fc5fbb30b2da23aa634ea2e60ef14f4f71cc6d11f6b2cdccf95ff78b881c8baedd840ac9d8abda02d35362b0640560e68b88eae93f9772bd2be6ced062431d328a7916c54215c171228b1997b28d5881eee870ef26ca666733edc6ebc5c9c7b48f733103::2365a4ae074ed3e87d932467d060997f"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=b1d1bd16ce115a6f20082fa4fc5fbb30b2da23aa634ea2e60ef14f4f71cc6d11f6b2cdccf95ff78b881c8baedd840ac9d8abda02d35362b0640560e68b88eae93f9772bd2be6ced062431d328a7916c54215c171228b1997b28d5881eee870ef26ca666733edc6ebc5c9c7b48f733103::2365a4ae074ed3e87d932467d060997f",
+              "hindi": "https://pixeldrain.net/u/EeAmAG98?download"
             },
             "hasTelegram": false
           },
@@ -22014,11 +22557,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 4",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=c728c0c89c9bb4ea6cebb677fac3f0065fda0b82d1774affb643eb3e2f704df07f80d7ee808b90587532dbb6921c141f490f94a9c2250dea931239063ead1e48c64203e13d04f7d575e9f31f9468ea24d7c27a7d9904b8081c791cdf80adefeebfb95a3bdd9b13dae244565b055e2b38::5ab2fe7500df666deb6bbcf3e2bb8045",
+            "downloadUrl": "https://pixeldrain.net/u/zQEATZ3v?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=c728c0c89c9bb4ea6cebb677fac3f0065fda0b82d1774affb643eb3e2f704df07f80d7ee808b90587532dbb6921c141f490f94a9c2250dea931239063ead1e48c64203e13d04f7d575e9f31f9468ea24d7c27a7d9904b8081c791cdf80adefeebfb95a3bdd9b13dae244565b055e2b38::5ab2fe7500df666deb6bbcf3e2bb8045",
+              "1080p": "https://pixeldrain.net/u/zQEATZ3v?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=c728c0c89c9bb4ea6cebb677fac3f0065fda0b82d1774affb643eb3e2f704df07f80d7ee808b90587532dbb6921c141f490f94a9c2250dea931239063ead1e48c64203e13d04f7d575e9f31f9468ea24d7c27a7d9904b8081c791cdf80adefeebfb95a3bdd9b13dae244565b055e2b38::5ab2fe7500df666deb6bbcf3e2bb8045",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=c728c0c89c9bb4ea6cebb677fac3f0065fda0b82d1774affb643eb3e2f704df07f80d7ee808b90587532dbb6921c141f490f94a9c2250dea931239063ead1e48c64203e13d04f7d575e9f31f9468ea24d7c27a7d9904b8081c791cdf80adefeebfb95a3bdd9b13dae244565b055e2b38::5ab2fe7500df666deb6bbcf3e2bb8045"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=c728c0c89c9bb4ea6cebb677fac3f0065fda0b82d1774affb643eb3e2f704df07f80d7ee808b90587532dbb6921c141f490f94a9c2250dea931239063ead1e48c64203e13d04f7d575e9f31f9468ea24d7c27a7d9904b8081c791cdf80adefeebfb95a3bdd9b13dae244565b055e2b38::5ab2fe7500df666deb6bbcf3e2bb8045",
+              "hindi": "https://pixeldrain.net/u/zQEATZ3v?download"
             },
             "hasTelegram": false
           },
@@ -22030,11 +22574,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 5",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=784620773a1371621ff46a566104635ec2b3441ed0d77a2e8660eb5a87f19be472e0b402cec4a3c35f0b57cd0fbb1527d906c81c2bb4aa95312eaa9bab1af98cfd28e141fd1acb37ea0ceceba29cb78a352ee85106f56a076b492f3da124c41d85eac00ed7924cacac64d38f5565d095::17d2b78f28918f2d08a5f5990e17e29d",
+            "downloadUrl": "https://pixeldrain.net/u/KtfLVmUJ?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=784620773a1371621ff46a566104635ec2b3441ed0d77a2e8660eb5a87f19be472e0b402cec4a3c35f0b57cd0fbb1527d906c81c2bb4aa95312eaa9bab1af98cfd28e141fd1acb37ea0ceceba29cb78a352ee85106f56a076b492f3da124c41d85eac00ed7924cacac64d38f5565d095::17d2b78f28918f2d08a5f5990e17e29d",
+              "1080p": "https://pixeldrain.net/u/KtfLVmUJ?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=784620773a1371621ff46a566104635ec2b3441ed0d77a2e8660eb5a87f19be472e0b402cec4a3c35f0b57cd0fbb1527d906c81c2bb4aa95312eaa9bab1af98cfd28e141fd1acb37ea0ceceba29cb78a352ee85106f56a076b492f3da124c41d85eac00ed7924cacac64d38f5565d095::17d2b78f28918f2d08a5f5990e17e29d",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=784620773a1371621ff46a566104635ec2b3441ed0d77a2e8660eb5a87f19be472e0b402cec4a3c35f0b57cd0fbb1527d906c81c2bb4aa95312eaa9bab1af98cfd28e141fd1acb37ea0ceceba29cb78a352ee85106f56a076b492f3da124c41d85eac00ed7924cacac64d38f5565d095::17d2b78f28918f2d08a5f5990e17e29d"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=784620773a1371621ff46a566104635ec2b3441ed0d77a2e8660eb5a87f19be472e0b402cec4a3c35f0b57cd0fbb1527d906c81c2bb4aa95312eaa9bab1af98cfd28e141fd1acb37ea0ceceba29cb78a352ee85106f56a076b492f3da124c41d85eac00ed7924cacac64d38f5565d095::17d2b78f28918f2d08a5f5990e17e29d",
+              "hindi": "https://pixeldrain.net/u/KtfLVmUJ?download"
             },
             "hasTelegram": false
           },
@@ -22046,11 +22591,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 6",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=c4b64a5413bce53906650b429097270f4328a1e5d0bdb06aa44f160a9fdacdde53fbaebccfbd754759f67b2d90fec34dab314550bf85172eaff541ee6c5c3bb7ee63c2ea83be8538b878ecc496d1e499173b5cc8eecbb50e63cb8b966967c8e1::5ac193b5d47a77ffee79f7494f3048c5",
+            "downloadUrl": "https://pixeldrain.net/u/9Wat15kN?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=c4b64a5413bce53906650b429097270f4328a1e5d0bdb06aa44f160a9fdacdde53fbaebccfbd754759f67b2d90fec34dab314550bf85172eaff541ee6c5c3bb7ee63c2ea83be8538b878ecc496d1e499173b5cc8eecbb50e63cb8b966967c8e1::5ac193b5d47a77ffee79f7494f3048c5",
+              "1080p": "https://pixeldrain.net/u/9Wat15kN?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=c4b64a5413bce53906650b429097270f4328a1e5d0bdb06aa44f160a9fdacdde53fbaebccfbd754759f67b2d90fec34dab314550bf85172eaff541ee6c5c3bb7ee63c2ea83be8538b878ecc496d1e499173b5cc8eecbb50e63cb8b966967c8e1::5ac193b5d47a77ffee79f7494f3048c5",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=c4b64a5413bce53906650b429097270f4328a1e5d0bdb06aa44f160a9fdacdde53fbaebccfbd754759f67b2d90fec34dab314550bf85172eaff541ee6c5c3bb7ee63c2ea83be8538b878ecc496d1e499173b5cc8eecbb50e63cb8b966967c8e1::5ac193b5d47a77ffee79f7494f3048c5"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=c4b64a5413bce53906650b429097270f4328a1e5d0bdb06aa44f160a9fdacdde53fbaebccfbd754759f67b2d90fec34dab314550bf85172eaff541ee6c5c3bb7ee63c2ea83be8538b878ecc496d1e499173b5cc8eecbb50e63cb8b966967c8e1::5ac193b5d47a77ffee79f7494f3048c5",
+              "hindi": "https://pixeldrain.net/u/9Wat15kN?download"
             },
             "hasTelegram": false
           },
@@ -22062,11 +22608,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 7",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f344899725ca3f9424be0a1070a7a1e5b540330c06077babda9db2463ecf28047610304c4b5e508fb13f898ac8c99b5606ad2cee027490ddcce0130bc72f4d039f479e62550ca25c1cd2973d2c7c911837d04786d6a29190abd342938ba1485a::be9072e79a65d2f7a4aa12be29fd36d2",
+            "downloadUrl": "https://pixeldrain.net/u/wS1MXf68?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=f344899725ca3f9424be0a1070a7a1e5b540330c06077babda9db2463ecf28047610304c4b5e508fb13f898ac8c99b5606ad2cee027490ddcce0130bc72f4d039f479e62550ca25c1cd2973d2c7c911837d04786d6a29190abd342938ba1485a::be9072e79a65d2f7a4aa12be29fd36d2",
+              "1080p": "https://pixeldrain.net/u/wS1MXf68?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=f344899725ca3f9424be0a1070a7a1e5b540330c06077babda9db2463ecf28047610304c4b5e508fb13f898ac8c99b5606ad2cee027490ddcce0130bc72f4d039f479e62550ca25c1cd2973d2c7c911837d04786d6a29190abd342938ba1485a::be9072e79a65d2f7a4aa12be29fd36d2",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=f344899725ca3f9424be0a1070a7a1e5b540330c06077babda9db2463ecf28047610304c4b5e508fb13f898ac8c99b5606ad2cee027490ddcce0130bc72f4d039f479e62550ca25c1cd2973d2c7c911837d04786d6a29190abd342938ba1485a::be9072e79a65d2f7a4aa12be29fd36d2"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=f344899725ca3f9424be0a1070a7a1e5b540330c06077babda9db2463ecf28047610304c4b5e508fb13f898ac8c99b5606ad2cee027490ddcce0130bc72f4d039f479e62550ca25c1cd2973d2c7c911837d04786d6a29190abd342938ba1485a::be9072e79a65d2f7a4aa12be29fd36d2",
+              "hindi": "https://pixeldrain.net/u/wS1MXf68?download"
             },
             "hasTelegram": false
           },
@@ -22078,11 +22625,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 8",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=58182f80c5aade61d58261a12445c9ddca50d1e463ba55b3f72558ea0a584da74803c2658b3be53f0c5032e4b357c346f15f04073f8b401502512f0c9d481547e22a53a31fc30403e996cb4349a3ec35d75292c7b2f1871f202b88b19319cc86::c5f4f63d869e74e93c96e06568cc81a8",
+            "downloadUrl": "https://pixeldrain.net/u/s1JwXtie?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=58182f80c5aade61d58261a12445c9ddca50d1e463ba55b3f72558ea0a584da74803c2658b3be53f0c5032e4b357c346f15f04073f8b401502512f0c9d481547e22a53a31fc30403e996cb4349a3ec35d75292c7b2f1871f202b88b19319cc86::c5f4f63d869e74e93c96e06568cc81a8",
+              "1080p": "https://pixeldrain.net/u/s1JwXtie?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=58182f80c5aade61d58261a12445c9ddca50d1e463ba55b3f72558ea0a584da74803c2658b3be53f0c5032e4b357c346f15f04073f8b401502512f0c9d481547e22a53a31fc30403e996cb4349a3ec35d75292c7b2f1871f202b88b19319cc86::c5f4f63d869e74e93c96e06568cc81a8",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=58182f80c5aade61d58261a12445c9ddca50d1e463ba55b3f72558ea0a584da74803c2658b3be53f0c5032e4b357c346f15f04073f8b401502512f0c9d481547e22a53a31fc30403e996cb4349a3ec35d75292c7b2f1871f202b88b19319cc86::c5f4f63d869e74e93c96e06568cc81a8"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=58182f80c5aade61d58261a12445c9ddca50d1e463ba55b3f72558ea0a584da74803c2658b3be53f0c5032e4b357c346f15f04073f8b401502512f0c9d481547e22a53a31fc30403e996cb4349a3ec35d75292c7b2f1871f202b88b19319cc86::c5f4f63d869e74e93c96e06568cc81a8",
+              "hindi": "https://pixeldrain.net/u/s1JwXtie?download"
             },
             "hasTelegram": false
           },
@@ -22094,11 +22642,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 9",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=79eef822c60cec7e6f1a6bb652e7a225e6778bad01f17ddb618c4e383235f8f0921e973a1d264a9c93c689530e265343c5e3fdf3320fe03672254a5276cf44f0bbb88527c79069bf50ad7a3e398a3445f419b370fcb19736d63dda11931de9b2::fda28883ad9bed066acbe3b46d139119",
+            "downloadUrl": "https://pixeldrain.net/u/HE2sDUi1?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=79eef822c60cec7e6f1a6bb652e7a225e6778bad01f17ddb618c4e383235f8f0921e973a1d264a9c93c689530e265343c5e3fdf3320fe03672254a5276cf44f0bbb88527c79069bf50ad7a3e398a3445f419b370fcb19736d63dda11931de9b2::fda28883ad9bed066acbe3b46d139119",
+              "1080p": "https://pixeldrain.net/u/HE2sDUi1?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=79eef822c60cec7e6f1a6bb652e7a225e6778bad01f17ddb618c4e383235f8f0921e973a1d264a9c93c689530e265343c5e3fdf3320fe03672254a5276cf44f0bbb88527c79069bf50ad7a3e398a3445f419b370fcb19736d63dda11931de9b2::fda28883ad9bed066acbe3b46d139119",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=79eef822c60cec7e6f1a6bb652e7a225e6778bad01f17ddb618c4e383235f8f0921e973a1d264a9c93c689530e265343c5e3fdf3320fe03672254a5276cf44f0bbb88527c79069bf50ad7a3e398a3445f419b370fcb19736d63dda11931de9b2::fda28883ad9bed066acbe3b46d139119"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=79eef822c60cec7e6f1a6bb652e7a225e6778bad01f17ddb618c4e383235f8f0921e973a1d264a9c93c689530e265343c5e3fdf3320fe03672254a5276cf44f0bbb88527c79069bf50ad7a3e398a3445f419b370fcb19736d63dda11931de9b2::fda28883ad9bed066acbe3b46d139119",
+              "hindi": "https://pixeldrain.net/u/HE2sDUi1?download"
             },
             "hasTelegram": false
           },
@@ -22110,11 +22659,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 10",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=b2d7caf6a3baa61a1f459a8eec9a449e9945c33bb8dd5346fc7cd4698e68fe7832c1f55416404af64ccb7885c92802c198f9e7fec60d358f4891688fe895c16d5c3f663d8c6e31c56ba89f1cb915a13c57423f746acc9cbae459b7deecf8819f::c6acacd9d0fe86fab27bd2d3e2dd7a0b",
+            "downloadUrl": "https://pixeldrain.net/u/YkJuQzq9?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=b2d7caf6a3baa61a1f459a8eec9a449e9945c33bb8dd5346fc7cd4698e68fe7832c1f55416404af64ccb7885c92802c198f9e7fec60d358f4891688fe895c16d5c3f663d8c6e31c56ba89f1cb915a13c57423f746acc9cbae459b7deecf8819f::c6acacd9d0fe86fab27bd2d3e2dd7a0b",
+              "1080p": "https://pixeldrain.net/u/YkJuQzq9?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=b2d7caf6a3baa61a1f459a8eec9a449e9945c33bb8dd5346fc7cd4698e68fe7832c1f55416404af64ccb7885c92802c198f9e7fec60d358f4891688fe895c16d5c3f663d8c6e31c56ba89f1cb915a13c57423f746acc9cbae459b7deecf8819f::c6acacd9d0fe86fab27bd2d3e2dd7a0b",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=b2d7caf6a3baa61a1f459a8eec9a449e9945c33bb8dd5346fc7cd4698e68fe7832c1f55416404af64ccb7885c92802c198f9e7fec60d358f4891688fe895c16d5c3f663d8c6e31c56ba89f1cb915a13c57423f746acc9cbae459b7deecf8819f::c6acacd9d0fe86fab27bd2d3e2dd7a0b"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=b2d7caf6a3baa61a1f459a8eec9a449e9945c33bb8dd5346fc7cd4698e68fe7832c1f55416404af64ccb7885c92802c198f9e7fec60d358f4891688fe895c16d5c3f663d8c6e31c56ba89f1cb915a13c57423f746acc9cbae459b7deecf8819f::c6acacd9d0fe86fab27bd2d3e2dd7a0b",
+              "hindi": "https://pixeldrain.net/u/YkJuQzq9?download"
             },
             "hasTelegram": false
           },
@@ -22126,11 +22676,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 11",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=7ebdaddb02d9d6ac45834fc34d30f7dc7643da7e26d0ec350c7a62a7dd220b8f1f61d3982e5f24dc2be9c8dc1c9ca154cfe684b8eb9951112211bc71c633a1fafb4b584b9e2754401f7e6affaa9deb22b20ed48b29c1f6a5597d951a3aaf4d14::69d7a51767aa1d5dce558de8f705f19a",
+            "downloadUrl": "https://pixeldrain.net/u/MqjMzUCJ?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=7ebdaddb02d9d6ac45834fc34d30f7dc7643da7e26d0ec350c7a62a7dd220b8f1f61d3982e5f24dc2be9c8dc1c9ca154cfe684b8eb9951112211bc71c633a1fafb4b584b9e2754401f7e6affaa9deb22b20ed48b29c1f6a5597d951a3aaf4d14::69d7a51767aa1d5dce558de8f705f19a",
+              "1080p": "https://pixeldrain.net/u/MqjMzUCJ?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=7ebdaddb02d9d6ac45834fc34d30f7dc7643da7e26d0ec350c7a62a7dd220b8f1f61d3982e5f24dc2be9c8dc1c9ca154cfe684b8eb9951112211bc71c633a1fafb4b584b9e2754401f7e6affaa9deb22b20ed48b29c1f6a5597d951a3aaf4d14::69d7a51767aa1d5dce558de8f705f19a",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=7ebdaddb02d9d6ac45834fc34d30f7dc7643da7e26d0ec350c7a62a7dd220b8f1f61d3982e5f24dc2be9c8dc1c9ca154cfe684b8eb9951112211bc71c633a1fafb4b584b9e2754401f7e6affaa9deb22b20ed48b29c1f6a5597d951a3aaf4d14::69d7a51767aa1d5dce558de8f705f19a"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=7ebdaddb02d9d6ac45834fc34d30f7dc7643da7e26d0ec350c7a62a7dd220b8f1f61d3982e5f24dc2be9c8dc1c9ca154cfe684b8eb9951112211bc71c633a1fafb4b584b9e2754401f7e6affaa9deb22b20ed48b29c1f6a5597d951a3aaf4d14::69d7a51767aa1d5dce558de8f705f19a",
+              "hindi": "https://pixeldrain.net/u/MqjMzUCJ?download"
             },
             "hasTelegram": false
           },
@@ -22142,13 +22693,28 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 12",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=b57fb1c4bb75a71beb459de5c6fffe8f846e205ce99d2ed853996d334bb553989c5e834e890b0a47f910ee6379d5fd4cf70cbbf8e1d525cd6571a6939485ebb128a4d0a420f94c2b25bb02d198d065f75629b4a6059bb82e93f84d9fe79238c7::ba997d9656a137d9b9af28191b784bb8",
+            "downloadUrl": "https://pixeldrain.net/u/aSGT5dkg?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=b57fb1c4bb75a71beb459de5c6fffe8f846e205ce99d2ed853996d334bb553989c5e834e890b0a47f910ee6379d5fd4cf70cbbf8e1d525cd6571a6939485ebb128a4d0a420f94c2b25bb02d198d065f75629b4a6059bb82e93f84d9fe79238c7::ba997d9656a137d9b9af28191b784bb8",
+              "1080p": "https://pixeldrain.net/u/aSGT5dkg?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=b57fb1c4bb75a71beb459de5c6fffe8f846e205ce99d2ed853996d334bb553989c5e834e890b0a47f910ee6379d5fd4cf70cbbf8e1d525cd6571a6939485ebb128a4d0a420f94c2b25bb02d198d065f75629b4a6059bb82e93f84d9fe79238c7::ba997d9656a137d9b9af28191b784bb8",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=b57fb1c4bb75a71beb459de5c6fffe8f846e205ce99d2ed853996d334bb553989c5e834e890b0a47f910ee6379d5fd4cf70cbbf8e1d525cd6571a6939485ebb128a4d0a420f94c2b25bb02d198d065f75629b4a6059bb82e93f84d9fe79238c7::ba997d9656a137d9b9af28191b784bb8"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=b57fb1c4bb75a71beb459de5c6fffe8f846e205ce99d2ed853996d334bb553989c5e834e890b0a47f910ee6379d5fd4cf70cbbf8e1d525cd6571a6939485ebb128a4d0a420f94c2b25bb02d198d065f75629b4a6059bb82e93f84d9fe79238c7::ba997d9656a137d9b9af28191b784bb8",
+              "hindi": "https://pixeldrain.net/u/aSGT5dkg?download"
             },
             "hasTelegram": false
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "Now it’s All Country!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
+            "synopsis": "Episode 13 of Captain Tsubasa",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/1TXope9Y?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/1TXope9Y?download"
+            }
           },
           {
             "id": 14,
@@ -22158,11 +22724,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 14",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybDhTYmZqd0xoR3BKb000eGMxeUo3N0QxcVNJdm9XVWhPeFh6UVZoUlgwOC1TVS14eTFTWTVDVE92Z25XMFh4akVRblowQVVpazdCXy01SkprX0x0UE5ncEF6RTgxT2p3TnFmRXdWRXNGVzJrR085aHRWc0dnN20wNDBBazlNemVUNXg0MzRVZF9aeEM5d0JtUDRiX05UVXdaVUo2ck5YNENyWllXTktiMXpQcEZmY3l5RVdrbjQ4bDkzQUhnc3JsSkZ6LS1HUFBhQi05Z1k3WDBQS3hlOWZoWm91NmNIaldaX1JBTWxXcGlrekNncVZRVGxDdE94eWR0NHlVdTlicHE0YlpzUWZ6MU9MS0VVaHV1MkNQQ3hqaXQxZDlxTzZ1N296VkN3MnN1TnVtV3E3SGhDUUNGZWNmWlgySDBMU3c0QVFVeXl1dUFuSm1jSi1Jbmd0OE9CcFAzMkk3b21EdTlsWFFnY0JxMktabFp4X2RMeXBWSzc2aTh4a3FHUVk5bGkxeDA0aHNBdXJHT2xnY3pPbjBkc0o3bjBNZVVMMzNxenotWFJ5aGl5RTlrQU9CR1kxdGpPNkJoRFAxRDFZQVI4WnB1dlgxWmRiRHNLQzVXN1Nmb2paX3Frei12QmlqZUNkbXBrOFJRR0pHRmYyRmlQX0Jub0lqUXpISzJkM243NldTSVFnOFRiS3I5R0NWX0lTYS1fckpjTTdMa1ZNOWNOa1VfLVFFdE9laEQtY3RkZ1BHV1RoNk53NTJaSHRZM1hyZEViVnVVTEhSbWVkeXhabEVQdVd0WHhnM0wtOGhKaDlfNi0wVnh2YjMwX2o1SEVUdmdJeGcyUWRERXNEeUFYak53Ym5hSmVJRjNsdEI5ZEZxX3E3ajNQVGV1ZW51RWVlX1pzYUE3VHhxWnA4VFMyWGkyVlFZOVF1S2ZjQkZqbXdEeGZZZUtYQnBMVUNrRDVyUk5IT05SUkRwdUtab3JqSjgwSzBGLVFqTmFmeG5FY3hqaEUtZWtBOTRnQURkb2p4R0RXallHS1N5T2RCY3NnQTFvNXAtdkl4YXB4dUIyTW1zWTFTVW5vMzBRVmVYOVdiMm1JVGdsN3JvYWxUTnpuQ041QmpzUmdpWlVVTzI1bXV2a25xb3k4OU9PaWxfZ0pNRl9lRmp1T0NaT2pjWG5MbDBSMko2cUdiOGp6bnVmb01BeVB5aml0RGZWZXdIU21sM0JRNi1ZR2ZJVDltdU9UUC1qUlhCalV2TEtKSTJYRThhRmw0bjZfVjZlR1JWMllaRzlSWWd5SEYwVHhUTUJjeHlsbll0amNDOUNDU0Q1LTdlNkNteWw2Y3pxeGY4RlNLV21Ub2p4aEFNeWpTZndLcVdfTXg3YWpENVYxNWJILVhIZFYyUzdUcXVXZTEyY1VyN1J2WG9wTlc1QXNXalFKbWVreU5UbVMzTmFfTHU5STBCU3FndzFHVWNwUkMyTlRWVW1fbUU2QzNseVQ5VVRhUHhhQkI3QzlUMURfNVlZIiwidGltZXN0YW1wIjoxNzg4NDQ4MjQ1MDAwLCJoYXNoIjoiZDgwNjFkNjc0ZjdjOTMxZjI4ZmQ3MzJkZDVjYjg5ZWRmNjdmNTQ4NGNhYWRlM2EyY2ZkMDk0NGMyYjc1YWFkYyIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNCBbUmFyZVRvb25zSW5kaWFdIC5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/ah1aBGK7?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybDhTYmZqd0xoR3BKb000eGMxeUo3N0QxcVNJdm9XVWhPeFh6UVZoUlgwOC1TVS14eTFTWTVDVE92Z25XMFh4akVRblowQVVpazdCXy01SkprX0x0UE5ncEF6RTgxT2p3TnFmRXdWRXNGVzJrR085aHRWc0dnN20wNDBBazlNemVUNXg0MzRVZF9aeEM5d0JtUDRiX05UVXdaVUo2ck5YNENyWllXTktiMXpQcEZmY3l5RVdrbjQ4bDkzQUhnc3JsSkZ6LS1HUFBhQi05Z1k3WDBQS3hlOWZoWm91NmNIaldaX1JBTWxXcGlrekNncVZRVGxDdE94eWR0NHlVdTlicHE0YlpzUWZ6MU9MS0VVaHV1MkNQQ3hqaXQxZDlxTzZ1N296VkN3MnN1TnVtV3E3SGhDUUNGZWNmWlgySDBMU3c0QVFVeXl1dUFuSm1jSi1Jbmd0OE9CcFAzMkk3b21EdTlsWFFnY0JxMktabFp4X2RMeXBWSzc2aTh4a3FHUVk5bGkxeDA0aHNBdXJHT2xnY3pPbjBkc0o3bjBNZVVMMzNxenotWFJ5aGl5RTlrQU9CR1kxdGpPNkJoRFAxRDFZQVI4WnB1dlgxWmRiRHNLQzVXN1Nmb2paX3Frei12QmlqZUNkbXBrOFJRR0pHRmYyRmlQX0Jub0lqUXpISzJkM243NldTSVFnOFRiS3I5R0NWX0lTYS1fckpjTTdMa1ZNOWNOa1VfLVFFdE9laEQtY3RkZ1BHV1RoNk53NTJaSHRZM1hyZEViVnVVTEhSbWVkeXhabEVQdVd0WHhnM0wtOGhKaDlfNi0wVnh2YjMwX2o1SEVUdmdJeGcyUWRERXNEeUFYak53Ym5hSmVJRjNsdEI5ZEZxX3E3ajNQVGV1ZW51RWVlX1pzYUE3VHhxWnA4VFMyWGkyVlFZOVF1S2ZjQkZqbXdEeGZZZUtYQnBMVUNrRDVyUk5IT05SUkRwdUtab3JqSjgwSzBGLVFqTmFmeG5FY3hqaEUtZWtBOTRnQURkb2p4R0RXallHS1N5T2RCY3NnQTFvNXAtdkl4YXB4dUIyTW1zWTFTVW5vMzBRVmVYOVdiMm1JVGdsN3JvYWxUTnpuQ041QmpzUmdpWlVVTzI1bXV2a25xb3k4OU9PaWxfZ0pNRl9lRmp1T0NaT2pjWG5MbDBSMko2cUdiOGp6bnVmb01BeVB5aml0RGZWZXdIU21sM0JRNi1ZR2ZJVDltdU9UUC1qUlhCalV2TEtKSTJYRThhRmw0bjZfVjZlR1JWMllaRzlSWWd5SEYwVHhUTUJjeHlsbll0amNDOUNDU0Q1LTdlNkNteWw2Y3pxeGY4RlNLV21Ub2p4aEFNeWpTZndLcVdfTXg3YWpENVYxNWJILVhIZFYyUzdUcXVXZTEyY1VyN1J2WG9wTlc1QXNXalFKbWVreU5UbVMzTmFfTHU5STBCU3FndzFHVWNwUkMyTlRWVW1fbUU2QzNseVQ5VVRhUHhhQkI3QzlUMURfNVlZIiwidGltZXN0YW1wIjoxNzg4NDQ4MjQ1MDAwLCJoYXNoIjoiZDgwNjFkNjc0ZjdjOTMxZjI4ZmQ3MzJkZDVjYjg5ZWRmNjdmNTQ4NGNhYWRlM2EyY2ZkMDk0NGMyYjc1YWFkYyIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNCBbUmFyZVRvb25zSW5kaWFdIC5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/ah1aBGK7?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybDhTYmZqd0xoR3BKb000eGMxeUo3N0QxcVNJdm9XVWhPeFh6UVZoUlgwOC1TVS14eTFTWTVDVE92Z25XMFh4akVRblowQVVpazdCXy01SkprX0x0UE5ncEF6RTgxT2p3TnFmRXdWRXNGVzJrR085aHRWc0dnN20wNDBBazlNemVUNXg0MzRVZF9aeEM5d0JtUDRiX05UVXdaVUo2ck5YNENyWllXTktiMXpQcEZmY3l5RVdrbjQ4bDkzQUhnc3JsSkZ6LS1HUFBhQi05Z1k3WDBQS3hlOWZoWm91NmNIaldaX1JBTWxXcGlrekNncVZRVGxDdE94eWR0NHlVdTlicHE0YlpzUWZ6MU9MS0VVaHV1MkNQQ3hqaXQxZDlxTzZ1N296VkN3MnN1TnVtV3E3SGhDUUNGZWNmWlgySDBMU3c0QVFVeXl1dUFuSm1jSi1Jbmd0OE9CcFAzMkk3b21EdTlsWFFnY0JxMktabFp4X2RMeXBWSzc2aTh4a3FHUVk5bGkxeDA0aHNBdXJHT2xnY3pPbjBkc0o3bjBNZVVMMzNxenotWFJ5aGl5RTlrQU9CR1kxdGpPNkJoRFAxRDFZQVI4WnB1dlgxWmRiRHNLQzVXN1Nmb2paX3Frei12QmlqZUNkbXBrOFJRR0pHRmYyRmlQX0Jub0lqUXpISzJkM243NldTSVFnOFRiS3I5R0NWX0lTYS1fckpjTTdMa1ZNOWNOa1VfLVFFdE9laEQtY3RkZ1BHV1RoNk53NTJaSHRZM1hyZEViVnVVTEhSbWVkeXhabEVQdVd0WHhnM0wtOGhKaDlfNi0wVnh2YjMwX2o1SEVUdmdJeGcyUWRERXNEeUFYak53Ym5hSmVJRjNsdEI5ZEZxX3E3ajNQVGV1ZW51RWVlX1pzYUE3VHhxWnA4VFMyWGkyVlFZOVF1S2ZjQkZqbXdEeGZZZUtYQnBMVUNrRDVyUk5IT05SUkRwdUtab3JqSjgwSzBGLVFqTmFmeG5FY3hqaEUtZWtBOTRnQURkb2p4R0RXallHS1N5T2RCY3NnQTFvNXAtdkl4YXB4dUIyTW1zWTFTVW5vMzBRVmVYOVdiMm1JVGdsN3JvYWxUTnpuQ041QmpzUmdpWlVVTzI1bXV2a25xb3k4OU9PaWxfZ0pNRl9lRmp1T0NaT2pjWG5MbDBSMko2cUdiOGp6bnVmb01BeVB5aml0RGZWZXdIU21sM0JRNi1ZR2ZJVDltdU9UUC1qUlhCalV2TEtKSTJYRThhRmw0bjZfVjZlR1JWMllaRzlSWWd5SEYwVHhUTUJjeHlsbll0amNDOUNDU0Q1LTdlNkNteWw2Y3pxeGY4RlNLV21Ub2p4aEFNeWpTZndLcVdfTXg3YWpENVYxNWJILVhIZFYyUzdUcXVXZTEyY1VyN1J2WG9wTlc1QXNXalFKbWVreU5UbVMzTmFfTHU5STBCU3FndzFHVWNwUkMyTlRWVW1fbUU2QzNseVQ5VVRhUHhhQkI3QzlUMURfNVlZIiwidGltZXN0YW1wIjoxNzg4NDQ4MjQ1MDAwLCJoYXNoIjoiZDgwNjFkNjc0ZjdjOTMxZjI4ZmQ3MzJkZDVjYjg5ZWRmNjdmNTQ4NGNhYWRlM2EyY2ZkMDk0NGMyYjc1YWFkYyIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNCBbUmFyZVRvb25zSW5kaWFdIC5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybDhTYmZqd0xoR3BKb000eGMxeUo3N0QxcVNJdm9XVWhPeFh6UVZoUlgwOC1TVS14eTFTWTVDVE92Z25XMFh4akVRblowQVVpazdCXy01SkprX0x0UE5ncEF6RTgxT2p3TnFmRXdWRXNGVzJrR085aHRWc0dnN20wNDBBazlNemVUNXg0MzRVZF9aeEM5d0JtUDRiX05UVXdaVUo2ck5YNENyWllXTktiMXpQcEZmY3l5RVdrbjQ4bDkzQUhnc3JsSkZ6LS1HUFBhQi05Z1k3WDBQS3hlOWZoWm91NmNIaldaX1JBTWxXcGlrekNncVZRVGxDdE94eWR0NHlVdTlicHE0YlpzUWZ6MU9MS0VVaHV1MkNQQ3hqaXQxZDlxTzZ1N296VkN3MnN1TnVtV3E3SGhDUUNGZWNmWlgySDBMU3c0QVFVeXl1dUFuSm1jSi1Jbmd0OE9CcFAzMkk3b21EdTlsWFFnY0JxMktabFp4X2RMeXBWSzc2aTh4a3FHUVk5bGkxeDA0aHNBdXJHT2xnY3pPbjBkc0o3bjBNZVVMMzNxenotWFJ5aGl5RTlrQU9CR1kxdGpPNkJoRFAxRDFZQVI4WnB1dlgxWmRiRHNLQzVXN1Nmb2paX3Frei12QmlqZUNkbXBrOFJRR0pHRmYyRmlQX0Jub0lqUXpISzJkM243NldTSVFnOFRiS3I5R0NWX0lTYS1fckpjTTdMa1ZNOWNOa1VfLVFFdE9laEQtY3RkZ1BHV1RoNk53NTJaSHRZM1hyZEViVnVVTEhSbWVkeXhabEVQdVd0WHhnM0wtOGhKaDlfNi0wVnh2YjMwX2o1SEVUdmdJeGcyUWRERXNEeUFYak53Ym5hSmVJRjNsdEI5ZEZxX3E3ajNQVGV1ZW51RWVlX1pzYUE3VHhxWnA4VFMyWGkyVlFZOVF1S2ZjQkZqbXdEeGZZZUtYQnBMVUNrRDVyUk5IT05SUkRwdUtab3JqSjgwSzBGLVFqTmFmeG5FY3hqaEUtZWtBOTRnQURkb2p4R0RXallHS1N5T2RCY3NnQTFvNXAtdkl4YXB4dUIyTW1zWTFTVW5vMzBRVmVYOVdiMm1JVGdsN3JvYWxUTnpuQ041QmpzUmdpWlVVTzI1bXV2a25xb3k4OU9PaWxfZ0pNRl9lRmp1T0NaT2pjWG5MbDBSMko2cUdiOGp6bnVmb01BeVB5aml0RGZWZXdIU21sM0JRNi1ZR2ZJVDltdU9UUC1qUlhCalV2TEtKSTJYRThhRmw0bjZfVjZlR1JWMllaRzlSWWd5SEYwVHhUTUJjeHlsbll0amNDOUNDU0Q1LTdlNkNteWw2Y3pxeGY4RlNLV21Ub2p4aEFNeWpTZndLcVdfTXg3YWpENVYxNWJILVhIZFYyUzdUcXVXZTEyY1VyN1J2WG9wTlc1QXNXalFKbWVreU5UbVMzTmFfTHU5STBCU3FndzFHVWNwUkMyTlRWVW1fbUU2QzNseVQ5VVRhUHhhQkI3QzlUMURfNVlZIiwidGltZXN0YW1wIjoxNzg4NDQ4MjQ1MDAwLCJoYXNoIjoiZDgwNjFkNjc0ZjdjOTMxZjI4ZmQ3MzJkZDVjYjg5ZWRmNjdmNTQ4NGNhYWRlM2EyY2ZkMDk0NGMyYjc1YWFkYyIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNCBbUmFyZVRvb25zSW5kaWFdIC5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybDhTYmZqd0xoR3BKb000eGMxeUo3N0QxcVNJdm9XVWhPeFh6UVZoUlgwOC1TVS14eTFTWTVDVE92Z25XMFh4akVRblowQVVpazdCXy01SkprX0x0UE5ncEF6RTgxT2p3TnFmRXdWRXNGVzJrR085aHRWc0dnN20wNDBBazlNemVUNXg0MzRVZF9aeEM5d0JtUDRiX05UVXdaVUo2ck5YNENyWllXTktiMXpQcEZmY3l5RVdrbjQ4bDkzQUhnc3JsSkZ6LS1HUFBhQi05Z1k3WDBQS3hlOWZoWm91NmNIaldaX1JBTWxXcGlrekNncVZRVGxDdE94eWR0NHlVdTlicHE0YlpzUWZ6MU9MS0VVaHV1MkNQQ3hqaXQxZDlxTzZ1N296VkN3MnN1TnVtV3E3SGhDUUNGZWNmWlgySDBMU3c0QVFVeXl1dUFuSm1jSi1Jbmd0OE9CcFAzMkk3b21EdTlsWFFnY0JxMktabFp4X2RMeXBWSzc2aTh4a3FHUVk5bGkxeDA0aHNBdXJHT2xnY3pPbjBkc0o3bjBNZVVMMzNxenotWFJ5aGl5RTlrQU9CR1kxdGpPNkJoRFAxRDFZQVI4WnB1dlgxWmRiRHNLQzVXN1Nmb2paX3Frei12QmlqZUNkbXBrOFJRR0pHRmYyRmlQX0Jub0lqUXpISzJkM243NldTSVFnOFRiS3I5R0NWX0lTYS1fckpjTTdMa1ZNOWNOa1VfLVFFdE9laEQtY3RkZ1BHV1RoNk53NTJaSHRZM1hyZEViVnVVTEhSbWVkeXhabEVQdVd0WHhnM0wtOGhKaDlfNi0wVnh2YjMwX2o1SEVUdmdJeGcyUWRERXNEeUFYak53Ym5hSmVJRjNsdEI5ZEZxX3E3ajNQVGV1ZW51RWVlX1pzYUE3VHhxWnA4VFMyWGkyVlFZOVF1S2ZjQkZqbXdEeGZZZUtYQnBMVUNrRDVyUk5IT05SUkRwdUtab3JqSjgwSzBGLVFqTmFmeG5FY3hqaEUtZWtBOTRnQURkb2p4R0RXallHS1N5T2RCY3NnQTFvNXAtdkl4YXB4dUIyTW1zWTFTVW5vMzBRVmVYOVdiMm1JVGdsN3JvYWxUTnpuQ041QmpzUmdpWlVVTzI1bXV2a25xb3k4OU9PaWxfZ0pNRl9lRmp1T0NaT2pjWG5MbDBSMko2cUdiOGp6bnVmb01BeVB5aml0RGZWZXdIU21sM0JRNi1ZR2ZJVDltdU9UUC1qUlhCalV2TEtKSTJYRThhRmw0bjZfVjZlR1JWMllaRzlSWWd5SEYwVHhUTUJjeHlsbll0amNDOUNDU0Q1LTdlNkNteWw2Y3pxeGY4RlNLV21Ub2p4aEFNeWpTZndLcVdfTXg3YWpENVYxNWJILVhIZFYyUzdUcXVXZTEyY1VyN1J2WG9wTlc1QXNXalFKbWVreU5UbVMzTmFfTHU5STBCU3FndzFHVWNwUkMyTlRWVW1fbUU2QzNseVQ5VVRhUHhhQkI3QzlUMURfNVlZIiwidGltZXN0YW1wIjoxNzg4NDQ4MjQ1MDAwLCJoYXNoIjoiZDgwNjFkNjc0ZjdjOTMxZjI4ZmQ3MzJkZDVjYjg5ZWRmNjdmNTQ4NGNhYWRlM2EyY2ZkMDk0NGMyYjc1YWFkYyIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNCBbUmFyZVRvb25zSW5kaWFdIC5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/ah1aBGK7?download"
             },
             "hasTelegram": false
           },
@@ -22174,11 +22741,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 15",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybVlDS19GYXNoX1Jic0d0YTR0aFg1ZzJfWUxmN05Id0RkdUgwZm1zcWNMeDVUS1B1ZzV1SUVISVFGc2NRYmF5ZWZ0Y3pFM0VaYkF1NHZ0bDVld3ZPVDRMbmtuNFMyR0JCekF6OFpsNjY2bXpxWkRHak1FeFJaWWhQVGx4NXhSRnowcnF6Wm1IbG96TTNaSHctUXJfQ3VlazR1MEdjaHBqaktiQ09DVXNjazNCTzF3ZjlJQ0cyRXhFdFRqMEtLRFZCdGFVX3B6S3h6bGxxT3ByQ3lsblNmYVJKS0NuVlpTbXFja2syTENGSzhtbjBITkRNWVo0ajNSS0NwMXMtZkpIN0xwWmJLNnBSTGEzakJPalh0dUpRRUVBdGt0Q0FVWnpzX0Rub2lKSXdDVkNfUWx3cHJPRzZfQVBQeWRKLWRpUGF2UmJtbU4yVnNtb1B4dHlTd2RoNGk5UjVlQ2V3TGlaZFNKcGdxRHRocHJ4OHBFRUR3bjRvVTRWSnBNX1YyMDQ3N18tXzVIdnRLQmhDR1UtLXoyVEI1d3Z1RWxXb1RQVGJrQ2pGbEo4QkRXa1pBWUFleGpKR0IwWlFiTmlnamYtcFpvT0lweDYzYmlyUllKRkgtM1ZXeExQSWRuRzBDMlVvY3lGR1NVekc4ai1FV3JDWWJJUmtJNUxmMW1YaXZEeWFWRmJEbHJQcXJsZ2RKVWhsU2R3TEtxTWoxaWNybThTd1Fhd3RrS1NfVXFDQWtBYy1vQnFIVGZ4N2lkbFlORk1tRHY2NkhFYXhWVnBkVjR5OVNVYXhIT2F4VEg1YURtcFRlWEFFU254V2hvcnkxdFpsdmpBMTZ4N3JfQl9 oeWhqNkJ0VzUzUWtiYnhqY25ZSlJkZVoxNmlOeEhNdDhiMnllOVdCNzRlVFNvMUM1R3pOUFZTaEkxZjdEOWs0LVE0RXl3TVpYZ VMtV2JwVkFIalAxMW15VmpyajBHbHVJWVF6S0xKNjBFeUZyejlmT1Q3Zy1TZ251OTlHVWZvS1N0cW9lT3NHd2x1dEpwQlpRNTYt cmdZTFp5Y0VZZHpHZmZtUzlqTDEwazRscFltV1NndklUMGFnYmZESldNUFVhbWtNcVYtSHE1QjNhdVlVb1VuUUpMYjI5TGpTczZ RUlBpcVVBUkUwTUdHWG9zSnUtMzQ3TzJSNXNlOE5xUjRKSWVDbXpKNnR6ck13RFdVNmxFcHVlajVvNFZYeUdiM3MyaDlhdW VxeWRjVEI3R3JsSkd5cGhIN1pFX2Etdjg4LWZTVGRRR00wVVpGSUdnU2x6YU5iOVZ3N2dfbmM5MlJlOXM4TFBTSVZyS3BmM0J KZ1o5WUFKQVJGXzJUaF9FYXpyOHRraUtPYjBITWk2NHF6LVFpZTV4SGQ4aWNRcUpqTlBwcTA1RVA3WF9BQmw0XzctajctSH gtZnQwSlIwU2t4OGlQanNxVW1XZWlSY0lHWDVPbjk0aDU0Q0ZXd2Eyb05CbHBRT1U0WUNpRFp5QUNDeFNTV1lnIiwidGltZXN0 YW1wIjoxNzg4NDQ4MjUxMDAwLCJoYXNoIjoiMjIyNTI1YzZhOWVlMWZiYjhhOGNlMzNhOWMyMWMzOWNiNzJhMmJlYTdjNDdjM GMyM2Y1YmRkN2U3ODdhYmRhMCIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNSBbUmFyZVRvb25zSW5kaWF dIC5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/Fg9txowz?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybVlDS19GYXNoX1Jic0d0YTR0aFg1ZzJfWUxmN05Id0RkdUgwZm1zcWNMeDVUS1B1ZzV1SUVISVFGc2NRYmF5ZWZ0Y3pFM0VaYkF1NHZ0bDVld3ZPVDRMbmtuNFMyR0JCekF6OFpsNjY2bXpxWkRHak1FeFJaWWhQVGx4NXhSRnowcnF6Wm1IbG96TTNaSHctUXJfQ3VlazR1MEdjaHBqaktiQ09DVXNjazNCTzF3ZjlJQ0cyRXhFdFRqMEtLRFZCdGFVX3B6S3h6bGxxT3ByQ3lsblNmYVJKS0NuVlpTbXFja2syTENGSzhtbjBITkRNWVo0ajNSS0NwMXMtZkpIN0xwWmJLNnBSTGEzakJPalh0dUpRRUVBdGt0Q0FVWnpzX0Rub2lKSXdDVkNfUWx3cHJPRzZfQVBQeWRKLWRpUGF2UmJtbU4yVnNtb1B4dHlTd2RoNGk5UjVlQ2V3TGlaZFNKcGdxRHRocHJ4OHBFRUR3bjRvVTRWSnBNX1YyMDQ3N18tXzVIdnRLQmhDR1UtLXoyVEI1d3Z1RWxXb1RQVGJrQ2pGbEo4QkRXa1pBWUFleGpKR0IwWlFiTmlnamYtcFpvT0lweDYzYmlyUllKRkgtM1ZXeExQSWRuRzBDMlVvY3lGR1NVekc4ai1FV3JDWWJJUmtJNUxmMW1YaXZEeWFWRmJEbHJQcXJsZ2RKVWhsU2R3TEtxTWoxaWNybThTd1Fhd3RrS1NfVXFDQWtBYy1vQnFIVGZ4N2lkbFlORk1tRHY2NkhFYXhWVnBkVjR5OVNVYXhIT2F4VEg1YURtcFRlWEFFU254V2hvcnkxdFpsdmpBMTZ4N3JfQl9 oeWhqNkJ0VzUzUWtiYnhqY25ZSlJkZVoxNmlOeEhNdDhiMnllOVdCNzRlVFNvMUM1R3pOUFZTaEkxZjdEOWs0LVE0RXl3TVpYZ VMtV2JwVkFIalAxMW15VmpyajBHbHVJWVF6S0xKNjBFeUZyejlmT1Q3Zy1TZ251OTlHVWZvS1N0cW9lT3NHd2x1dEpwQlpRNTYt cmdZTFp5Y0VZZHpHZmZtUzlqTDEwazRscFltV1NndklUMGFnYmZESldNUFVhbWtNcVYtSHE1QjNhdVlVb1VuUUpMYjI5TGpTczZ RUlBpcVVBUkUwTUdHWG9zSnUtMzQ3TzJSNXNlOE5xUjRKSWVDbXpKNnR6ck13RFdVNmxFcHVlajVvNFZYeUdiM3MyaDlhdW VxeWRjVEI3R3JsSkd5cGhIN1pFX2Etdjg4LWZTVGRRR00wVVpGSUdnU2x6YU5iOVZ3N2dfbmM5MlJlOXM4TFBTSVZyS3BmM0J KZ1o5WUFKQVJGXzJUaF9FYXpyOHRraUtPYjBITWk2NHF6LVFpZTV4SGQ4aWNRcUpqTlBwcTA1RVA3WF9BQmw0XzctajctSH gtZnQwSlIwU2t4OGlQanNxVW1XZWlSY0lHWDVPbjk0aDU0Q0ZXd2Eyb05CbHBRT1U0WUNpRFp5QUNDeFNTV1lnIiwidGltZXN0 YW1wIjoxNzg4NDQ4MjUxMDAwLCJoYXNoIjoiMjIyNTI1YzZhOWVlMWZiYjhhOGNlMzNhOWMyMWMzOWNiNzJhMmJlYTdjNDdjM GMyM2Y1YmRkN2U3ODdhYmRhMCIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNSBbUmFyZVRvb25zSW5kaWF dIC5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/Fg9txowz?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybVlDS19GYXNoX1Jic0d0YTR0aFg1ZzJfWUxmN05Id0RkdUgwZm1zcWNMeDVUS1B1ZzV1SUVISVFGc2NRYmF5ZWZ0Y3pFM0VaYkF1NHZ0bDVld3ZPVDRMbmtuNFMyR0JCekF6OFpsNjY2bXpxWkRHak1FeFJaWWhQVGx4NXhSRnowcnF6Wm1IbG96TTNaSHctUXJfQ3VlazR1MEdjaHBqaktiQ09DVXNjazNCTzF3ZjlJQ0cyRXhFdFRqMEtLRFZCdGFVX3B6S3h6bGxxT3ByQ3lsblNmYVJKS0NuVlpTbXFja2syTENGSzhtbjBITkRNWVo0ajNSS0NwMXMtZkpIN0xwWmJLNnBSTGEzakJPalh0dUpRRUVBdGt0Q0FVWnpzX0Rub2lKSXdDVkNfUWx3cHJPRzZfQVBQeWRKLWRpUGF2UmJtbU4yVnNtb1B4dHlTd2RoNGk5UjVlQ2V3TGlaZFNKcGdxRHRocHJ4OHBFRUR3bjRvVTRWSnBNX1YyMDQ3N18tXzVIdnRLQmhDR1UtLXoyVEI1d3Z1RWxXb1RQVGJrQ2pGbEo4QkRXa1pBWUFleGpKR0IwWlFiTmlnamYtcFpvT0lweDYzYmlyUllKRkgtM1ZXeExQSWRuRzBDMlVvY3lGR1NVekc4ai1FV3JDWWJJUmtJNUxmMW1YaXZEeWFWRmJEbHJQcXJsZ2RKVWhsU2R3TEtxTWoxaWNybThTd1Fhd3RrS1NfVXFDQWtBYy1vQnFIVGZ4N2lkbFlORk1tRHY2NkhFYXhWVnBkVjR5OVNVYXhIT2F4VEg1YURtcFRlWEFFU254V2hvcnkxdFpsdmpBMTZ4N3JfQl9 oeWhqNkJ0VzUzUWtiYnhqY25ZSlJkZVoxNmlOeEhNdDhiMnllOVdCNzRlVFNvMUM1R3pOUFZTaEkxZjdEOWs0LVE0RXl3TVpYZ VMtV2JwVkFIalAxMW15VmpyajBHbHVJWVF6S0xKNjBFeUZyejlmT1Q3Zy1TZ251OTlHVWZvS1N0cW9lT3NHd2x1dEpwQlpRNTYt cmdZTFp5Y0VZZHpHZmZtUzlqTDEwazRscFltV1NndklUMGFnYmZESldNUFVhbWtNcVYtSHE1QjNhdVlVb1VuUUpMYjI5TGpTczZ RUlBpcVVBUkUwTUdHWG9zSnUtMzQ3TzJSNXNlOE5xUjRKSWVDbXpKNnR6ck13RFdVNmxFcHVlajVvNFZYeUdiM3MyaDlhdW VxeWRjVEI3R3JsSkd5cGhIN1pFX2Etdjg4LWZTVGRRR00wVVpGSUdnU2x6YU5iOVZ3N2dfbmM5MlJlOXM4TFBTSVZyS3BmM0J KZ1o5WUFKQVJGXzJUaF9FYXpyOHRraUtPYjBITWk2NHF6LVFpZTV4SGQ4aWNRcUpqTlBwcTA1RVA3WF9BQmw0XzctajctSH gtZnQwSlIwU2t4OGlQanNxVW1XZWlSY0lHWDVPbjk0aDU0Q0ZXd2Eyb05CbHBRT1U0WUNpRFp5QUNDeFNTV1lnIiwidGltZXN0 YW1wIjoxNzg4NDQ4MjUxMDAwLCJoYXNoIjoiMjIyNTI1YzZhOWVlMWZiYjhhOGNlMzNhOWMyMWMzOWNiNzJhMmJlYTdjNDdjM GMyM2Y1YmRkN2U3ODdhYmRhMCIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNSBbUmFyZVRvb25zSW5kaWF dIC5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybVlDS19GYXNoX1Jic0d0YTR0aFg1ZzJfWUxmN05Id0RkdUgwZm1zcWNMeDVUS1B1ZzV1SUVISVFGc2NRYmF5ZWZ0Y3pFM0VaYkF1NHZ0bDVld3ZPVDRMbmtuNFMyR0JCekF6OFpsNjY2bXpxWkRHak1FeFJaWWhQVGx4NXhSRnowcnF6Wm1IbG96TTNaSHctUXJfQ3VlazR1MEdjaHBqaktiQ09DVXNjazNCTzF3ZjlJQ0cyRXhFdFRqMEtLRFZCdGFVX3B6S3h6bGxxT3ByQ3lsblNmYVJKS0NuVlpTbXFja2syTENGSzhtbjBITkRNWVo0ajNSS0NwMXMtZkpIN0xwWmJLNnBSTGEzakJPalh0dUpRRUVBdGt0Q0FVWnpzX0Rub2lKSXdDVkNfUWx3cHJPRzZfQVBQeWRKLWRpUGF2UmJtbU4yVnNtb1B4dHlTd2RoNGk5UjVlQ2V3TGlaZFNKcGdxRHRocHJ4OHBFRUR3bjRvVTRWSnBNX1YyMDQ3N18tXzVIdnRLQmhDR1UtLXoyVEI1d3Z1RWxXb1RQVGJrQ2pGbEo4QkRXa1pBWUFleGpKR0IwWlFiTmlnamYtcFpvT0lweDYzYmlyUllKRkgtM1ZXeExQSWRuRzBDMlVvY3lGR1NVekc4ai1FV3JDWWJJUmtJNUxmMW1YaXZEeWFWRmJEbHJQcXJsZ2RKVWhsU2R3TEtxTWoxaWNybThTd1Fhd3RrS1NfVXFDQWtBYy1vQnFIVGZ4N2lkbFlORk1tRHY2NkhFYXhWVnBkVjR5OVNVYXhIT2F4VEg1YURtcFRlWEFFU254V2hvcnkxdFpsdmpBMTZ4N3JfQl9 oeWhqNkJ0VzUzUWtiYnhqY25ZSlJkZVoxNmlOeEhNdDhiMnllOVdCNzRlVFNvMUM1R3pOUFZTaEkxZjdEOWs0LVE0RXl3TVpYZ VMtV2JwVkFIalAxMW15VmpyajBHbHVJWVF6S0xKNjBFeUZyejlmT1Q3Zy1TZ251OTlHVWZvS1N0cW9lT3NHd2x1dEpwQlpRNTYt cmdZTFp5Y0VZZHpHZmZtUzlqTDEwazRscFltV1NndklUMGFnYmZESldNUFVhbWtNcVYtSHE1QjNhdVlVb1VuUUpMYjI5TGpTczZ RUlBpcVVBUkUwTUdHWG9zSnUtMzQ3TzJSNXNlOE5xUjRKSWVDbXpKNnR6ck13RFdVNmxFcHVlajVvNFZYeUdiM3MyaDlhdW VxeWRjVEI3R3JsSkd5cGhIN1pFX2Etdjg4LWZTVGRRR00wVVpGSUdnU2x6YU5iOVZ3N2dfbmM5MlJlOXM4TFBTSVZyS3BmM0J KZ1o5WUFKQVJGXzJUaF9FYXpyOHRraUtPYjBITWk2NHF6LVFpZTV4SGQ4aWNRcUpqTlBwcTA1RVA3WF9BQmw0XzctajctSH gtZnQwSlIwU2t4OGlQanNxVW1XZWlSY0lHWDVPbjk0aDU0Q0ZXd2Eyb05CbHBRT1U0WUNpRFp5QUNDeFNTV1lnIiwidGltZXN0 YW1wIjoxNzg4NDQ4MjUxMDAwLCJoYXNoIjoiMjIyNTI1YzZhOWVlMWZiYjhhOGNlMzNhOWMyMWMzOWNiNzJhMmJlYTdjNDdjM GMyM2Y1YmRkN2U3ODdhYmRhMCIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNSBbUmFyZVRvb25zSW5kaWF dIC5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybVlDS19GYXNoX1Jic0d0YTR0aFg1ZzJfWUxmN05Id0RkdUgwZm1zcWNMeDVUS1B1ZzV1SUVISVFGc2NRYmF5ZWZ0Y3pFM0VaYkF1NHZ0bDVld3ZPVDRMbmtuNFMyR0JCekF6OFpsNjY2bXpxWkRHak1FeFJaWWhQVGx4NXhSRnowcnF6Wm1IbG96TTNaSHctUXJfQ3VlazR1MEdjaHBqaktiQ09DVXNjazNCTzF3ZjlJQ0cyRXhFdFRqMEtLRFZCdGFVX3B6S3h6bGxxT3ByQ3lsblNmYVJKS0NuVlpTbXFja2syTENGSzhtbjBITkRNWVo0ajNSS0NwMXMtZkpIN0xwWmJLNnBSTGEzakJPalh0dUpRRUVBdGt0Q0FVWnpzX0Rub2lKSXdDVkNfUWx3cHJPRzZfQVBQeWRKLWRpUGF2UmJtbU4yVnNtb1B4dHlTd2RoNGk5UjVlQ2V3TGlaZFNKcGdxRHRocHJ4OHBFRUR3bjRvVTRWSnBNX1YyMDQ3N18tXzVIdnRLQmhDR1UtLXoyVEI1d3Z1RWxXb1RQVGJrQ2pGbEo4QkRXa1pBWUFleGpKR0IwWlFiTmlnamYtcFpvT0lweDYzYmlyUllKRkgtM1ZXeExQSWRuRzBDMlVvY3lGR1NVekc4ai1FV3JDWWJJUmtJNUxmMW1YaXZEeWFWRmJEbHJQcXJsZ2RKVWhsU2R3TEtxTWoxaWNybThTd1Fhd3RrS1NfVXFDQWtBYy1vQnFIVGZ4N2lkbFlORk1tRHY2NkhFYXhWVnBkVjR5OVNVYXhIT2F4VEg1YURtcFRlWEFFU254V2hvcnkxdFpsdmpBMTZ4N3JfQl9 oeWhqNkJ0VzUzUWtiYnhqY25ZSlJkZVoxNmlOeEhNdDhiMnllOVdCNzRlVFNvMUM1R3pOUFZTaEkxZjdEOWs0LVE0RXl3TVpYZ VMtV2JwVkFIalAxMW15VmpyajBHbHVJWVF6S0xKNjBFeUZyejlmT1Q3Zy1TZ251OTlHVWZvS1N0cW9lT3NHd2x1dEpwQlpRNTYt cmdZTFp5Y0VZZHpHZmZtUzlqTDEwazRscFltV1NndklUMGFnYmZESldNUFVhbWtNcVYtSHE1QjNhdVlVb1VuUUpMYjI5TGpTczZ RUlBpcVVBUkUwTUdHWG9zSnUtMzQ3TzJSNXNlOE5xUjRKSWVDbXpKNnR6ck13RFdVNmxFcHVlajVvNFZYeUdiM3MyaDlhdW VxeWRjVEI3R3JsSkd5cGhIN1pFX2Etdjg4LWZTVGRRR00wVVpGSUdnU2x6YU5iOVZ3N2dfbmM5MlJlOXM4TFBTSVZyS3BmM0J KZ1o5WUFKQVJGXzJUaF9FYXpyOHRraUtPYjBITWk2NHF6LVFpZTV4SGQ4aWNRcUpqTlBwcTA1RVA3WF9BQmw0XzctajctSH gtZnQwSlIwU2t4OGlQanNxVW1XZWlSY0lHWDVPbjk0aDU0Q0ZXd2Eyb05CbHBRT1U0WUNpRFp5QUNDeFNTV1lnIiwidGltZXN0 YW1wIjoxNzg4NDQ4MjUxMDAwLCJoYXNoIjoiMjIyNTI1YzZhOWVlMWZiYjhhOGNlMzNhOWMyMWMzOWNiNzJhMmJlYTdjNDdjM GMyM2Y1YmRkN2U3ODdhYmRhMCIsImZpbGVuYW1lIjoiQ2FwdGFpbiBUc3ViYXNhIFMwMUUxNSBbUmFyZVRvb25zSW5kaWF dIC5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/Fg9txowz?download"
             },
             "hasTelegram": false
           },
@@ -22190,11 +22758,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 16",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=754273c7d035323e023ac5fd7e46a0a0cfc1dd62ba91aa63802f347cee87eef3c69e2b951f9773674cb7c58c488fadbd9bc912c3143c64078ef3ab235f6ae465c1f2d05ce77299f29ff53992c012db3ce73f2f125ab9435ef194cfaa568caa90::5bdde2c233098539eeda1628ac17c315",
+            "downloadUrl": "https://pixeldrain.net/u/sC7sCzyw?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=754273c7d035323e023ac5fd7e46a0a0cfc1dd62ba91aa63802f347cee87eef3c69e2b951f9773674cb7c58c488fadbd9bc912c3143c64078ef3ab235f6ae465c1f2d05ce77299f29ff53992c012db3ce73f2f125ab9435ef194cfaa568caa90::5bdde2c233098539eeda1628ac17c315",
+              "1080p": "https://pixeldrain.net/u/sC7sCzyw?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=754273c7d035323e023ac5fd7e46a0a0cfc1dd62ba91aa63802f347cee87eef3c69e2b951f9773674cb7c58c488fadbd9bc912c3143c64078ef3ab235f6ae465c1f2d05ce77299f29ff53992c012db3ce73f2f125ab9435ef194cfaa568caa90::5bdde2c233098539eeda1628ac17c315",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=754273c7d035323e023ac5fd7e46a0a0cfc1dd62ba91aa63802f347cee87eef3c69e2b951f9773674cb7c58c488fadbd9bc912c3143c64078ef3ab235f6ae465c1f2d05ce77299f29ff53992c012db3ce73f2f125ab9435ef194cfaa568caa90::5bdde2c233098539eeda1628ac17c315"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=754273c7d035323e023ac5fd7e46a0a0cfc1dd62ba91aa63802f347cee87eef3c69e2b951f9773674cb7c58c488fadbd9bc912c3143c64078ef3ab235f6ae465c1f2d05ce77299f29ff53992c012db3ce73f2f125ab9435ef194cfaa568caa90::5bdde2c233098539eeda1628ac17c315",
+              "hindi": "https://pixeldrain.net/u/sC7sCzyw?download"
             },
             "hasTelegram": false
           },
@@ -22202,15 +22771,16 @@ export const ANIME_DATABASE = [
             "id": 17,
             "number": 17,
             "season": 1,
-            "title": "Episode 17",
+            "title": "4 Minutes left! A decisive battle in mid-air! – Part 1 Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 17",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=acd537874c1c1091f651337d70d26a80fe9d051cfaaf58b1ef9b3a386a879abde9a82a8098fa45d0b22f2c33d27d8881f5655716e36e2a4ca4a293f429150d7f5c838a1677649830557cc3ba5a3795420661e3cd7070baf6f04a83574add2f6a9a07dc0bc81f0bb76e9a50defb63d0de::a239d26d3d176e02257fcb4e8f00994a",
+            "downloadUrl": "https://pixeldrain.net/u/DFgNan3E?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=acd537874c1c1091f651337d70d26a80fe9d051cfaaf58b1ef9b3a386a879abde9a82a8098fa45d0b22f2c33d27d8881f5655716e36e2a4ca4a293f429150d7f5c838a1677649830557cc3ba5a3795420661e3cd7070baf6f04a83574add2f6a9a07dc0bc81f0bb76e9a50defb63d0de::a239d26d3d176e02257fcb4e8f00994a",
+              "1080p": "https://pixeldrain.net/u/DFgNan3E?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=acd537874c1c1091f651337d70d26a80fe9d051cfaaf58b1ef9b3a386a879abde9a82a8098fa45d0b22f2c33d27d8881f5655716e36e2a4ca4a293f429150d7f5c838a1677649830557cc3ba5a3795420661e3cd7070baf6f04a83574add2f6a9a07dc0bc81f0bb76e9a50defb63d0de::a239d26d3d176e02257fcb4e8f00994a",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=acd537874c1c1091f651337d70d26a80fe9d051cfaaf58b1ef9b3a386a879abde9a82a8098fa45d0b22f2c33d27d8881f5655716e36e2a4ca4a293f429150d7f5c838a1677649830557cc3ba5a3795420661e3cd7070baf6f04a83574add2f6a9a07dc0bc81f0bb76e9a50defb63d0de::a239d26d3d176e02257fcb4e8f00994a"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=acd537874c1c1091f651337d70d26a80fe9d051cfaaf58b1ef9b3a386a879abde9a82a8098fa45d0b22f2c33d27d8881f5655716e36e2a4ca4a293f429150d7f5c838a1677649830557cc3ba5a3795420661e3cd7070baf6f04a83574add2f6a9a07dc0bc81f0bb76e9a50defb63d0de::a239d26d3d176e02257fcb4e8f00994a",
+              "hindi": "https://pixeldrain.net/u/DFgNan3E?download"
             },
             "hasTelegram": false
           },
@@ -22222,11 +22792,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 18",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=089380532108a6cf9185af3f8e6418f0efa7cf2bf4732ce276fe28c87bacba3fad90c40193a775ac1cbb51d12d05e2adb6d6a8a34f209b760380291d8a950961f8179b388690004900f088eee4af598a50daf44eba50ad60f1e2ea1c4e090c4c::e162a2159e7c172052f741195bdfe196",
+            "downloadUrl": "https://pixeldrain.net/u/d9Spbmg7?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=089380532108a6cf9185af3f8e6418f0efa7cf2bf4732ce276fe28c87bacba3fad90c40193a775ac1cbb51d12d05e2adb6d6a8a34f209b760380291d8a950961f8179b388690004900f088eee4af598a50daf44eba50ad60f1e2ea1c4e090c4c::e162a2159e7c172052f741195bdfe196",
+              "1080p": "https://pixeldrain.net/u/d9Spbmg7?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=089380532108a6cf9185af3f8e6418f0efa7cf2bf4732ce276fe28c87bacba3fad90c40193a775ac1cbb51d12d05e2adb6d6a8a34f209b760380291d8a950961f8179b388690004900f088eee4af598a50daf44eba50ad60f1e2ea1c4e090c4c::e162a2159e7c172052f741195bdfe196",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=089380532108a6cf9185af3f8e6418f0efa7cf2bf4732ce276fe28c87bacba3fad90c40193a775ac1cbb51d12d05e2adb6d6a8a34f209b760380291d8a950961f8179b388690004900f088eee4af598a50daf44eba50ad60f1e2ea1c4e090c4c::e162a2159e7c172052f741195bdfe196"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=089380532108a6cf9185af3f8e6418f0efa7cf2bf4732ce276fe28c87bacba3fad90c40193a775ac1cbb51d12d05e2adb6d6a8a34f209b760380291d8a950961f8179b388690004900f088eee4af598a50daf44eba50ad60f1e2ea1c4e090c4c::e162a2159e7c172052f741195bdfe196",
+              "hindi": "https://pixeldrain.net/u/d9Spbmg7?download"
             },
             "hasTelegram": false
           },
@@ -22238,11 +22809,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 19",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzcxMmQwZjE5MGI3NzM1YThkZjI3ODU1YTYwY2NiZWEyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA0VDIxNDQzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUxOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YTUwYTYzNGQwNmU2MmMwMmUyOGI0Nzc3MThjOGVjNDc3MzJiM2E5OTBmOTRhNWViMGY3N2U4NjUzMmU2MzI3NCIsInRpbWVzdGFtcCI6MTc4ODQ0ODI2ODAwMCwiaGFzaCI6IjcwM2IwNDU0ZDE4M2VlNTU2MzFlMzU2ZjI3ZDIyMjc4NDNhOWQ0YzI3OTNlZWM1NTRiY2MzNGZlODI0ODAyNjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMTkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/j2tBM1oM?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzcxMmQwZjE5MGI3NzM1YThkZjI3ODU1YTYwY2NiZWEyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA0VDIxNDQzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUxOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YTUwYTYzNGQwNmU2MmMwMmUyOGI0Nzc3MThjOGVjNDc3MzJiM2E5OTBmOTRhNWViMGY3N2U4NjUzMmU2MzI3NCIsInRpbWVzdGFtcCI6MTc4ODQ0ODI2ODAwMCwiaGFzaCI6IjcwM2IwNDU0ZDE4M2VlNTU2MzFlMzU2ZjI3ZDIyMjc4NDNhOWQ0YzI3OTNlZWM1NTRiY2MzNGZlODI0ODAyNjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMTkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/j2tBM1oM?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzcxMmQwZjE5MGI3NzM1YThkZjI3ODU1YTYwY2NiZWEyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA0VDIxNDQzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUxOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YTUwYTYzNGQwNmU2MmMwMmUyOGI0Nzc3MThjOGVjNDc3MzJiM2E5OTBmOTRhNWViMGY3N2U4NjUzMmU2MzI3NCIsInRpbWVzdGFtcCI6MTc4ODQ0ODI2ODAwMCwiaGFzaCI6IjcwM2IwNDU0ZDE4M2VlNTU2MzFlMzU2ZjI3ZDIyMjc4NDNhOWQ0YzI3OTNlZWM1NTRiY2MzNGZlODI0ODAyNjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMTkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzcxMmQwZjE5MGI3NzM1YThkZjI3ODU1YTYwY2NiZWEyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA0VDIxNDQzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUxOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YTUwYTYzNGQwNmU2MmMwMmUyOGI0Nzc3MThjOGVjNDc3MzJiM2E5OTBmOTRhNWViMGY3N2U4NjUzMmU2MzI3NCIsInRpbWVzdGFtcCI6MTc4ODQ0ODI2ODAwMCwiaGFzaCI6IjcwM2IwNDU0ZDE4M2VlNTU2MzFlMzU2ZjI3ZDIyMjc4NDNhOWQ0YzI3OTNlZWM1NTRiY2MzNGZlODI0ODAyNjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMTkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzcxMmQwZjE5MGI3NzM1YThkZjI3ODU1YTYwY2NiZWEyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA0VDIxNDQzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUxOSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YTUwYTYzNGQwNmU2MmMwMmUyOGI0Nzc3MThjOGVjNDc3MzJiM2E5OTBmOTRhNWViMGY3N2U4NjUzMmU2MzI3NCIsInRpbWVzdGFtcCI6MTc4ODQ0ODI2ODAwMCwiaGFzaCI6IjcwM2IwNDU0ZDE4M2VlNTU2MzFlMzU2ZjI3ZDIyMjc4NDNhOWQ0YzI3OTNlZWM1NTRiY2MzNGZlODI0ODAyNjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMTkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/j2tBM1oM?download"
             },
             "hasTelegram": false
           },
@@ -22254,11 +22826,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 20",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83ZjAwNzE5MThhNzU5OTMyNmI3ZGQyNzdlMTBhYzViZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA3MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMFQxMTEwNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRjZDU4N2QyNmY1MTdmYjcyNWRiNmJlMDYwMzVlMjYwN2NlYjg1MGM2MGRlZGNjNzMxZWM5MWU0YzcwY2M1ODkiLCJ0aW1lc3RhbXAiOjE3ODg0NDgyNzEwMDAsImhhc2giOiI2MDEwYjgxZWVhM2VmM2M1YzM1NDhmODA0OTgxM2FjZGRhYjdiNmE5NGFlMzg5NDMyMDY0N2ZhMTEzOWRlNGIwIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTIwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/71KQJib8?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83ZjAwNzE5MThhNzU5OTMyNmI3ZGQyNzdlMTBhYzViZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA3MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMFQxMTEwNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRjZDU4N2QyNmY1MTdmYjcyNWRiNmJlMDYwMzVlMjYwN2NlYjg1MGM2MGRlZGNjNzMxZWM5MWU0YzcwY2M1ODkiLCJ0aW1lc3RhbXAiOjE3ODg0NDgyNzEwMDAsImhhc2giOiI2MDEwYjgxZWVhM2VmM2M1YzM1NDhmODA0OTgxM2FjZGRhYjdiNmE5NGFlMzg5NDMyMDY0N2ZhMTEzOWRlNGIwIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTIwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/71KQJib8?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83ZjAwNzE5MThhNzU5OTMyNmI3ZGQyNzdlMTBhYzViZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA3MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMFQxMTEwNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRjZDU4N2QyNmY1MTdmYjcyNWRiNmJlMDYwMzVlMjYwN2NlYjg1MGM2MGRlZGNjNzMxZWM5MWU0YzcwY2M1ODkiLCJ0aW1lc3RhbXAiOjE3ODg0NDgyNzEwMDAsImhhc2giOiI2MDEwYjgxZWVhM2VmM2M1YzM1NDhmODA0OTgxM2FjZGRhYjdiNmE5NGFlMzg5NDMyMDY0N2ZhMTEzOWRlNGIwIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTIwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83ZjAwNzE5MThhNzU5OTMyNmI3ZGQyNzdlMTBhYzViZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA3MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMFQxMTEwNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRjZDU4N2QyNmY1MTdmYjcyNWRiNmJlMDYwMzVlMjYwN2NlYjg1MGM2MGRlZGNjNzMxZWM5MWU0YzcwY2M1ODkiLCJ0aW1lc3RhbXAiOjE3ODg0NDgyNzEwMDAsImhhc2giOiI2MDEwYjgxZWVhM2VmM2M1YzM1NDhmODA0OTgxM2FjZGRhYjdiNmE5NGFlMzg5NDMyMDY0N2ZhMTEzOWRlNGIwIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTIwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNTNmZTg5M2U4N2VhYjE1ZjVkNmU4ZDI0NGQ0OTkxOWQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC83ZjAwNzE5MThhNzU5OTMyNmI3ZGQyNzdlMTBhYzViZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWZiMzhlNGEyODVkM2RkMzNhZDg5YTRjMzg4ODQ4MGY2JTJGMjAyNjA3MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMFQxMTEwNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRjZDU4N2QyNmY1MTdmYjcyNWRiNmJlMDYwMzVlMjYwN2NlYjg1MGM2MGRlZGNjNzMxZWM5MWU0YzcwY2M1ODkiLCJ0aW1lc3RhbXAiOjE3ODg0NDgyNzEwMDAsImhhc2giOiI2MDEwYjgxZWVhM2VmM2M1YzM1NDhmODA0OTgxM2FjZGRhYjdiNmE5NGFlMzg5NDMyMDY0N2ZhMTEzOWRlNGIwIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTIwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/71KQJib8?download"
             },
             "hasTelegram": false
           },
@@ -22270,11 +22843,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 21",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=e454e9c1be1aeb61c2db6427a0975f5a6116973bc5ed0fbb766320ff4d67166e386bdc52a7b5666f8cedde5b425324c2c8cfdfa9b5dcd0110c0829459289b2a68cbf11a4f1a0d5fecdb930c827c4783d536b1136b3764f2d6aa7f1450d3ed1909168915f4be6f4ca2e98622ab807b527::b5019a9769caba03588ae4cffa41dce7",
+            "downloadUrl": "https://pixeldrain.net/u/fcx3t2kS?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=e454e9c1be1aeb61c2db6427a0975f5a6116973bc5ed0fbb766320ff4d67166e386bdc52a7b5666f8cedde5b425324c2c8cfdfa9b5dcd0110c0829459289b2a68cbf11a4f1a0d5fecdb930c827c4783d536b1136b3764f2d6aa7f1450d3ed1909168915f4be6f4ca2e98622ab807b527::b5019a9769caba03588ae4cffa41dce7",
+              "1080p": "https://pixeldrain.net/u/fcx3t2kS?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=e454e9c1be1aeb61c2db6427a0975f5a6116973bc5ed0fbb766320ff4d67166e386bdc52a7b5666f8cedde5b425324c2c8cfdfa9b5dcd0110c0829459289b2a68cbf11a4f1a0d5fecdb930c827c4783d536b1136b3764f2d6aa7f1450d3ed1909168915f4be6f4ca2e98622ab807b527::b5019a9769caba03588ae4cffa41dce7",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=e454e9c1be1aeb61c2db6427a0975f5a6116973bc5ed0fbb766320ff4d67166e386bdc52a7b5666f8cedde5b425324c2c8cfdfa9b5dcd0110c0829459289b2a68cbf11a4f1a0d5fecdb930c827c4783d536b1136b3764f2d6aa7f1450d3ed1909168915f4be6f4ca2e98622ab807b527::b5019a9769caba03588ae4cffa41dce7"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=e454e9c1be1aeb61c2db6427a0975f5a6116973bc5ed0fbb766320ff4d67166e386bdc52a7b5666f8cedde5b425324c2c8cfdfa9b5dcd0110c0829459289b2a68cbf11a4f1a0d5fecdb930c827c4783d536b1136b3764f2d6aa7f1450d3ed1909168915f4be6f4ca2e98622ab807b527::b5019a9769caba03588ae4cffa41dce7",
+              "hindi": "https://pixeldrain.net/u/fcx3t2kS?download"
             },
             "hasTelegram": false
           },
@@ -22286,11 +22860,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 22",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=24d36dcb956a9953da76e7aef7ec0c16faa4aecdd6bb169206a8eb1ce191a426109ff273b9b08e49f5220897ad03bd5f879ada6c94ce65196391cd240e8fa1637f68d0bd381c48201f6228c918568cbf69be4979eae70bbd088256bc42518af3::bfab67676606d00a13c85a9fc6143729",
+            "downloadUrl": "https://pixeldrain.net/u/DAoqTQ1c?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=24d36dcb956a9953da76e7aef7ec0c16faa4aecdd6bb169206a8eb1ce191a426109ff273b9b08e49f5220897ad03bd5f879ada6c94ce65196391cd240e8fa1637f68d0bd381c48201f6228c918568cbf69be4979eae70bbd088256bc42518af3::bfab67676606d00a13c85a9fc6143729",
+              "1080p": "https://pixeldrain.net/u/DAoqTQ1c?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=24d36dcb956a9953da76e7aef7ec0c16faa4aecdd6bb169206a8eb1ce191a426109ff273b9b08e49f5220897ad03bd5f879ada6c94ce65196391cd240e8fa1637f68d0bd381c48201f6228c918568cbf69be4979eae70bbd088256bc42518af3::bfab67676606d00a13c85a9fc6143729",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=24d36dcb956a9953da76e7aef7ec0c16faa4aecdd6bb169206a8eb1ce191a426109ff273b9b08e49f5220897ad03bd5f879ada6c94ce65196391cd240e8fa1637f68d0bd381c48201f6228c918568cbf69be4979eae70bbd088256bc42518af3::bfab67676606d00a13c85a9fc6143729"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=24d36dcb956a9953da76e7aef7ec0c16faa4aecdd6bb169206a8eb1ce191a426109ff273b9b08e49f5220897ad03bd5f879ada6c94ce65196391cd240e8fa1637f68d0bd381c48201f6228c918568cbf69be4979eae70bbd088256bc42518af3::bfab67676606d00a13c85a9fc6143729",
+              "hindi": "https://pixeldrain.net/u/DAoqTQ1c?download"
             },
             "hasTelegram": false
           },
@@ -22302,11 +22877,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 23",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=5e8cd5691d40019af288ef99a16dda15d97bdc6418cb1d7a4761d4ebcf78fa67672f7964fa03b8d550eff9109cdfc46617277a342289f35d9483e9e03abdc1d9e6f89f6643d15d653d7b159bfebd3191e5e22f812c9f24dff98cce7dc58927d1::9e872a192768c04d4171e20d389fe21a",
+            "downloadUrl": "https://pixeldrain.net/u/DAhuZMR9?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=5e8cd5691d40019af288ef99a16dda15d97bdc6418cb1d7a4761d4ebcf78fa67672f7964fa03b8d550eff9109cdfc46617277a342289f35d9483e9e03abdc1d9e6f89f6643d15d653d7b159bfebd3191e5e22f812c9f24dff98cce7dc58927d1::9e872a192768c04d4171e20d389fe21a",
+              "1080p": "https://pixeldrain.net/u/DAhuZMR9?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=5e8cd5691d40019af288ef99a16dda15d97bdc6418cb1d7a4761d4ebcf78fa67672f7964fa03b8d550eff9109cdfc46617277a342289f35d9483e9e03abdc1d9e6f89f6643d15d653d7b159bfebd3191e5e22f812c9f24dff98cce7dc58927d1::9e872a192768c04d4171e20d389fe21a",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=5e8cd5691d40019af288ef99a16dda15d97bdc6418cb1d7a4761d4ebcf78fa67672f7964fa03b8d550eff9109cdfc46617277a342289f35d9483e9e03abdc1d9e6f89f6643d15d653d7b159bfebd3191e5e22f812c9f24dff98cce7dc58927d1::9e872a192768c04d4171e20d389fe21a"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=5e8cd5691d40019af288ef99a16dda15d97bdc6418cb1d7a4761d4ebcf78fa67672f7964fa03b8d550eff9109cdfc46617277a342289f35d9483e9e03abdc1d9e6f89f6643d15d653d7b159bfebd3191e5e22f812c9f24dff98cce7dc58927d1::9e872a192768c04d4171e20d389fe21a",
+              "hindi": "https://pixeldrain.net/u/DAhuZMR9?download"
             },
             "hasTelegram": false
           },
@@ -22318,11 +22894,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 24",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=5a2951df182e69ce12517a604173fa75764b7e50d098be49c446524c5a3ec5c1bfb8799471ec33acbd146e13889445ca39a6e669df4fb371663ffac3ea401dbdebe67753a5780777203b3cc73c41a42bb953a8b8db5884db544603b2efe3ec14::7ccd6df69234ff5b776ff10b850ffc3d",
+            "downloadUrl": "https://pixeldrain.net/u/zjo3fpdY?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=5a2951df182e69ce12517a604173fa75764b7e50d098be49c446524c5a3ec5c1bfb8799471ec33acbd146e13889445ca39a6e669df4fb371663ffac3ea401dbdebe67753a5780777203b3cc73c41a42bb953a8b8db5884db544603b2efe3ec14::7ccd6df69234ff5b776ff10b850ffc3d",
+              "1080p": "https://pixeldrain.net/u/zjo3fpdY?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=5a2951df182e69ce12517a604173fa75764b7e50d098be49c446524c5a3ec5c1bfb8799471ec33acbd146e13889445ca39a6e669df4fb371663ffac3ea401dbdebe67753a5780777203b3cc73c41a42bb953a8b8db5884db544603b2efe3ec14::7ccd6df69234ff5b776ff10b850ffc3d",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=5a2951df182e69ce12517a604173fa75764b7e50d098be49c446524c5a3ec5c1bfb8799471ec33acbd146e13889445ca39a6e669df4fb371663ffac3ea401dbdebe67753a5780777203b3cc73c41a42bb953a8b8db5884db544603b2efe3ec14::7ccd6df69234ff5b776ff10b850ffc3d"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=5a2951df182e69ce12517a604173fa75764b7e50d098be49c446524c5a3ec5c1bfb8799471ec33acbd146e13889445ca39a6e669df4fb371663ffac3ea401dbdebe67753a5780777203b3cc73c41a42bb953a8b8db5884db544603b2efe3ec14::7ccd6df69234ff5b776ff10b850ffc3d",
+              "hindi": "https://pixeldrain.net/u/zjo3fpdY?download"
             },
             "hasTelegram": false
           },
@@ -22334,11 +22911,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 25",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2M3NTVkOTFlNjExNTQ0NWZhMmExNTgyOWE3ODExZTg1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTY0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YzA2NjcxMWM4OWRlYjg3NmQ1NTBiOTk1ZTAxYmQ4ZTg2ZTExODA4MTUxY2VlZDdiYmNjMGU0YjQ1MGZjODY4NyIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NTAwMCwiaGFzaCI6Ijk2ZDQ4ZTZhMmM2ODFkNmNjYTc0Mjk1OTNkOThlNmNkM2U4ODY5MzQxMmRkMjI2NDA4MzY3ZWRmNjY1Mjc3ZTAiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/QvR2FMEo?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2M3NTVkOTFlNjExNTQ0NWZhMmExNTgyOWE3ODExZTg1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTY0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YzA2NjcxMWM4OWRlYjg3NmQ1NTBiOTk1ZTAxYmQ4ZTg2ZTExODA4MTUxY2VlZDdiYmNjMGU0YjQ1MGZjODY4NyIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NTAwMCwiaGFzaCI6Ijk2ZDQ4ZTZhMmM2ODFkNmNjYTc0Mjk1OTNkOThlNmNkM2U4ODY5MzQxMmRkMjI2NDA4MzY3ZWRmNjY1Mjc3ZTAiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/QvR2FMEo?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2M3NTVkOTFlNjExNTQ0NWZhMmExNTgyOWE3ODExZTg1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTY0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YzA2NjcxMWM4OWRlYjg3NmQ1NTBiOTk1ZTAxYmQ4ZTg2ZTExODA4MTUxY2VlZDdiYmNjMGU0YjQ1MGZjODY4NyIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NTAwMCwiaGFzaCI6Ijk2ZDQ4ZTZhMmM2ODFkNmNjYTc0Mjk1OTNkOThlNmNkM2U4ODY5MzQxMmRkMjI2NDA4MzY3ZWRmNjY1Mjc3ZTAiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2M3NTVkOTFlNjExNTQ0NWZhMmExNTgyOWE3ODExZTg1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTY0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YzA2NjcxMWM4OWRlYjg3NmQ1NTBiOTk1ZTAxYmQ4ZTg2ZTExODA4MTUxY2VlZDdiYmNjMGU0YjQ1MGZjODY4NyIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NTAwMCwiaGFzaCI6Ijk2ZDQ4ZTZhMmM2ODFkNmNjYTc0Mjk1OTNkOThlNmNkM2U4ODY5MzQxMmRkMjI2NDA4MzY3ZWRmNjY1Mjc3ZTAiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2M3NTVkOTFlNjExNTQ0NWZhMmExNTgyOWE3ODExZTg1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTY0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YzA2NjcxMWM4OWRlYjg3NmQ1NTBiOTk1ZTAxYmQ4ZTg2ZTExODA4MTUxY2VlZDdiYmNjMGU0YjQ1MGZjODY4NyIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NTAwMCwiaGFzaCI6Ijk2ZDQ4ZTZhMmM2ODFkNmNjYTc0Mjk1OTNkOThlNmNkM2U4ODY5MzQxMmRkMjI2NDA4MzY3ZWRmNjY1Mjc3ZTAiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/QvR2FMEo?download"
             },
             "hasTelegram": false
           },
@@ -22350,11 +22928,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 26",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1OGFlYzk1MTVlNDQxZmVlNjkzNmI2MGEyNjQ1MjhiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTcyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MzYyMjRhYWZhYzE0NmNkMTM4ZGJjYzlmMTVjNmRhMGZkZmYwZmU4YjQ4NWY4OWFjNTliYzdmNWU2MDUwODQ4YSIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NzAwMCwiaGFzaCI6IjRmYWYyOTJkNzJhMmU2MzA1ZmVmMDVmNDFhZmU3MjU2OWRhNmFiMWEwNGQzY2IzMmJmYjk1NGZjY2ViNjAzZmEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/WikEiwci?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1OGFlYzk1MTVlNDQxZmVlNjkzNmI2MGEyNjQ1MjhiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTcyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MzYyMjRhYWZhYzE0NmNkMTM4ZGJjYzlmMTVjNmRhMGZkZmYwZmU4YjQ4NWY4OWFjNTliYzdmNWU2MDUwODQ4YSIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NzAwMCwiaGFzaCI6IjRmYWYyOTJkNzJhMmU2MzA1ZmVmMDVmNDFhZmU3MjU2OWRhNmFiMWEwNGQzY2IzMmJmYjk1NGZjY2ViNjAzZmEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/WikEiwci?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1OGFlYzk1MTVlNDQxZmVlNjkzNmI2MGEyNjQ1MjhiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTcyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MzYyMjRhYWZhYzE0NmNkMTM4ZGJjYzlmMTVjNmRhMGZkZmYwZmU4YjQ4NWY4OWFjNTliYzdmNWU2MDUwODQ4YSIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NzAwMCwiaGFzaCI6IjRmYWYyOTJkNzJhMmU2MzA1ZmVmMDVmNDFhZmU3MjU2OWRhNmFiMWEwNGQzY2IzMmJmYjk1NGZjY2ViNjAzZmEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1OGFlYzk1MTVlNDQxZmVlNjkzNmI2MGEyNjQ1MjhiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTcyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MzYyMjRhYWZhYzE0NmNkMTM4ZGJjYzlmMTVjNmRhMGZkZmYwZmU4YjQ4NWY4OWFjNTliYzdmNWU2MDUwODQ4YSIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NzAwMCwiaGFzaCI6IjRmYWYyOTJkNzJhMmU2MzA1ZmVmMDVmNDFhZmU3MjU2OWRhNmFiMWEwNGQzY2IzMmJmYjk1NGZjY2ViNjAzZmEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y1OGFlYzk1MTVlNDQxZmVlNjkzNmI2MGEyNjQ1MjhiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA0NTcyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MzYyMjRhYWZhYzE0NmNkMTM4ZGJjYzlmMTVjNmRhMGZkZmYwZmU4YjQ4NWY4OWFjNTliYzdmNWU2MDUwODQ4YSIsInRpbWVzdGFtcCI6MTc4ODQ0ODI5NzAwMCwiaGFzaCI6IjRmYWYyOTJkNzJhMmU2MzA1ZmVmMDVmNDFhZmU3MjU2OWRhNmFiMWEwNGQzY2IzMmJmYjk1NGZjY2ViNjAzZmEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/WikEiwci?download"
             },
             "hasTelegram": false
           },
@@ -22366,11 +22945,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 27",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=29c50182d77abf313db48612292bce31b898dfa8d4a96ac6e7c5079633c13082effccab700bc219c7540fddf95ca172ed594148e2b9c77b13d0523aad994b586ddb370f172efe9807824bd9660d26b3aa2f7662bdc9073f0421c6fbb8e20ed62::eb7191a4afffd4ea658e7dd53c1a4f4b",
+            "downloadUrl": "https://pixeldrain.net/u/VKaDfX5y?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=29c50182d77abf313db48612292bce31b898dfa8d4a96ac6e7c5079633c13082effccab700bc219c7540fddf95ca172ed594148e2b9c77b13d0523aad994b586ddb370f172efe9807824bd9660d26b3aa2f7662bdc9073f0421c6fbb8e20ed62::eb7191a4afffd4ea658e7dd53c1a4f4b",
+              "1080p": "https://pixeldrain.net/u/VKaDfX5y?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=29c50182d77abf313db48612292bce31b898dfa8d4a96ac6e7c5079633c13082effccab700bc219c7540fddf95ca172ed594148e2b9c77b13d0523aad994b586ddb370f172efe9807824bd9660d26b3aa2f7662bdc9073f0421c6fbb8e20ed62::eb7191a4afffd4ea658e7dd53c1a4f4b",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=29c50182d77abf313db48612292bce31b898dfa8d4a96ac6e7c5079633c13082effccab700bc219c7540fddf95ca172ed594148e2b9c77b13d0523aad994b586ddb370f172efe9807824bd9660d26b3aa2f7662bdc9073f0421c6fbb8e20ed62::eb7191a4afffd4ea658e7dd53c1a4f4b"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=29c50182d77abf313db48612292bce31b898dfa8d4a96ac6e7c5079633c13082effccab700bc219c7540fddf95ca172ed594148e2b9c77b13d0523aad994b586ddb370f172efe9807824bd9660d26b3aa2f7662bdc9073f0421c6fbb8e20ed62::eb7191a4afffd4ea658e7dd53c1a4f4b",
+              "hindi": "https://pixeldrain.net/u/VKaDfX5y?download"
             },
             "hasTelegram": false
           },
@@ -22382,11 +22962,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 28",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2IzMDlmZDNhMWU1NjgyMTM1Y2Y4ZDQyZGJkNTA0ZTlkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA1MDIwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyOCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZmQ1YzIwMzc2OGNkZWVlN2UwOTE5ZjljMDUxNGRmN2VjM2MwYzQ4ODI5NGM2ODA5ZDVhMWZkOGQ2N2JlMDFlYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMwMzAwMCwiaGFzaCI6IjEzYjNhNTFkYmUyNDVjMTM3YjdhY2RkOGU5OTJkNjYyZGFkYzE5MjA5MGQzMmI1NDM5YmY3MWY3N2NjOTM0MzMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/CxR9pQYW?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2IzMDlmZDNhMWU1NjgyMTM1Y2Y4ZDQyZGJkNTA0ZTlkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA1MDIwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyOCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZmQ1YzIwMzc2OGNkZWVlN2UwOTE5ZjljMDUxNGRmN2VjM2MwYzQ4ODI5NGM2ODA5ZDVhMWZkOGQ2N2JlMDFlYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMwMzAwMCwiaGFzaCI6IjEzYjNhNTFkYmUyNDVjMTM3YjdhY2RkOGU5OTJkNjYyZGFkYzE5MjA5MGQzMmI1NDM5YmY3MWY3N2NjOTM0MzMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/CxR9pQYW?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2IzMDlmZDNhMWU1NjgyMTM1Y2Y4ZDQyZGJkNTA0ZTlkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA1MDIwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyOCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZmQ1YzIwMzc2OGNkZWVlN2UwOTE5ZjljMDUxNGRmN2VjM2MwYzQ4ODI5NGM2ODA5ZDVhMWZkOGQ2N2JlMDFlYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMwMzAwMCwiaGFzaCI6IjEzYjNhNTFkYmUyNDVjMTM3YjdhY2RkOGU5OTJkNjYyZGFkYzE5MjA5MGQzMmI1NDM5YmY3MWY3N2NjOTM0MzMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2IzMDlmZDNhMWU1NjgyMTM1Y2Y4ZDQyZGJkNTA0ZTlkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA1MDIwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyOCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZmQ1YzIwMzc2OGNkZWVlN2UwOTE5ZjljMDUxNGRmN2VjM2MwYzQ4ODI5NGM2ODA5ZDVhMWZkOGQ2N2JlMDFlYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMwMzAwMCwiaGFzaCI6IjEzYjNhNTFkYmUyNDVjMTM3YjdhY2RkOGU5OTJkNjYyZGFkYzE5MjA5MGQzMmI1NDM5YmY3MWY3N2NjOTM0MzMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjggW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2IzMDlmZDNhMWU1NjgyMTM1Y2Y4ZDQyZGJkNTA0ZTlkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDA1MDIwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUyOCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZmQ1YzIwMzc2OGNkZWVlN2UwOTE5ZjljMDUxNGRmN2VjM2MwYzQ4ODI5NGM2ODA5ZDVhMWZkOGQ2N2JlMDFlYiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMwMzAwMCwiaGFzaCI6IjEzYjNhNTFkYmUyNDVjMTM3YjdhY2RkOGU5OTJkNjYyZGFkYzE5MjA5MGQzMmI1NDM5YmY3MWY3N2NjOTM0MzMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMjggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/CxR9pQYW?download"
             },
             "hasTelegram": false
           },
@@ -22398,11 +22979,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 29",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8zYzQ5NjMyOTI2MTY0ZmVlZDRiNjY5M2MzOWI2NDRhYj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4MDhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjklMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxYWUwM2Y3NGU2Y2Y2ZTVhM2EwYzE0NDY4MzFlYmViYjhlYTBlMDIxODkyYjMyMDgzNmZhYWNmYzNkMDQyMDgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDYwMDAsImhhc2giOiJiNmVlYjBmNmJkNTNjMzE4NjY5ZmYzMWI3MTY1ZDA0YTc3YjgyZWEzMWQyNzM0NDc1MzRmMDM5YWYwYTNiZTViIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTI5IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/hMnDHacK?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8zYzQ5NjMyOTI2MTY0ZmVlZDRiNjY5M2MzOWI2NDRhYj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4MDhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjklMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxYWUwM2Y3NGU2Y2Y2ZTVhM2EwYzE0NDY4MzFlYmViYjhlYTBlMDIxODkyYjMyMDgzNmZhYWNmYzNkMDQyMDgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDYwMDAsImhhc2giOiJiNmVlYjBmNmJkNTNjMzE4NjY5ZmYzMWI3MTY1ZDA0YTc3YjgyZWEzMWQyNzM0NDc1MzRmMDM5YWYwYTNiZTViIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTI5IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/hMnDHacK?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8zYzQ5NjMyOTI2MTY0ZmVlZDRiNjY5M2MzOWI2NDRhYj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4MDhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjklMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxYWUwM2Y3NGU2Y2Y2ZTVhM2EwYzE0NDY4MzFlYmViYjhlYTBlMDIxODkyYjMyMDgzNmZhYWNmYzNkMDQyMDgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDYwMDAsImhhc2giOiJiNmVlYjBmNmJkNTNjMzE4NjY5ZmYzMWI3MTY1ZDA0YTc3YjgyZWEzMWQyNzM0NDc1MzRmMDM5YWYwYTNiZTViIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTI5IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8zYzQ5NjMyOTI2MTY0ZmVlZDRiNjY5M2MzOWI2NDRhYj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4MDhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjklMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxYWUwM2Y3NGU2Y2Y2ZTVhM2EwYzE0NDY4MzFlYmViYjhlYTBlMDIxODkyYjMyMDgzNmZhYWNmYzNkMDQyMDgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDYwMDAsImhhc2giOiJiNmVlYjBmNmJkNTNjMzE4NjY5ZmYzMWI3MTY1ZDA0YTc3YjgyZWEzMWQyNzM0NDc1MzRmMDM5YWYwYTNiZTViIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTI5IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8zYzQ5NjMyOTI2MTY0ZmVlZDRiNjY5M2MzOWI2NDRhYj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4MDhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMjklMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTMxYWUwM2Y3NGU2Y2Y2ZTVhM2EwYzE0NDY4MzFlYmViYjhlYTBlMDIxODkyYjMyMDgzNmZhYWNmYzNkMDQyMDgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDYwMDAsImhhc2giOiJiNmVlYjBmNmJkNTNjMzE4NjY5ZmYzMWI3MTY1ZDA0YTc3YjgyZWEzMWQyNzM0NDc1MzRmMDM5YWYwYTNiZTViIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTI5IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/hMnDHacK?download"
             },
             "hasTelegram": false
           },
@@ -22414,11 +22996,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 30",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jYTk2OThkMmQ1MDJiZWEwMzI2NmJiYmFmMWJhMzQ5Nz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4NTZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMzAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTcwZThhNDhjZGNkMzQxMzNkMTAwZGRkYjg3YWRlMjE3ZmNjZmNhMzJlMTUyMzE1ZjdjMGQ1MjIzOTk2OGU4ZTAiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDkwMDAsImhhc2giOiJhNzFlZTdiOTBiNDk3NjNkNTExMmI4MWM0ZTIyOTY4ZjE5N2E5YjY5NmQ1YzU3MjBhZmM0MTE1ZjliMjQ4YTQzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTMwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/4PThT4YH?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jYTk2OThkMmQ1MDJiZWEwMzI2NmJiYmFmMWJhMzQ5Nz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4NTZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMzAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTcwZThhNDhjZGNkMzQxMzNkMTAwZGRkYjg3YWRlMjE3ZmNjZmNhMzJlMTUyMzE1ZjdjMGQ1MjIzOTk2OGU4ZTAiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDkwMDAsImhhc2giOiJhNzFlZTdiOTBiNDk3NjNkNTExMmI4MWM0ZTIyOTY4ZjE5N2E5YjY5NmQ1YzU3MjBhZmM0MTE1ZjliMjQ4YTQzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTMwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/4PThT4YH?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jYTk2OThkMmQ1MDJiZWEwMzI2NmJiYmFmMWJhMzQ5Nz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4NTZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMzAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTcwZThhNDhjZGNkMzQxMzNkMTAwZGRkYjg3YWRlMjE3ZmNjZmNhMzJlMTUyMzE1ZjdjMGQ1MjIzOTk2OGU4ZTAiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDkwMDAsImhhc2giOiJhNzFlZTdiOTBiNDk3NjNkNTExMmI4MWM0ZTIyOTY4ZjE5N2E5YjY5NmQ1YzU3MjBhZmM0MTE1ZjliMjQ4YTQzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTMwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jYTk2OThkMmQ1MDJiZWEwMzI2NmJiYmFmMWJhMzQ5Nz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4NTZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMzAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTcwZThhNDhjZGNkMzQxMzNkMTAwZGRkYjg3YWRlMjE3ZmNjZmNhMzJlMTUyMzE1ZjdjMGQ1MjIzOTk2OGU4ZTAiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDkwMDAsImhhc2giOiJhNzFlZTdiOTBiNDk3NjNkNTExMmI4MWM0ZTIyOTY4ZjE5N2E5YjY5NmQ1YzU3MjBhZmM0MTE1ZjliMjQ4YTQzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTMwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOTJiMWU0ZWNmNWE4NDRmZjdmODU5M2JkOTBlNjg1MmYucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jYTk2OThkMmQ1MDJiZWEwMzI2NmJiYmFmMWJhMzQ5Nz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPTBiYWQ0Y2NkMWJjYWY1Yzc5MDI4N2MwMjM3MjM0MjAwJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxNTM4NTZaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFMzAlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTcwZThhNDhjZGNkMzQxMzNkMTAwZGRkYjg3YWRlMjE3ZmNjZmNhMzJlMTUyMzE1ZjdjMGQ1MjIzOTk2OGU4ZTAiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzMDkwMDAsImhhc2giOiJhNzFlZTdiOTBiNDk3NjNkNTExMmI4MWM0ZTIyOTY4ZjE5N2E5YjY5NmQ1YzU3MjBhZmM0MTE1ZjliMjQ4YTQzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTMwIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/4PThT4YH?download"
             },
             "hasTelegram": false
           },
@@ -22430,11 +23013,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 31",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2MxOGFiOTMyNzYxOGVhMGUyNDU1MDAyZmE5N2MzZDRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1Mzk1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ODdlNmUyMjFhZTM0ZjMyMDE0MWQxNTQ3OTUyNjMwZmFjMjNhMjMzZWQ4MGU4YzQ0ZDU3MjM3MTFkN2U1YzgwYyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxMjAwMCwiaGFzaCI6IjM0ZDA2OWI1ZmU1OTI0ZGZhZDZjNTE0MTEzOGE3OTE4NWU0NTk2ODY3ZTZhMTc1NzRhMDc0ZGNiZmQwMzc3MjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/87qEBjAB?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2MxOGFiOTMyNzYxOGVhMGUyNDU1MDAyZmE5N2MzZDRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1Mzk1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ODdlNmUyMjFhZTM0ZjMyMDE0MWQxNTQ3OTUyNjMwZmFjMjNhMjMzZWQ4MGU4YzQ0ZDU3MjM3MTFkN2U1YzgwYyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxMjAwMCwiaGFzaCI6IjM0ZDA2OWI1ZmU1OTI0ZGZhZDZjNTE0MTEzOGE3OTE4NWU0NTk2ODY3ZTZhMTc1NzRhMDc0ZGNiZmQwMzc3MjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/87qEBjAB?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2MxOGFiOTMyNzYxOGVhMGUyNDU1MDAyZmE5N2MzZDRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1Mzk1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ODdlNmUyMjFhZTM0ZjMyMDE0MWQxNTQ3OTUyNjMwZmFjMjNhMjMzZWQ4MGU4YzQ0ZDU3MjM3MTFkN2U1YzgwYyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxMjAwMCwiaGFzaCI6IjM0ZDA2OWI1ZmU1OTI0ZGZhZDZjNTE0MTEzOGE3OTE4NWU0NTk2ODY3ZTZhMTc1NzRhMDc0ZGNiZmQwMzc3MjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2MxOGFiOTMyNzYxOGVhMGUyNDU1MDAyZmE5N2MzZDRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1Mzk1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ODdlNmUyMjFhZTM0ZjMyMDE0MWQxNTQ3OTUyNjMwZmFjMjNhMjMzZWQ4MGU4YzQ0ZDU3MjM3MTFkN2U1YzgwYyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxMjAwMCwiaGFzaCI6IjM0ZDA2OWI1ZmU1OTI0ZGZhZDZjNTE0MTEzOGE3OTE4NWU0NTk2ODY3ZTZhMTc1NzRhMDc0ZGNiZmQwMzc3MjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2MxOGFiOTMyNzYxOGVhMGUyNDU1MDAyZmE5N2MzZDRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1Mzk1MFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ODdlNmUyMjFhZTM0ZjMyMDE0MWQxNTQ3OTUyNjMwZmFjMjNhMjMzZWQ4MGU4YzQ0ZDU3MjM3MTFkN2U1YzgwYyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxMjAwMCwiaGFzaCI6IjM0ZDA2OWI1ZmU1OTI0ZGZhZDZjNTE0MTEzOGE3OTE4NWU0NTk2ODY3ZTZhMTc1NzRhMDc0ZGNiZmQwMzc3MjQiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/87qEBjAB?download"
             },
             "hasTelegram": false
           },
@@ -22446,11 +23030,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 32",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE2OWUwZWQ0MTA3Mjc1NjAwNWNlYTgyYTJhNjJhMDQ3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1NDEzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmVjMDBjMGJjZTk1ZjU1YjU0NGZkNzI2NDJmNDhkMTNmNGIzYTJlNDIzNzYxMzk4MmFkN2E2ODljYzIwODUyMCIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxNzAwMCwiaGFzaCI6IjViNjVlZTQ3MWVkYjlkZmU4ZDE2ZjJkMDU1NTdhZjM5ZTM3MDYzNGUyYTcwMzJkNDZjOTMwZDJmZTZiYjEwNzIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/u8jep1Zw?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE2OWUwZWQ0MTA3Mjc1NjAwNWNlYTgyYTJhNjJhMDQ3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1NDEzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmVjMDBjMGJjZTk1ZjU1YjU0NGZkNzI2NDJmNDhkMTNmNGIzYTJlNDIzNzYxMzk4MmFkN2E2ODljYzIwODUyMCIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxNzAwMCwiaGFzaCI6IjViNjVlZTQ3MWVkYjlkZmU4ZDE2ZjJkMDU1NTdhZjM5ZTM3MDYzNGUyYTcwMzJkNDZjOTMwZDJmZTZiYjEwNzIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/u8jep1Zw?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE2OWUwZWQ0MTA3Mjc1NjAwNWNlYTgyYTJhNjJhMDQ3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1NDEzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmVjMDBjMGJjZTk1ZjU1YjU0NGZkNzI2NDJmNDhkMTNmNGIzYTJlNDIzNzYxMzk4MmFkN2E2ODljYzIwODUyMCIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxNzAwMCwiaGFzaCI6IjViNjVlZTQ3MWVkYjlkZmU4ZDE2ZjJkMDU1NTdhZjM5ZTM3MDYzNGUyYTcwMzJkNDZjOTMwZDJmZTZiYjEwNzIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE2OWUwZWQ0MTA3Mjc1NjAwNWNlYTgyYTJhNjJhMDQ3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1NDEzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmVjMDBjMGJjZTk1ZjU1YjU0NGZkNzI2NDJmNDhkMTNmNGIzYTJlNDIzNzYxMzk4MmFkN2E2ODljYzIwODUyMCIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxNzAwMCwiaGFzaCI6IjViNjVlZTQ3MWVkYjlkZmU4ZDE2ZjJkMDU1NTdhZjM5ZTM3MDYzNGUyYTcwMzJkNDZjOTMwZDJmZTZiYjEwNzIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE2OWUwZWQ0MTA3Mjc1NjAwNWNlYTgyYTJhNjJhMDQ3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI1VDE1NDEzNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9YmVjMDBjMGJjZTk1ZjU1YjU0NGZkNzI2NDJmNDhkMTNmNGIzYTJlNDIzNzYxMzk4MmFkN2E2ODljYzIwODUyMCIsInRpbWVzdGFtcCI6MTc4ODQ0ODMxNzAwMCwiaGFzaCI6IjViNjVlZTQ3MWVkYjlkZmU4ZDE2ZjJkMDU1NTdhZjM5ZTM3MDYzNGUyYTcwMzJkNDZjOTMwZDJmZTZiYjEwNzIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/u8jep1Zw?download"
             },
             "hasTelegram": false
           },
@@ -22462,11 +23047,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 33",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YwYTY0NzQyZWU3ZWQ0ODkyOGI5MWRmYzU2YWRkYmVmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTI1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZGUxYWE0YjUzNmU5Mjc2YzMzZmYyYTNiNzhjYjI4NWY2OGY4ODMzNWQ2OGMwYTU5Y2MyODIyNTFlNWQzMzY3MyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMDAwMCwiaGFzaCI6IjMxNTEzZDZkOWQ1NWQzYjRhYTE1MDMxODY5YjkyNThkY2I1M2EzZTQwZDUxNzg0OWQ3MjY0ZjFkZjc4NzRjZjIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/EtJgmE3q?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YwYTY0NzQyZWU3ZWQ0ODkyOGI5MWRmYzU2YWRkYmVmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTI1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZGUxYWE0YjUzNmU5Mjc2YzMzZmYyYTNiNzhjYjI4NWY2OGY4ODMzNWQ2OGMwYTU5Y2MyODIyNTFlNWQzMzY3MyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMDAwMCwiaGFzaCI6IjMxNTEzZDZkOWQ1NWQzYjRhYTE1MDMxODY5YjkyNThkY2I1M2EzZTQwZDUxNzg0OWQ3MjY0ZjFkZjc4NzRjZjIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/EtJgmE3q?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YwYTY0NzQyZWU3ZWQ0ODkyOGI5MWRmYzU2YWRkYmVmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTI1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZGUxYWE0YjUzNmU5Mjc2YzMzZmYyYTNiNzhjYjI4NWY2OGY4ODMzNWQ2OGMwYTU5Y2MyODIyNTFlNWQzMzY3MyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMDAwMCwiaGFzaCI6IjMxNTEzZDZkOWQ1NWQzYjRhYTE1MDMxODY5YjkyNThkY2I1M2EzZTQwZDUxNzg0OWQ3MjY0ZjFkZjc4NzRjZjIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YwYTY0NzQyZWU3ZWQ0ODkyOGI5MWRmYzU2YWRkYmVmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTI1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZGUxYWE0YjUzNmU5Mjc2YzMzZmYyYTNiNzhjYjI4NWY2OGY4ODMzNWQ2OGMwYTU5Y2MyODIyNTFlNWQzMzY3MyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMDAwMCwiaGFzaCI6IjMxNTEzZDZkOWQ1NWQzYjRhYTE1MDMxODY5YjkyNThkY2I1M2EzZTQwZDUxNzg0OWQ3MjY0ZjFkZjc4NzRjZjIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YwYTY0NzQyZWU3ZWQ0ODkyOGI5MWRmYzU2YWRkYmVmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTI1NlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzMyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZGUxYWE0YjUzNmU5Mjc2YzMzZmYyYTNiNzhjYjI4NWY2OGY4ODMzNWQ2OGMwYTU5Y2MyODIyNTFlNWQzMzY3MyIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMDAwMCwiaGFzaCI6IjMxNTEzZDZkOWQ1NWQzYjRhYTE1MDMxODY5YjkyNThkY2I1M2EzZTQwZDUxNzg0OWQ3MjY0ZjFkZjc4NzRjZjIiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzMgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/EtJgmE3q?download"
             },
             "hasTelegram": false
           },
@@ -22474,15 +23060,16 @@ export const ANIME_DATABASE = [
             "id": 34,
             "number": 34,
             "season": 1,
-            "title": "Episode 34",
+            "title": "Fierce Battle Opening! Tournament Start – Part 2 Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 34",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzA4ZTIwZDFhMzdkMThiMWYzMTVlOTBiMzQ0MTBkMTVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDExNTYxNVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MjFjYTI1MWQwNjM4NmU1Y2RhYTU5MmVkZTdjYWJhZWI5MThjMGQ5MmJmNzQwOTY0YzhiYmU1YjY2NDIyNDExZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMzAwMCwiaGFzaCI6IjcyNDA4YzhjZTlmYzcwZWVkNTkzMzZjNjYwYjEyMmFmOTdkM2MwNGQ2OGQ0MWRiYTBkYThjOTVmZmE2OTZjMWEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzQgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/BXNvFuVb?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzA4ZTIwZDFhMzdkMThiMWYzMTVlOTBiMzQ0MTBkMTVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDExNTYxNVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MjFjYTI1MWQwNjM4NmU1Y2RhYTU5MmVkZTdjYWJhZWI5MThjMGQ5MmJmNzQwOTY0YzhiYmU1YjY2NDIyNDExZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMzAwMCwiaGFzaCI6IjcyNDA4YzhjZTlmYzcwZWVkNTkzMzZjNjYwYjEyMmFmOTdkM2MwNGQ2OGQ0MWRiYTBkYThjOTVmZmE2OTZjMWEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzQgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/BXNvFuVb?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzA4ZTIwZDFhMzdkMThiMWYzMTVlOTBiMzQ0MTBkMTVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDExNTYxNVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MjFjYTI1MWQwNjM4NmU1Y2RhYTU5MmVkZTdjYWJhZWI5MThjMGQ5MmJmNzQwOTY0YzhiYmU1YjY2NDIyNDExZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMzAwMCwiaGFzaCI6IjcyNDA4YzhjZTlmYzcwZWVkNTkzMzZjNjYwYjEyMmFmOTdkM2MwNGQ2OGQ0MWRiYTBkYThjOTVmZmE2OTZjMWEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzQgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzA4ZTIwZDFhMzdkMThiMWYzMTVlOTBiMzQ0MTBkMTVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDExNTYxNVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MjFjYTI1MWQwNjM4NmU1Y2RhYTU5MmVkZTdjYWJhZWI5MThjMGQ5MmJmNzQwOTY0YzhiYmU1YjY2NDIyNDExZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMzAwMCwiaGFzaCI6IjcyNDA4YzhjZTlmYzcwZWVkNTkzMzZjNjYwYjEyMmFmOTdkM2MwNGQ2OGQ0MWRiYTBkYThjOTVmZmE2OTZjMWEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzQgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzA4ZTIwZDFhMzdkMThiMWYzMTVlOTBiMzQ0MTBkMTVhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDExNTYxNVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MjFjYTI1MWQwNjM4NmU1Y2RhYTU5MmVkZTdjYWJhZWI5MThjMGQ5MmJmNzQwOTY0YzhiYmU1YjY2NDIyNDExZiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyMzAwMCwiaGFzaCI6IjcyNDA4YzhjZTlmYzcwZWVkNTkzMzZjNjYwYjEyMmFmOTdkM2MwNGQ2OGQ0MWRiYTBkYThjOTVmZmE2OTZjMWEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzQgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/BXNvFuVb?download"
             },
             "hasTelegram": false
           },
@@ -22494,11 +23081,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 35",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzBjNTViOGViNGM4NWYyY2YyYzkxMWZmYTg4ODE2ZDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTU0OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNSUyMCU 1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg1ZTcxZjY5MjkwNWQyNzUzYzMyMGNkYWU5N2JhMj hmZTgzZmNiNjI3ZGZjOTVjNmYzNzNlNjA3ODIwNjhiYSIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyNjAwMCwiaGFzaCI6ImE4NmE1N GJlMzVmNTRmZGE5M2UwNGYyYWFlZGQ5MDZmMjViYzM3NmI0Nzk0OTRmN2NiYmQ1YTBjODE0NDFjNzQiLCJmaWxlbmFtZS I6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/ZXMq427X?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzBjNTViOGViNGM4NWYyY2YyYzkxMWZmYTg4ODE2ZDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTU0OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNSUyMCU 1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg1ZTcxZjY5MjkwNWQyNzUzYzMyMGNkYWU5N2JhMj hmZTgzZmNiNjI3ZGZjOTVjNmYzNzNlNjA3ODIwNjhiYSIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyNjAwMCwiaGFzaCI6ImE4NmE1N GJlMzVmNTRmZGE5M2UwNGYyYWFlZGQ5MDZmMjViYzM3NmI0Nzk0OTRmN2NiYmQ1YTBjODE0NDFjNzQiLCJmaWxlbmFtZS I6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/ZXMq427X?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzBjNTViOGViNGM4NWYyY2YyYzkxMWZmYTg4ODE2ZDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTU0OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNSUyMCU 1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg1ZTcxZjY5MjkwNWQyNzUzYzMyMGNkYWU5N2JhMj hmZTgzZmNiNjI3ZGZjOTVjNmYzNzNlNjA3ODIwNjhiYSIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyNjAwMCwiaGFzaCI6ImE4NmE1N GJlMzVmNTRmZGE5M2UwNGYyYWFlZGQ5MDZmMjViYzM3NmI0Nzk0OTRmN2NiYmQ1YTBjODE0NDFjNzQiLCJmaWxlbmFtZS I6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzBjNTViOGViNGM4NWYyY2YyYzkxMWZmYTg4ODE2ZDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTU0OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNSUyMCU 1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg1ZTcxZjY5MjkwNWQyNzUzYzMyMGNkYWU5N2JhMj hmZTgzZmNiNjI3ZGZjOTVjNmYzNzNlNjA3ODIwNjhiYSIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyNjAwMCwiaGFzaCI6ImE4NmE1N GJlMzVmNTRmZGE5M2UwNGYyYWFlZGQ5MDZmMjViYzM3NmI0Nzk0OTRmN2NiYmQ1YTBjODE0NDFjNzQiLCJmaWxlbmFtZS I6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzBjNTViOGViNGM4NWYyY2YyYzkxMWZmYTg4ODE2ZDA1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyNiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI2VDA3NTU0OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNSUyMCU 1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg1ZTcxZjY5MjkwNWQyNzUzYzMyMGNkYWU5N2JhMj hmZTgzZmNiNjI3ZGZjOTVjNmYzNzNlNjA3ODIwNjhiYSIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyNjAwMCwiaGFzaCI6ImE4NmE1N GJlMzVmNTRmZGE5M2UwNGYyYWFlZGQ5MDZmMjViYzM3NmI0Nzk0OTRmN2NiYmQ1YTBjODE0NDFjNzQiLCJmaWxlbmFtZS I6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzUgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/ZXMq427X?download"
             },
             "hasTelegram": false
           },
@@ -22510,11 +23098,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 36",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2NmMDc3NDgzYWUwMTU1ZGExMWMxMmU5MzIyODdhMjhkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA3MTIxN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg4NTUxNzNmOTMxOTVkNzhkNjhiZmIxNTcyODQyYjQxZDZhN2ExZDVlZjRmZTQwMjYxYzA0ZTgwYjVjNzVkNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyOTAwMCwiaGFzaCI6Ijk3YTVhZjM1NmI3MDI3NzE3ODQxMjY1YmZkMjk0NjEyYmU4ZjNhYWQ1OGVjN2Q4NzY4Y2M3N2I0MzBlNTY1OTEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/J6KCna9P?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2NmMDc3NDgzYWUwMTU1ZGExMWMxMmU5MzIyODdhMjhkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA3MTIxN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg4NTUxNzNmOTMxOTVkNzhkNjhiZmIxNTcyODQyYjQxZDZhN2ExZDVlZjRmZTQwMjYxYzA0ZTgwYjVjNzVkNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyOTAwMCwiaGFzaCI6Ijk3YTVhZjM1NmI3MDI3NzE3ODQxMjY1YmZkMjk0NjEyYmU4ZjNhYWQ1OGVjN2Q4NzY4Y2M3N2I0MzBlNTY1OTEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/J6KCna9P?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2NmMDc3NDgzYWUwMTU1ZGExMWMxMmU5MzIyODdhMjhkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA3MTIxN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg4NTUxNzNmOTMxOTVkNzhkNjhiZmIxNTcyODQyYjQxZDZhN2ExZDVlZjRmZTQwMjYxYzA0ZTgwYjVjNzVkNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyOTAwMCwiaGFzaCI6Ijk3YTVhZjM1NmI3MDI3NzE3ODQxMjY1YmZkMjk0NjEyYmU4ZjNhYWQ1OGVjN2Q4NzY4Y2M3N2I0MzBlNTY1OTEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2NmMDc3NDgzYWUwMTU1ZGExMWMxMmU5MzIyODdhMjhkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA3MTIxN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg4NTUxNzNmOTMxOTVkNzhkNjhiZmIxNTcyODQyYjQxZDZhN2ExZDVlZjRmZTQwMjYxYzA0ZTgwYjVjNzVkNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyOTAwMCwiaGFzaCI6Ijk3YTVhZjM1NmI3MDI3NzE3ODQxMjY1YmZkMjk0NjEyYmU4ZjNhYWQ1OGVjN2Q4NzY4Y2M3N2I0MzBlNTY1OTEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2NmMDc3NDgzYWUwMTU1ZGExMWMxMmU5MzIyODdhMjhkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMwVDA3MTIxN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUUzNiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Nzg4NTUxNzNmOTMxOTVkNzhkNjhiZmIxNTcyODQyYjQxZDZhN2ExZDVlZjRmZTQwMjYxYzA0ZTgwYjVjNzVkNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODMyOTAwMCwiaGFzaCI6Ijk3YTVhZjM1NmI3MDI3NzE3ODQxMjY1YmZkMjk0NjEyYmU4ZjNhYWQ1OGVjN2Q4NzY4Y2M3N2I0MzBlNTY1OTEiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFMzYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/J6KCna9P?download"
             },
             "hasTelegram": false
           },
@@ -22526,11 +23115,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 37",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=13c26f55c5f112dedc172d8b98c0b87ffe218f050338e62fb19ab3185dfc74fe7333028cf2aeaaafe332a544d3ae239b43ca80ad07d22c4aa23adb626c0afd9dbca5446ed2b49b6d4c63e7e3faef19a36b41914af554dff6f017a5be2bf710b4::56b9f23656cb9b80390698b0f5dca49d",
+            "downloadUrl": "https://pixeldrain.net/u/SPNBaaxL?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=13c26f55c5f112dedc172d8b98c0b87ffe218f050338e62fb19ab3185dfc74fe7333028cf2aeaaafe332a544d3ae239b43ca80ad07d22c4aa23adb626c0afd9dbca5446ed2b49b6d4c63e7e3faef19a36b41914af554dff6f017a5be2bf710b4::56b9f23656cb9b80390698b0f5dca49d",
+              "1080p": "https://pixeldrain.net/u/SPNBaaxL?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=13c26f55c5f112dedc172d8b98c0b87ffe218f050338e62fb19ab3185dfc74fe7333028cf2aeaaafe332a544d3ae239b43ca80ad07d22c4aa23adb626c0afd9dbca5446ed2b49b6d4c63e7e3faef19a36b41914af554dff6f017a5be2bf710b4::56b9f23656cb9b80390698b0f5dca49d",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=13c26f55c5f112dedc172d8b98c0b87ffe218f050338e62fb19ab3185dfc74fe7333028cf2aeaaafe332a544d3ae239b43ca80ad07d22c4aa23adb626c0afd9dbca5446ed2b49b6d4c63e7e3faef19a36b41914af554dff6f017a5be2bf710b4::56b9f23656cb9b80390698b0f5dca49d"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=13c26f55c5f112dedc172d8b98c0b87ffe218f050338e62fb19ab3185dfc74fe7333028cf2aeaaafe332a544d3ae239b43ca80ad07d22c4aa23adb626c0afd9dbca5446ed2b49b6d4c63e7e3faef19a36b41914af554dff6f017a5be2bf710b4::56b9f23656cb9b80390698b0f5dca49d",
+              "hindi": "https://pixeldrain.net/u/SPNBaaxL?download"
             },
             "hasTelegram": false
           },
@@ -22542,11 +23132,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 38",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=3d84913bd67c56e612879f0ef29a569dbd74beeb1b6125b6eda4332a98305abf2f6fd2d7a8a9bbc82f1e312bdeac30d965b3297bda500fb3b585943fcb132f19bedbfc79a0de95b33872c59596cc008e030cfb4f5275d25a03f5b220ae4eb64499f345a58063f756dfc62c02e3a1cd0e::a6ba6f0cd330283247a512d6fc7c5924",
+            "downloadUrl": "https://pixeldrain.net/u/jGF7WEpx?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=3d84913bd67c56e612879f0ef29a569dbd74beeb1b6125b6eda4332a98305abf2f6fd2d7a8a9bbc82f1e312bdeac30d965b3297bda500fb3b585943fcb132f19bedbfc79a0de95b33872c59596cc008e030cfb4f5275d25a03f5b220ae4eb64499f345a58063f756dfc62c02e3a1cd0e::a6ba6f0cd330283247a512d6fc7c5924",
+              "1080p": "https://pixeldrain.net/u/jGF7WEpx?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=3d84913bd67c56e612879f0ef29a569dbd74beeb1b6125b6eda4332a98305abf2f6fd2d7a8a9bbc82f1e312bdeac30d965b3297bda500fb3b585943fcb132f19bedbfc79a0de95b33872c59596cc008e030cfb4f5275d25a03f5b220ae4eb64499f345a58063f756dfc62c02e3a1cd0e::a6ba6f0cd330283247a512d6fc7c5924",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=3d84913bd67c56e612879f0ef29a569dbd74beeb1b6125b6eda4332a98305abf2f6fd2d7a8a9bbc82f1e312bdeac30d965b3297bda500fb3b585943fcb132f19bedbfc79a0de95b33872c59596cc008e030cfb4f5275d25a03f5b220ae4eb64499f345a58063f756dfc62c02e3a1cd0e::a6ba6f0cd330283247a512d6fc7c5924"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=3d84913bd67c56e612879f0ef29a569dbd74beeb1b6125b6eda4332a98305abf2f6fd2d7a8a9bbc82f1e312bdeac30d965b3297bda500fb3b585943fcb132f19bedbfc79a0de95b33872c59596cc008e030cfb4f5275d25a03f5b220ae4eb64499f345a58063f756dfc62c02e3a1cd0e::a6ba6f0cd330283247a512d6fc7c5924",
+              "hindi": "https://pixeldrain.net/u/jGF7WEpx?download"
             },
             "hasTelegram": false
           },
@@ -22558,11 +23149,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 39",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f096586a4e5633319b201a86b689b6fe68f0ae2c0ecfda3ef191d8b82b2191558a474147a100a9d7d7612ddb5ef3b16e79c7f08b9683e664d89a15e6f87d25f95c88fac08e7e2c45326961dd4693ea4eb7aa8a0b6973f93a4c2d500be5290a8c::9ae26e0b8bc4bd2ce399e9923645df16",
+            "downloadUrl": "https://pixeldrain.net/u/fZHvwBy2?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=f096586a4e5633319b201a86b689b6fe68f0ae2c0ecfda3ef191d8b82b2191558a474147a100a9d7d7612ddb5ef3b16e79c7f08b9683e664d89a15e6f87d25f95c88fac08e7e2c45326961dd4693ea4eb7aa8a0b6973f93a4c2d500be5290a8c::9ae26e0b8bc4bd2ce399e9923645df16",
+              "1080p": "https://pixeldrain.net/u/fZHvwBy2?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=f096586a4e5633319b201a86b689b6fe68f0ae2c0ecfda3ef191d8b82b2191558a474147a100a9d7d7612ddb5ef3b16e79c7f08b9683e664d89a15e6f87d25f95c88fac08e7e2c45326961dd4693ea4eb7aa8a0b6973f93a4c2d500be5290a8c::9ae26e0b8bc4bd2ce399e9923645df16",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=f096586a4e5633319b201a86b689b6fe68f0ae2c0ecfda3ef191d8b82b2191558a474147a100a9d7d7612ddb5ef3b16e79c7f08b9683e664d89a15e6f87d25f95c88fac08e7e2c45326961dd4693ea4eb7aa8a0b6973f93a4c2d500be5290a8c::9ae26e0b8bc4bd2ce399e9923645df16"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=f096586a4e5633319b201a86b689b6fe68f0ae2c0ecfda3ef191d8b82b2191558a474147a100a9d7d7612ddb5ef3b16e79c7f08b9683e664d89a15e6f87d25f95c88fac08e7e2c45326961dd4693ea4eb7aa8a0b6973f93a4c2d500be5290a8c::9ae26e0b8bc4bd2ce399e9923645df16",
+              "hindi": "https://pixeldrain.net/u/fZHvwBy2?download"
             },
             "hasTelegram": false
           },
@@ -22574,11 +23166,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 40",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=8ab6da2c9a21c7b2e023271e9675a3c84cd9da67adef4aa900086e1ea4fbc6c10db6c357af93b08c46421d21a22ea606af2d74b930ef70fcc88af034aa7c07fc71eb09fd564d8cffc0e9139d5295ffedd7682d39e3583b3b31552f55ad51d576425e7dff6443f17dded5749d62f74dda::1b28677ce18f640286ca3e565627ccfe",
+            "downloadUrl": "https://pixeldrain.net/u/2E7L2G8h?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=8ab6da2c9a21c7b2e023271e9675a3c84cd9da67adef4aa900086e1ea4fbc6c10db6c357af93b08c46421d21a22ea606af2d74b930ef70fcc88af034aa7c07fc71eb09fd564d8cffc0e9139d5295ffedd7682d39e3583b3b31552f55ad51d576425e7dff6443f17dded5749d62f74dda::1b28677ce18f640286ca3e565627ccfe",
+              "1080p": "https://pixeldrain.net/u/2E7L2G8h?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=8ab6da2c9a21c7b2e023271e9675a3c84cd9da67adef4aa900086e1ea4fbc6c10db6c357af93b08c46421d21a22ea606af2d74b930ef70fcc88af034aa7c07fc71eb09fd564d8cffc0e9139d5295ffedd7682d39e3583b3b31552f55ad51d576425e7dff6443f17dded5749d62f74dda::1b28677ce18f640286ca3e565627ccfe",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=8ab6da2c9a21c7b2e023271e9675a3c84cd9da67adef4aa900086e1ea4fbc6c10db6c357af93b08c46421d21a22ea606af2d74b930ef70fcc88af034aa7c07fc71eb09fd564d8cffc0e9139d5295ffedd7682d39e3583b3b31552f55ad51d576425e7dff6443f17dded5749d62f74dda::1b28677ce18f640286ca3e565627ccfe"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=8ab6da2c9a21c7b2e023271e9675a3c84cd9da67adef4aa900086e1ea4fbc6c10db6c357af93b08c46421d21a22ea606af2d74b930ef70fcc88af034aa7c07fc71eb09fd564d8cffc0e9139d5295ffedd7682d39e3583b3b31552f55ad51d576425e7dff6443f17dded5749d62f74dda::1b28677ce18f640286ca3e565627ccfe",
+              "hindi": "https://pixeldrain.net/u/2E7L2G8h?download"
             },
             "hasTelegram": false
           },
@@ -22590,11 +23183,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 41",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=3af1ebdb3ab47204e23572aa23354214046e1fae61c44ea0d1abb665a171b0f641d929d1d1fed04e716fcaddbe1248363239ed208e78b27484a69e9df77d7f7eebb973bd71f88dea72214bd852cef11702698ee4f8791a426b103c8f9c3bf69d73d3f3747951cb21c7ee62c6a51f1996::20bba40e849ca4ac92b1c4dcdbf46964",
+            "downloadUrl": "https://pixeldrain.net/u/8tLABgMV?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=3af1ebdb3ab47204e23572aa23354214046e1fae61c44ea0d1abb665a171b0f641d929d1d1fed04e716fcaddbe1248363239ed208e78b27484a69e9df77d7f7eebb973bd71f88dea72214bd852cef11702698ee4f8791a426b103c8f9c3bf69d73d3f3747951cb21c7ee62c6a51f1996::20bba40e849ca4ac92b1c4dcdbf46964",
+              "1080p": "https://pixeldrain.net/u/8tLABgMV?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=3af1ebdb3ab47204e23572aa23354214046e1fae61c44ea0d1abb665a171b0f641d929d1d1fed04e716fcaddbe1248363239ed208e78b27484a69e9df77d7f7eebb973bd71f88dea72214bd852cef11702698ee4f8791a426b103c8f9c3bf69d73d3f3747951cb21c7ee62c6a51f1996::20bba40e849ca4ac92b1c4dcdbf46964",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=3af1ebdb3ab47204e23572aa23354214046e1fae61c44ea0d1abb665a171b0f641d929d1d1fed04e716fcaddbe1248363239ed208e78b27484a69e9df77d7f7eebb973bd71f88dea72214bd852cef11702698ee4f8791a426b103c8f9c3bf69d73d3f3747951cb21c7ee62c6a51f1996::20bba40e849ca4ac92b1c4dcdbf46964"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=3af1ebdb3ab47204e23572aa23354214046e1fae61c44ea0d1abb665a171b0f641d929d1d1fed04e716fcaddbe1248363239ed208e78b27484a69e9df77d7f7eebb973bd71f88dea72214bd852cef11702698ee4f8791a426b103c8f9c3bf69d73d3f3747951cb21c7ee62c6a51f1996::20bba40e849ca4ac92b1c4dcdbf46964",
+              "hindi": "https://pixeldrain.net/u/8tLABgMV?download"
             },
             "hasTelegram": false
           },
@@ -22606,11 +23200,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 42",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=9a45475588635ca45f4742a3dffeed0be605ff727dfe0e72b6dc6901c3e100b2c7fd4b88e08ed2ccf1781ff765a4472935dc9a4c49016d710e146ca9b9e46d474abd4e3f9850a9654949e9c3ec964498ac4828a6d99eb45fa52b137dfa546148a23ae4e2d56ec9562e5c3115e863e521::5dfca935c5aff15f702a0ac5ce39ccd1",
+            "downloadUrl": "https://pixeldrain.net/u/TmcYjE4N?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=9a45475588635ca45f4742a3dffeed0be605ff727dfe0e72b6dc6901c3e100b2c7fd4b88e08ed2ccf1781ff765a4472935dc9a4c49016d710e146ca9b9e46d474abd4e3f9850a9654949e9c3ec964498ac4828a6d99eb45fa52b137dfa546148a23ae4e2d56ec9562e5c3115e863e521::5dfca935c5aff15f702a0ac5ce39ccd1",
+              "1080p": "https://pixeldrain.net/u/TmcYjE4N?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=9a45475588635ca45f4742a3dffeed0be605ff727dfe0e72b6dc6901c3e100b2c7fd4b88e08ed2ccf1781ff765a4472935dc9a4c49016d710e146ca9b9e46d474abd4e3f9850a9654949e9c3ec964498ac4828a6d99eb45fa52b137dfa546148a23ae4e2d56ec9562e5c3115e863e521::5dfca935c5aff15f702a0ac5ce39ccd1",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=9a45475588635ca45f4742a3dffeed0be605ff727dfe0e72b6dc6901c3e100b2c7fd4b88e08ed2ccf1781ff765a4472935dc9a4c49016d710e146ca9b9e46d474abd4e3f9850a9654949e9c3ec964498ac4828a6d99eb45fa52b137dfa546148a23ae4e2d56ec9562e5c3115e863e521::5dfca935c5aff15f702a0ac5ce39ccd1"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=9a45475588635ca45f4742a3dffeed0be605ff727dfe0e72b6dc6901c3e100b2c7fd4b88e08ed2ccf1781ff765a4472935dc9a4c49016d710e146ca9b9e46d474abd4e3f9850a9654949e9c3ec964498ac4828a6d99eb45fa52b137dfa546148a23ae4e2d56ec9562e5c3115e863e521::5dfca935c5aff15f702a0ac5ce39ccd1",
+              "hindi": "https://pixeldrain.net/u/TmcYjE4N?download"
             },
             "hasTelegram": false
           },
@@ -22622,11 +23217,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 43",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYTZkYjExZGJhNGRiMmYzYzliOGU1MzU1YTNkNGNiZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDA4MzVaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDMlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWVlNjliZTJlMjYyMWIwOWRlZmQxYjYzOWZkYWZhZTk4OWUxNzBjMmZlM2MxZmE5MWE5MjIwZTRkNDM0YmQxMDEiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNTUwMDAsImhhc2giOiJjMWU4NDY0M2Q1Y2FiNjhhOWEwYzcyNmM0OTRjZmIxZTIzODMyZjNjZDc0ZmVjZGQ4OGI1OWI4MzliNzExYjAzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQzIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/W6p5A6Em?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYTZkYjExZGJhNGRiMmYzYzliOGU1MzU1YTNkNGNiZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDA4MzVaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDMlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWVlNjliZTJlMjYyMWIwOWRlZmQxYjYzOWZkYWZhZTk4OWUxNzBjMmZlM2MxZmE5MWE5MjIwZTRkNDM0YmQxMDEiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNTUwMDAsImhhc2giOiJjMWU4NDY0M2Q1Y2FiNjhhOWEwYzcyNmM0OTRjZmIxZTIzODMyZjNjZDc0ZmVjZGQ4OGI1OWI4MzliNzExYjAzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQzIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/W6p5A6Em?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYTZkYjExZGJhNGRiMmYzYzliOGU1MzU1YTNkNGNiZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDA4MzVaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDMlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWVlNjliZTJlMjYyMWIwOWRlZmQxYjYzOWZkYWZhZTk4OWUxNzBjMmZlM2MxZmE5MWE5MjIwZTRkNDM0YmQxMDEiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNTUwMDAsImhhc2giOiJjMWU4NDY0M2Q1Y2FiNjhhOWEwYzcyNmM0OTRjZmIxZTIzODMyZjNjZDc0ZmVjZGQ4OGI1OWI4MzliNzExYjAzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQzIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYTZkYjExZGJhNGRiMmYzYzliOGU1MzU1YTNkNGNiZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDA4MzVaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDMlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWVlNjliZTJlMjYyMWIwOWRlZmQxYjYzOWZkYWZhZTk4OWUxNzBjMmZlM2MxZmE5MWE5MjIwZTRkNDM0YmQxMDEiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNTUwMDAsImhhc2giOiJjMWU4NDY0M2Q1Y2FiNjhhOWEwYzcyNmM0OTRjZmIxZTIzODMyZjNjZDc0ZmVjZGQ4OGI1OWI4MzliNzExYjAzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQzIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYTZkYjExZGJhNGRiMmYzYzliOGU1MzU1YTNkNGNiZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDA4MzVaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDMlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWVlNjliZTJlMjYyMWIwOWRlZmQxYjYzOWZkYWZhZTk4OWUxNzBjMmZlM2MxZmE5MWE5MjIwZTRkNDM0YmQxMDEiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNTUwMDAsImhhc2giOiJjMWU4NDY0M2Q1Y2FiNjhhOWEwYzcyNmM0OTRjZmIxZTIzODMyZjNjZDc0ZmVjZGQ4OGI1OWI4MzliNzExYjAzIiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQzIFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/W6p5A6Em?download"
             },
             "hasTelegram": false
           },
@@ -22638,11 +23234,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 44",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8yYzNjMjNhYWIxZmUzNTg5MGUxOTAxY2E3M2I0N2Q0MD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDExNDdaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDQlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTBmZGYzMGQ4Mjg3ZDRlMWIyYzBkYWY4NzA1NzlmMjNmNTI5OGQyNDVmMTE4MmYzMjQwNTJhYmZkZTkyYjAxZjgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjEwMDAsImhhc2giOiIxNjE5ZGRlNz U5YWE2ZTFkNTBjN2ViYmQ2MzMzZGZjZjJjZmM1NjliMWYwNDM5ZWRiNGQ2YjExODI1YmQ3MjBlIiwiZmlsZW5hbWUiOiJDYXB0 YWluIFRzdWJhc2EgUzAxRTQ0IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/uG5cjWVN?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8yYzNjMjNhYWIxZmUzNTg5MGUxOTAxY2E3M2I0N2Q0MD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDExNDdaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDQlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTBmZGYzMGQ4Mjg3ZDRlMWIyYzBkYWY4NzA1NzlmMjNmNTI5OGQyNDVmMTE4MmYzMjQwNTJhYmZkZTkyYjAxZjgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjEwMDAsImhhc2giOiIxNjE5ZGRlNz U5YWE2ZTFkNTBjN2ViYmQ2MzMzZGZjZjJjZmM1NjliMWYwNDM5ZWRiNGQ2YjExODI1YmQ3MjBlIiwiZmlsZW5hbWUiOiJDYXB0 YWluIFRzdWJhc2EgUzAxRTQ0IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/uG5cjWVN?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8yYzNjMjNhYWIxZmUzNTg5MGUxOTAxY2E3M2I0N2Q0MD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDExNDdaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDQlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTBmZGYzMGQ4Mjg3ZDRlMWIyYzBkYWY4NzA1NzlmMjNmNTI5OGQyNDVmMTE4MmYzMjQwNTJhYmZkZTkyYjAxZjgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjEwMDAsImhhc2giOiIxNjE5ZGRlNz U5YWE2ZTFkNTBjN2ViYmQ2MzMzZGZjZjJjZmM1NjliMWYwNDM5ZWRiNGQ2YjExODI1YmQ3MjBlIiwiZmlsZW5hbWUiOiJDYXB0 YWluIFRzdWJhc2EgUzAxRTQ0IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8yYzNjMjNhYWIxZmUzNTg5MGUxOTAxY2E3M2I0N2Q0MD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDExNDdaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDQlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTBmZGYzMGQ4Mjg3ZDRlMWIyYzBkYWY4NzA1NzlmMjNmNTI5OGQyNDVmMTE4MmYzMjQwNTJhYmZkZTkyYjAxZjgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjEwMDAsImhhc2giOiIxNjE5ZGRlNz U5YWE2ZTFkNTBjN2ViYmQ2MzMzZGZjZjJjZmM1NjliMWYwNDM5ZWRiNGQ2YjExODI1YmQ3MjBlIiwiZmlsZW5hbWUiOiJDYXB0 YWluIFRzdWJhc2EgUzAxRTQ0IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8yYzNjMjNhYWIxZmUzNTg5MGUxOTAxY2E3M2I0N2Q0MD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MjklMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyOVQxMDExNDdaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDQlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTBmZGYzMGQ4Mjg3ZDRlMWIyYzBkYWY4NzA1NzlmMjNmNTI5OGQyNDVmMTE4MmYzMjQwNTJhYmZkZTkyYjAxZjgiLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjEwMDAsImhhc2giOiIxNjE5ZGRlNz U5YWE2ZTFkNTBjN2ViYmQ2MzMzZGZjZjJjZmM1NjliMWYwNDM5ZWRiNGQ2YjExODI1YmQ3MjBlIiwiZmlsZW5hbWUiOiJDYXB0 YWluIFRzdWJhc2EgUzAxRTQ0IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/uG5cjWVN?download"
             },
             "hasTelegram": false
           },
@@ -22654,11 +23251,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 45",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYzhjMWY5ZDQ5YjBjNzI2YjA2NDVjOGY5NTQ1NzJhMj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMVQwOTAwNDRaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDUlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWE2ZGY3Y2ZhNTA0NTM3YTE0NmMyMzZkNDU0M2I1ZWZiZDY2NGJjZWJmNjcwMzE2MTg2OWU2YmQ4MzRiYWU2NzciLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjQwMDAsImhhc2giOiIwZGU3NWIxZjczZmY5YmZkMzFiZjc4Y2FiYTFlY2U2NTAzNDIzMzJhNjdkNTY4YWM3MTk3N2RjYTE1NzhmNGY0IiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQ1IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/x4B5yBuy?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYzhjMWY5ZDQ5YjBjNzI2YjA2NDVjOGY5NTQ1NzJhMj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMVQwOTAwNDRaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDUlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWE2ZGY3Y2ZhNTA0NTM3YTE0NmMyMzZkNDU0M2I1ZWZiZDY2NGJjZWJmNjcwMzE2MTg2OWU2YmQ4MzRiYWU2NzciLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjQwMDAsImhhc2giOiIwZGU3NWIxZjczZmY5YmZkMzFiZjc4Y2FiYTFlY2U2NTAzNDIzMzJhNjdkNTY4YWM3MTk3N2RjYTE1NzhmNGY0IiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQ1IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/x4B5yBuy?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYzhjMWY5ZDQ5YjBjNzI2YjA2NDVjOGY5NTQ1NzJhMj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMVQwOTAwNDRaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDUlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWE2ZGY3Y2ZhNTA0NTM3YTE0NmMyMzZkNDU0M2I1ZWZiZDY2NGJjZWJmNjcwMzE2MTg2OWU2YmQ4MzRiYWU2NzciLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjQwMDAsImhhc2giOiIwZGU3NWIxZjczZmY5YmZkMzFiZjc4Y2FiYTFlY2U2NTAzNDIzMzJhNjdkNTY4YWM3MTk3N2RjYTE1NzhmNGY0IiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQ1IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYzhjMWY5ZDQ5YjBjNzI2YjA2NDVjOGY5NTQ1NzJhMj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMVQwOTAwNDRaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDUlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWE2ZGY3Y2ZhNTA0NTM3YTE0NmMyMzZkNDU0M2I1ZWZiZDY2NGJjZWJmNjcwMzE2MTg2OWU2YmQ4MzRiYWU2NzciLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjQwMDAsImhhc2giOiIwZGU3NWIxZjczZmY5YmZkMzFiZjc4Y2FiYTFlY2U2NTAzNDIzMzJhNjdkNTY4YWM3MTk3N2RjYTE1NzhmNGY0IiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQ1IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iYzhjMWY5ZDQ5YjBjNzI2YjA2NDVjOGY5NTQ1NzJhMj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzElMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMVQwOTAwNDRaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyQ2FwdGFpbiUyMFRzdWJhc2ElMjBTMDFFNDUlMjAlNUJSYXJlVG9vbnNJbmRpYSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWE2ZGY3Y2ZhNTA0NTM3YTE0NmMyMzZkNDU0M2I1ZWZiZDY2NGJjZWJmNjcwMzE2MTg2OWU2YmQ4MzRiYWU2NzciLCJ0aW1lc3RhbXAiOjE3ODg0NDgzNjQwMDAsImhhc2giOiIwZGU3NWIxZjczZmY5YmZkMzFiZjc4Y2FiYTFlY2U2NTAzNDIzMzJhNjdkNTY4YWM3MTk3N2RjYTE1NzhmNGY0IiwiZmlsZW5hbWUiOiJDYXB0YWluIFRzdWJhc2EgUzAxRTQ1IFtSYXJlVG9vbnNJbmRpYV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/x4B5yBuy?download"
             },
             "hasTelegram": false
           },
@@ -22670,11 +23268,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 46",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4MjJmMzVmYjQ0NDIyNTE5OGY5ZjE2NDFlZWI4MTkzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDEyNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTY3NWI0YjlhMjcyZWMzZjg2ODc1MjY1NDY3OWFmYjkwYjcwZWY3NzAzOWE4NzA2YmQxOTBhMzg4ZGQ0YmYyMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM2NzAwMCwiaGFzaCI6IjAzMjUxOWFkNjhiN2UyYjBhNGM1Zjk0YWRmMGFkMzExYzNkMjk3MjVkYTI3NThlOTk5MjcwNTdjZThhMDI1MTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/gz7zJ1Wk?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4MjJmMzVmYjQ0NDIyNTE5OGY5ZjE2NDFlZWI4MTkzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDEyNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTY3NWI0YjlhMjcyZWMzZjg2ODc1MjY1NDY3OWFmYjkwYjcwZWY3NzAzOWE4NzA2YmQxOTBhMzg4ZGQ0YmYyMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM2NzAwMCwiaGFzaCI6IjAzMjUxOWFkNjhiN2UyYjBhNGM1Zjk0YWRmMGFkMzExYzNkMjk3MjVkYTI3NThlOTk5MjcwNTdjZThhMDI1MTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/gz7zJ1Wk?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4MjJmMzVmYjQ0NDIyNTE5OGY5ZjE2NDFlZWI4MTkzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDEyNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTY3NWI0YjlhMjcyZWMzZjg2ODc1MjY1NDY3OWFmYjkwYjcwZWY3NzAzOWE4NzA2YmQxOTBhMzg4ZGQ0YmYyMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM2NzAwMCwiaGFzaCI6IjAzMjUxOWFkNjhiN2UyYjBhNGM1Zjk0YWRmMGFkMzExYzNkMjk3MjVkYTI3NThlOTk5MjcwNTdjZThhMDI1MTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4MjJmMzVmYjQ0NDIyNTE5OGY5ZjE2NDFlZWI4MTkzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDEyNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTY3NWI0YjlhMjcyZWMzZjg2ODc1MjY1NDY3OWFmYjkwYjcwZWY3NzAzOWE4NzA2YmQxOTBhMzg4ZGQ0YmYyMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM2NzAwMCwiaGFzaCI6IjAzMjUxOWFkNjhiN2UyYjBhNGM1Zjk0YWRmMGFkMzExYzNkMjk3MjVkYTI3NThlOTk5MjcwNTdjZThhMDI1MTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4MjJmMzVmYjQ0NDIyNTE5OGY5ZjE2NDFlZWI4MTkzP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDEyNFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9OTY3NWI0YjlhMjcyZWMzZjg2ODc1MjY1NDY3OWFmYjkwYjcwZWY3NzAzOWE4NzA2YmQxOTBhMzg4ZGQ0YmYyMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM2NzAwMCwiaGFzaCI6IjAzMjUxOWFkNjhiN2UyYjBhNGM1Zjk0YWRmMGFkMzExYzNkMjk3MjVkYTI3NThlOTk5MjcwNTdjZThhMDI1MTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDYgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/gz7zJ1Wk?download"
             },
             "hasTelegram": false
           },
@@ -22686,11 +23285,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 47",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UxZGZkNmVjNzYxZGRhN2ZjOTlhZDkyNzQxYmQzYzdjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDIxMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NmM4ZTg1ZWY3NGEwZDEwYjNjMzVkZTVhNjA2ODhhZjk3MDEzNTM0ZTM5NGNmNGEyMTJhN2YxY2NjNTRlMzFlOSIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MDAwMCwiaGFzaCI6Ijc3NzI3ZGZiMmYyYjc3NDRhNDNhMTcwN2ZlYjViNDg5NzFjMmI0YjA5MmY5MjRiYzg5YmJjNTNlNGE0NWZiNDYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDcgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/xXtmxHdw?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UxZGZkNmVjNzYxZGRhN2ZjOTlhZDkyNzQxYmQzYzdjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDIxMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NmM4ZTg1ZWY3NGEwZDEwYjNjMzVkZTVhNjA2ODhhZjk3MDEzNTM0ZTM5NGNmNGEyMTJhN2YxY2NjNTRlMzFlOSIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MDAwMCwiaGFzaCI6Ijc3NzI3ZGZiMmYyYjc3NDRhNDNhMTcwN2ZlYjViNDg5NzFjMmI0YjA5MmY5MjRiYzg5YmJjNTNlNGE0NWZiNDYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDcgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/xXtmxHdw?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UxZGZkNmVjNzYxZGRhN2ZjOTlhZDkyNzQxYmQzYzdjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDIxMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NmM4ZTg1ZWY3NGEwZDEwYjNjMzVkZTVhNjA2ODhhZjk3MDEzNTM0ZTM5NGNmNGEyMTJhN2YxY2NjNTRlMzFlOSIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MDAwMCwiaGFzaCI6Ijc3NzI3ZGZiMmYyYjc3NDRhNDNhMTcwN2ZlYjViNDg5NzFjMmI0YjA5MmY5MjRiYzg5YmJjNTNlNGE0NWZiNDYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDcgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UxZGZkNmVjNzYxZGRhN2ZjOTlhZDkyNzQxYmQzYzdjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDIxMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NmM4ZTg1ZWY3NGEwZDEwYjNjMzVkZTVhNjA2ODhhZjk3MDEzNTM0ZTM5NGNmNGEyMTJhN2YxY2NjNTRlMzFlOSIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MDAwMCwiaGFzaCI6Ijc3NzI3ZGZiMmYyYjc3NDRhNDNhMTcwN2ZlYjViNDg5NzFjMmI0YjA5MmY5MjRiYzg5YmJjNTNlNGE0NWZiNDYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDcgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UxZGZkNmVjNzYxZGRhN2ZjOTlhZDkyNzQxYmQzYzdjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDIxMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0NyUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9NmM4ZTg1ZWY3NGEwZDEwYjNjMzVkZTVhNjA2ODhhZjk3MDEzNTM0ZTM5NGNmNGEyMTJhN2YxY2NjNTRlMzFlOSIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MDAwMCwiaGFzaCI6Ijc3NzI3ZGZiMmYyYjc3NDRhNDNhMTcwN2ZlYjViNDg5NzFjMmI0YjA5MmY5MjRiYzg5YmJjNTNlNGE0NWZiNDYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDcgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/xXtmxHdw?download"
             },
             "hasTelegram": false
           },
@@ -22702,11 +23302,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 48",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY5ZWIxNGZmYjFhNGVkMjM5MmZkMDlkYWMxNjI5NjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDMxOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MmNkOTQzMWE1ZTZjZDQ5MjkwZWNjMTMyOWY3ZmM4YzA2N2FlNWQ3OTIwOGI3NDc2NWUzZjc5Zjc3MDUyZmVhZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MzAwMCwiaGFzaCI6IjBlM2ZjYTJiOWYyMjlhMmNjMGY4ZmE1ZDFkMDIwY2YxMDE3MDhhYTkwZDE5ZmFmNjFjYTJjOWQ3OWMwYjQ3OWMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/RyJ33cAx?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY5ZWIxNGZmYjFhNGVkMjM5MmZkMDlkYWMxNjI5NjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDMxOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MmNkOTQzMWE1ZTZjZDQ5MjkwZWNjMTMyOWY3ZmM4YzA2N2FlNWQ3OTIwOGI3NDc2NWUzZjc5Zjc3MDUyZmVhZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MzAwMCwiaGFzaCI6IjBlM2ZjYTJiOWYyMjlhMmNjMGY4ZmE1ZDFkMDIwY2YxMDE3MDhhYTkwZDE5ZmFmNjFjYTJjOWQ3OWMwYjQ3OWMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/RyJ33cAx?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY5ZWIxNGZmYjFhNGVkMjM5MmZkMDlkYWMxNjI5NjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDMxOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MmNkOTQzMWE1ZTZjZDQ5MjkwZWNjMTMyOWY3ZmM4YzA2N2FlNWQ3OTIwOGI3NDc2NWUzZjc5Zjc3MDUyZmVhZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MzAwMCwiaGFzaCI6IjBlM2ZjYTJiOWYyMjlhMmNjMGY4ZmE1ZDFkMDIwY2YxMDE3MDhhYTkwZDE5ZmFmNjFjYTJjOWQ3OWMwYjQ3OWMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY5ZWIxNGZmYjFhNGVkMjM5MmZkMDlkYWMxNjI5NjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDMxOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MmNkOTQzMWE1ZTZjZDQ5MjkwZWNjMTMyOWY3ZmM4YzA2N2FlNWQ3OTIwOGI3NDc2NWUzZjc5Zjc3MDUyZmVhZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MzAwMCwiaGFzaCI6IjBlM2ZjYTJiOWYyMjlhMmNjMGY4ZmE1ZDFkMDIwY2YxMDE3MDhhYTkwZDE5ZmFmNjFjYTJjOWQ3OWMwYjQ3OWMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDggW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY5ZWIxNGZmYjFhNGVkMjM5MmZkMDlkYWMxNjI5NjM1P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgzMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODMxVDA5MDMxOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MmNkOTQzMWE1ZTZjZDQ5MjkwZWNjMTMyOWY3ZmM4YzA2N2FlNWQ3OTIwOGI3NDc2NWUzZjc5Zjc3MDUyZmVhZCIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3MzAwMCwiaGFzaCI6IjBlM2ZjYTJiOWYyMjlhMmNjMGY4ZmE1ZDFkMDIwY2YxMDE3MDhhYTkwZDE5ZmFmNjFjYTJjOWQ3OWMwYjQ3OWMiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNDggW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/RyJ33cAx?download"
             },
             "hasTelegram": false
           },
@@ -22718,11 +23319,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 49",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzk5NmU3Mjg1YjI4YTI0NzUxYzk2MTRjZDE0ZWViZGI2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MDcyM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9N2U1NzRlYTBiODM4NDZiMThlNzM1MTg2MDMzMmQ2MjBjNzY5Nzg5NmVmZTFlMTg3NDlhYTRjMmJkNGFmMTBhNyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3NzAwMCwiaGFzaCI6ImNkZDU4ODA4ODgzNDIzMWFkZTkwMWVmOGM0ZDNmZjgzMjk3NWYzZjhjN2ViN2VmNDFiNDlkOTRiMjZmMThkNWMiLCJmaWxlbmFtZSI6IkNh cHRhaW4gVHN1YmFzYSBTMDFFNDkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/P54jgYns?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzk5NmU3Mjg1YjI4YTI0NzUxYzk2MTRjZDE0ZWViZGI2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MDcyM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9N2U1NzRlYTBiODM4NDZiMThlNzM1MTg2MDMzMmQ2MjBjNzY5Nzg5NmVmZTFlMTg3NDlhYTRjMmJkNGFmMTBhNyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3NzAwMCwiaGFzaCI6ImNkZDU4ODA4ODgzNDIzMWFkZTkwMWVmOGM0ZDNmZjgzMjk3NWYzZjhjN2ViN2VmNDFiNDlkOTRiMjZmMThkNWMiLCJmaWxlbmFtZSI6IkNh cHRhaW4gVHN1YmFzYSBTMDFFNDkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/P54jgYns?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzk5NmU3Mjg1YjI4YTI0NzUxYzk2MTRjZDE0ZWViZGI2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MDcyM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9N2U1NzRlYTBiODM4NDZiMThlNzM1MTg2MDMzMmQ2MjBjNzY5Nzg5NmVmZTFlMTg3NDlhYTRjMmJkNGFmMTBhNyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3NzAwMCwiaGFzaCI6ImNkZDU4ODA4ODgzNDIzMWFkZTkwMWVmOGM0ZDNmZjgzMjk3NWYzZjhjN2ViN2VmNDFiNDlkOTRiMjZmMThkNWMiLCJmaWxlbmFtZSI6IkNh cHRhaW4gVHN1YmFzYSBTMDFFNDkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzk5NmU3Mjg1YjI4YTI0NzUxYzk2MTRjZDE0ZWViZGI2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MDcyM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9N2U1NzRlYTBiODM4NDZiMThlNzM1MTg2MDMzMmQ2MjBjNzY5Nzg5NmVmZTFlMTg3NDlhYTRjMmJkNGFmMTBhNyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3NzAwMCwiaGFzaCI6ImNkZDU4ODA4ODgzNDIzMWFkZTkwMWVmOGM0ZDNmZjgzMjk3NWYzZjhjN2ViN2VmNDFiNDlkOTRiMjZmMThkNWMiLCJmaWxlbmFtZSI6IkNh cHRhaW4gVHN1YmFzYSBTMDFFNDkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzk5NmU3Mjg1YjI4YTI0NzUxYzk2MTRjZDE0ZWViZGI2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MDcyM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU0OSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9N2U1NzRlYTBiODM4NDZiMThlNzM1MTg2MDMzMmQ2MjBjNzY5Nzg5NmVmZTFlMTg3NDlhYTRjMmJkNGFmMTBhNyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3NzAwMCwiaGFzaCI6ImNkZDU4ODA4ODgzNDIzMWFkZTkwMWVmOGM0ZDNmZjgzMjk3NWYzZjhjN2ViN2VmNDFiNDlkOTRiMjZmMThkNWMiLCJmaWxlbmFtZSI6IkNh cHRhaW4gVHN1YmFzYSBTMDFFNDkgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/P54jgYns?download"
             },
             "hasTelegram": false
           },
@@ -22734,11 +23336,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 50",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YxYTY5ZmJiNjgwOTFlYWJjODBmYzljZDcwZTU1OTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MzUwMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZWQ0YTQxMjVkNzljNGM5ZmYyMWJjODE2NmI3YzA5OGMyMGMwZDljNjdmNWY0Yjk4ZDk4MzMxMzQzNGY0OWEwNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3OTAwMCwiaGFzaCI6IjQ4ZTQ1YTJmZDlmODg0MTE0ZmRmOTkzYzA3MmI3ZTgzNTMyNTdiMjhhNThkZTgxNzVjYTAyNTg0NzA1NDkyZDUiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTAgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/nuUUfBr5?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YxYTY5ZmJiNjgwOTFlYWJjODBmYzljZDcwZTU1OTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MzUwMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZWQ0YTQxMjVkNzljNGM5ZmYyMWJjODE2NmI3YzA5OGMyMGMwZDljNjdmNWY0Yjk4ZDk4MzMxMzQzNGY0OWEwNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3OTAwMCwiaGFzaCI6IjQ4ZTQ1YTJmZDlmODg0MTE0ZmRmOTkzYzA3MmI3ZTgzNTMyNTdiMjhhNThkZTgxNzVjYTAyNTg0NzA1NDkyZDUiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTAgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/nuUUfBr5?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YxYTY5ZmJiNjgwOTFlYWJjODBmYzljZDcwZTU1OTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MzUwMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZWQ0YTQxMjVkNzljNGM5ZmYyMWJjODE2NmI3YzA5OGMyMGMwZDljNjdmNWY0Yjk4ZDk4MzMxMzQzNGY0OWEwNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3OTAwMCwiaGFzaCI6IjQ4ZTQ1YTJmZDlmODg0MTE0ZmRmOTkzYzA3MmI3ZTgzNTMyNTdiMjhhNThkZTgxNzVjYTAyNTg0NzA1NDkyZDUiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTAgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YxYTY5ZmJiNjgwOTFlYWJjODBmYzljZDcwZTU1OTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MzUwMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZWQ0YTQxMjVkNzljNGM5ZmYyMWJjODE2NmI3YzA5OGMyMGMwZDljNjdmNWY0Yjk4ZDk4MzMxMzQzNGY0OWEwNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3OTAwMCwiaGFzaCI6IjQ4ZTQ1YTJmZDlmODg0MTE0ZmRmOTkzYzA3MmI3ZTgzNTMyNTdiMjhhNThkZTgxNzVjYTAyNTg0NzA1NDkyZDUiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTAgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2YxYTY5ZmJiNjgwOTFlYWJjODBmYzljZDcwZTU1OTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgwNyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA3VDE2MzUwMFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MCUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9ZWQ0YTQxMjVkNzljNGM5ZmYyMWJjODE2NmI3YzA5OGMyMGMwZDljNjdmNWY0Yjk4ZDk4MzMxMzQzNGY0OWEwNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM3OTAwMCwiaGFzaCI6IjQ4ZTQ1YTJmZDlmODg0MTE0ZmRmOTkzYzA3MmI3ZTgzNTMyNTdiMjhhNThkZTgxNzVjYTAyNTg0NzA1NDkyZDUiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTAgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/nuUUfBr5?download"
             },
             "hasTelegram": false
           },
@@ -22750,11 +23353,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 51",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzc0NTk5NTY4Y2U3MWRlMGUzM2ZiNDVkZGM0ZGY1Mzk2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MTMyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Mzg1ZDZlZTFiMjk5MmE4NzU1MjNkZWZjNmZjOTZmOWQyNWNiOGVhMGJlZWE4M2EwM2YyNDBlNjEyZmNlOTMwMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4MzAwMCwiaGFzaCI6ImQwZDA1ZDU5YjE5N2FkMjRhZmE4ZDhmMGQyOWNiMGFiN2Q4MGRhYjM4YTA4NjdiNTAzN2I5MDI4YWJjMjRiNTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/3wYD5pUr?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzc0NTk5NTY4Y2U3MWRlMGUzM2ZiNDVkZGM0ZGY1Mzk2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MTMyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Mzg1ZDZlZTFiMjk5MmE4NzU1MjNkZWZjNmZjOTZmOWQyNWNiOGVhMGJlZWE4M2EwM2YyNDBlNjEyZmNlOTMwMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4MzAwMCwiaGFzaCI6ImQwZDA1ZDU5YjE5N2FkMjRhZmE4ZDhmMGQyOWNiMGFiN2Q4MGRhYjM4YTA4NjdiNTAzN2I5MDI4YWJjMjRiNTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/3wYD5pUr?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzc0NTk5NTY4Y2U3MWRlMGUzM2ZiNDVkZGM0ZGY1Mzk2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MTMyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Mzg1ZDZlZTFiMjk5MmE4NzU1MjNkZWZjNmZjOTZmOWQyNWNiOGVhMGJlZWE4M2EwM2YyNDBlNjEyZmNlOTMwMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4MzAwMCwiaGFzaCI6ImQwZDA1ZDU5YjE5N2FkMjRhZmE4ZDhmMGQyOWNiMGFiN2Q4MGRhYjM4YTA4NjdiNTAzN2I5MDI4YWJjMjRiNTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzc0NTk5NTY4Y2U3MWRlMGUzM2ZiNDVkZGM0ZGY1Mzk2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MTMyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Mzg1ZDZlZTFiMjk5MmE4NzU1MjNkZWZjNmZjOTZmOWQyNWNiOGVhMGJlZWE4M2EwM2YyNDBlNjEyZmNlOTMwMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4MzAwMCwiaGFzaCI6ImQwZDA1ZDU5YjE5N2FkMjRhZmE4ZDhmMGQyOWNiMGFiN2Q4MGRhYjM4YTA4NjdiNTAzN2I5MDI4YWJjMjRiNTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzc0NTk5NTY4Y2U3MWRlMGUzM2ZiNDVkZGM0ZGY1Mzk2P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MTMyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MSUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9Mzg1ZDZlZTFiMjk5MmE4NzU1MjNkZWZjNmZjOTZmOWQyNWNiOGVhMGJlZWE4M2EwM2YyNDBlNjEyZmNlOTMwMyIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4MzAwMCwiaGFzaCI6ImQwZDA1ZDU5YjE5N2FkMjRhZmE4ZDhmMGQyOWNiMGFiN2Q4MGRhYjM4YTA4NjdiNTAzN2I5MDI4YWJjMjRiNTYiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTEgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/3wYD5pUr?download"
             },
             "hasTelegram": false
           },
@@ -22762,15 +23366,16 @@ export const ANIME_DATABASE = [
             "id": 52,
             "number": 52,
             "season": 1,
-            "title": "Episode 52",
+            "title": "Endless Dream – Part 3 Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg",
             "synopsis": "Captain Tsubasa Season 1 Episode 52",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzhkZWQxNzhhZDBhODAyM2E2NTljZDI1Y2NkMzdhMDZhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MjA0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTBkMzY1ZTg0MWMyMjJhN2JjZTZmNTQxNzczMzYyNTY0MzA2YTM2NGJkYTFlZDNkZGE2NzE1OGVlYmRhYTRmNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4NjAwMCwiaGFzaCI6IjI0NTIxMTUwODdlNDQ5MTg1NjE4YjU3N2RiYWY3MmRkNzJkNTNjZDFmNTFmNDAxM2ZmMjYwMzJmOWRlYTRjY2YiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+            "downloadUrl": "https://pixeldrain.net/u/faqeAbUj?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzhkZWQxNzhhZDBhODAyM2E2NTljZDI1Y2NkMzdhMDZhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MjA0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTBkMzY1ZTg0MWMyMjJhN2JjZTZmNTQxNzczMzYyNTY0MzA2YTM2NGJkYTFlZDNkZGE2NzE1OGVlYmRhYTRmNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4NjAwMCwiaGFzaCI6IjI0NTIxMTUwODdlNDQ5MTg1NjE4YjU3N2RiYWY3MmRkNzJkNTNjZDFmNTFmNDAxM2ZmMjYwMzJmOWRlYTRjY2YiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "1080p": "https://pixeldrain.net/u/faqeAbUj?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzhkZWQxNzhhZDBhODAyM2E2NTljZDI1Y2NkMzdhMDZhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MjA0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTBkMzY1ZTg0MWMyMjJhN2JjZTZmNTQxNzczMzYyNTY0MzA2YTM2NGJkYTFlZDNkZGE2NzE1OGVlYmRhYTRmNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4NjAwMCwiaGFzaCI6IjI0NTIxMTUwODdlNDQ5MTg1NjE4YjU3N2RiYWY3MmRkNzJkNTNjZDFmNTFmNDAxM2ZmMjYwMzJmOWRlYTRjY2YiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzhkZWQxNzhhZDBhODAyM2E2NTljZDI1Y2NkMzdhMDZhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MjA0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTBkMzY1ZTg0MWMyMjJhN2JjZTZmNTQxNzczMzYyNTY0MzA2YTM2NGJkYTFlZDNkZGE2NzE1OGVlYmRhYTRmNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4NjAwMCwiaGFzaCI6IjI0NTIxMTUwODdlNDQ5MTg1NjE4YjU3N2RiYWY3MmRkNzJkNTNjZDFmNTFmNDAxM2ZmMjYwMzJmOWRlYTRjY2YiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzhkZWQxNzhhZDBhODAyM2E2NTljZDI1Y2NkMzdhMDZhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE3MjA0MlomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJDYXB0YWluJTIwVHN1YmFzYSUyMFMwMUU1MiUyMCU1QlJhcmVUb29uc0luZGlhJTVELm1rdiUyMiZYLUFtei1TaWduYXR1cmU9MTBkMzY1ZTg0MWMyMjJhN2JjZTZmNTQxNzczMzYyNTY0MzA2YTM2NGJkYTFlZDNkZGE2NzE1OGVlYmRhYTRmNiIsInRpbWVzdGFtcCI6MTc4ODQ0ODM4NjAwMCwiaGFzaCI6IjI0NTIxMTUwODdlNDQ5MTg1NjE4YjU3N2RiYWY3MmRkNzJkNTNjZDFmNTFmNDAxM2ZmMjYwMzJmOWRlYTRjY2YiLCJmaWxlbmFtZSI6IkNhcHRhaW4gVHN1YmFzYSBTMDFFNTIgW1JhcmVUb29uc0luZGlhXS5ta3YifQ",
+              "hindi": "https://pixeldrain.net/u/faqeAbUj?download"
             },
             "hasTelegram": false
           }
