@@ -378,17 +378,17 @@ img {
 
 .footer-grid {
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: flex-start;
-  gap: 72px;
-  max-width: 1060px;
-  margin-bottom: 40px;
+  gap: 36px;
+  max-width: 1200px;
+  margin-bottom: 24px;
   flex-wrap: wrap;
 }
 
 .footer-brand {
-  flex: 0 1 440px;
-  max-width: 460px;
+  flex: 1 1 340px;
+  max-width: 420px;
 }
 
 .footer-brand .footer-logo {
@@ -419,8 +419,8 @@ img {
 }
 
 .footer-col {
-  flex: 0 1 380px;
-  max-width: 420px;
+  flex: 1 1 220px;
+  max-width: 320px;
 }
 
 .footer-col h4 {

@@ -15,10 +15,10 @@
   <meta http-equiv="Expires" content="0" />
   
   <!-- CSS Stylesheets (with version cache busting) -->
-  <link rel="stylesheet" href="css/main.css?v=20260926_v37" />
-  <link rel="stylesheet" href="css/components.css?v=20260926_v37" />
-  <link rel="stylesheet" href="css/player.css?v=20260926_v37" />
-  <link rel="stylesheet" href="css/views.css?v=20260926_v37" />
+  <link rel="stylesheet" href="css/main.css?v=20261002_v1" />
+  <link rel="stylesheet" href="css/components.css?v=20261002_v1" />
+  <link rel="stylesheet" href="css/player.css?v=20261002_v1" />
+  <link rel="stylesheet" href="css/views.css?v=20261002_v1" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23091540'/><text x='50%' y='68%' font-family='sans-serif' font-size='56' font-weight='900' fill='%233a86ff' text-anchor='middle'>S</text></svg>" />
 
   <!-- Google tag (gtag.js) -->
@@ -584,6 +584,302 @@
     </div>
 
     <!-- ====================================================================
+         MODAL: LEGAL & POLICIES (About, Disclaimer, DMCA, Privacy, Terms)
+         ==================================================================== -->
+    <div id="legal-modal" class="legal-modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="legal-modal-title">
+      <div class="legal-modal-card">
+        <!-- Header -->
+        <div class="legal-modal-header">
+          <div class="legal-header-info">
+            <span class="legal-kicker">SHINOBI HUB LEGAL CENTER &amp; SAFE HARBOR</span>
+            <h2 id="legal-modal-title" class="legal-title">Policies &amp; Disclaimers</h2>
+          </div>
+          <button id="close-legal-modal" class="legal-close-btn" title="Close (Esc)" aria-label="Close modal">&times;</button>
+        </div>
+
+        <!-- Tab Bar Navigation -->
+        <div class="legal-tabs-bar" role="tablist">
+          <button type="button" class="legal-tab-btn active" data-tab="dmca" role="tab" aria-selected="true">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-1 6h2v6h-2V7zm0 8h2v2h-2v-2z"/></svg>
+            DMCA Policy
+          </button>
+          <button type="button" class="legal-tab-btn" data-tab="disclaimer" role="tab" aria-selected="false">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg>
+            Disclaimer
+          </button>
+          <button type="button" class="legal-tab-btn" data-tab="privacy" role="tab" aria-selected="false">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1 1.71 0 3.1 1.39 3.1 3.1v2z"/></svg>
+            Privacy Policy
+          </button>
+          <button type="button" class="legal-tab-btn" data-tab="terms" role="tab" aria-selected="false">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg>
+            Terms of Service
+          </button>
+          <button type="button" class="legal-tab-btn" data-tab="about" role="tab" aria-selected="false">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
+            About Us
+          </button>
+        </div>
+
+        <!-- Scrollable Content Panes -->
+        <div class="legal-content-body">
+          <!-- TAB 1: DMCA POLICY -->
+          <div id="legal-pane-dmca" class="legal-tab-pane active">
+            <div class="legal-pane-header">
+              <div class="legal-icon-title">
+                <span class="legal-badge-pill">17 U.S.C. § 512 SAFE HARBOR COMPLIANCE</span>
+                <h3>Digital Millennium Copyright Act (DMCA) Policy</h3>
+              </div>
+              <p class="legal-updated">Last Reviewed &amp; Updated: October 2026</p>
+            </div>
+
+            <div class="legal-callout-box legal-callout-warning">
+              <div class="callout-icon">⚠️</div>
+              <div class="callout-text">
+                <strong>Non-Hosting Indexing Statement:</strong> Shinobi Hub (<code>shinobihub.run.place</code>) does not host, upload, encode, store, or stream any audiovisual media files on its servers. All multimedia content, video streams, and download links indexed on this site are hosted by independent, non-affiliated third-party platforms (such as Pixeldrain, Mega, Google Drive, Streamtape, etc.). Shinobi Hub functions exclusively as an automated information locator and promotional directory.
+              </div>
+            </div>
+
+            <div class="legal-prose">
+              <h4>1. Respect for Intellectual Property</h4>
+              <p>Shinobi Hub respects the intellectual property rights of animation studios, producers, creators, licensors, and copyright holders worldwide. We maintain an expeditious takedown procedure in full compliance with Title 17, United States Code, Section 512 (DMCA) and applicable international copyright treaties.</p>
+
+              <h4>2. Information Location Tool Safe Harbor</h4>
+              <p>Under 17 U.S.C. § 512(d), online service providers that refer or link users to an online location containing infringing material or infringing activity by using information location tools (such as hyperlinks, directories, or search engines) qualify for safe harbor protections, provided they act promptly upon receiving compliant statutory notice. Shinobi Hub has no physical control over the external file lockers where third parties upload content. However, we immediately remove or disable links pointing to disputed material upon receiving a valid notification.</p>
+
+              <h4>3. Filing a DMCA Takedown Notification</h4>
+              <p>To submit a legally binding notice of copyright infringement, the copyright owner or their authorized legal representative must send a written communication to our Designated Copyright Agent containing the following six required elements:</p>
+
+              <ol class="legal-ordered-list">
+                <li><strong>Identification of the Copyrighted Work:</strong> The exact title of the anime series, film, or intellectual property claimed to have been infringed, including copyright registration information or official licensing verification.</li>
+                <li><strong>Identification of the Allegedly Infringing Material:</strong> Direct, specific URL(s) on <code>shinobihub.run.place</code> where the link or listing is located (e.g., <code>https://shinobihub.run.place/#anime/&lt;anime-id&gt;</code>). Generic root domain links are not actionable.</li>
+                <li><strong>Complainant Contact Information:</strong> Full legal name, professional title, company/studio name, physical street address, telephone number, and a verifiable corporate email address (free public webmail addresses may require secondary verification).</li>
+                <li><strong>Good Faith Belief Statement:</strong> A declaration stating: <em>"I have a good faith belief that use of the copyrighted material described above is not authorized by the copyright owner, its agent, or the law."</em></li>
+                <li><strong>Perjury Statement:</strong> A declaration stating: <em>"I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner of an exclusive right that is allegedly infringed."</em></li>
+                <li><strong>Signature:</strong> A physical or electronic signature of the copyright owner or authorized representative.</li>
+              </ol>
+
+              <h4>4. Designated Copyright Agent Contact</h4>
+              <p>Please transmit all compliant DMCA notifications directly to our designated copyright agent:</p>
+
+              <div class="legal-agent-card">
+                <div class="agent-info-grid">
+                  <div class="agent-item">
+                    <span class="agent-label">Designated Agent:</span>
+                    <span class="agent-value">Shinobi Hub Legal &amp; Copyright Compliance</span>
+                  </div>
+                  <div class="agent-item">
+                    <span class="agent-label">Official Contact Email:</span>
+                    <a href="mailto:shinobihub7@gmail.com" class="agent-email-link">shinobihub7@gmail.com</a>
+                  </div>
+                  <div class="agent-item">
+                    <span class="agent-label">Required Subject Line:</span>
+                    <code class="agent-code">[DMCA Takedown Request] - &lt;Anime Title&gt;</code>
+                  </div>
+                  <div class="agent-item">
+                    <span class="agent-label">Turnaround Response:</span>
+                    <span class="agent-value text-accent">24 to 72 business hours</span>
+                  </div>
+                </div>
+              </div>
+
+              <h4>5. Removal From Origin File Hosts</h4>
+              <p>Removing an indexed hyperlink from Shinobi Hub removes the entry from our directory, but cannot delete the actual file stored on third-party servers. Because Shinobi Hub does not possess, manage, or host origin files, copyright holders are advised to contact the external host's abuse department directly for root deletion.</p>
+            </div>
+          </div>
+
+          <!-- TAB 2: LEGAL DISCLAIMER -->
+          <div id="legal-pane-disclaimer" class="legal-tab-pane">
+            <div class="legal-pane-header">
+              <div class="legal-icon-title">
+                <span class="legal-badge-pill">SAFE HARBOR NOTICE</span>
+                <h3>Legal Disclaimer &amp; Third-Party Indexing Declaration</h3>
+              </div>
+              <p class="legal-updated">Last Reviewed &amp; Updated: October 2026</p>
+            </div>
+
+            <div class="legal-prose">
+              <h4>1. Absolute Non-Hosting Declaration</h4>
+              <p>Shinobi Hub (<code>shinobihub.run.place</code>) is an online catalog and directory service. <strong>We do not host, encode, upload, store, or transmit any video files, media archives, or copyrighted multimedia content on our web server or network infrastructure.</strong></p>
+
+              <h4>2. Automated Hyperlink Directory</h4>
+              <p>All video links, download mirrors, and stream sources indexed on this website are hosted by external, independent third-party services (such as Pixeldrain, Mega, Google Drive, Streamtape, and other third-party file lockers) across the World Wide Web. These files are published and managed by unaffiliated third parties over whom Shinobi Hub exercises zero control, supervision, or influence.</p>
+              <p>Shinobi Hub operates strictly as a navigational search index, cataloging hyperlinks that are already publicly available on the internet.</p>
+
+              <h4>3. Third-Party Links &amp; External Disclaimers</h4>
+              <p>Shinobi Hub does not endorse, control, verify, or guarantee the accuracy, safety, or legality of content hosted on third-party domains. When you click an external link or download mirror, you leave Shinobi Hub. We disclaim any liability for interactions, downloads, or policies of third-party websites.</p>
+
+              <h4>4. Educational &amp; Promotional Purpose</h4>
+              <p>All series synopses, promotional character artwork, metadata, and show information displayed on Shinobi Hub are presented for informational, commentary, and non-commercial educational purposes under fair use doctrine. We strongly urge all fans to support the official creators, Japanese animation studios, and licensed distribution platforms (such as Crunchyroll, Netflix, Disney+, Muse Asia, Ani-One) by purchasing official merchandise, physical media, and licensed subscriptions.</p>
+
+              <h4>5. User Discretion &amp; Agreement</h4>
+              <p>Access to and use of Shinobi Hub is entirely at the user's sole risk and discretion. If you do not agree with this disclaimer or our terms, you must exit this website immediately.</p>
+            </div>
+          </div>
+
+          <!-- TAB 3: PRIVACY POLICY -->
+          <div id="legal-pane-privacy" class="legal-tab-pane">
+            <div class="legal-pane-header">
+              <div class="legal-icon-title">
+                <span class="legal-badge-pill">GDPR &amp; CCPA COMPLIANCE</span>
+                <h3>Privacy Policy &amp; Data Protection</h3>
+              </div>
+              <p class="legal-updated">Last Reviewed &amp; Updated: October 2026</p>
+            </div>
+
+            <div class="legal-prose">
+              <h4>1. Our Privacy Commitment</h4>
+              <p>Shinobi Hub (<code>shinobihub.run.place</code>) values your personal privacy. We believe in unrestricted browsing: you can explore our complete anime directory without creating an account, registering passwords, or providing personal payment credentials.</p>
+
+              <h4>2. Information We Do NOT Collect</h4>
+              <p>We do not collect names, credit cards, telephone numbers, home addresses, or private identifying information. We do not sell, rent, or trade user data to advertisers or third-party brokers.</p>
+
+              <h4>3. Web Server Log Files</h4>
+              <p>Like standard web infrastructure, anonymous technical logs may be recorded by our hosting server to ensure network stability, defend against automated DDoS attacks, and optimize page load speeds. These logs may include IP addresses, browser types, referring/exit URLs, and request timestamps. This technical information is purely diagnostic and is never linked to personally identifiable profiles.</p>
+
+              <h4>4. Client-Side Browser Storage (localStorage)</h4>
+              <p>Shinobi Hub does not use invasive tracking cookies. We utilize standard client-side browser <code>localStorage</code> strictly on your local device to power user experience features:</p>
+              <ul class="legal-bullet-list">
+                <li><strong>Personal Watchlist:</strong> Saving anime you bookmark for quick access.</li>
+                <li><strong>Playback Progress &amp; History:</strong> Remembering episode timestamps so you can resume ("Continue Watching").</li>
+                <li><strong>Player Preferences:</strong> Saving your preferred volume level and default audio language (Hindi/English).</li>
+              </ul>
+              <p>This data resides solely on your browser. It is never uploaded or transmitted to any remote database. You can clear this data at any time via your browser settings or by clicking "Clear History" in the History view.</p>
+
+              <h4>5. Third-Party Advertising &amp; Outbound Links</h4>
+              <p>Shinobi Hub may display non-intrusive banner promotions or link to external file hosts to help offset server upkeep. Third-party ad networks or external file hosts may use their own cookies, JavaScript, or tracking technologies subject to their independent privacy policies. Shinobi Hub has no access to or control over third-party cookies.</p>
+
+              <h4>6. California Consumer Privacy Act (CCPA) Rights</h4>
+              <p>Under the CCPA, California residents have the right to request disclosure or deletion of collected personal data and to opt out of the sale of personal information. Shinobi Hub does not sell consumer data. To exercise any privacy rights, contact us at <code>shinobihub7@gmail.com</code>.</p>
+
+              <h4>7. General Data Protection Regulation (GDPR)</h4>
+              <p>European Union (EU) users possess rights regarding data access, rectification, and erasure. Because Shinobi Hub does not maintain personal account records, users have complete autonomy over their local device data via browser storage controls.</p>
+
+              <h4>8. Contact Us</h4>
+              <p>For any privacy inquiries or policy questions, email us at <a href="mailto:shinobihub7@gmail.com" class="agent-email-link">shinobihub7@gmail.com</a>.</p>
+            </div>
+          </div>
+
+          <!-- TAB 4: TERMS OF SERVICE -->
+          <div id="legal-pane-terms" class="legal-tab-pane">
+            <div class="legal-pane-header">
+              <div class="legal-icon-title">
+                <span class="legal-badge-pill">TERMS OF USE</span>
+                <h3>Terms of Service &amp; Acceptable Use Agreement</h3>
+              </div>
+              <p class="legal-updated">Last Reviewed &amp; Updated: October 2026</p>
+            </div>
+
+            <div class="legal-prose">
+              <h4>1. Acceptance of Agreement</h4>
+              <p>By accessing or using Shinobi Hub (<code>shinobihub.run.place</code>), you agree to comply with and be bound by these Terms of Service, our Legal Disclaimer, and Privacy Policy. If you do not agree with any provision of these terms, your sole remedy is to cease using the website immediately.</p>
+
+              <h4>2. Permitted Use &amp; Directory Purpose</h4>
+              <p>Shinobi Hub is provided as an open, free-to-use anime indexing directory for personal, non-commercial entertainment and research. Users agree not to commercially exploit, resell, or distribute the directory infrastructure.</p>
+
+              <h4>3. Intellectual Property Rights</h4>
+              <p>All anime titles, episode names, character visuals, studio logos, and trademarks displayed on Shinobi Hub belong exclusively to their respective animators, manga creators, production committees, and publishers (such as TOHO, MAPPA, Shueisha, Kadokawa, Ufotable, Toei Animation, Bones, etc.). Shinobi Hub claims no proprietary interest in third-party media.</p>
+              <p>The proprietary website code, layout, user experience designs, and styling of Shinobi Hub are protected under applicable intellectual property laws.</p>
+
+              <h4>4. Prohibited Conduct</h4>
+              <p>When using Shinobi Hub, you agree that you will not:</p>
+              <ul class="legal-bullet-list">
+                <li>Deploy automated bots, spiders, or scrapers that place unreasonable load on server bandwidth.</li>
+                <li>Conduct Denial of Service (DoS/DDoS) attacks or probe network vulnerabilities.</li>
+                <li>Attempt to bypass or alter link protection, client rate limiting, or security measures.</li>
+                <li>Transmit viruses, malware, or malicious payloads through any interactive component.</li>
+              </ul>
+
+              <h4>5. Disclaimer of Warranties</h4>
+              <p>Shinobi Hub is provided strictly on an <strong>"AS IS"</strong> and <strong>"AS AVAILABLE"</strong> basis without warranties of any kind, either express or implied. We do not warrant that the website will be uninterrupted, error-free, or that external third-party links will remain active or secure.</p>
+
+              <h4>6. Limitation of Liability</h4>
+              <p>To the fullest extent permitted by law, Shinobi Hub and its operators shall not be held liable for any direct, indirect, incidental, punitive, or consequential damages resulting from your use of or inability to use this directory or external third-party links.</p>
+
+              <h4>7. Modifications</h4>
+              <p>We reserve the right to amend these Terms of Service at any time. Updates become effective immediately upon publication on this page. Your continued use of the site signifies your agreement to revised terms.</p>
+            </div>
+          </div>
+
+          <!-- TAB 5: ABOUT SHINOBI HUB -->
+          <div id="legal-pane-about" class="legal-tab-pane">
+            <div class="legal-pane-header">
+              <div class="legal-icon-title">
+                <span class="legal-badge-pill">OUR MISSION</span>
+                <h3>About Shinobi Hub</h3>
+              </div>
+              <p class="legal-updated">Last Reviewed &amp; Updated: October 2026</p>
+            </div>
+
+            <div class="legal-prose">
+              <h4>1. Welcome to Shinobi Hub</h4>
+              <p>Shinobi Hub (<code>shinobihub.run.place</code>) is a community-driven anime exploration and indexing directory created by anime enthusiasts, for anime enthusiasts. Our goal is to provide a sleek, fast, and organized hub where fans can discover, track, and enjoy anime from around the world with zero friction.</p>
+
+              <h4>2. Why Anime Fans Choose Shinobi Hub</h4>
+              <div class="legal-features-grid">
+                <div class="legal-feature-item">
+                  <span class="feat-icon">🎙️</span>
+                  <div class="feat-info">
+                    <strong>Multi-Audio Availability:</strong>
+                    <span>Extensive catalog with Hindi Dubbed, English Dubbed, and Japanese Subbed audio tracks.</span>
+                  </div>
+                </div>
+                <div class="legal-feature-item">
+                  <span class="feat-icon">⚡</span>
+                  <div class="feat-info">
+                    <strong>1080p Full HD Streaming:</strong>
+                    <span>High-clarity video streams and verified download mirrors indexed from reliable third-party providers.</span>
+                  </div>
+                </div>
+                <div class="legal-feature-item">
+                  <span class="feat-icon">🚫</span>
+                  <div class="feat-info">
+                    <strong>Zero Subscriptions:</strong>
+                    <span>No subscription paywalls, no mandatory registration, and instant episode access.</span>
+                  </div>
+                </div>
+                <div class="legal-feature-item">
+                  <span class="feat-icon">📱</span>
+                  <div class="feat-info">
+                    <strong>Smart Client Tracking:</strong>
+                    <span>Device-stored Watchlists, smart episode progress ("Continue Watching"), and smooth mobile navigation.</span>
+                  </div>
+                </div>
+              </div>
+
+              <h4>3. How the Directory Operates</h4>
+              <p>Shinobi Hub does not host or upload video files. Instead, our automated indexing system identifies, categorizes, and organizes links already freely available on the open internet, presenting them in a modern, user-friendly interface.</p>
+
+              <h4>4. Connect with Our Community</h4>
+              <p>Join our official channels to request new titles, report broken links, or chat with fellow anime fans:</p>
+              <div class="legal-community-actions">
+                <a href="https://discord.gg/p76tYVKqQ" target="_blank" rel="noopener noreferrer" class="legal-btn legal-btn-discord">
+                  Join Discord Community
+                </a>
+                <a href="https://youtube.com/@shinobihub1?si=Dtbfn2Plq9ybIwYU" target="_blank" rel="noopener noreferrer" class="legal-btn legal-btn-youtube">
+                  Subscribe on YouTube
+                </a>
+                <a href="mailto:shinobihub7@gmail.com" class="legal-btn legal-btn-mail">
+                  Email Support
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Sticky Modal Footer with Copyable Email -->
+        <div class="legal-modal-footer">
+          <div class="legal-contact-quick">
+            <span class="legal-contact-label">Designated Copyright Agent:</span>
+            <a href="mailto:shinobihub7@gmail.com" class="legal-contact-email">shinobihub7@gmail.com</a>
+            <button type="button" id="copy-legal-email-btn" class="copy-email-chip" title="Copy Email Address">Copy Email</button>
+          </div>
+          <button type="button" id="dismiss-legal-modal-btn" class="legal-dismiss-action">Close Window</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ====================================================================
          MOBILE BOTTOM NAVIGATION BAR
          ==================================================================== -->
     <nav class="mobile-nav-bar">
@@ -611,20 +907,39 @@
     <footer class="site-footer">
       <div class="page-container">
         <div class="footer-grid">
+          <!-- Column 1: Brand & Overview -->
           <div class="footer-brand">
             <div class="footer-logo">
               <span class="logo-main">SHINOBI</span><span class="logo-sub">HUB</span>
             </div>
-            <p>Shinobi HUB is the ultimate destination for streaming anime, movies, and series with zero subscriptions and complete freedom.</p>
+            <p>Shinobi HUB is a free promotional anime indexing directory. Stream &amp; explore your favorite anime, movies, and series with zero subscription fees and multi-audio choices.</p>
+            <div class="footer-brand-tags">
+              <span class="brand-tag">⚡ Fast Indexer</span>
+              <span class="brand-tag">🛡️ Safe Harbor Compliant</span>
+              <span class="brand-tag">🎙️ Multi-Audio</span>
+            </div>
           </div>
 
+          <!-- Column 2: Legal & Compliance Center -->
           <div class="footer-col">
-            <h4>Join</h4>
+            <h4>Legal &amp; Policy</h4>
+            <ul>
+              <li><a href="#dmca" class="legal-trigger-link" data-legal-tab="dmca">DMCA Copyright Policy</a></li>
+              <li><a href="#disclaimer" class="legal-trigger-link" data-legal-tab="disclaimer">Legal Disclaimer</a></li>
+              <li><a href="#privacy" class="legal-trigger-link" data-legal-tab="privacy">Privacy Policy</a></li>
+              <li><a href="#terms" class="legal-trigger-link" data-legal-tab="terms">Terms &amp; Conditions</a></li>
+              <li><a href="#about" class="legal-trigger-link" data-legal-tab="about">About Shinobi Hub</a></li>
+            </ul>
+          </div>
+
+          <!-- Column 3: Community & Official Contact -->
+          <div class="footer-col">
+            <h4>Join &amp; Connect</h4>
             <ul>
               <li>
                 <a href="https://discord.gg/p76tYVKqQ" target="_blank" rel="noopener noreferrer">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align:middle;margin-right:8px;flex-shrink:0;"><path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994.021-.041.001-.09-.041-.106a13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.929 1.793 8.18 1.793 12.061 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.894.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.028zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/></svg>
-                  <span>Discord Channel</span>
+                  <span>Discord Community</span>
                 </a>
               </li>
               <li>
@@ -641,21 +956,40 @@
               </li>
             </ul>
             <div class="footer-community-box">
-              <p>Found a bug or want an anime added? Tell us on <strong>Discord</strong>! Support us so we can keep providing more anime for you.</p>
+              <p>Found a bug or copyright concern? Email <strong>shinobihub7@gmail.com</strong> or notify our staff on Discord.</p>
             </div>
           </div>
         </div>
 
+        <!-- Safe Harbor & Non-Hosting Disclaimer Card -->
+        <div class="footer-disclaimer-card">
+          <div class="disclaimer-badge-row">
+            <span class="disclaimer-badge">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L1 21h22L12 2zm0 3.99L19.53 19H4.47L12 5.99zM11 10h2v4h-2zm0 6h2v2h-2z"/></svg>
+              LEGAL DISCLAIMER &amp; NON-HOSTING NOTICE
+            </span>
+          </div>
+          <p class="disclaimer-text">
+            <strong>Disclaimer:</strong> Shinobi Hub (<code>shinobihub.run.place</code>) does not store, upload, host, or transmit any video files, media content, or copyrighted audiovisual material on its servers. All anime media, video streams, and download links indexed on this website are hosted by non-affiliated, independent third-party services (such as Pixeldrain, Mega, Google Drive, Streamtape, and other external web hosts) that are completely outside of our control. Shinobi Hub functions exclusively as an automated indexing directory and search tool. We do not accept any responsibility or liability for content hosted on third-party websites. If you are a copyright owner or legal representative and wish to request the removal of indexed links, please submit a formal notice on our <a href="#dmca" class="disclaimer-inline-link legal-trigger-link" data-legal-tab="dmca">DMCA Page</a> or email our designated agent at <a href="mailto:shinobihub7@gmail.com" class="disclaimer-inline-link">shinobihub7@gmail.com</a>. Verified requests are processed within 24 to 72 hours.
+          </p>
+        </div>
+
         <div class="footer-bottom">
-          <div>&copy; Shinobi HUB. All Rights Reserved. Free 1080p HD Streaming for Everyone.</div>
-          <div>Dark Blue Theme (#091540) &bull; Zero Subscriptions</div>
+          <div>&copy; 2026 Shinobi HUB (shinobihub.run.place). All Rights Reserved.</div>
+          <div class="footer-bottom-links">
+            <a href="#dmca" class="legal-trigger-link" data-legal-tab="dmca">DMCA</a> &bull;
+            <a href="#disclaimer" class="legal-trigger-link" data-legal-tab="disclaimer">Disclaimer</a> &bull;
+            <a href="#privacy" class="legal-trigger-link" data-legal-tab="privacy">Privacy</a> &bull;
+            <a href="#terms" class="legal-trigger-link" data-legal-tab="terms">Terms</a> &bull;
+            <a href="#about" class="legal-trigger-link" data-legal-tab="about">About</a>
+          </div>
         </div>
       </div>
     </footer>
   </div>
 
   <!-- JavaScript Modules & Ad Configuration -->
-  <script src="js/ads-config.js?v=20260926_v37"></script>
-  <script type="module" src="js/app.js?v=20260926_v37"></script>
+  <script src="js/ads-config.js?v=20261002_v1"></script>
+  <script type="module" src="js/app.js?v=20261002_v1"></script>
 </body>
 </html>

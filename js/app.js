@@ -15,7 +15,7 @@ import {
 } from './data.js';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
-import { UIRenderer } from './ui.js?v=20260926_v37';
+import { UIRenderer } from './ui.js?v=20261002_v1';
 
 class App {
   constructor() {
@@ -144,6 +144,20 @@ class App {
       }
     } else {
       this.searchQuery = "";
+    }
+
+    // Legal & Policy Center Routes Check (#dmca, #disclaimer, #privacy, #terms, #about)
+    const legalRoutes = ["dmca", "disclaimer", "privacy", "terms", "about", "legal"];
+    if (legalRoutes.includes(root)) {
+      const activeView = document.querySelector(".view-section.active");
+      if (!activeView) {
+        document.getElementById("home-view")?.classList.add("active");
+        UIRenderer.renderContinueWatching();
+      }
+      this.openLegalModal(root === "legal" ? "dmca" : root);
+      return;
+    } else {
+      this.closeLegalModal(false);
     }
 
     // Scroll to top
@@ -665,10 +679,10 @@ class App {
   }
 
   // --------------------------------------------------------------------------
-  // Modals (Shortcuts Cheat Sheet)
+  // Modals & Overlays (Keyboard Shortcuts & Legal Center)
   // --------------------------------------------------------------------------
   initModals() {
-    // Keyboard shortcuts cheat sheet modal
+    // 1. Keyboard shortcuts cheat sheet modal
     const shortcutsModal = document.getElementById("shortcuts-modal");
     const openShortcutsBtn = document.getElementById("player-shortcuts-btn");
     const closeShortcutsBtn = document.getElementById("close-shortcuts-modal");
@@ -679,6 +693,101 @@ class App {
     shortcutsModal?.addEventListener("click", (e) => {
       if (e.target === shortcutsModal) shortcutsModal.classList.remove("active");
     });
+
+    // 2. Legal Center Modal
+    const legalModal = document.getElementById("legal-modal");
+    const closeLegalBtn = document.getElementById("close-legal-modal");
+    const dismissLegalBtn = document.getElementById("dismiss-legal-modal-btn");
+    const copyEmailBtn = document.getElementById("copy-legal-email-btn");
+
+    closeLegalBtn?.addEventListener("click", () => this.closeLegalModal(true));
+    dismissLegalBtn?.addEventListener("click", () => this.closeLegalModal(true));
+
+    legalModal?.addEventListener("click", (e) => {
+      if (e.target === legalModal) this.closeLegalModal(true);
+    });
+
+    // Tab buttons inside legal modal
+    document.querySelectorAll(".legal-tab-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const tab = btn.dataset.tab;
+        this.switchLegalTab(tab);
+        window.history.replaceState(null, "", `#${tab}`);
+      });
+    });
+
+    // Copy legal email button
+    copyEmailBtn?.addEventListener("click", () => {
+      const email = "shinobihub7@gmail.com";
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(email).then(() => {
+          UIRenderer.showToast("Email copied: " + email, "success");
+        }).catch(() => {
+          UIRenderer.showToast("Contact: " + email, "default");
+        });
+      } else {
+        UIRenderer.showToast("Contact: " + email, "default");
+      }
+    });
+
+    // Global ESC listener for modals
+    window.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        if (legalModal?.classList.contains("active")) {
+          this.closeLegalModal(true);
+        } else if (shortcutsModal?.classList.contains("active")) {
+          shortcutsModal.classList.remove("active");
+        }
+      }
+    });
+  }
+
+  openLegalModal(tabName = "dmca") {
+    const modal = document.getElementById("legal-modal");
+    if (!modal) return;
+    this.switchLegalTab(tabName);
+    modal.classList.add("active");
+    document.body.classList.add("modal-open");
+  }
+
+  closeLegalModal(updateHash = true) {
+    const modal = document.getElementById("legal-modal");
+    if (!modal) return;
+    modal.classList.remove("active");
+    document.body.classList.remove("modal-open");
+
+    if (updateHash) {
+      const legalRoutes = ["dmca", "disclaimer", "privacy", "terms", "about", "legal"];
+      const currentHash = (window.location.hash || "").slice(1).split("/")[0].split("?")[0];
+      if (legalRoutes.includes(currentHash)) {
+        if (window.history.length > 2) {
+          window.history.back();
+        } else {
+          window.location.hash = "#home";
+        }
+      }
+    }
+  }
+
+  switchLegalTab(tabName = "dmca") {
+    const validTabs = ["dmca", "disclaimer", "privacy", "terms", "about"];
+    const target = validTabs.includes(tabName) ? tabName : "dmca";
+
+    const tabs = document.querySelectorAll(".legal-tab-btn");
+    const panes = document.querySelectorAll(".legal-tab-pane");
+
+    tabs.forEach(btn => {
+      const isActive = btn.dataset.tab === target;
+      btn.classList.toggle("active", isActive);
+      btn.setAttribute("aria-selected", isActive ? "true" : "false");
+    });
+
+    panes.forEach(pane => {
+      pane.classList.toggle("active", pane.id === `legal-pane-${target}`);
+    });
+
+    const body = document.querySelector(".legal-content-body");
+    if (body) body.scrollTop = 0;
   }
 }
 
