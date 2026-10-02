@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="css/main.css?v=20261002_v1" />
   <link rel="stylesheet" href="css/components.css?v=20261002_v1" />
   <link rel="stylesheet" href="css/player.css?v=20261002_v1" />
-  <link rel="stylesheet" href="css/views.css?v=20261002_v1" />
+  <link rel="stylesheet" href="css/views.css?v=20261002_v2" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23091540'/><text x='50%' y='68%' font-family='sans-serif' font-size='56' font-weight='900' fill='%233a86ff' text-anchor='middle'>S</text></svg>" />
 </head>
 <body class="bg-dark">
@@ -29,6 +29,7 @@
             <a href="index.html#browse" class="nav-link">Explore</a>
             <a href="index.html#watchlist" class="nav-link">Watchlist</a>
             <a href="index.html#history" class="nav-link">History</a>
+            <a href="dmca.html" class="nav-link">DMCA</a>
           </nav>
         </div>
         <div class="header-right">
@@ -46,86 +47,58 @@
     </header>
 
     <!-- Main Content -->
-    <main class="page-container legal-page-container">
+    <main class="legal-page-container">
       <div class="legal-breadcrumbs">
         <a href="index.html">Home</a> &rsaquo; <span>Contact Us</span>
       </div>
 
-      <div class="legal-page-wrapper">
-        <!-- Quick Switcher Navigation Pills -->
-        <div class="legal-nav-pills">
-          <a href="dmca.html" class="legal-nav-pill">🛡️ DMCA Policy</a>
-          <a href="disclaimer.html" class="legal-nav-pill">⚠️ Disclaimer</a>
-          <a href="privacy-policy.html" class="legal-nav-pill">🔒 Privacy Policy</a>
-          <a href="terms-and-conditions.html" class="legal-nav-pill">📜 Terms of Service</a>
-          <a href="about-us.html" class="legal-nav-pill">ℹ️ About Us</a>
-          <a href="contact-us.html" class="legal-nav-pill active">✉️ Contact Us</a>
-        </div>
+      <!-- Quick Switcher Navigation Pills (Simple text, no logos) -->
+      <nav class="legal-nav-pills">
+        <a href="dmca.html" class="legal-nav-pill">DMCA</a>
+        <a href="disclaimer.html" class="legal-nav-pill">Disclaimer</a>
+        <a href="privacy-policy.html" class="legal-nav-pill">Privacy Policy</a>
+        <a href="terms-and-conditions.html" class="legal-nav-pill">Terms &amp; Conditions</a>
+        <a href="about-us.html" class="legal-nav-pill">About Us</a>
+        <a href="contact-us.html" class="legal-nav-pill active">Contact Us</a>
+      </nav>
 
-        <div class="legal-page-header">
-          <span class="legal-page-kicker">COMMUNICATION &amp; SUPPORT</span>
-          <h1 class="legal-page-title">Contact Shinobi Hub</h1>
-          <p class="legal-page-subtitle">Official Inquiries &bull; DMCA Copyright Claims &bull; Community Support</p>
-        </div>
+      <div class="legal-page-header">
+        <h1 class="legal-page-title">Contact Us</h1>
+        <h2 class="legal-page-subtitle">Official Inquiries &bull; DMCA Copyright Claims &bull; Community Support</h2>
+      </div>
 
-        <div class="legal-prose">
-          <h4>1. How Can We Help You?</h4>
-          <p>Whether you are a copyright holder needing assistance with link removal, a visitor reporting a broken stream link, or an anime lover with a new title suggestion, we are here to help!</p>
+      <div class="legal-prose">
+        <p>Whether you are a copyright holder needing assistance with link removal, a visitor reporting a broken stream link, or an anime lover with a new title suggestion, we are here to help!</p>
 
-          <h4>2. Official Contact Channels</h4>
-          <div class="legal-features-grid">
-            <div class="legal-feature-item">
-              <span class="feat-icon">🛡️</span>
-              <div class="feat-info">
-                <strong>DMCA &amp; Copyright Compliance:</strong>
-                <span>Send statutory takedown notices directly to: <a href="mailto:shinobihub7@gmail.com" class="agent-email-link">shinobihub7@gmail.com</a>. Response time: 24–72 hours.</span>
+        <h4>1. Official Contact Channels</h4>
+        <ul class="legal-bullet-list">
+          <li><strong>DMCA &amp; Copyright Compliance:</strong> Send statutory takedown notices directly to: <a href="mailto:shinobihub7@gmail.com" class="agent-email-link">shinobihub7@gmail.com</a>. Response time is 24 to 72 business hours.</li>
+          <li><strong>Discord Community:</strong> Report broken mirrors, chat with staff, or request anime additions on our <a href="https://discord.gg/p76tYVKqQ" target="_blank" rel="noopener noreferrer" class="agent-email-link">Discord Server</a>.</li>
+          <li><strong>YouTube Channel:</strong> Watch previews and official channel updates on our <a href="https://youtube.com/@shinobihub1?si=Dtbfn2Plq9ybIwYU" target="_blank" rel="noopener noreferrer" class="agent-email-link">YouTube Channel</a>.</li>
+          <li><strong>General Email Inquiries:</strong> For partnerships, feedback, or bug reports: <a href="mailto:shinobihub7@gmail.com" class="agent-email-link">shinobihub7@gmail.com</a>.</li>
+        </ul>
+
+        <h4>2. Designated Copyright Agent Details</h4>
+        <div class="legal-agent-card">
+          <div class="agent-info-grid">
+            <div class="agent-item">
+              <span class="agent-label">Designated Agent:</span>
+              <span class="agent-value">Shinobi Hub Legal &amp; Copyright Department</span>
+            </div>
+            <div class="agent-item">
+              <span class="agent-label">Email Address:</span>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <a href="mailto:shinobihub7@gmail.com" class="agent-email-link">shinobihub7@gmail.com</a>
+                <button type="button" id="copy-email-btn" onclick="copyEmail()" class="copy-email-chip" title="Copy Email Address">Copy Email</button>
               </div>
             </div>
-            <div class="legal-feature-item">
-              <span class="feat-icon">💬</span>
-              <div class="feat-info">
-                <strong>Discord Community:</strong>
-                <span>Report broken mirrors, chat with staff, or request anime additions on our <a href="https://discord.gg/p76tYVKqQ" target="_blank" rel="noopener noreferrer" class="agent-email-link">Discord Server</a>.</span>
-              </div>
+            <div class="agent-item">
+              <span class="agent-label">Subject Line Format:</span>
+              <code class="agent-code">[DMCA / Inquiry] - &lt;Your Subject&gt;</code>
             </div>
-            <div class="legal-feature-item">
-              <span class="feat-icon">📺</span>
-              <div class="feat-info">
-                <strong>YouTube Channel:</strong>
-                <span>Watch previews and official channel updates on our <a href="https://youtube.com/@shinobihub1?si=Dtbfn2Plq9ybIwYU" target="_blank" rel="noopener noreferrer" class="agent-email-link">YouTube Channel</a>.</span>
-              </div>
-            </div>
-            <div class="legal-feature-item">
-              <span class="feat-icon">✉️</span>
-              <div class="feat-info">
-                <strong>General Email Inquiries:</strong>
-                <span>For partnerships, general feedback, or bug reports: <a href="mailto:shinobihub7@gmail.com" class="agent-email-link">shinobihub7@gmail.com</a>.</span>
-              </div>
-            </div>
-          </div>
-
-          <h4>3. Designated Copyright Agent Card</h4>
-          <div class="legal-agent-card">
-            <div class="agent-info-grid">
-              <div class="agent-item">
-                <span class="agent-label">Designated Agent:</span>
-                <span class="agent-value">Shinobi Hub Legal &amp; Copyright Department</span>
-              </div>
-              <div class="agent-item">
-                <span class="agent-label">Email Address:</span>
-                <div style="display:flex;align-items:center;gap:8px;">
-                  <a href="mailto:shinobihub7@gmail.com" class="agent-email-link">shinobihub7@gmail.com</a>
-                  <button type="button" id="copy-email-btn" onclick="copyEmail()" class="copy-email-chip" title="Copy Email Address">Copy Email</button>
-                </div>
-              </div>
-              <div class="agent-item">
-                <span class="agent-label">Subject Line Format:</span>
-                <code class="agent-code">[DMCA / Inquiry] - &lt;Your Subject&gt;</code>
-              </div>
-              <div class="agent-item">
-                <span class="agent-label">Turnaround Time:</span>
-                <span class="agent-value text-accent">24 to 72 business hours</span>
-              </div>
+            <div class="agent-item">
+              <span class="agent-label">Turnaround Time:</span>
+              <span class="agent-value text-accent">24 to 72 business hours</span>
             </div>
           </div>
         </div>
@@ -142,9 +115,9 @@
             </div>
             <p>Shinobi HUB is a free promotional anime indexing directory. Stream &amp; explore your favorite anime, movies, and series with zero subscription fees and multi-audio choices.</p>
             <div class="footer-brand-tags">
-              <span class="brand-tag">⚡ Fast Indexer</span>
-              <span class="brand-tag">🛡️ Safe Harbor Compliant</span>
-              <span class="brand-tag">🎙️ Multi-Audio</span>
+              <span class="brand-tag">Fast Indexer</span>
+              <span class="brand-tag">Safe Harbor Compliant</span>
+              <span class="brand-tag">Multi-Audio</span>
             </div>
           </div>
 
