@@ -3248,8 +3248,90 @@
   max-width: 1120px;
   width: 100%;
   margin: 0 auto;
-  padding: 32px 24px 80px;
+  padding: calc(var(--header-height, 68px) + 36px) 24px 80px;
   box-sizing: border-box;
+}
+
+/* Header & Search Bar for Legal Pages */
+.brand-logo, .site-header .logo {
+  display: inline-flex;
+  align-items: baseline;
+  text-decoration: none;
+  font-size: 1.25rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  user-select: none;
+}
+.brand-logo .logo-main, .site-header .logo .logo-main {
+  font-weight: 800;
+  color: #ffffff;
+}
+.brand-logo .logo-sub, .site-header .logo .logo-sub {
+  font-weight: 400;
+  color: var(--cr-accent, #3a86ff);
+  margin-left: 5px;
+}
+
+.legal-header-search,
+.search-form-wrap {
+  display: flex;
+  align-items: center;
+  position: relative;
+  width: 260px;
+  margin: 0;
+}
+
+.legal-header-search .search-input-box,
+.search-form-wrap .search-box {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 38px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 9999px;
+  padding: 0 14px;
+  box-sizing: border-box;
+  transition: all 0.2s ease;
+}
+
+.legal-header-search:focus-within .search-input-box,
+.search-form-wrap:focus-within .search-box {
+  border-color: #3b82f6;
+  background: rgba(14, 29, 82, 0.85);
+  box-shadow: 0 0 12px rgba(59, 130, 246, 0.35);
+}
+
+.legal-header-search svg,
+.search-form-wrap svg,
+.search-box svg.search-icon {
+  width: 16px;
+  height: 16px;
+  color: #94a3b8;
+  flex-shrink: 0;
+  margin-right: 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.legal-header-search input.search-input,
+.search-form-wrap input.search-input {
+  flex: 1;
+  min-width: 0;
+  width: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  font-size: 0.88rem;
+  padding: 0;
+  font-family: inherit;
+  line-height: normal;
+}
+
+.legal-header-search input.search-input::placeholder,
+.search-form-wrap input.search-input::placeholder {
+  color: #64748b;
 }
 
 .legal-page-wrapper {
@@ -3419,7 +3501,11 @@
 
 @media (max-width: 768px) {
   .legal-page-container {
-    padding: 20px 16px 60px;
+    padding: calc(var(--header-height, 68px) + 24px) 16px 60px;
+  }
+  .legal-header-search,
+  .search-form-wrap {
+    width: 170px;
   }
   .legal-page-title {
     font-size: 1.85rem;
