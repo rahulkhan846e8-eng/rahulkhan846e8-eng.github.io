@@ -15,7 +15,7 @@ import {
 } from './data.js';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
-import { UIRenderer } from './ui.js?v=20261002_v1';
+import { UIRenderer } from './ui.js?v=20261003_v3';
 
 class App {
   constructor() {
@@ -176,10 +176,22 @@ class App {
       this.initBrowseView();
     } else if (root === "anime") {
       const animeId = parts[1];
+      const params = queryPart ? new URLSearchParams(queryPart) : null;
+      const savedSeason = sessionStorage.getItem(`shinobi_last_season_${animeId}`);
+      const savedEp = sessionStorage.getItem(`shinobi_last_ep_${animeId}`);
+
+      const initialSeasonNum = params?.has("s") 
+        ? parseInt(params.get("s"), 10) 
+        : (params?.has("season") ? parseInt(params.get("season"), 10) : (savedSeason ? parseInt(savedSeason, 10) : 1));
+
+      const targetEpNum = params?.has("ep") 
+        ? parseInt(params.get("ep"), 10) 
+        : (params?.has("episode") ? parseInt(params.get("episode"), 10) : (savedEp ? parseInt(savedEp, 10) : 0));
+
       const anime = getAnimeById(animeId);
       if (anime) {
         document.getElementById("detail-view")?.classList.add("active");
-        UIRenderer.renderAnimeDetail(anime);
+        UIRenderer.renderAnimeDetail(anime, initialSeasonNum, targetEpNum);
       } else {
         window.location.hash = "#home";
       }
@@ -542,12 +554,14 @@ class App {
         e.preventDefault();
         e.stopPropagation();
         const animeId = playBtn.dataset.animeId;
-        const ep = playBtn.dataset.ep || 1;
-        const season = playBtn.dataset.season || 1;
+        const ep = parseInt(playBtn.dataset.ep || "1", 10);
+        const season = parseInt(playBtn.dataset.season || "1", 10);
         const mode = playBtn.dataset.mode || "download";
         const lang = playBtn.dataset.lang || "hindi";
         // Record this click in Continue Watching history
         StorageService.recordEpisodeClick(animeId, ep, season);
+        sessionStorage.setItem(`shinobi_last_season_${animeId}`, season);
+        sessionStorage.setItem(`shinobi_last_ep_${animeId}`, ep);
         window.location.hash = `#stream/${animeId}/${ep}?s=${season}&mode=${mode}&lang=${lang}`;
         return;
       }

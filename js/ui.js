@@ -286,7 +286,7 @@ export class UIRenderer {
     `).join("");
   }
 
-  static renderAnimeDetail(anime) {
+  static renderAnimeDetail(anime, initialSeasonNum = 1, targetEpNum = 0) {
     const detailContainer = document.getElementById("detail-view");
     if (!detailContainer || !anime) return;
 
@@ -296,8 +296,17 @@ export class UIRenderer {
       ? anime.seasons 
       : [{ number: 1, title: 'Season 1', airDate: anime.season || '2024', episodes: anime.episodes || [] }];
 
-    let currentSeason = seasons[0];
+    const targetSeasonIdx = seasons.findIndex(s => s.number === parseInt(initialSeasonNum, 10));
+    const initialIdx = targetSeasonIdx !== -1 ? targetSeasonIdx : 0;
+    let currentSeason = seasons[initialIdx];
     let currentMode = "download"; // Default option requested by user
+
+    // Save session state for seamless return
+    sessionStorage.setItem(`shinobi_last_season_${anime.id}`, currentSeason.number);
+    if (targetEpNum > 0) {
+      sessionStorage.setItem(`shinobi_last_ep_${anime.id}`, targetEpNum);
+    }
+
     // Determine available languages for this anime
     const determineLanguages = (a) => {
       if (Array.isArray(a.languages) && a.languages.length > 0) {
@@ -344,9 +353,9 @@ export class UIRenderer {
               </div>
               <p class="detail-synopsis">${anime.synopsis || ''}</p>
               <div class="detail-actions">
-                <button class="btn btn-primary play-episode-btn" data-anime-id="${anime.id}" data-ep="1" data-season="1" data-lang="${currentLanguage}">
+                <button class="btn btn-primary play-episode-btn" data-anime-id="${anime.id}" data-ep="${targetEpNum > 0 ? targetEpNum : (currentSeason.episodes?.[0]?.number || 1)}" data-season="${currentSeason.number}" data-lang="${currentLanguage}">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
-                  ${isMovie ? 'DOWNLOAD FULL MOVIE' : 'DOWNLOAD EPISODE 1'}
+                  ${isMovie ? 'DOWNLOAD FULL MOVIE' : (targetEpNum > 0 ? `DOWNLOAD EPISODE ${targetEpNum}` : `DOWNLOAD EPISODE ${currentSeason.episodes?.[0]?.number || 1}`)}
                 </button>
                 <button class="btn btn-secondary watchlist-toggle-btn" data-anime-id="${anime.id}">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="${inWatchlist ? 'var(--cr-accent-gold)' : 'none'}" stroke="currentColor" stroke-width="2">
@@ -375,13 +384,13 @@ export class UIRenderer {
               </button>
               <div class="season-dropdown-menu" id="season-dropdown-menu">
                 ${seasons.map((s, idx) => `
-                  <div class="season-menu-option ${idx === 0 ? 'active' : ''} ${s.isComingSoon ? 'coming-soon' : ''}" data-season-idx="${idx}">
+                  <div class="season-menu-option ${idx === initialIdx ? 'active' : ''} ${s.isComingSoon ? 'coming-soon' : ''}" data-season-idx="${idx}">
                     <div class="season-option-left">
                       <span class="season-option-title">${s.title}</span>
                       <span class="season-option-meta">${s.isComingSoon ? 'Coming Soon...' : `${s.airDate || ''} • ${s.episodes?.length || 0} Episodes`}</span>
                     </div>
                     ${s.isComingSoon ? '<span class="badge-coming-soon">Coming Soon...</span>' : ''}
-                    ${idx === 0 ? '<span class="season-check-icon">✓</span>' : ''}
+                    ${idx === initialIdx ? '<span class="season-check-icon">✓</span>' : ''}
                   </div>
                 `).join("")}
               </div>
@@ -518,9 +527,38 @@ export class UIRenderer {
         }
 
         refreshPlaylist();
+
+        // Update session storage and URL state
+        sessionStorage.setItem(`shinobi_last_season_${anime.id}`, currentSeason.number);
+        try {
+          history.replaceState(null, "", `#anime/${anime.id}?s=${currentSeason.number}`);
+        } catch (err) {}
+
+        const heroPlayBtn = detailContainer.querySelector(".play-episode-btn");
+        if (heroPlayBtn && !isMovie) {
+          heroPlayBtn.dataset.season = currentSeason.number;
+          const firstEpNum = currentSeason.episodes?.[0]?.number || 1;
+          heroPlayBtn.dataset.ep = firstEpNum;
+          const heroTextNode = Array.from(heroPlayBtn.childNodes).find(n => n.nodeType === Node.TEXT_NODE && n.nodeValue.trim());
+          if (heroTextNode) {
+            heroTextNode.nodeValue = ` DOWNLOAD EPISODE ${firstEpNum}`;
+          }
+        }
+
         dropdownWrapper?.classList.remove("open");
       });
     });
+
+    // Auto-scroll to episode if targetEpNum was passed
+    if (targetEpNum > 0) {
+      setTimeout(() => {
+        const epRow = detailContainer.querySelector(`.episode-row-item[data-ep="${targetEpNum}"]`);
+        if (epRow) {
+          epRow.scrollIntoView({ behavior: "smooth", block: "center" });
+          epRow.classList.add("highlight-last-active");
+        }
+      }, 180);
+    }
   }
 
   // --------------------------------------------------------------------------
@@ -560,10 +598,14 @@ export class UIRenderer {
     const currentSeason = seasons.find(s => s.number === sNum) || seasons[0];
     const eps = currentSeason?.episodes || anime.episodes || [];
     const currentEpIndex = eps.findIndex(e => e.number === parseInt(epNum, 10));
-    const ep = currentEpIndex !== -1 ? eps[currentEpIndex] : { number: epNum, title: `Episode ${epNum}` };
+    const ep = currentEpIndex !== -1 ? eps[currentEpIndex] : { number: parseInt(epNum, 10) || 1, title: `Episode ${epNum}` };
 
     const prevEp = currentEpIndex > 0 ? eps[currentEpIndex - 1] : null;
     const nextEp = currentEpIndex >= 0 && currentEpIndex < eps.length - 1 ? eps[currentEpIndex + 1] : null;
+
+    // Save session state for seamless back navigation
+    sessionStorage.setItem(`shinobi_last_season_${anime.id}`, sNum);
+    sessionStorage.setItem(`shinobi_last_ep_${anime.id}`, ep.number);
 
     // Telegram is ONLY enabled if explicitly tagged as added from Telegram
     const hasTelegram = Boolean(ep.hasTelegram || ep.telegramFileId || anime.hasTelegram);
@@ -587,7 +629,7 @@ export class UIRenderer {
           <div class="download-hub-card">
             <!-- Header Pill -->
             <div class="download-header-pill">
-              <a href="#anime/${anime.id}" class="dl-back-link">
+              <a href="#anime/${anime.id}?s=${sNum}&ep=${ep.number}" class="dl-back-link">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
                 <span>${anime.title}</span>
               </a>
@@ -602,31 +644,7 @@ export class UIRenderer {
               </div>
               <div class="download-anime-meta">
                 <h2 class="download-anime-title">${anime.title}</h2>
-                <h3 class="download-ep-title">${anime.type === "Movie" ? `${anime.title} (Full Movie)` : ep.title}</h3>
-                <div class="download-tags-row">
-                  <span class="badge badge-rating">★ ${anime.rating || '8.8'}</span>
-                  <span class="badge badge-gold-pill">High Quality FHD</span>
-                </div>
-              </div>
-            </div>
-
-            <!-- Technical File Details -->
-            <div class="download-info-grid">
-              <div class="dl-info-item">
-                <span class="dl-info-label">Audio</span>
-                <span class="dl-info-value" id="dl-info-audio">${currentLang === 'original' ? 'Original Japanese Dub + English Sub' : 'Hindi Dub + English Sub'}</span>
-              </div>
-              <div class="dl-info-item">
-                <span class="dl-info-label">Format</span>
-                <span class="dl-info-value">MKV / MP4 (H.264/AAC)</span>
-              </div>
-              <div class="dl-info-item">
-                <span class="dl-info-label">Quality</span>
-                <span class="dl-info-value">High Quality (1080p FHD)</span>
-              </div>
-              <div class="dl-info-item">
-                <span class="dl-info-label">Status</span>
-                <span class="dl-info-value" style="color: #4ade80;">Fast Direct Server</span>
+                <h3 class="download-ep-title">${anime.type === "Movie" ? `${anime.title} (Full Movie)` : (ep.title && !ep.title.toLowerCase().startsWith('episode') ? `Episode ${ep.number}: ${ep.title}` : `Episode ${ep.number}`)}</h3>
               </div>
             </div>
 
@@ -663,22 +681,22 @@ export class UIRenderer {
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/>
                 </svg>
-                <span>Direct Download:</span>
+                <span>Download:</span>
               </div>
 
               <div class="download-buttons-stack">
-                <!-- Single High Quality & Direct Download Option -->
+                <!-- Single Download Option with Season & Episode Info -->
                 <a href="${directDlUrl || 'javascript:void(0)'}" ${directDlUrl ? 'target="_blank" rel="noopener noreferrer"' : ''} class="btn-download-server direct-dl-btn single-hq-download" data-quality="High Quality" data-has-link="${Boolean(directDlUrl)}">
                   <div class="server-btn-left">
-                    <span class="server-badge res-1080" style="background: linear-gradient(135deg, #3a86ff, #00b4d8); font-weight: 800; font-size: 0.85rem; padding: 5px 12px;">HQ</span>
+                    <span class="server-badge res-1080" style="background: linear-gradient(135deg, #3a86ff, #00b4d8); font-weight: 800; font-size: 0.82rem; padding: 5px 10px;">${anime.type === "Movie" ? 'MOVIE' : `S${sNum} E${ep.number}`}</span>
                     <div class="server-details">
-                      <span class="server-name" id="dl-server-title" style="font-size: 1.05rem; font-weight: 700; color: #fff;">High Quality &amp; Direct Download (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})</span>
-                      <span class="server-meta" id="dl-server-meta" style="color: #94a3b8; font-size: 0.84rem;">Fast Direct Server &bull; Full HD (1080p / 720p) &bull; ${currentLang === 'original' ? 'Original Japanese Audio + English Sub' : 'Hindi Dub Audio + English Sub'}</span>
+                      <span class="server-name" id="dl-server-title" style="font-size: 1.05rem; font-weight: 700; color: #fff;">${anime.type === "Movie" ? `${anime.title} (Full Movie)` : `Season ${sNum} • Episode ${ep.number}`} (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})</span>
+                      <span class="server-meta" id="dl-server-meta" style="color: #94a3b8; font-size: 0.84rem;">${anime.type === "Movie" ? 'Full Feature Film' : (ep.title && !ep.title.toLowerCase().startsWith('episode') ? ep.title : `Episode ${ep.number}`)} &bull; ${currentLang === 'original' ? 'Original Dub Audio + Sub' : 'Hindi Dub Audio'}</span>
                     </div>
                   </div>
                   <div class="server-btn-action">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
-                    <span>Direct Download</span>
+                    <span>Download</span>
                   </div>
                 </a>
 
@@ -703,10 +721,10 @@ export class UIRenderer {
             <!-- Episode Navigation Footer -->
             <div class="download-nav-footer">
               ${anime.type === "Movie" ? `
-                <a href="#anime/${anime.id}" class="btn-ep-nav-all" style="flex: 1; text-align: center;">&larr; Back to Movie Details</a>
+                <a href="#anime/${anime.id}?s=1&ep=1" class="btn-ep-nav-all" style="flex: 1; text-align: center;">&larr; Back to Movie Details</a>
               ` : `
                 ${prevEp ? `<a href="#stream/${anime.id}/${prevEp.number}?s=${sNum}&mode=download&lang=${currentLang}" class="btn-ep-nav">&larr; Ep ${prevEp.number}</a>` : `<span></span>`}
-                <a href="#anime/${anime.id}" class="btn-ep-nav-all">All Episodes (${currentSeason.title})</a>
+                <a href="#anime/${anime.id}?s=${sNum}&ep=${ep.number}" class="btn-ep-nav-all">All Episodes (${currentSeason.title})</a>
                 ${nextEp ? `<a href="#stream/${anime.id}/${nextEp.number}?s=${sNum}&mode=download&lang=${currentLang}" class="btn-ep-nav">Ep ${nextEp.number} &rarr;</a>` : `<span></span>`}
               `}
             </div>
@@ -727,18 +745,20 @@ export class UIRenderer {
         streamLangToggle.querySelectorAll(".lang-toggle-btn").forEach(b => b.classList.remove("active"));
         btn.classList.add("active");
 
-        const audioEl = container.querySelector("#dl-info-audio");
         const titleEl = container.querySelector("#dl-server-title");
         const metaEl = container.querySelector("#dl-server-meta");
 
-        if (audioEl) {
-          audioEl.textContent = currentLang === 'original' ? 'Original Japanese Dub + English Sub' : 'Hindi Dub + English Sub';
-        }
         if (titleEl) {
-          titleEl.textContent = `High Quality & Direct Download (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})`;
+          titleEl.textContent = isMovie
+            ? `${anime.title} (Full Movie) (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})`
+            : `Season ${sNum} • Episode ${ep.number} (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})`;
         }
         if (metaEl) {
-          metaEl.textContent = `Fast Direct Server • Full HD (1080p / 720p) • ${currentLang === 'original' ? 'Original Japanese Audio + English Sub' : 'Hindi Dub Audio + English Sub'}`;
+          const epDetailText = isMovie
+            ? 'Full Feature Film'
+            : (ep.title && !ep.title.toLowerCase().startsWith('episode') ? ep.title : `Episode ${ep.number}`);
+          const audioText = currentLang === 'original' ? 'Original Dub Audio + Sub' : 'Hindi Dub Audio';
+          metaEl.innerHTML = `${epDetailText} &bull; ${audioText}`;
         }
 
         // Dynamically switch download URL to active language track

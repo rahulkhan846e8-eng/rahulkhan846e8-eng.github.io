@@ -517,6 +517,23 @@
   transform: translateX(4px);
 }
 
+.episode-row-item.highlight-last-active {
+  border-color: var(--cr-accent) !important;
+  background: rgba(58, 134, 255, 0.16) !important;
+  box-shadow: 0 0 16px rgba(58, 134, 255, 0.35) !important;
+  animation: epHighlightPulse 2s ease-in-out 2;
+}
+
+@keyframes epHighlightPulse {
+  0%, 100% {
+    box-shadow: 0 0 8px rgba(58, 134, 255, 0.25);
+  }
+  50% {
+    box-shadow: 0 0 22px rgba(58, 134, 255, 0.6);
+    border-color: var(--cr-accent-hover) !important;
+  }
+}
+
 .ep-row-thumb {
   position: relative;
   width: 140px;
@@ -1854,7 +1871,7 @@
   font-size: 0.94rem;
   font-weight: 600;
   color: var(--cr-accent-gold);
-  margin-bottom: 8px;
+  margin-bottom: 2px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
