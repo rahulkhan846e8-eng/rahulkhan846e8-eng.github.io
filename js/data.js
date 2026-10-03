@@ -45,6 +45,1377 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "mighty-morphin-power-rangers-once-always",
+    "title": "Mighty Morphin Power Rangers: Once & Always",
+    "raw_name": "Mighty Morphin Power Rangers: Once & Always",
+    "japaneseTitle": "",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/6/15520.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/6/15520.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Mighty Morphin Power Rangers: Once & Always animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Mighty Morphin Power Rangers: Once & Always (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/6/15520.jpg",
+            "synopsis": "Mighty Morphin Power Rangers: Once & Always full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/xisb9xc1gsjgcwi",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/xisb9xc1gsjgcwi"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-stolen-princess",
+    "title": "The Stolen Princess",
+    "raw_name": "The Stolen Princess",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "The Stolen Princess animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Stolen Princess (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "The Stolen Princess full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/jk13xkv616grg3y",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/jk13xkv616grg3y"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-croods-a-new-age",
+    "title": "The Croods: A New Age",
+    "raw_name": "The Croods: A New Age",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "The Croods: A New Age animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Croods: A New Age (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "The Croods: A New Age full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/f88hl8f6wwtlpow",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/f88hl8f6wwtlpow"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hotel-transylvania-2",
+    "title": "Hotel Transylvania 2",
+    "raw_name": "Hotel Transylvania 2",
+    "japaneseTitle": "",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/119/297712.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/119/297712.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Hotel Transylvania 2 animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Hotel Transylvania 2 (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/119/297712.jpg",
+            "synopsis": "Hotel Transylvania 2 full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/ykhw5kcwiesrt4y",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/ykhw5kcwiesrt4y"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hotel-transylvania-3-summer-vacation",
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "raw_name": "Hotel Transylvania 3: Summer Vacation",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Hotel Transylvania 3: Summer Vacation animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Hotel Transylvania 3: Summer Vacation (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Hotel Transylvania 3: Summer Vacation full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/mmbhcc1ceindcxg",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/mmbhcc1ceindcxg"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hotel-transylvania-4-transformania",
+    "title": "Hotel Transylvania 4: Transformania",
+    "raw_name": "Hotel Transylvania 4: Transformania",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Hotel Transylvania 4: Transformania animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Hotel Transylvania 4: Transformania (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Hotel Transylvania 4: Transformania full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/tbdsdpfilfstpfs",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/tbdsdpfilfstpfs"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-yogi-bear-show",
+    "title": "The Yogi Bear Show",
+    "raw_name": "Yogi Bear",
+    "japaneseTitle": "",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/22/57393.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/22/57393.jpg",
+    "rating": 5.8,
+    "year": 1958,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1958",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Children"
+    ],
+    "synopsis": "Animated favorite about the fun-loving residents of Jellystone Park, Yogi Bear and his sidekick, Boo Boo, who try to steal picnic baskets and stay one step ahead of Ranger Smith.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1958",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Yogi Bear Show (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/22/57393.jpg",
+            "synopsis": "The Yogi Bear Show full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/o2xb5u6oocg12kg",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/o2xb5u6oocg12kg"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "codename-kids-next-door-operation-zero",
+    "title": "Codename: Kids Next Door Operation Z.E.R.O.",
+    "raw_name": "Codename: Kids Next Door Operation Z.E.R.O.",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Codename: Kids Next Door Operation Z.E.R.O. animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Codename: Kids Next Door Operation Z.E.R.O. (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Codename: Kids Next Door Operation Z.E.R.O. full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/eddmm5ymmwcuqvc",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/eddmm5ymmwcuqvc"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lego-marvel-super-heroes-maximum-overload",
+    "title": "LEGO Marvel Super Heroes: Maximum Overload",
+    "raw_name": "LEGO Marvel Super Heroes: Maximum Overload",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "LEGO Marvel Super Heroes: Maximum Overload animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "LEGO Marvel Super Heroes: Maximum Overload (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "LEGO Marvel Super Heroes: Maximum Overload full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/wf6lw1fv6pv7gpa",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/wf6lw1fv6pv7gpa"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-spongebob-movie-search-for-squarepants",
+    "title": "The SpongeBob Movie: Search for SquarePants",
+    "raw_name": "The SpongeBob Movie: Search for SquarePants",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "The SpongeBob Movie: Search for SquarePants animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The SpongeBob Movie: Search for SquarePants (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "The SpongeBob Movie: Search for SquarePants full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/gkxxkb5szbt0ga9",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/gkxxkb5szbt0ga9"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pets-on-a-train",
+    "title": "Pets on a Train",
+    "raw_name": "Pets on a Train",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Pets on a Train animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Pets on a Train (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Pets on a Train full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/v6ycE8s7?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/v6ycE8s7?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cinderella",
+    "title": "Cinderella",
+    "raw_name": "Cinderella",
+    "japaneseTitle": "",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/96/242407.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/96/242407.jpg",
+    "rating": 8.5,
+    "year": 1997,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1997",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "High quiality melodrama with profound psychological sketch. This drama delicately views Cinderella Complex still alive in every women of modern society. The two sisters, the elder struggling to become successful whatever the cost ; the smaller made successful without much will of her own, conflict due to their different goals in life.Born in a remote island of Che Ju, far south from the mainland, Hae Jin and Hae Won, always had opposite characters. Hae Jin was always smart, pretty and best at everything she did but Hae Won was kind, good to her father and always believed she was inferior to her elder sister.Many years later Hae Jin grows up to become a MC at a cable TV network. She strives to become Cinderella through men around her - first she plans to climb the ladder of success through dating her senior manager, then repentlessly changes her dating partner to the heir of a renowned enterprise in order to rise her social position through marriage.Unlike her sister, Hae Won is a common girl at the beginning of the drama. Yet, once spotted by a president at an advertising company and is inquired to become a model for a make-up company, the sweet yet dismal path to success lies before her.In this drama, Cinderella Complex is criss-crossed with tense complex between sisters. The psychological description and the compact structure of love, jealousy and hatred truely makes an exquisite quality melodrama which brings tears and compassion to viewers of wide range.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1997",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Cinderella (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/96/242407.jpg",
+            "synopsis": "Cinderella full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/oh9FLcSi?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/oh9FLcSi?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "evangelion-10-you-are-not-alone",
+    "title": "Evangelion: 1.0 You Are (Not) Alone",
+    "raw_name": "Evangelion: 1.0 You Are (Not) Alone",
+    "japaneseTitle": "ヱヴァンゲリヲン新劇場版:序",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2759-S0ATamQtDwlW.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2759-S0ATamQtDwlW.jpg",
+    "rating": 8.5,
+    "year": 2007,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2007",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "synopsis": "After the second impact, all that remains of Japan is Tokyo-3, a city that's being attacked by giant creatures that seek to eradicate the human kind, called Angels. After not seeing his father for more than eight years, Shinji Ikari receives a phone call in which he is told to urgently come to the NERV Headquarters, an organization that deals with the destruction of the Angels through the use of giant mechs called Evas. Shinji's objective is to pilot the Eva Unit 01 while teaming up with the Eva Unit 00 pilot, Ayanami Rei.<br><br>\n<i>Note: Exists in several versions, as denoted by the version number:<br>\n• <b>1.0</b>: Sep 1, 2007 - Original theatrical release<br>\n• <b>1.01</b>: Apr 25, 2008 - DVD release containing minor adjustments and fine tunings in picture, editing, and sound quality.<br>\n&#8195;• <b>Explanation of Evangelion 1.01</b> - Included with the special edition DVD release of 1.01, overlays large captions to provide the \"official designations\" of people, locations, weapons, technology, and so forth.<br>\n• <b>1.11</b>: May 27, 2009 - Blu-ray/DVD re-release with 3 minutes of new animation added to the first 15 minutes and fixing video issues present in the previous release.</i>",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2007",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Evangelion: 1.0 You Are (Not) Alone (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2759-S0ATamQtDwlW.jpg",
+            "synopsis": "Evangelion: 1.0 You Are (Not) Alone full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/wiiirrwrxww1ivr",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/wiiirrwrxww1ivr"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "evangelion-30-you-can-not-redo",
+    "title": "Evangelion: 3.0 You Can (Not) Redo",
+    "raw_name": "Evangelion: 3.0 You Can (Not) Redo",
+    "japaneseTitle": "ヱヴァンゲリヲン新劇場版:Q",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3785-a28lDzqtlfjB.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3785-a28lDzqtlfjB.png",
+    "rating": 8.5,
+    "year": 2012,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2012",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "synopsis": "14 years after third impact, Ikari Shinji awakens to a world he does not remember. He hasn't aged. Much of Earth is laid in ruins, Nerv has been dismantled, and people who he once protected have turned against him. Befriending the enigmatic Nagisa Kaworu, Shinji continues the fight against the angels and realizes the fighting is far from over, even when it could be against his former allies. The characters' struggles continue amidst the battles against the angels and each other, spiraling down to what could inevitably be the end of the world.<br><br>\n(Source: Anime News Network)<br><br>\n<i>Note: Exists in several versions, as denoted by the version number:<br>\n• <b>3.0</b>: Nov 17, 2012 - Original theatrical release<br>\n• <b>3.33</b>: Apr 24, 2013 - Blu-ray/DVD release with minor visual changes.<br>\n• <b>3.333</b>: Jan 8, 2021 - Theatrical IMAX screenings mastered in 2K with numerous small adjustments to lighting and color, as well as a new preview at the end of the film.<br>\n&#8195;•  Aug 25, 2021 - 4K Blu-ray release of 3.333</i>",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2012",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Evangelion: 3.0 You Can (Not) Redo (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3785-a28lDzqtlfjB.png",
+            "synopsis": "Evangelion: 3.0 You Can (Not) Redo full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/iwuen1xw1igxj8i",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/iwuen1xw1igxj8i"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "evangelion-3010-thrice-upon-a-time",
+    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "raw_name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "japaneseTitle": "シン・エヴァンゲリオン劇場版:||",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3786-Tpt9iM72dxTv.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3786-Tpt9iM72dxTv.jpg",
+    "rating": 8.5,
+    "year": 2021,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2021",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "synopsis": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each of them live a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion. Finally, the Human Instrumentality Project is set in motion, and WILLE makes one last grueling stand to prevent the Final Impact.\n<br><br>\n<i>Note: Exists in several versions, as denoted by the version number:<br>\n• <b>3.0+1.0</b>: March 8, 2021 - Original theatrical release<br>\n•  <b>3.0+1.01</b>: June 12, 2021 - A second theatrical release which features updated cuts of various scenes while not changing the overall story of the film.<br>\n•  <b>3.0+1.11</b>: March 8, 2023 - A home media release scheduled for the film's two-year anniversary.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2021",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Evangelion: 3.0+1.0 Thrice Upon a Time (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3786-Tpt9iM72dxTv.jpg",
+            "synopsis": "Evangelion: 3.0+1.0 Thrice Upon a Time full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/gef2rixmmeyqiqm",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/gef2rixmmeyqiqm"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-penguins-of-madagascar",
+    "title": "The Penguins of Madagascar",
+    "raw_name": "The Penguins of Madagascar",
+    "japaneseTitle": "",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/19/49604.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/19/49604.jpg",
+    "rating": 7.3,
+    "year": 2008,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2008",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Children"
+    ],
+    "synopsis": "While Alex, Marty, Gloria, and Melman are still relaxing in Africa, the four penguins: Skipper, Kowalski, Private and Rico, have returned to New York City in Central Park Zoo. The Penguins will rule the roost at their Central Park Zoo home, doing secret missions in the heart of New York City. At times their secret missions beckon them to venture out of the zoo. Just as the team thinks it has its urban acreage under control, a new neighbor moves in next door: Julien, King of the Lemurs. Now the penguins must compete against him for the supreme leader of Central Park Zoo.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2008",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Penguins of Madagascar (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/19/49604.jpg",
+            "synopsis": "The Penguins of Madagascar full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/jocqpcpveamaav1",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/jocqpcpveamaav1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ploey-you-never-fly-alone",
+    "title": "Ploey: You Never Fly Alone",
+    "raw_name": "Ploey: You Never Fly Alone",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Ploey: You Never Fly Alone animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ploey: You Never Fly Alone (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Ploey: You Never Fly Alone full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Gxp28uqW?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Gxp28uqW?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lupin-the-3rd-vs-cats-eye",
+    "title": "LUPIN THE 3rd vs. CAT’S EYE",
+    "raw_name": "Lupin the 3rd vs Cat’s Eye",
+    "japaneseTitle": "ルパン三世VSキャッツ・アイ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154924-qGLpTI3IwN8p.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154924-qGLpTI3IwN8p.jpg",
+    "rating": 8.5,
+    "year": 2023,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2023",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Mystery"
+    ],
+    "synopsis": "Hitomi, Rui, and Ai are sisters and cat burglars. They steal a painting from a museum around the same time Lupin the 3rd appears to steal another painting himself. Both paintings are part of Michael Heinz’s series titled the Girl and the Flowers. To the girls, the paintings are clues for their missing father's whereabouts. When they learn Lupin is after the same target, a fire lights inside them.<br><br>\n\n(Source: Amazon Prime Video) <br><br>\n\n<i>Note: A collab animation to commemorate the 50th anniversary of the Lupin III anime and the 40th anniversary of Cat's Eye</i>.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "LUPIN THE 3rd vs. CAT’S EYE (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154924-qGLpTI3IwN8p.jpg",
+            "synopsis": "LUPIN THE 3rd vs. CAT’S EYE full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/D382gzcn?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/D382gzcn?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shark-tale",
+    "title": "Shark Tale",
+    "raw_name": "Shark Tale",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Shark Tale animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Shark Tale (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Shark Tale full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/m1uig76s31eqqvf",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/m1uig76s31eqqvf"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zootopia-2",
+    "title": "Zootopia 2",
+    "raw_name": "Zootopia 2",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Zootopia 2 animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Zootopia 2 (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Zootopia 2 full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/symygyJZ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/symygyJZ?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toy-story-4",
+    "title": "Toy Story 4",
+    "raw_name": "Toy Story 4",
+    "japaneseTitle": "",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/35/88390.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/35/88390.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Toy Story 4 animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Toy Story 4 (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/35/88390.jpg",
+            "synopsis": "Toy Story 4 full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/jgri32oty3ay4om",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/jgri32oty3ay4om"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madagascar-escape-2-africa",
+    "title": "Madagascar: Escape 2 Africa",
+    "raw_name": "Madagascar: Escape 2 Africa",
+    "japaneseTitle": "",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/75/188321.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/75/188321.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Madagascar: Escape 2 Africa animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Madagascar: Escape 2 Africa (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/75/188321.jpg",
+            "synopsis": "Madagascar: Escape 2 Africa full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/muwtxfx1e7rmt1u",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/muwtxfx1e7rmt1u"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madagascar-3-europes-most-wanted",
+    "title": "Madagascar 3: Europe’s Most Wanted",
+    "raw_name": "Madagascar 3: Europe’s Most Wanted",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Madagascar 3: Europe’s Most Wanted animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Madagascar 3: Europe’s Most Wanted (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Madagascar 3: Europe’s Most Wanted full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/1po3ujshz7okjtk",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/1po3ujshz7okjtk"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-secret-life-of-pets-2",
+    "title": "The Secret Life of Pets 2",
+    "raw_name": "The Secret Life of Pets 2",
+    "japaneseTitle": "",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/47/119299.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/47/119299.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "The Secret Life of Pets 2 animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Secret Life of Pets 2 (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/47/119299.jpg",
+            "synopsis": "The Secret Life of Pets 2 full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/udxu7nore3bbqtd",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/udxu7nore3bbqtd"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goat",
+    "title": "G.O.A.T.",
+    "raw_name": "GOAT",
+    "japaneseTitle": "",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/402/1006769.jpg",
+    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/402/1006769.jpg",
+    "rating": 8.5,
+    "year": 2021,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2021",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "This series scours the internet to highlight viral videos that have rocked the digital world, including talking goats, trick shots and elephant toothpaste.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2021",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "G.O.A.T. (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/402/1006769.jpg",
+            "synopsis": "G.O.A.T. full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/U2yYkZzM?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/U2yYkZzM?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "welcome-to-smelliville",
+    "title": "Welcome to Smelliville",
+    "raw_name": "Welcome to Smelliville",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Welcome to Smelliville animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Welcome to Smelliville (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Welcome to Smelliville full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/um2ke0ekdjlxefh",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/um2ke0ekdjlxefh"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mononoke-the-movie-the-phantom-in-the-rain",
+    "title": "Mononoke The Movie: The Phantom in the Rain",
+    "raw_name": "Mononoke the Movie: Chapter III – The Curse of the Serpent",
+    "japaneseTitle": "モノノ怪 唐傘",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151117-AOcwR3mXCDx7.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151117-AOcwR3mXCDx7.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "synopsis": "Asa and Kame strike up an immediate friendship when they arrive at the same time for their first day of duty at the Ooku, the splendid pleasure palace housing the harem of Lord Tenshi. The two young women are there to join the many hundreds of other maidservants—men are barred from entering, with immediate beheading the price of trespassing. It soon becomes clear that behind the luxurious lifestyle and ritualized routines of the Ooku lie sinister schemes and cynical rivalries. Meanwhile, a mysterious wandering potion-peddler known only as the Medicine Seller subtly insinuates himself into the Ooku, just as an uncanny, otherworldly menace begins to reveal itself.\n<br><br>\n(Source: Fantasia Film Festival)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Mononoke The Movie: The Phantom in the Rain (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151117-AOcwR3mXCDx7.jpg",
+            "synopsis": "Mononoke The Movie: The Phantom in the Rain full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/b5mbAsgC?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/b5mbAsgC?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "lego-marvel-spider-man-vexed-by-venom",
     "title": "LEGO Marvel Spider-Man: Vexed by Venom",
     "raw_name": "LEGO Marvel Spider-Man: Vexed by Venom",
