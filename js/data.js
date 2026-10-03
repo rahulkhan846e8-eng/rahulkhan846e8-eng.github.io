@@ -99,10 +99,10 @@ export const ANIME_DATABASE = [
     "title": "The Stolen Princess",
     "raw_name": "The Stolen Princess",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGRjZWYwZWUtZWExZC00NWNmLWIxY2UtN2ZiOThjZTgwZmQ2XkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMGRjZWYwZWUtZWExZC00NWNmLWIxY2UtN2ZiOThjZTgwZmQ2XkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.0,
+    "year": 2018,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -115,7 +115,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "The Stolen Princess animated movie streaming on ShinobiHub.",
+    "synopsis": "A story from the age of valiant knights, beautiful princesses, and evil sorcerers. Ruslan, an artist who dreams of becoming a knight, meets and falls in love with the beautiful Mila, without realizing that she is the King's daughter.",
     "languages": [
       "hindi"
     ],
@@ -132,7 +132,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Stolen Princess (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGRjZWYwZWUtZWExZC00NWNmLWIxY2UtN2ZiOThjZTgwZmQ2XkEyXkFqcGc@._V1_.jpg",
             "synopsis": "The Stolen Princess full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/jk13xkv616grg3y",
@@ -149,10 +149,10 @@ export const ANIME_DATABASE = [
     "title": "The Croods: A New Age",
     "raw_name": "The Croods: A New Age",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI1OTFhYmQtMzM4NS00Y2NkLTlkMmEtNTJhMWU1YWI0ZGQ2XkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZTI1OTFhYmQtMzM4NS00Y2NkLTlkMmEtNTJhMWU1YWI0ZGQ2XkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.9,
+    "year": 2020,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -165,7 +165,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "The Croods: A New Age animated movie streaming on ShinobiHub.",
+    "synopsis": "The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved.",
     "languages": [
       "hindi"
     ],
@@ -182,7 +182,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Croods: A New Age (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTI1OTFhYmQtMzM4NS00Y2NkLTlkMmEtNTJhMWU1YWI0ZGQ2XkEyXkFqcGc@._V1_.jpg",
             "synopsis": "The Croods: A New Age full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/f88hl8f6wwtlpow",
@@ -199,10 +199,10 @@ export const ANIME_DATABASE = [
     "title": "Hotel Transylvania 2",
     "raw_name": "Hotel Transylvania 2",
     "japaneseTitle": "",
-    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/119/297712.jpg",
-    "banner": "https://static.tvmaze.com/uploads/images/original_untouched/119/297712.jpg",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.6,
+    "year": 2015,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -215,7 +215,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Hotel Transylvania 2 animated movie streaming on ShinobiHub.",
+    "synopsis": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
     "languages": [
       "hindi"
     ],
@@ -232,7 +232,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Hotel Transylvania 2 (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/119/297712.jpg",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Hotel Transylvania 2 full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/ykhw5kcwiesrt4y",
@@ -249,10 +249,10 @@ export const ANIME_DATABASE = [
     "title": "Hotel Transylvania 3: Summer Vacation",
     "raw_name": "Hotel Transylvania 3: Summer Vacation",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzU4MmE4MjEtOTU4NS00ZTZiLTg5NTYtNzE2ZWMyODcyYzFiXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYzU4MmE4MjEtOTU4NS00ZTZiLTg5NTYtNzE2ZWMyODcyYzFiXkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.3,
+    "year": 2018,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -265,7 +265,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Hotel Transylvania 3: Summer Vacation animated movie streaming on ShinobiHub.",
+    "synopsis": "Count Dracula and company participate in a cruise for sea-loving monsters, unaware that their boat is being commandeered by the monster-hating Van Helsing family.",
     "languages": [
       "hindi"
     ],
@@ -282,7 +282,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Hotel Transylvania 3: Summer Vacation (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzU4MmE4MjEtOTU4NS00ZTZiLTg5NTYtNzE2ZWMyODcyYzFiXkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Hotel Transylvania 3: Summer Vacation full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/mmbhcc1ceindcxg",
@@ -299,10 +299,10 @@ export const ANIME_DATABASE = [
     "title": "Hotel Transylvania 4: Transformania",
     "raw_name": "Hotel Transylvania 4: Transformania",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYyN2Q5NGQtYWI3OS00MDMxLTlhNTktNjBkOWIwMTIzNGZkXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNGYyN2Q5NGQtYWI3OS00MDMxLTlhNTktNjBkOWIwMTIzNGZkXkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.0,
+    "year": 2022,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -315,7 +315,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Hotel Transylvania 4: Transformania animated movie streaming on ShinobiHub.",
+    "synopsis": "After one experiment, Johnny turns into a monster and everyone else becomes human. Now it has to be seen whether they will be able to reverse this experiment.",
     "languages": [
       "hindi"
     ],
@@ -332,7 +332,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Hotel Transylvania 4: Transformania (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGYyN2Q5NGQtYWI3OS00MDMxLTlhNTktNjBkOWIwMTIzNGZkXkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Hotel Transylvania 4: Transformania full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/tbdsdpfilfstpfs",
@@ -399,10 +399,10 @@ export const ANIME_DATABASE = [
     "title": "Codename: Kids Next Door Operation Z.E.R.O.",
     "raw_name": "Codename: Kids Next Door Operation Z.E.R.O.",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzhkNDYxNDAtZGRiZS00OTQzLWEwOWUtMWZiY2YzZDM1MDY0XkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMzhkNDYxNDAtZGRiZS00OTQzLWEwOWUtMWZiY2YzZDM1MDY0XkEyXkFqcGc@._V1_.jpg",
+    "rating": 7.4,
+    "year": 2006,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -415,7 +415,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Codename: Kids Next Door Operation Z.E.R.O. animated movie streaming on ShinobiHub.",
+    "synopsis": "The knd must find a way to stop grandfather from ruling the world and turning everyone including adults into senior citizen zombies. Meanwhile numbuh one finds out his loser dad was the great numbuh zero.",
     "languages": [
       "hindi"
     ],
@@ -432,7 +432,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Codename: Kids Next Door Operation Z.E.R.O. (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhkNDYxNDAtZGRiZS00OTQzLWEwOWUtMWZiY2YzZDM1MDY0XkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Codename: Kids Next Door Operation Z.E.R.O. full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/eddmm5ymmwcuqvc",
@@ -449,10 +449,10 @@ export const ANIME_DATABASE = [
     "title": "LEGO Marvel Super Heroes: Maximum Overload",
     "raw_name": "LEGO Marvel Super Heroes: Maximum Overload",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTZlYTMxYjEtOTFkMi00MDY4LWE5Y2UtZjY3OWI0YmRhY2Y1XkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BOTZlYTMxYjEtOTFkMi00MDY4LWE5Y2UtZjY3OWI0YmRhY2Y1XkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.3,
+    "year": 2013,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -465,7 +465,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "LEGO Marvel Super Heroes: Maximum Overload animated movie streaming on ShinobiHub.",
+    "synopsis": "Spider-Man and Marvel's Super Heroes take on a mischievous Loki and a team of super villains.",
     "languages": [
       "hindi"
     ],
@@ -482,7 +482,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "LEGO Marvel Super Heroes: Maximum Overload (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTZlYTMxYjEtOTFkMi00MDY4LWE5Y2UtZjY3OWI0YmRhY2Y1XkEyXkFqcGc@._V1_.jpg",
             "synopsis": "LEGO Marvel Super Heroes: Maximum Overload full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/wf6lw1fv6pv7gpa",
@@ -499,10 +499,10 @@ export const ANIME_DATABASE = [
     "title": "The SpongeBob Movie: Search for SquarePants",
     "raw_name": "The SpongeBob Movie: Search for SquarePants",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdlYmM2YmEtMmQ3Zi00ZjAxLTg2ZjctNzU3NDVkY2RiOTBjXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYzdlYmM2YmEtMmQ3Zi00ZjAxLTg2ZjctNzU3NDVkY2RiOTBjXkEyXkFqcGc@._V1_.jpg",
+    "rating": 5.7,
+    "year": 2025,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -515,7 +515,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "The SpongeBob Movie: Search for SquarePants animated movie streaming on ShinobiHub.",
+    "synopsis": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following the Flying Dutchman, a mysterious swashbuckling ghost pirate, to the deepest depths of the deep sea.",
     "languages": [
       "hindi"
     ],
@@ -532,7 +532,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The SpongeBob Movie: Search for SquarePants (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzdlYmM2YmEtMmQ3Zi00ZjAxLTg2ZjctNzU3NDVkY2RiOTBjXkEyXkFqcGc@._V1_.jpg",
             "synopsis": "The SpongeBob Movie: Search for SquarePants full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/gkxxkb5szbt0ga9",
@@ -549,10 +549,10 @@ export const ANIME_DATABASE = [
     "title": "Pets on a Train",
     "raw_name": "Pets on a Train",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZlOWZkOGYtYWY4Yi00OGI1LTgwZDMtZjRkOWRlYzM4YmRjXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTZlOWZkOGYtYWY4Yi00OGI1LTgwZDMtZjRkOWRlYzM4YmRjXkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.3,
+    "year": 2025,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -565,7 +565,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Pets on a Train animated movie streaming on ShinobiHub.",
+    "synopsis": "When a crew of animal bandits embark on a routine swindle, they find themselves caught up in a train heist. It's up to Falcon, a petty thief raccoon, and Rex, a righteous police-dog, to save the animals on this high-speed runway t...",
     "languages": [
       "hindi"
     ],
@@ -582,7 +582,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Pets on a Train (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTZlOWZkOGYtYWY4Yi00OGI1LTgwZDMtZjRkOWRlYzM4YmRjXkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Pets on a Train full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/v6ycE8s7?download",
@@ -863,10 +863,10 @@ export const ANIME_DATABASE = [
     "title": "Ploey: You Never Fly Alone",
     "raw_name": "Ploey: You Never Fly Alone",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGE5NDVhYWQtYzkwZS00YTk4LWEyNGUtNzQ4MjdhODNmYTViXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMGE5NDVhYWQtYzkwZS00YTk4LWEyNGUtNzQ4MjdhODNmYTViXkEyXkFqcGc@._V1_.jpg",
     "rating": 8.5,
-    "year": 2024,
+    "year": 2018,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -879,7 +879,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Ploey: You Never Fly Alone animated movie streaming on ShinobiHub.",
+    "synopsis": "A plover chick has not learned to fly when his family migrates in the fall. He must survive the arctic winter, vicious enemies and himself in order to be reunited with his beloved one next spring.",
     "languages": [
       "hindi"
     ],
@@ -896,7 +896,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Ploey: You Never Fly Alone (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGE5NDVhYWQtYzkwZS00YTk4LWEyNGUtNzQ4MjdhODNmYTViXkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Ploey: You Never Fly Alone full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/Gxp28uqW?download",
@@ -966,10 +966,10 @@ export const ANIME_DATABASE = [
     "title": "Shark Tale",
     "raw_name": "Shark Tale",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_.jpg",
+    "rating": 6.0,
+    "year": 2004,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -982,7 +982,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Shark Tale animated movie streaming on ShinobiHub.",
+    "synopsis": "When a son of a gangster shark boss is accidentally killed while on the hunt, his would-be prey and his vegetarian brother decide to use the incident to their own advantage.",
     "languages": [
       "hindi"
     ],
@@ -999,7 +999,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Shark Tale (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_.jpg",
             "synopsis": "Shark Tale full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/m1uig76s31eqqvf",
@@ -1016,10 +1016,10 @@ export const ANIME_DATABASE = [
     "title": "Zootopia 2",
     "raw_name": "Zootopia 2",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_.jpg",
+    "rating": 7.3,
+    "year": 2025,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -1032,7 +1032,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Zootopia 2 animated movie streaming on ShinobiHub.",
+    "synopsis": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
     "languages": [
       "hindi"
     ],
@@ -1049,7 +1049,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Zootopia 2 (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Zootopia 2 full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/symygyJZ?download",
@@ -1166,10 +1166,10 @@ export const ANIME_DATABASE = [
     "title": "Madagascar 3: Europe’s Most Wanted",
     "raw_name": "Madagascar 3: Europe’s Most Wanted",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM5OWRiZTAtOTNkMS00NzNhLTkwYmYtMWI1MzkyMjE3MWE1XkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYTM5OWRiZTAtOTNkMS00NzNhLTkwYmYtMWI1MzkyMjE3MWE1XkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.8,
+    "year": 2012,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -1182,7 +1182,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Madagascar 3: Europe’s Most Wanted animated movie streaming on ShinobiHub.",
+    "synopsis": "The Madagascar animals join a struggling European circus to get back to New York, but find themselves being pursued by a psychotic animal-control officer.",
     "languages": [
       "hindi"
     ],
@@ -1199,7 +1199,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Madagascar 3: Europe’s Most Wanted (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTM5OWRiZTAtOTNkMS00NzNhLTkwYmYtMWI1MzkyMjE3MWE1XkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Madagascar 3: Europe’s Most Wanted full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/1po3ujshz7okjtk",
@@ -1316,10 +1316,10 @@ export const ANIME_DATABASE = [
     "title": "Welcome to Smelliville",
     "raw_name": "Welcome to Smelliville",
     "japaneseTitle": "",
-    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
-    "rating": 8.5,
-    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmEzYTVhNzgtODY1MS00NzFiLTg0NjktNWRiYTM0NTVlZjg0XkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYmEzYTVhNzgtODY1MS00NzFiLTg0NjktNWRiYTM0NTVlZjg0XkEyXkFqcGc@._V1_.jpg",
+    "rating": 5.1,
+    "year": 2021,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
@@ -1332,7 +1332,7 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action & Adventure"
     ],
-    "synopsis": "Welcome to Smelliville animated movie streaming on ShinobiHub.",
+    "synopsis": "Looking for a new home, the Ogglies end up in the beautiful, peaceful village of Smelliville. Unfortunately, Smelliville has a stinky problem: The local garbage dump is spoiling the place. Something must be done.",
     "languages": [
       "hindi"
     ],
@@ -1349,7 +1349,7 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Welcome to Smelliville (Main Movie)",
             "runtime": "1h 45m",
-            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmEzYTVhNzgtODY1MS00NzFiLTg0NjktNWRiYTM0NTVlZjg0XkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Welcome to Smelliville full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://hubcloud.ist/drive/um2ke0ekdjlxefh",
