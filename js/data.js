@@ -45,6 +45,256 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "lego-marvel-spider-man-vexed-by-venom",
+    "title": "LEGO Marvel Spider-Man: Vexed by Venom",
+    "raw_name": "LEGO Marvel Spider-Man: Vexed by Venom",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "S1-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "LEGO Marvel Spider-Man: Vexed by Venom anime series streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Movie",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 1 of LEGO Marvel Spider-Man: Vexed by Venom (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/yjngpnggldblplc",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/yjngpnggldblplc"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lego-marvel-avengers-time-twisted",
+    "title": "LEGO Marvel Avengers: Time Twisted",
+    "raw_name": "LEGO Marvel Avengers: Time Twisted",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "S1-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "LEGO Marvel Avengers: Time Twisted anime series streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Movie",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 1 of LEGO Marvel Avengers: Time Twisted (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/ztq4j6tpzljotdj",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/ztq4j6tpzljotdj"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lego-marvel-super-heroes-avengers-reassembled",
+    "title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+    "raw_name": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "S1-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "LEGO Marvel Super Heroes: Avengers Reassembled! anime series streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Movie",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 1 of LEGO Marvel Super Heroes: Avengers Reassembled! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/xxroh6omgnzkjyk",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/xxroh6omgnzkjyk"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lego-marvel-avengers-loki-in-training",
+    "title": "LEGO Marvel Avengers: Loki in Training",
+    "raw_name": "LEGO Marvel Avengers: Loki in Training",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "S1-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "LEGO Marvel Avengers: Loki in Training anime series streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Movie",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 1 of LEGO Marvel Avengers: Loki in Training (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/pxc1ndmtqm1gp4q",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/pxc1ndmtqm1gp4q"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lego-dc-comics-super-heroes-batman-be-leaguered",
+    "title": "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+    "raw_name": "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "S1-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "LEGO DC Comics Super Heroes: Batman Be-Leaguered anime series streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Movie",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 1 of LEGO DC Comics Super Heroes: Batman Be-Leaguered (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/uudqelp1srploid",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/uudqelp1srploid"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "kurokos-basketball",
     "title": "Kuroko's Basketball",
     "raw_name": "Kuroko’s Basketball",
