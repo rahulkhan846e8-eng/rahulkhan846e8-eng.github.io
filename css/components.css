@@ -1070,20 +1070,28 @@
   .hero-bg-mobile {
     display: block;
   }
-  .hero-bg-mobile img {
-    object-position: center top !important;
+  .hero-bg-mobile img,
+  .hero-bg-desktop img {
+    object-fit: cover !important;
+    object-position: center 25% !important;
   }
-  .hero-slide[data-anime-id="solo-leveling"] .hero-bg-mobile img {
-    object-position: center top !important;
+  .hero-slide[data-anime-id="solo-leveling"] .hero-bg-mobile img,
+  .hero-slide[data-anime-id="solo-leveling"] .hero-bg-desktop img {
+    object-position: center 20% !important;
   }
-  .hero-slide[data-anime-id="one-punch-man"] .hero-bg-mobile img {
-    object-position: center top !important;
+  .hero-slide[data-anime-id="one-punch-man"] .hero-bg-mobile img,
+  .hero-slide[data-anime-id="one-punch-man"] .hero-bg-desktop img {
+    object-position: center 18% !important;
   }
 
   .hero-nav-arrow {
-    width: 38px;
-    height: 38px;
-    background: rgba(5, 12, 36, 0.85);
+    width: 30px !important;
+    height: 30px !important;
+    background: rgba(5, 12, 36, 0.7) !important;
+  }
+  .hero-nav-arrow svg {
+    width: 16px !important;
+    height: 16px !important;
   }
   .hero-nav-prev {
     left: 8px;
@@ -1093,35 +1101,55 @@
   }
   .hero-showcase {
     margin-top: 0 !important;
-    height: 52vh !important;
-    min-height: 360px !important;
-    max-height: 460px !important;
+    height: 220px !important;
+    min-height: 200px !important;
+    max-height: 240px !important;
+    border-radius: 0 0 14px 14px;
+    overflow: hidden;
   }
   .hero-content {
-    padding-top: 10px !important;
-    padding-bottom: 20px !important;
-    padding-left: 16px !important;
-    padding-right: 16px !important;
+    padding-top: 8px !important;
+    padding-bottom: 12px !important;
+    padding-left: 14px !important;
+    padding-right: 14px !important;
     justify-content: flex-end !important;
   }
   .hero-info-box {
     margin-top: auto;
   }
   .hero-title {
-    font-size: 1.4rem !important;
+    font-size: 1.25rem !important;
     font-weight: 800 !important;
-    line-height: 1.18 !important;
-    margin-bottom: 4px !important;
-    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.9) !important;
+    line-height: 1.15 !important;
+    margin-bottom: 2px !important;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.95) !important;
   }
   .hero-badges {
-    margin-bottom: 6px !important;
-    gap: 5px !important;
+    margin-bottom: 4px !important;
+    gap: 4px !important;
+  }
+  .hero-badges .badge {
+    font-size: 0.62rem !important;
+    padding: 2px 6px !important;
+  }
+  .hero-indicators {
+    bottom: 5px !important;
+  }
+  .hero-dot {
+    width: 16px !important;
+    height: 3px !important;
+  }
+  .hero-dot.active {
+    width: 28px !important;
   }
 
   /* Shelf Section & Header Refinements */
+  .shelf-section {
+    padding: 10px 0 4px !important;
+    margin: 0 !important;
+  }
   .shelf-header {
-    margin-bottom: 10px !important;
+    margin-bottom: 6px !important;
     padding: 0 2px !important;
     align-items: center !important;
   }
@@ -1150,31 +1178,51 @@
   }
 
   /* Shelf Track & Compact Cards - Completely remove empty chunk of space below title */
+  .shelf-carousel-wrapper {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .shelf-nav-btn {
+    display: none !important;
+  }
   .shelf-track {
     align-items: flex-start !important;
-    gap: 12px !important;
-    padding: 4px 2px 14px 2px !important;
+    gap: 10px !important;
+    padding: 2px 0 4px 0 !important;
   }
+  .shelf-track .anime-card,
   .anime-card {
-    flex: 0 0 135px !important;
+    content-visibility: visible !important;
+    contain-intrinsic-size: none !important;
+    flex: 0 0 130px !important;
+    width: 130px !important;
+    max-width: 130px !important;
     border-radius: 8px !important;
     align-self: flex-start !important;
     height: auto !important;
   }
+  .shelf-track .anime-card-poster,
   .anime-card-poster {
+    width: 100% !important;
+    height: 185px !important;
     aspect-ratio: 2 / 3 !important;
     border-radius: 8px 8px 0 0 !important;
+    overflow: hidden !important;
   }
+  .shelf-track .anime-card-body,
   .anime-card-body {
-    padding: 6px 8px 8px !important;
+    padding: 5px 6px 6px !important;
     flex: none !important;
+    height: 44px !important;
+    box-sizing: border-box !important;
     background: var(--cr-bg-card) !important;
     border-radius: 0 0 8px 8px !important;
   }
+  .shelf-track .anime-card-title,
   .anime-card-title {
-    font-size: 0.8rem !important;
-    line-height: 1.24 !important;
-    max-height: 2.48em !important;
+    font-size: 0.78rem !important;
+    line-height: 1.2 !important;
+    max-height: 2.4em !important;
     display: -webkit-box !important;
     -webkit-line-clamp: 2 !important;
     -webkit-box-orient: vertical !important;
@@ -1185,7 +1233,20 @@
   }
 
   .continue-card {
-    flex: 0 0 220px !important;
+    flex: 0 0 200px !important;
+    border-radius: 8px !important;
+  }
+  .continue-thumb {
+    aspect-ratio: 16 / 9 !important;
+    border-radius: 8px 8px 0 0 !important;
+  }
+  .continue-body {
+    padding: 6px 8px 6px !important;
+  }
+  .continue-title {
+    font-size: 0.82rem !important;
+    line-height: 1.22 !important;
+    margin-bottom: 2px !important;
   }
 
   .mobile-search-toggle-btn {
