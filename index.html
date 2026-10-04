@@ -12,10 +12,10 @@
   
   
   <!-- CSS Stylesheets (with version cache busting) -->
-  <link rel="stylesheet" href="css/main.css?v=20261004_v4" />
-  <link rel="stylesheet" href="css/components.css?v=20261004_v4" />
-  <link rel="stylesheet" href="css/player.css?v=20261004_v4" />
-  <link rel="stylesheet" href="css/views.css?v=20261004_v4" />
+  <link rel="stylesheet" href="css/main.css?v=20261004_v5" />
+  <link rel="stylesheet" href="css/components.css?v=20261004_v5" />
+  <link rel="stylesheet" href="css/player.css?v=20261004_v5" />
+  <link rel="stylesheet" href="css/views.css?v=20261004_v5" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23091540'/><text x='50%' y='68%' font-family='sans-serif' font-size='56' font-weight='900' fill='%233a86ff' text-anchor='middle'>S</text></svg>" />
 
   <!-- Google tag (gtag.js) -->
@@ -29,9 +29,9 @@
   </script>
 
   <style>
-    /* Mobile Hero & Shelf Optimizations */
+    /* Absolute Fail-Safe Mobile Hero Styles */
     @media (max-width: 992px) {
-      .hero-actions, .desktop-only, .hero-japanese-title, .hero-synopsis {
+      .hero-actions, .desktop-only {
         display: none !important;
         visibility: hidden !important;
         height: 0 !important;
@@ -42,180 +42,16 @@
         pointer-events: none !important;
       }
       .hero-showcase {
-        margin-top: 0 !important;
-        height: 220px !important;
-        min-height: 200px !important;
-        max-height: 240px !important;
-        border-radius: 0 0 14px 14px;
-        overflow: hidden;
+        height: 50vh !important;
+        min-height: 350px !important;
+        max-height: 440px !important;
       }
       .hero-content {
-        padding-top: 8px !important;
-        padding-bottom: 12px !important;
-        padding-left: 14px !important;
-        padding-right: 14px !important;
+        padding-bottom: 24px !important;
         justify-content: flex-end !important;
-      }
-      .hero-title {
-        font-size: 1.25rem !important;
-        font-weight: 800 !important;
-        line-height: 1.15 !important;
-        margin-bottom: 2px !important;
-        text-shadow: 0 2px 8px rgba(0, 0, 0, 0.95) !important;
-      }
-      .hero-badges {
-        margin-bottom: 4px !important;
-        gap: 4px !important;
-      }
-      .hero-badges .badge {
-        font-size: 0.62rem !important;
-        padding: 2px 6px !important;
-      }
-      .hero-indicators {
-        bottom: 5px !important;
-      }
-      .hero-dot {
-        width: 16px !important;
-        height: 3px !important;
-      }
-      .hero-dot.active {
-        width: 28px !important;
-      }
-      .hero-nav-arrow {
-        width: 30px !important;
-        height: 30px !important;
-        background: rgba(5, 12, 36, 0.7) !important;
-      }
-      .hero-nav-arrow svg {
-        width: 16px !important;
-        height: 16px !important;
       }
       .hero-slide {
         cursor: pointer !important;
-      }
-      .hero-bg-mobile img,
-      .hero-bg-desktop img {
-        object-fit: cover !important;
-        object-position: center 25% !important;
-      }
-      .hero-slide[data-anime-id="solo-leveling"] .hero-bg-mobile img,
-      .hero-slide[data-anime-id="solo-leveling"] .hero-bg-desktop img {
-        object-position: center 20% !important;
-      }
-      .hero-slide[data-anime-id="one-punch-man"] .hero-bg-mobile img,
-      .hero-slide[data-anime-id="one-punch-man"] .hero-bg-desktop img {
-        object-position: center 18% !important;
-      }
-      .hero-gradient-mobile {
-        background: 
-          linear-gradient(to top, rgba(3, 8, 24, 0.96) 0%, rgba(3, 8, 24, 0.7) 24%, rgba(9, 21, 64, 0.15) 50%, transparent 70%),
-          linear-gradient(to bottom, rgba(3, 8, 24, 0.35) 0%, transparent 14%) !important;
-      }
-
-      /* Shelf Section & Header Refinements */
-      .shelf-section {
-        padding: 10px 0 4px !important;
-        margin: 0 !important;
-      }
-      .shelf-header {
-        margin-bottom: 6px !important;
-        padding: 0 2px !important;
-        align-items: center !important;
-      }
-      .shelf-title-group {
-        gap: 8px !important;
-        align-items: center !important;
-      }
-      .shelf-title {
-        font-size: 1.05rem !important;
-        font-weight: 700 !important;
-        line-height: 1.25 !important;
-        color: #ffffff !important;
-        gap: 6px !important;
-      }
-      .shelf-title-accent {
-        width: 3px !important;
-        height: 14px !important;
-        border-radius: 2px !important;
-        flex-shrink: 0 !important;
-      }
-      .shelf-view-all {
-        font-size: 0.78rem !important;
-        font-weight: 600 !important;
-        white-space: nowrap !important;
-        padding-left: 8px !important;
-      }
-
-      /* Shelf Track & Compact Cards - Completely remove empty chunk of space below title */
-      .shelf-carousel-wrapper {
-        margin: 0 !important;
-        padding: 0 !important;
-      }
-      .shelf-nav-btn {
-        display: none !important;
-      }
-      .shelf-track {
-        align-items: flex-start !important;
-        gap: 10px !important;
-        padding: 2px 0 4px 0 !important;
-      }
-      .shelf-track .anime-card,
-      .anime-card {
-        content-visibility: visible !important;
-        contain-intrinsic-size: none !important;
-        flex: 0 0 130px !important;
-        width: 130px !important;
-        max-width: 130px !important;
-        border-radius: 8px !important;
-        align-self: flex-start !important;
-        height: auto !important;
-      }
-      .shelf-track .anime-card-poster,
-      .anime-card-poster {
-        width: 100% !important;
-        height: 185px !important;
-        aspect-ratio: 2 / 3 !important;
-        border-radius: 8px 8px 0 0 !important;
-        overflow: hidden !important;
-      }
-      .shelf-track .anime-card-body,
-      .anime-card-body {
-        padding: 5px 6px 6px !important;
-        flex: none !important;
-        height: 44px !important;
-        box-sizing: border-box !important;
-        background: var(--cr-bg-card) !important;
-        border-radius: 0 0 8px 8px !important;
-      }
-      .shelf-track .anime-card-title,
-      .anime-card-title {
-        font-size: 0.78rem !important;
-        line-height: 1.2 !important;
-        max-height: 2.4em !important;
-        display: -webkit-box !important;
-        -webkit-line-clamp: 2 !important;
-        -webkit-box-orient: vertical !important;
-        overflow: hidden !important;
-        text-overflow: ellipsis !important;
-        margin: 0 !important;
-        word-break: break-word !important;
-      }
-
-      .continue-card {
-        flex: 0 0 200px !important;
-        border-radius: 8px !important;
-      }
-      .continue-thumb {
-        aspect-ratio: 16 / 9 !important;
-        border-radius: 8px 8px 0 0 !important;
-      }
-      .continue-body {
-        padding: 6px 8px 6px !important;
-      }
-      .continue-title {
-        font-size: 0.82rem !important;
-        line-height: 1.22 !important;
-        margin-bottom: 2px !important;
       }
     }
   </style>
@@ -432,14 +268,14 @@
             </div>
           </div>
 
-          <!-- Movies Shelf -->
+          <!-- Animated Feature Films & Movies Shelf -->
           <div class="shelf-section">
             <div class="shelf-header">
               <div class="shelf-title-group">
                 <span class="shelf-title-accent" style="background: #ec4899;"></span>
-                <h3 class="shelf-title">Movies</h3>
+                <h3 class="shelf-title">🎬 Animated Feature Films &amp; Movies</h3>
               </div>
-              <a href="#browse?type=Movie" class="shelf-view-all">View All &gt;</a>
+              <a href="#browse?type=Movie" class="shelf-view-all">View All Movies &gt;</a>
             </div>
             <div class="shelf-carousel-wrapper">
               <button class="shelf-nav-btn prev" title="Scroll Left">&#10094;</button>
