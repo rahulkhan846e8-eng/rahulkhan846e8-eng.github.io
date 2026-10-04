@@ -68,12 +68,17 @@ class App {
   initHeader() {
     const header = document.querySelector(".site-header");
     window.addEventListener("scroll", () => {
+      const hash = window.location.hash || "#home";
+      const root = hash.slice(1).split("?")[0].split("/")[0];
+      if (root !== "anime" && root !== "stream" && root !== "watch") {
+        sessionStorage.setItem("shinobi_last_browse_scroll", window.scrollY.toString());
+      }
       if (window.scrollY > 20) {
         header?.classList.add("scrolled");
       } else {
         header?.classList.remove("scrolled");
       }
-    });
+    }, { passive: true });
 
     // Category dropdown click handlers
     document.querySelectorAll(".category-menu-item").forEach(item => {
@@ -161,8 +166,15 @@ class App {
       return;
     }
 
-    // Scroll to top
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    // Check if we are restoring previous browse scroll position
+    const shouldRestoreScroll = sessionStorage.getItem("shinobi_restore_scroll") === "1";
+    sessionStorage.removeItem("shinobi_restore_scroll");
+    const savedScrollY = parseInt(sessionStorage.getItem("shinobi_last_browse_scroll") || "0", 10);
+
+    // Scroll to top only if not restoring previous scroll position
+    if (!shouldRestoreScroll || savedScrollY <= 0) {
+      window.scrollTo({ top: 0, behavior: "instant" });
+    }
 
     // Hide all view sections
     document.querySelectorAll(".view-section").forEach(view => view.classList.remove("active"));
@@ -220,6 +232,15 @@ class App {
     } else if (root === "history") {
       document.getElementById("history-view")?.classList.add("active");
       UIRenderer.renderHistoryView();
+    }
+
+    // Restore scroll position on browse / library / home views if returning from anime details
+    if (shouldRestoreScroll && savedScrollY > 0 && (root === "browse" || root === "library" || root === "home" || root === "watchlist" || root === "history")) {
+      requestAnimationFrame(() => {
+        setTimeout(() => {
+          window.scrollTo({ top: savedScrollY, behavior: "instant" });
+        }, 40);
+      });
     }
   }
 
@@ -518,24 +539,32 @@ class App {
   // --------------------------------------------------------------------------
   initGlobalDelegation() {
     document.body.addEventListener("click", (e) => {
-      // 0. Back button clicked on Anime Details page
+      // 0. Back button clicked on Anime Details page -> Return directly to browse/home where user left off
       const backBtn = e.target.closest("#anime-detail-back-btn, .btn-detail-back");
       if (backBtn) {
         e.preventDefault();
         e.stopPropagation();
         const lastPage = sessionStorage.getItem("shinobi_last_browse_page") || "#home";
-        if (window.history.length > 1) {
-          window.history.back();
-          // Safeguard: if hash hasn't updated after 250ms, navigate to lastPage
-          setTimeout(() => {
-            if (window.location.hash.startsWith("#anime")) {
-              window.location.hash = lastPage;
-            }
-          }, 250);
-        } else {
-          window.location.hash = lastPage;
-        }
+        sessionStorage.setItem("shinobi_restore_scroll", "1");
+        window.location.hash = lastPage;
         return;
+      }
+
+      // 0b. Back button or All Episodes clicked on Episode Download / Stream page -> Return to anime details without trapping history
+      const dlBackLink = e.target.closest(".dl-back-link, .btn-ep-nav-all");
+      if (dlBackLink) {
+        e.preventDefault();
+        e.stopPropagation();
+        const targetHref = dlBackLink.getAttribute("href") || "#home";
+        window.location.replace(targetHref);
+        return;
+      }
+
+      // 0c. Nav links clicked in site header -> Clear saved browse scroll so page opens cleanly at top
+      const navLink = e.target.closest(".site-header .nav-link, .mobile-nav-link, .nav-logo");
+      if (navLink) {
+        sessionStorage.removeItem("shinobi_last_browse_scroll");
+        sessionStorage.removeItem("shinobi_restore_scroll");
       }
 
       // 1. Anime Card clicked -> ALWAYS navigate to anime episode details page
@@ -543,6 +572,7 @@ class App {
       if (animeCard && !e.target.closest(".watchlist-toggle-btn")) {
         e.preventDefault();
         e.stopPropagation();
+        sessionStorage.setItem("shinobi_last_browse_scroll", window.scrollY.toString());
         const animeId = animeCard.dataset.animeId;
         if (animeId) {
           window.location.hash = `#anime/${animeId}`;
@@ -555,6 +585,7 @@ class App {
       if (detailBtn) {
         e.preventDefault();
         e.stopPropagation();
+        sessionStorage.setItem("shinobi_last_browse_scroll", window.scrollY.toString());
         const animeId = detailBtn.dataset.animeId;
         if (animeId) {
           window.location.hash = `#anime/${animeId}`;
@@ -566,6 +597,7 @@ class App {
       if (heroSlide && !e.target.closest(".watchlist-toggle-btn") && !e.target.closest(".hero-controls") && !e.target.closest(".hero-nav-arrow")) {
         e.preventDefault();
         e.stopPropagation();
+        sessionStorage.setItem("shinobi_last_browse_scroll", window.scrollY.toString());
         const animeId = heroSlide.dataset.animeId;
         if (animeId) {
           window.location.hash = `#anime/${animeId}`;
@@ -682,6 +714,7 @@ class App {
     dropdown.addEventListener("click", (e) => {
       const row = e.target.closest(".search-result-row");
       if (row) {
+        sessionStorage.setItem("shinobi_last_browse_scroll", window.scrollY.toString());
         const animeId = row.dataset.animeId;
         window.location.hash = `#anime/${animeId}`;
         dropdown.classList.remove("active");
