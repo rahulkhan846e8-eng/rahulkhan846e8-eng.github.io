@@ -45,6 +45,834 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "suzume",
+    "title": "Suzume",
+    "raw_name": "Suzume",
+    "japaneseTitle": "すずめの戸締まり",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142770-YgESt2HJXlNg.jpg",
+    "rating": 8.1,
+    "year": 2022,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2022",
+    "studio": "CoMix Wave",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "synopsis": "The story follows Suzume, a 17-year-old girl from a quiet Kyushu town who meets a young man looking for a door. They find a door within ruins in the mountain, and Suzume opens it. Soon, more doors begin to open around Japan, bringing disasters from the other side. The film depicts Suzume's liberation and growth, as she closes the doors that are causing disaster.\n\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2022",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Suzume (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
+            "synopsis": "Suzume full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/B4aUcwTT?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/B4aUcwTT?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-first-snow-of-fraggle-rock",
+    "title": "The First Snow of Fraggle Rock",
+    "raw_name": "The First Snow of Fraggle Rock",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDU0ZDEyNjAtMDM4Zi00ZWNiLTk4ZTctZTNmYmE2OGQ5MjM0XkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNDU0ZDEyNjAtMDM4Zi00ZWNiLTk4ZTctZTNmYmE2OGQ5MjM0XkEyXkFqcGc@._V1_.jpg",
+    "rating": 8.5,
+    "year": 2025,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Short",
+      "Comedy",
+      "Family"
+    ],
+    "synopsis": "Follows the Fraggles as they eagerly await the first snow of the season. When only a single snowflake arrives and Gobo can't write the yearly holiday song everyone is expecting, the season is thrown off course.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The First Snow of Fraggle Rock (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDU0ZDEyNjAtMDM4Zi00ZWNiLTk4ZTctZTNmYmE2OGQ5MjM0XkEyXkFqcGc@._V1_.jpg",
+            "synopsis": "The First Snow of Fraggle Rock full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/1wppmrxvtamqvmp",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/1wppmrxvtamqvmp"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "open-the-door",
+    "title": "Open the Door",
+    "raw_name": "Open Season: Scared Silly",
+    "japaneseTitle": "扉を開けて",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3192-OFCSpJwlHo6O.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3192-V3TqbzSpub9A.png",
+    "rating": 5.9,
+    "year": 1986,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1986",
+    "studio": "Magic Bus",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "synopsis": "In modern day Tokyo, three university students, Negishi Miyako (Neko-chan), Saiki Haruka, and Yamagishi Keiichiro, have magical powers that make them feel like outcasts. They come together one night and are transported to another world. They open a massive door and Neko finds that she is the Princess Neryulla, who must defeat the evil Duran III to free her people. \n(Source: AniDB)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1986",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Open the Door (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3192-OFCSpJwlHo6O.png",
+            "synopsis": "Open the Door full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/ahdbap5dbebafzf",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/ahdbap5dbebafzf"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "over-the-hedge",
+    "title": "Over the Hedge",
+    "raw_name": "Over the Hedge",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZiYjQ2ZDctMDI3Yy00YmViLWEyMGYtZTYxMmE2MGM5Y2M5XkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BN2ZiYjQ2ZDctMDI3Yy00YmViLWEyMGYtZTYxMmE2MGM5Y2M5XkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.7,
+    "year": 2006,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2006",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "A scheming raccoon fools a mismatched family of forest creatures into helping him repay a debt of food, by invading the new suburban sprawl that popped up while they were hibernating...and learns a lesson about family himself.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2006",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Over the Hedge (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2ZiYjQ2ZDctMDI3Yy00YmViLWEyMGYtZTYxMmE2MGM5Y2M5XkEyXkFqcGc@._V1_.jpg",
+            "synopsis": "Over the Hedge full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ebNng4pS?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ebNng4pS?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-red-scroll",
+    "title": "The Red Scroll",
+    "raw_name": "The Red Scroll",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODExZGU5YjYtNGY4Yi00OGE3LTk3N2EtZmUxYjUyYjQxMzMzXkEyXkFqcGdeQXVyNjk1MzY0NTY@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BODExZGU5YjYtNGY4Yi00OGE3LTk3N2EtZmUxYjUyYjQxMzMzXkEyXkFqcGdeQXVyNjk1MzY0NTY@._V1_.jpg",
+    "rating": 6.4,
+    "year": 2020,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2020",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "synopsis": "This is the story of Nina, a 13-year-old girl who is transported to the universe of Telurian, a mysterious and Earth-like world inhabited by various fantastic creatures. There she will join a group who must prevent the master of d...",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2020",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Red Scroll (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BODExZGU5YjYtNGY4Yi00OGE3LTk3N2EtZmUxYjUyYjQxMzMzXkEyXkFqcGdeQXVyNjk1MzY0NTY@._V1_.jpg",
+            "synopsis": "The Red Scroll full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/j1x23yajryfaxp9",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/j1x23yajryfaxp9"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ratatouille",
+    "title": "Ratatouille",
+    "raw_name": "Ratatouille",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+    "rating": 8.1,
+    "year": 2007,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2007",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2007",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ratatouille (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+            "synopsis": "Ratatouille full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/i8momrm8npamsaa",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/i8momrm8npamsaa"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scrooge-a-christmas-carol",
+    "title": "Scrooge: A Christmas Carol",
+    "raw_name": "Scrooge A Christmas Carol",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzBhNGM2ZDYtYTBhMi00NjBjLTg5ZjQtZDAxZDk1MzA2YTcyXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYzBhNGM2ZDYtYTBhMi00NjBjLTg5ZjQtZDAxZDk1MzA2YTcyXkEyXkFqcGc@._V1_.jpg",
+    "rating": 6.2,
+    "year": 2022,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2022",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "A supernatural, time-travelling, musical adaptation of Charles Dickens's cult Christmas story.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2022",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Scrooge: A Christmas Carol (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzBhNGM2ZDYtYTBhMi00NjBjLTg5ZjQtZDAxZDk1MzA2YTcyXkEyXkFqcGc@._V1_.jpg",
+            "synopsis": "Scrooge: A Christmas Carol full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/gamwyiml21m1igq",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/gamwyiml21m1igq"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "loopdidoo-and-the-treasure-of-captain-nem-bones",
+    "title": "Loopdidoo and the Treasure of Captain Nem Bones",
+    "raw_name": "Loopdidoo and the Treasure of Captain Nem Bones",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Loopdidoo and the Treasure of Captain Nem Bones animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Loopdidoo and the Treasure of Captain Nem Bones (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Loopdidoo and the Treasure of Captain Nem Bones full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/c1fjvgackfim2ca",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/c1fjvgackfim2ca"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-swan-princess-a-fairytale-is-born",
+    "title": "The Swan Princess: A Fairytale Is Born",
+    "raw_name": "The Swan Princess A Fairytale Is Born",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjI3YjhkMDctZmE3Ni00NTk5LWFjZmUtOTY4ZDMxMzIwYTAwXkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZjI3YjhkMDctZmE3Ni00NTk5LWFjZmUtOTY4ZDMxMzIwYTAwXkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
+    "rating": 8.5,
+    "year": 2023,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2023",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "While Uberta is preparing to give the royal sceptre to Odette and Derek, another queen is scheming to ruin the coronation.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Swan Princess: A Fairytale Is Born (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjI3YjhkMDctZmE3Ni00NTk5LWFjZmUtOTY4ZDMxMzIwYTAwXkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
+            "synopsis": "The Swan Princess: A Fairytale Is Born full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/vchsczmrxuhnsxm",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/vchsczmrxuhnsxm"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-swan-princess-far-longer-than-forever",
+    "title": "The Swan Princess: Far Longer Than Forever",
+    "raw_name": "The Swan Princess: Far Longer Than Forever",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ0OTBkYTYtYmU0Zi00NTc4LWI4ODAtMDA0NTg0ODE5ZjEwXkEyXkFqcGdeQXVyNjQ2MjM1OTk@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BOTQ0OTBkYTYtYmU0Zi00NTc4LWI4ODAtMDA0NTg0ODE5ZjEwXkEyXkFqcGdeQXVyNjQ2MjM1OTk@._V1_.jpg",
+    "rating": 8.5,
+    "year": 2023,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2023",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation"
+    ],
+    "synopsis": "The Swan Princess: Far Longer than Forever is a 2023 direct-to-DVD computer-animated sequel where Derek discovers that his father was accused of having deals with pirates forcing him and Odette to go undercover.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Swan Princess: Far Longer Than Forever (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTQ0OTBkYTYtYmU0Zi00NTc4LWI4ODAtMDA0NTg0ODE5ZjEwXkEyXkFqcGdeQXVyNjQ2MjM1OTk@._V1_.jpg",
+            "synopsis": "The Swan Princess: Far Longer Than Forever full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/uni33i3dnklwfdb",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/uni33i3dnklwfdb"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guillermo-del-toros-pinocchio",
+    "title": "Guillermo del Toro's Pinocchio",
+    "raw_name": "Guillermo del Toro’s Pinocchio",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2I3NDQzZmQtODJmOS00M2QyLWIxZTItYTA1ZTYzOWJlM2ZmXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BN2I3NDQzZmQtODJmOS00M2QyLWIxZTItYTA1ZTYzOWJlM2ZmXkEyXkFqcGc@._V1_.jpg",
+    "rating": 7.6,
+    "year": 2022,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2022",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "A father's wish magically brings a wooden boy to life in Italy, giving him a chance to care for the child.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2022",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Guillermo del Toro's Pinocchio (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2I3NDQzZmQtODJmOS00M2QyLWIxZTItYTA1ZTYzOWJlM2ZmXkEyXkFqcGc@._V1_.jpg",
+            "synopsis": "Guillermo del Toro's Pinocchio full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/1xxs7svhq8riv7a",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/1xxs7svhq8riv7a"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pixi-post-the-gift-bringers",
+    "title": "Pixi Post & the Gift Bringers",
+    "raw_name": "Pixi Post & the Gift Bringers",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Pixi Post & the Gift Bringers animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Pixi Post & the Gift Bringers (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Pixi Post & the Gift Bringers full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/0om0qsbblg1q0yq",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/0om0qsbblg1q0yq"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "klaus",
+    "title": "Klaus",
+    "raw_name": "Klaus",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_.jpg",
+    "rating": 8.2,
+    "year": 2019,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2019",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Klaus (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_.jpg",
+            "synopsis": "Klaus full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/ks1wqmahtpkdaym",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/ks1wqmahtpkdaym"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pinocchio-a-true-story",
+    "title": "Pinocchio: A True Story",
+    "raw_name": "Pinocchio A True Story",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdiYjliNTItYTYyZC00ODY3LTgyMmUtMzQwOWI0MWE2YzlhXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYjdiYjliNTItYTYyZC00ODY3LTgyMmUtMzQwOWI0MWE2YzlhXkEyXkFqcGc@._V1_.jpg",
+    "rating": 3.2,
+    "year": 2022,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2022",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "synopsis": "Young Pinocchio runs away from his genius creator Jepetto accompanied by the horse Tibalt to see the world and joins the traveling circus run by hustler Modjafocco.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2022",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Pinocchio: A True Story (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdiYjliNTItYTYyZC00ODY3LTgyMmUtMzQwOWI0MWE2YzlhXkEyXkFqcGc@._V1_.jpg",
+            "synopsis": "Pinocchio: A True Story full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/xg6jl6wymjhqjgq",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/xg6jl6wymjhqjgq"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-tigers-apprentice",
+    "title": "The Tiger's Apprentice",
+    "raw_name": "The Tiger’s Apprentice",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTljMWNkOTgtYjFlMC00NzcxLWFhMTktMDhmZWIxMjBhNWJmXkEyXkFqcGc@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNTljMWNkOTgtYjFlMC00NzcxLWFhMTktMDhmZWIxMjBhNWJmXkEyXkFqcGc@._V1_.jpg",
+    "rating": 5.8,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "Tom Lee, a Chinese-American boy, after the death of his grandmother, has to be apprenticed to the talking tiger Mr. Hu and learn ancient magic to become the new guardian of an ancient phoenix.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Tiger's Apprentice (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTljMWNkOTgtYjFlMC00NzcxLWFhMTktMDhmZWIxMjBhNWJmXkEyXkFqcGc@._V1_.jpg",
+            "synopsis": "The Tiger's Apprentice full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/6YkDggtn?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/6YkDggtn?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-lego-movie",
+    "title": "The Lego Movie",
+    "raw_name": "The Lego",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_.jpg",
+    "rating": 7.7,
+    "year": 2014,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2014",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2014",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Lego Movie (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_.jpg",
+            "synopsis": "The Lego Movie full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/lecyoyyd76d9o6j",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/lecyoyyd76d9o6j"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power",
     "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
     "raw_name": "Noble Reincarnation: Born Blessed, So I’ll Obtain Ultimate Power",
