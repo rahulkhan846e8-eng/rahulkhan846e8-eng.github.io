@@ -528,11 +528,11 @@
     linear-gradient(to bottom, rgba(3, 8, 24, 1) 0%, rgba(3, 8, 24, 0.8) 12%, transparent 35%);
 }
 
-/* Mobile gradient — subtle fade for title legibility without masking character art */
+/* Mobile gradient — heavier bottom for poster images */
 .hero-gradient-mobile {
   background: 
-    linear-gradient(to top, rgba(3, 8, 24, 0.96) 0%, rgba(3, 8, 24, 0.72) 22%, rgba(9, 21, 64, 0.15) 45%, transparent 65%),
-    linear-gradient(to bottom, rgba(3, 8, 24, 0.35) 0%, transparent 14%);
+    linear-gradient(to top, var(--cr-blue-deep) 0%, rgba(3, 8, 24, 0.85) 40%, rgba(9, 21, 64, 0.3) 70%, transparent 100%),
+    linear-gradient(to bottom, rgba(3, 8, 24, 0.9) 0%, rgba(3, 8, 24, 0.5) 15%, transparent 40%);
 }
 
 .hero-content {
@@ -749,7 +749,6 @@
   scroll-behavior: smooth;
   padding: 8px 4px 20px 4px;
   scrollbar-width: none;
-  align-items: flex-start;
 }
 
 .shelf-track::-webkit-scrollbar {
@@ -810,8 +809,6 @@
   border: 1px solid var(--cr-border);
   content-visibility: auto;
   contain-intrinsic-size: 190px 290px;
-  align-self: flex-start;
-  height: auto;
 }
 
 .anime-card:hover {
@@ -897,21 +894,17 @@
   padding: 8px 10px 10px;
   display: flex;
   flex-direction: column;
-  flex: none;
+  flex: 1;
 }
 
 .anime-card-title {
-  font-size: 0.92rem;
+  font-size: 0.94rem;
   font-weight: 700;
   color: #ffffff;
-  line-height: 1.28;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
+  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   margin-bottom: 0;
-  word-break: break-word;
 }
 
 .anime-card-year {
@@ -1049,20 +1042,9 @@
 }
 
 @media (max-width: 768px) {
-  .hero-actions,
-  .desktop-only,
-  .hero-japanese-title,
-  .hero-synopsis {
+  .hero-actions {
     display: none !important;
-    visibility: hidden !important;
-    height: 0 !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    overflow: hidden !important;
-    opacity: 0 !important;
-    pointer-events: none !important;
   }
-
   /* Swap: hide banner, show poster on mobile */
   .hero-bg-desktop {
     display: none;
@@ -1070,28 +1052,13 @@
   .hero-bg-mobile {
     display: block;
   }
-  .hero-bg-mobile img,
-  .hero-bg-desktop img {
-    object-fit: cover !important;
-    object-position: center 25% !important;
+  .hero-bg-mobile img {
+    object-position: center top;
   }
-  .hero-slide[data-anime-id="solo-leveling"] .hero-bg-mobile img,
-  .hero-slide[data-anime-id="solo-leveling"] .hero-bg-desktop img {
-    object-position: center 20% !important;
-  }
-  .hero-slide[data-anime-id="one-punch-man"] .hero-bg-mobile img,
-  .hero-slide[data-anime-id="one-punch-man"] .hero-bg-desktop img {
-    object-position: center 18% !important;
-  }
-
   .hero-nav-arrow {
-    width: 30px !important;
-    height: 30px !important;
-    background: rgba(5, 12, 36, 0.7) !important;
-  }
-  .hero-nav-arrow svg {
-    width: 16px !important;
-    height: 16px !important;
+    width: 38px;
+    height: 38px;
+    background: rgba(5, 12, 36, 0.85);
   }
   .hero-nav-prev {
     left: 8px;
@@ -1100,155 +1067,39 @@
     right: 8px;
   }
   .hero-showcase {
-    margin-top: 0 !important;
-    height: 220px !important;
-    min-height: 200px !important;
-    max-height: 240px !important;
-    border-radius: 0 0 14px 14px;
-    overflow: hidden;
+    height: 58vh;
+    min-height: 400px;
+    max-height: 520px;
   }
   .hero-content {
-    padding-top: 8px !important;
-    padding-bottom: 12px !important;
-    padding-left: 14px !important;
-    padding-right: 14px !important;
-    justify-content: flex-end !important;
+    padding-top: calc(var(--header-height) + 16px);
+    padding-bottom: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    justify-content: flex-end;
   }
   .hero-info-box {
     margin-top: auto;
   }
   .hero-title {
-    font-size: 1.25rem !important;
-    font-weight: 800 !important;
-    line-height: 1.15 !important;
-    margin-bottom: 2px !important;
-    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.95) !important;
+    font-size: 1.45rem;
+    line-height: 1.2;
+    margin-bottom: 4px;
+  }
+  .hero-japanese-title {
+    font-size: 0.78rem;
+    margin-bottom: 6px;
+  }
+  .hero-synopsis {
+    -webkit-line-clamp: 2;
+    font-size: 0.82rem;
+    line-height: 1.4;
+    margin-bottom: 6px;
   }
   .hero-badges {
-    margin-bottom: 4px !important;
-    gap: 4px !important;
+    margin-bottom: 6px;
+    gap: 4px;
   }
-  .hero-badges .badge {
-    font-size: 0.62rem !important;
-    padding: 2px 6px !important;
-  }
-  .hero-indicators {
-    bottom: 5px !important;
-  }
-  .hero-dot {
-    width: 16px !important;
-    height: 3px !important;
-  }
-  .hero-dot.active {
-    width: 28px !important;
-  }
-
-  /* Shelf Section & Header Refinements */
-  .shelf-section {
-    padding: 10px 0 4px !important;
-    margin: 0 !important;
-  }
-  .shelf-header {
-    margin-bottom: 6px !important;
-    padding: 0 2px !important;
-    align-items: center !important;
-  }
-  .shelf-title-group {
-    gap: 8px !important;
-    align-items: center !important;
-  }
-  .shelf-title {
-    font-size: 1.05rem !important;
-    font-weight: 700 !important;
-    line-height: 1.25 !important;
-    color: #ffffff !important;
-    gap: 6px !important;
-  }
-  .shelf-title-accent {
-    width: 3px !important;
-    height: 14px !important;
-    border-radius: 2px !important;
-    flex-shrink: 0 !important;
-  }
-  .shelf-view-all {
-    font-size: 0.78rem !important;
-    font-weight: 600 !important;
-    white-space: nowrap !important;
-    padding-left: 8px !important;
-  }
-
-  /* Shelf Track & Compact Cards - Completely remove empty chunk of space below title */
-  .shelf-carousel-wrapper {
-    margin: 0 !important;
-    padding: 0 !important;
-  }
-  .shelf-nav-btn {
-    display: none !important;
-  }
-  .shelf-track {
-    align-items: flex-start !important;
-    gap: 10px !important;
-    padding: 2px 0 4px 0 !important;
-  }
-  .shelf-track .anime-card,
-  .anime-card {
-    content-visibility: visible !important;
-    contain-intrinsic-size: none !important;
-    flex: 0 0 130px !important;
-    width: 130px !important;
-    max-width: 130px !important;
-    border-radius: 8px !important;
-    align-self: flex-start !important;
-    height: auto !important;
-  }
-  .shelf-track .anime-card-poster,
-  .anime-card-poster {
-    width: 100% !important;
-    height: 185px !important;
-    aspect-ratio: 2 / 3 !important;
-    border-radius: 8px 8px 0 0 !important;
-    overflow: hidden !important;
-  }
-  .shelf-track .anime-card-body,
-  .anime-card-body {
-    padding: 5px 6px 6px !important;
-    flex: none !important;
-    height: 44px !important;
-    box-sizing: border-box !important;
-    background: var(--cr-bg-card) !important;
-    border-radius: 0 0 8px 8px !important;
-  }
-  .shelf-track .anime-card-title,
-  .anime-card-title {
-    font-size: 0.78rem !important;
-    line-height: 1.2 !important;
-    max-height: 2.4em !important;
-    display: -webkit-box !important;
-    -webkit-line-clamp: 2 !important;
-    -webkit-box-orient: vertical !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
-    margin: 0 !important;
-    word-break: break-word !important;
-  }
-
-  .continue-card {
-    flex: 0 0 200px !important;
-    border-radius: 8px !important;
-  }
-  .continue-thumb {
-    aspect-ratio: 16 / 9 !important;
-    border-radius: 8px 8px 0 0 !important;
-  }
-  .continue-body {
-    padding: 6px 8px 6px !important;
-  }
-  .continue-title {
-    font-size: 0.82rem !important;
-    line-height: 1.22 !important;
-    margin-bottom: 2px !important;
-  }
-
   .mobile-search-toggle-btn {
     display: flex;
     align-items: center;
@@ -1285,5 +1136,11 @@
   }
   .main-content {
     padding-bottom: 70px;
+  }
+  .anime-card {
+    flex: 0 0 150px;
+  }
+  .continue-card {
+    flex: 0 0 240px;
   }
 }

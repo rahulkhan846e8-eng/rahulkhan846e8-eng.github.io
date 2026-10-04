@@ -57,7 +57,7 @@ export class UIRenderer {
           <div class="hero-gradient"></div>
         </div>
         <div class="hero-bg hero-bg-mobile">
-          <img src="${anime.banner || anime.poster}" alt="${anime.title}" />
+          <img src="${anime.poster}" alt="${anime.title}" />
           <div class="hero-gradient hero-gradient-mobile"></div>
         </div>
         <div class="hero-content">
