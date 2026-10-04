@@ -3,16 +3,16 @@
  */
 
 import { 
-  ANIME_DATABASE, 
   GENRE_LIST, 
   getNewlyAddedAnime, 
   getPopularAnime, 
   getActionAnime, 
   getTopRatedAnime, 
-  getMovies,
-  getAnimeById, 
+  getMovies, 
+  getAnimeSummary as getAnimeById, 
+  getFullAnimeDetails,
   searchAnime 
-} from './data.js';
+} from './catalog.js';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
 import { UIRenderer } from './ui.js?v=20261003_v3';
@@ -205,10 +205,15 @@ class App {
         ? parseInt(params.get("ep"), 10) 
         : (params?.has("episode") ? parseInt(params.get("episode"), 10) : (savedEp ? parseInt(savedEp, 10) : 0));
 
-      const anime = getAnimeById(animeId);
-      if (anime) {
+      const animeSummary = getAnimeById(animeId);
+      if (animeSummary) {
         document.getElementById("detail-view")?.classList.add("active");
-        UIRenderer.renderAnimeDetail(anime, initialSeasonNum, targetEpNum);
+        UIRenderer.renderAnimeDetail(animeSummary, initialSeasonNum, targetEpNum);
+        getFullAnimeDetails(animeId).then(fullAnime => {
+          if (fullAnime && fullAnime.seasons && window.location.hash.startsWith(`#anime/${animeId}`)) {
+            UIRenderer.renderAnimeDetail(fullAnime, initialSeasonNum, targetEpNum);
+          }
+        });
       } else {
         window.location.hash = "#home";
       }
@@ -219,13 +224,15 @@ class App {
       const seasonNum = params?.get("s") || params?.get("season") || 1;
       const mode = params?.get("mode") || (root === "watch" ? "watch" : "download");
       const lang = params?.get("lang") || "hindi";
-      const anime = getAnimeById(animeId);
-      if (anime) {
-        document.getElementById("stream-view")?.classList.add("active");
-        UIRenderer.renderTelegramStreamView(anime, epNum, seasonNum, mode, lang);
-      } else {
-        window.location.hash = "#home";
-      }
+
+      document.getElementById("stream-view")?.classList.add("active");
+      getFullAnimeDetails(animeId).then(anime => {
+        if (anime && (window.location.hash.startsWith("#stream") || window.location.hash.startsWith("#watch"))) {
+          UIRenderer.renderTelegramStreamView(anime, epNum, seasonNum, mode, lang);
+        } else if (!anime) {
+          window.location.hash = "#home";
+        }
+      });
     } else if (root === "watchlist") {
       document.getElementById("watchlist-view")?.classList.add("active");
       UIRenderer.renderWatchlistView();

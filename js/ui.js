@@ -11,7 +11,7 @@ if (typeof window !== "undefined") {
  */
 
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
-import { ANIME_DATABASE, GENRE_LIST, getAnimeById } from './data.js';
+import { GENRE_LIST, getAnimeSummary as getAnimeById } from './catalog.js';
 
 export class UIRenderer {
   // --------------------------------------------------------------------------
@@ -1102,12 +1102,18 @@ export class UIRenderer {
   // --------------------------------------------------------------------------
   // Browse View
   // --------------------------------------------------------------------------
-  static renderBrowseCatalog(animeList) {
+  static renderBrowseCatalog(animeList, batchSize = 24) {
     const grid = document.getElementById("browse-grid");
     const countEl = document.getElementById("browse-count");
     if (!grid) return;
 
     if (countEl) countEl.style.display = "none";
+
+    // Clean up previous observer if active
+    if (this._browseObserver) {
+      this._browseObserver.disconnect();
+      this._browseObserver = null;
+    }
 
     if (!animeList || animeList.length === 0) {
       grid.innerHTML = `
@@ -1119,7 +1125,47 @@ export class UIRenderer {
       return;
     }
 
-    grid.innerHTML = animeList.map(anime => this.renderAnimeCard(anime)).join("");
+    // Render first batch of cards immediately
+    let renderedCount = 0;
+    const initialBatch = animeList.slice(0, batchSize);
+    grid.innerHTML = initialBatch.map(anime => this.renderAnimeCard(anime)).join("");
+    renderedCount = initialBatch.length;
+
+    // Set up smooth infinite scroll sentinel if more titles remain
+    if (renderedCount < animeList.length) {
+      const sentinel = document.createElement("div");
+      sentinel.id = "browse-sentinel";
+      sentinel.style.cssText = "grid-column: 1 / -1; height: 40px; margin: 24px 0 10px; display: flex; align-items: center; justify-content: center;";
+      sentinel.innerHTML = `<span style="color: var(--cr-text-muted); font-size: 0.85rem; font-weight: 600; letter-spacing: 0.03em;">Loading more titles...</span>`;
+      grid.appendChild(sentinel);
+
+      this._browseObserver = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting) {
+          if (renderedCount >= animeList.length) {
+            sentinel.remove();
+            return;
+          }
+          const nextBatch = animeList.slice(renderedCount, renderedCount + batchSize);
+          const nextHtml = nextBatch.map(anime => this.renderAnimeCard(anime)).join("");
+          sentinel.insertAdjacentHTML("beforebegin", nextHtml);
+          renderedCount += nextBatch.length;
+
+          if (renderedCount >= animeList.length) {
+            sentinel.remove();
+            if (this._browseObserver) {
+              this._browseObserver.disconnect();
+              this._browseObserver = null;
+            }
+          }
+        }
+      }, {
+        root: null,
+        rootMargin: "300px",
+        threshold: 0.1
+      });
+
+      this._browseObserver.observe(sentinel);
+    }
   }
 
   // --------------------------------------------------------------------------
