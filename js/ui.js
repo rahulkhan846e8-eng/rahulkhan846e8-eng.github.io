@@ -334,6 +334,15 @@ export class UIRenderer {
     detailContainer.innerHTML = `
       <div class="detail-hero" style="background-image: url('${anime.banner || anime.poster}');">
         <div class="page-container">
+          <div class="detail-back-bar">
+            <button type="button" class="btn-detail-back" id="anime-detail-back-btn" title="Go Back">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="19" y1="12" x2="5" y2="12"></line>
+                <polyline points="12 19 5 12 12 5"></polyline>
+              </svg>
+              <span>Back</span>
+            </button>
+          </div>
           <div class="detail-hero-content">
             <div class="detail-poster-wrapper">
               <img src="${anime.poster}" alt="${anime.title}" onerror="this.onerror=null; this.src=window.FALLBACK_POSTER;" />

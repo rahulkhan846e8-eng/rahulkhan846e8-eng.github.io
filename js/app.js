@@ -167,6 +167,11 @@ class App {
     // Hide all view sections
     document.querySelectorAll(".view-section").forEach(view => view.classList.remove("active"));
 
+    // Track last browse page for back navigation
+    if (root !== "anime" && root !== "stream" && root !== "watch") {
+      sessionStorage.setItem("shinobi_last_browse_page", window.location.hash || "#home");
+    }
+
     // Route matching
     if (root === "home" || root === "") {
       document.getElementById("home-view")?.classList.add("active");
@@ -513,6 +518,26 @@ class App {
   // --------------------------------------------------------------------------
   initGlobalDelegation() {
     document.body.addEventListener("click", (e) => {
+      // 0. Back button clicked on Anime Details page
+      const backBtn = e.target.closest("#anime-detail-back-btn, .btn-detail-back");
+      if (backBtn) {
+        e.preventDefault();
+        e.stopPropagation();
+        const lastPage = sessionStorage.getItem("shinobi_last_browse_page") || "#home";
+        if (window.history.length > 1) {
+          window.history.back();
+          // Safeguard: if hash hasn't updated after 250ms, navigate to lastPage
+          setTimeout(() => {
+            if (window.location.hash.startsWith("#anime")) {
+              window.location.hash = lastPage;
+            }
+          }, 250);
+        } else {
+          window.location.hash = lastPage;
+        }
+        return;
+      }
+
       // 1. Anime Card clicked -> ALWAYS navigate to anime episode details page
       const animeCard = e.target.closest(".anime-card");
       if (animeCard && !e.target.closest(".watchlist-toggle-btn")) {

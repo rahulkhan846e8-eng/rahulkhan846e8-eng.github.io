@@ -31,6 +31,54 @@
     linear-gradient(to bottom, rgba(5, 12, 36, 0.85) 0%, transparent 20%);
 }
 
+/* Detail Back Navigation Bar */
+.detail-back-bar {
+  position: relative;
+  z-index: 15;
+  margin-bottom: 22px;
+  display: flex;
+  align-items: center;
+}
+
+.btn-detail-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(13, 27, 62, 0.78);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 9999px;
+  padding: 8px 18px;
+  font-size: 0.92rem;
+  font-weight: 700;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.22s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.btn-detail-back:hover {
+  background: rgba(37, 99, 235, 0.92);
+  border-color: rgba(96, 165, 250, 0.6);
+  color: #ffffff;
+  transform: translateX(-3px);
+  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.5);
+}
+
+.btn-detail-back:active {
+  transform: translateX(-1px) scale(0.98);
+}
+
+.btn-detail-back svg {
+  transition: transform 0.2s ease;
+}
+
+.btn-detail-back:hover svg {
+  transform: translateX(-3px);
+}
+
 .detail-hero-content {
   position: relative;
   z-index: 10;
