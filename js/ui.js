@@ -640,9 +640,9 @@ export class UIRenderer {
             <div class="download-header-pill">
               <a href="#anime/${anime.id}?s=${sNum}&ep=${ep.number}" class="dl-back-link">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
-                <span>${anime.title}</span>
+                <span>Back</span>
               </a>
-              <span class="dl-ep-tag">${anime.type === "Movie" ? "🎬 Full Feature Film" : `Season ${sNum} &bull; Episode ${ep.number}`}</span>
+              <span class="dl-ep-tag">${anime.type === "Movie" ? "🎬 Movie" : `Season ${sNum} &bull; Ep ${ep.number}`}</span>
             </div>
 
             <!-- Anime & Episode Preview -->
@@ -652,7 +652,6 @@ export class UIRenderer {
                 <span class="dl-thumb-runtime">${ep.runtime || (anime.type === "Movie" ? '1h 45m' : '24m')}</span>
               </div>
               <div class="download-anime-meta">
-                <h2 class="download-anime-title">${anime.title}</h2>
                 <h3 class="download-ep-title">${anime.type === "Movie" ? `${anime.title} (Full Movie)` : (ep.title && !ep.title.toLowerCase().startsWith('episode') ? `Episode ${ep.number}: ${ep.title}` : `Episode ${ep.number}`)}</h3>
               </div>
             </div>
@@ -697,10 +696,9 @@ export class UIRenderer {
                 <!-- Single Download Option with Season & Episode Info -->
                 <a href="${directDlUrl || 'javascript:void(0)'}" ${directDlUrl ? 'target="_blank" rel="noopener noreferrer"' : ''} class="btn-download-server direct-dl-btn single-hq-download" data-quality="High Quality" data-has-link="${Boolean(directDlUrl)}">
                   <div class="server-btn-left">
-                    <span class="server-badge res-1080" style="background: linear-gradient(135deg, #3a86ff, #00b4d8); font-weight: 800; font-size: 0.82rem; padding: 5px 10px;">${anime.type === "Movie" ? 'MOVIE' : `S${sNum} E${ep.number}`}</span>
+                    <span class="server-badge res-1080" style="background: linear-gradient(135deg, #3a86ff, #00b4d8); font-weight: 800; font-size: 0.82rem; padding: 4px 9px;">${anime.type === "Movie" ? 'MOVIE' : `S${sNum} E${ep.number}`}</span>
                     <div class="server-details">
-                      <span class="server-name" id="dl-server-title" style="font-size: 1.05rem; font-weight: 700; color: #fff;">${anime.type === "Movie" ? `${anime.title} (Full Movie)` : `Season ${sNum} • Episode ${ep.number}`} (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})</span>
-                      <span class="server-meta" id="dl-server-meta" style="color: #94a3b8; font-size: 0.84rem;">${anime.type === "Movie" ? 'Full Feature Film' : (ep.title && !ep.title.toLowerCase().startsWith('episode') ? ep.title : `Episode ${ep.number}`)} &bull; ${currentLang === 'original' ? 'Original Dub Audio + Sub' : 'Hindi Dub Audio'}</span>
+                      <span class="server-name" id="dl-server-title" style="font-size: 0.98rem; font-weight: 700; color: #fff;">${anime.type === "Movie" ? 'Full Movie' : `Season ${sNum} • Episode ${ep.number}`} (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})</span>
                     </div>
                   </div>
                   <div class="server-btn-action">
@@ -759,7 +757,7 @@ export class UIRenderer {
 
         if (titleEl) {
           titleEl.textContent = isMovie
-            ? `${anime.title} (Full Movie) (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})`
+            ? `Full Movie (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})`
             : `Season ${sNum} • Episode ${ep.number} (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})`;
         }
         if (metaEl) {
