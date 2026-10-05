@@ -5286,9 +5286,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 1 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/zus8jrnhftxjggk",
+            "downloadUrl": "https://pixeldrain.net/u/5iteYNfv?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/zus8jrnhftxjggk"
+              "hindi": "https://pixeldrain.net/u/5iteYNfv?download"
             }
           },
           {
@@ -5300,9 +5300,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 2 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/nmxw3orxmynxxjx",
+            "downloadUrl": "https://pixeldrain.net/u/nWHuyXTo?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/nmxw3orxmynxxjx"
+              "hindi": "https://pixeldrain.net/u/nWHuyXTo?download"
             }
           },
           {
@@ -5314,9 +5314,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 3 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/i2kj4ldzgzdedds",
+            "downloadUrl": "https://pixeldrain.net/u/ajDSWvJ2?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/i2kj4ldzgzdedds"
+              "hindi": "https://pixeldrain.net/u/ajDSWvJ2?download"
             }
           },
           {
@@ -5328,9 +5328,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 4 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/tt9tdf95fettvek",
+            "downloadUrl": "https://pixeldrain.net/u/38fUwf63?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/tt9tdf95fettvek"
+              "hindi": "https://pixeldrain.net/u/38fUwf63?download"
             }
           },
           {
@@ -5342,9 +5342,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 5 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/zcckvrngddo3sbd",
+            "downloadUrl": "https://pixeldrain.net/u/yDq1FK1o?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/zcckvrngddo3sbd"
+              "hindi": "https://pixeldrain.net/u/yDq1FK1o?download"
             }
           },
           {
@@ -5356,9 +5356,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 6 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/yrp377l16od7m6p",
+            "downloadUrl": "https://pixeldrain.net/u/mAaCp9aH?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/yrp377l16od7m6p"
+              "hindi": "https://pixeldrain.net/u/mAaCp9aH?download"
             }
           },
           {
@@ -5370,9 +5370,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 7 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/4aa028oro8rqqta",
+            "downloadUrl": "https://pixeldrain.net/u/gtdsNXiS?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/4aa028oro8rqqta"
+              "hindi": "https://pixeldrain.net/u/gtdsNXiS?download"
             }
           },
           {
@@ -5384,9 +5384,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 8 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/44gvgj51hsf1vhx",
+            "downloadUrl": "https://pixeldrain.net/u/TeYE6x7T?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/44gvgj51hsf1vhx"
+              "hindi": "https://pixeldrain.net/u/TeYE6x7T?download"
             }
           },
           {
@@ -5398,9 +5398,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 9 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/oihck18okljkiic",
+            "downloadUrl": "https://pixeldrain.net/u/EbyDDHio?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/oihck18okljkiic"
+              "hindi": "https://pixeldrain.net/u/EbyDDHio?download"
             }
           },
           {
@@ -5412,9 +5412,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481000.jpg",
             "synopsis": "Episode 10 of BAT-FAM (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/ilvvlssvll0wwll",
+            "downloadUrl": "https://pixeldrain.net/u/VsabdVu8?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/ilvvlssvll0wwll"
+              "hindi": "https://pixeldrain.net/u/VsabdVu8?download"
             }
           }
         ]
