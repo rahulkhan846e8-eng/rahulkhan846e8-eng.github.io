@@ -383,13 +383,13 @@ export class UIRenderer {
         <div class="ad-anime-detail-top-wrapper" style="margin: 20px auto 16px; text-align: center; max-width: 100%;">
           <div class="ad-desktop-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
-              width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
+              width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent;" allowtransparency="true"></iframe>
           </div>
           <div class="ad-mobile-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'dd68086309184ab140f2253b3bf43300','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://www.highrevenueformat.com/dd68086309184ab140f2253b3bf43300/invoke.js'></script></body></html>"
-              width="300" height="250" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
+              width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
           </div>
         </div>
 
@@ -465,13 +465,13 @@ export class UIRenderer {
         <div class="ad-anime-detail-wrapper" style="margin: 32px auto 16px; text-align: center;">
           <div class="ad-desktop-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
-              width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
+              width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent;" allowtransparency="true"></iframe>
           </div>
           <div class="ad-mobile-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'dd68086309184ab140f2253b3bf43300','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://www.highrevenueformat.com/dd68086309184ab140f2253b3bf43300/invoke.js'></script></body></html>"
-              width="300" height="250" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
+              width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
           </div>
         </div>
       </div>
@@ -757,13 +757,13 @@ export class UIRenderer {
             <div class="ad-stream-wrapper" style="margin: 20px auto 16px; text-align: center;">
               <div class="ad-desktop-only">
                 <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-                <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
-                  width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+                <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
+                  width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent;" allowtransparency="true"></iframe>
               </div>
               <div class="ad-mobile-only">
                 <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-                <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'dd68086309184ab140f2253b3bf43300','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://www.highrevenueformat.com/dd68086309184ab140f2253b3bf43300/invoke.js'></script></body></html>"
-                  width="300" height="250" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+                <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
+                  width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
               </div>
             </div>
 
@@ -952,26 +952,20 @@ export class UIRenderer {
           </div>
         </div>
 
-        <div class="dl-ad-sponsor-container">
-          <div class="dl-ad-sponsor-label">
+        <div class="dl-ad-sponsor-container" style="padding: 10px 12px; margin-bottom: 14px;">
+          <div class="dl-ad-sponsor-label" style="margin-bottom: 8px;">
             <span>SPONSORED BY OUR PARTNER</span>
             <span class="dl-ad-badge">AD</span>
           </div>
 
-          <div class="dl-ad-box" id="dl-ad-box">
-            <!-- Adsterra 300x250 Medium Rectangle Slot -->
+          <!-- Sleek Horizontal Rectangle Banner (468x60 Desktop / 320x50 Mobile) -->
+          <div class="ad-desktop-only" style="text-align: center;">
+            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'f7e71cec141d5f3a85eccf90c3d8169d','format':'iframe','height':60,'width':468,'params':{}};</script><script src='https://www.highrevenueformat.com/f7e71cec141d5f3a85eccf90c3d8169d/invoke.js'></script></body></html>"
+              width="468" height="60" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
           </div>
-
-          <!-- Secondary Adsterra Banner Slot (468x60 Desktop / 320x50 Mobile) -->
-          <div class="dl-ad-box-secondary" style="margin-top: 12px; text-align: center;">
-            <div class="ad-desktop-only">
-              <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'f7e71cec141d5f3a85eccf90c3d8169d','format':'iframe','height':60,'width':468,'params':{}};</script><script src='https://www.highrevenueformat.com/f7e71cec141d5f3a85eccf90c3d8169d/invoke.js'></script></body></html>"
-                width="468" height="60" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
-            </div>
-            <div class="ad-mobile-only">
-              <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
-                width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
-            </div>
+          <div class="ad-mobile-only" style="text-align: center;">
+            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
+              width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
           </div>
         </div>
 
@@ -987,80 +981,6 @@ export class UIRenderer {
     `;
 
     document.body.appendChild(modal);
-
-    // Populate ad box
-    const adBox = modal.querySelector("#dl-ad-box");
-    adBox.innerHTML = "";
-
-    if (config.adsterra300x250 && config.adsterra300x250.key) {
-      const key = config.adsterra300x250.key;
-      const scriptUrl = config.adsterra300x250.scriptUrl || `https://www.highrevenueformat.com/${key}/invoke.js`;
-      const w = config.adsterra300x250.width || 300;
-      const h = config.adsterra300x250.height || 250;
-
-      const adWrapper = document.createElement("div");
-      adWrapper.id = "adsterra-300x250-holder";
-      adWrapper.style.cssText = `width:100%;max-width:${w}px;min-height:${h}px;margin:0 auto;display:flex;align-items:center;justify-content:center;position:relative;border-radius:10px;overflow:hidden;background:#060c1c;`;
-
-      const iframe = document.createElement("iframe");
-      iframe.width = w.toString();
-      iframe.height = h.toString();
-      iframe.style.border = "none";
-      iframe.style.overflow = "hidden";
-      iframe.style.maxWidth = "100%";
-      iframe.style.borderRadius = "8px";
-      iframe.scrolling = "no";
-      iframe.srcdoc = `
-        <!DOCTYPE html>
-        <html>
-          <head>
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <style>
-              html, body { margin:0; padding:0; background:transparent; display:flex; justify-content:center; align-items:center; overflow:hidden; }
-            </style>
-          </head>
-          <body>
-            <script>
-              atOptions = {
-                'key': '${key}',
-                'format': 'iframe',
-                'height': ${h},
-                'width': ${w},
-                'params': {}
-              };
-            <\/script>
-            <script src="${scriptUrl}"><\/script>
-          </body>
-        </html>
-      `;
-      adWrapper.appendChild(iframe);
-      adBox.appendChild(adWrapper);
-    } else if (config.bannerCode && config.bannerCode.trim()) {
-      adBox.innerHTML = config.bannerCode;
-      // Re-run script tags if any inside bannerCode
-      const scripts = adBox.querySelectorAll("script");
-      scripts.forEach(oldScript => {
-        const newScript = document.createElement("script");
-        Array.from(oldScript.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value));
-        newScript.appendChild(document.createTextNode(oldScript.innerHTML));
-        oldScript.parentNode.replaceChild(newScript, oldScript);
-      });
-    } else {
-      // Sleek default sponsor card
-      adBox.innerHTML = `
-        <div class="dl-ad-placeholder-content">
-          <div class="dl-ad-placeholder-icon">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"/>
-            </svg>
-          </div>
-          <div class="dl-ad-placeholder-title">Shinobi HUB Fast Server</div>
-          <div class="dl-ad-placeholder-text">
-            Adsterra 300x250 Banner Slot. Connect your Adsterra keys in <code>js/ads-config.js</code>.
-          </div>
-        </div>
-      `;
-    }
 
     const timerNumber = modal.querySelector("#dl-timer-number");
     const btnSec = modal.querySelector("#dl-btn-sec");
