@@ -735,6 +735,10 @@ export class UIRenderer {
                       <span>Open Bot</span>
                     </div>
                   </a>
+                ` : ''}
+              </div>
+            </div>
+
             <!-- Clean Non-Intrusive Sponsored Stream/Download Banner Slot -->
             <div class="ad-stream-wrapper" style="margin: 20px auto 16px; text-align: center;">
               <div class="ad-desktop-only">
