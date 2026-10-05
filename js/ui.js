@@ -383,13 +383,11 @@ export class UIRenderer {
         <div class="ad-anime-detail-top-wrapper" style="margin: 20px auto 16px; text-align: center; max-width: 100%;">
           <div class="ad-desktop-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
-              width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent;" allowtransparency="true"></iframe>
+            <iframe src="ad-728x90.html" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
           <div class="ad-mobile-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
-              width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
+            <iframe src="ad-320x50.html" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
         </div>
 
@@ -465,13 +463,11 @@ export class UIRenderer {
         <div class="ad-anime-detail-wrapper" style="margin: 32px auto 16px; text-align: center;">
           <div class="ad-desktop-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
-              width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent;" allowtransparency="true"></iframe>
+            <iframe src="ad-728x90.html" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
           <div class="ad-mobile-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
-              width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
+            <iframe src="ad-320x50.html" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
         </div>
       </div>
@@ -757,13 +753,11 @@ export class UIRenderer {
             <div class="ad-stream-wrapper" style="margin: 20px auto 16px; text-align: center;">
               <div class="ad-desktop-only">
                 <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-                <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
-                  width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent;" allowtransparency="true"></iframe>
+                <iframe src="ad-728x90.html" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
               </div>
               <div class="ad-mobile-only">
                 <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-                <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
-                  width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
+                <iframe src="ad-320x50.html" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
               </div>
             </div>
 
@@ -960,12 +954,10 @@ export class UIRenderer {
 
           <!-- Sleek Horizontal Rectangle Banner (468x60 Desktop / 320x50 Mobile) -->
           <div class="ad-desktop-only" style="text-align: center;">
-            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'f7e71cec141d5f3a85eccf90c3d8169d','format':'iframe','height':60,'width':468,'params':{}};</script><script src='https://www.highrevenueformat.com/f7e71cec141d5f3a85eccf90c3d8169d/invoke.js'></script></body></html>"
-              width="468" height="60" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
+            <iframe src="ad-468x60.html" width="468" height="60" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
           <div class="ad-mobile-only" style="text-align: center;">
-            <iframe srcdoc="<!DOCTYPE html><html style='background:transparent;'><head><meta charset='UTF-8'><meta name='color-scheme' content='dark'><style>:root,html,body{margin:0;padding:0;background:transparent !important;background-color:transparent !important;display:flex;justify-content:center;align-items:center;overflow:hidden;color-scheme:dark;}iframe{background:transparent !important;background-color:transparent !important;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
-              width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent;" allowtransparency="true"></iframe>
+            <iframe src="ad-320x50.html" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
         </div>
 
