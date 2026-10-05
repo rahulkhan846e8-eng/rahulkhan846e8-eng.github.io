@@ -383,11 +383,11 @@ export class UIRenderer {
         <div class="ad-anime-detail-top-wrapper" style="margin: 20px auto 16px; text-align: center; max-width: 100%;">
           <div class="ad-desktop-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe src="ad-728x90.html" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
+            <iframe src="ad-728x90.html?v=20261005_v8" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
           <div class="ad-mobile-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe src="ad-320x50.html" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
+            <iframe src="ad-320x50.html?v=20261005_v8" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
         </div>
 
@@ -463,11 +463,11 @@ export class UIRenderer {
         <div class="ad-anime-detail-wrapper" style="margin: 32px auto 16px; text-align: center;">
           <div class="ad-desktop-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe src="ad-728x90.html" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
+            <iframe src="ad-728x90.html?v=20261005_v8" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
           <div class="ad-mobile-only">
             <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe src="ad-320x50.html" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
+            <iframe src="ad-320x50.html?v=20261005_v8" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
         </div>
       </div>
@@ -753,11 +753,11 @@ export class UIRenderer {
             <div class="ad-stream-wrapper" style="margin: 20px auto 16px; text-align: center;">
               <div class="ad-desktop-only">
                 <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-                <iframe src="ad-728x90.html" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
+                <iframe src="ad-728x90.html?v=20261005_v8" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
               </div>
               <div class="ad-mobile-only">
                 <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-                <iframe src="ad-320x50.html" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
+                <iframe src="ad-320x50.html?v=20261005_v8" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
               </div>
             </div>
 
@@ -954,10 +954,10 @@ export class UIRenderer {
 
           <!-- Sleek Horizontal Rectangle Banner (468x60 Desktop / 320x50 Mobile) -->
           <div class="ad-desktop-only" style="text-align: center;">
-            <iframe src="ad-468x60.html" width="468" height="60" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
+            <iframe src="ad-468x60.html?v=20261005_v8" width="468" height="60" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
           <div class="ad-mobile-only" style="text-align: center;">
-            <iframe src="ad-320x50.html" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
+            <iframe src="ad-320x50.html?v=20261005_v8" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
           </div>
         </div>
 
