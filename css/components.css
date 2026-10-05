@@ -1252,7 +1252,9 @@
 }
 
 .ad-home-wrapper,
+.ad-home-mid-wrapper,
 .ad-anime-detail-wrapper,
+.ad-anime-detail-top-wrapper,
 .ad-stream-wrapper {
   max-width: 100%;
   overflow: hidden;

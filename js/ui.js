@@ -379,8 +379,22 @@ export class UIRenderer {
       </div>
 
       <div class="page-container">
+        <!-- Prominent Top Anime Detail Ad Banner -->
+        <div class="ad-anime-detail-top-wrapper" style="margin: 20px auto 16px; text-align: center; max-width: 100%;">
+          <div class="ad-desktop-only">
+            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+            <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
+              width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+          </div>
+          <div class="ad-mobile-only">
+            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+            <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'dd68086309184ab140f2253b3bf43300','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://www.highrevenueformat.com/dd68086309184ab140f2253b3bf43300/invoke.js'></script></body></html>"
+              width="300" height="250" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+          </div>
+        </div>
+
         <!-- Interactive Season Header Bar -->
-        <div class="season-header-bar" style="margin-top: 32px;">
+        <div class="season-header-bar" style="margin-top: 16px;">
           ${isMovie ? `
             <div class="movie-pill-box" style="display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.06); padding: 8px 20px; border-radius: 9999px; border: 1px solid rgba(255,255,255,0.12);">
               <span style="font-weight: 700; color: #fff; font-size: 0.95rem;">🎬 Full Feature Film</span>
@@ -891,29 +905,19 @@ export class UIRenderer {
     modal.id = "download-ad-modal";
     modal.className = "dl-ad-modal-backdrop active";
 
-    const sponsorDirectLink = config.adsterraDirectLink ? config.adsterraDirectLink.trim() : "";
-    const sponsorBtnHtml = sponsorDirectLink ? `
-      <a href="${sponsorDirectLink}" target="_blank" rel="noopener noreferrer" class="dl-sponsor-action-btn">
-        <span>${config.sponsorButtonText || '⚡ Visit Sponsor (Support Shinobi HUB)'}</span>
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-      </a>
-    ` : `
-      <div style="font-size: 0.74rem; color: #64748b; margin-top: 8px;">
-        High-speed cloud servers provided by Shinobi HUB &bull; Instant link generating below
-      </div>
-    `;
-
     modal.innerHTML = `
       <div class="dl-ad-modal-card">
-        <!-- Prominent Top Bar with Cancel Pill -->
+        <!-- Prominent Top Bar with Bigger Cancel X Button -->
         <div class="dl-ad-top-bar">
           <div class="dl-ad-badge-server">
             <span class="pulse-dot"></span>
             <span>Fast Cloud CDN</span>
           </div>
-          <button class="dl-ad-cancel-pill" id="dl-ad-close" type="button" aria-label="Cancel and Close">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
-            <span>Cancel</span>
+          <button class="dl-modal-close-x-btn" id="dl-ad-close" type="button" aria-label="Cancel and Close" title="Cancel">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="pointer-events: none;">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
           </button>
         </div>
 
@@ -955,10 +959,20 @@ export class UIRenderer {
           </div>
 
           <div class="dl-ad-box" id="dl-ad-box">
-            <!-- Adsterra Banner Slot or Clean Sponsor Card -->
+            <!-- Adsterra 300x250 Medium Rectangle Slot -->
           </div>
 
-          ${sponsorBtnHtml}
+          <!-- Secondary Adsterra Banner Slot (468x60 Desktop / 320x50 Mobile) -->
+          <div class="dl-ad-box-secondary" style="margin-top: 12px; text-align: center;">
+            <div class="ad-desktop-only">
+              <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'f7e71cec141d5f3a85eccf90c3d8169d','format':'iframe','height':60,'width':468,'params':{}};</script><script src='https://www.highrevenueformat.com/f7e71cec141d5f3a85eccf90c3d8169d/invoke.js'></script></body></html>"
+                width="468" height="60" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+            </div>
+            <div class="ad-mobile-only">
+              <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'6d392592cfd2e8b5a283a91bbe204b04','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js'></script></body></html>"
+                width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+            </div>
+          </div>
         </div>
 
         <div class="dl-ad-actions">
@@ -1055,19 +1069,42 @@ export class UIRenderer {
     const actionBtn = modal.querySelector("#dl-action-btn");
     const closeBtn = modal.querySelector("#dl-ad-close");
 
-    const closeModal = () => {
+    const closeModal = (e) => {
+      if (e) {
+        try { e.preventDefault(); } catch (_) {}
+        try { e.stopPropagation(); } catch (_) {}
+      }
       if (UIRenderer._dlModalTimer) {
         clearInterval(UIRenderer._dlModalTimer);
         UIRenderer._dlModalTimer = null;
       }
+      document.removeEventListener("keydown", onModalKeyDown);
       modal.classList.remove("active");
-      setTimeout(() => modal.remove(), 250);
+      setTimeout(() => {
+        try { modal.remove(); } catch (_) {}
+      }, 60);
     };
 
-    closeBtn?.addEventListener("click", closeModal);
-    modal.querySelector("#dl-ad-cancel-bottom")?.addEventListener("click", closeModal);
+    const onModalKeyDown = (e) => {
+      if (e.key === "Escape") closeModal(e);
+    };
+    document.addEventListener("keydown", onModalKeyDown);
+
+    if (closeBtn) {
+      closeBtn.addEventListener("click", closeModal);
+      closeBtn.addEventListener("touchstart", (e) => {
+        closeModal(e);
+      }, { passive: false });
+    }
+    const cancelBottom = modal.querySelector("#dl-ad-cancel-bottom");
+    if (cancelBottom) {
+      cancelBottom.addEventListener("click", closeModal);
+      cancelBottom.addEventListener("touchstart", (e) => {
+        closeModal(e);
+      }, { passive: false });
+    }
     modal.addEventListener("click", (e) => {
-      if (e.target === modal) closeModal();
+      if (e.target === modal) closeModal(e);
     });
 
     // Start 20-second countdown
