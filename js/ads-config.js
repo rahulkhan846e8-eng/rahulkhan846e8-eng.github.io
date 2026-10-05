@@ -1,26 +1,23 @@
 /**
  * Shinobi HUB - Advertising & Sponsor Configuration
  * 
- * Non-intrusive Adsterra placements:
- * 1. Social Bar floating script (clean, non-blocking)
- * 2. Responsive In-Content & Home Banners (728x90 desktop / 300x250 mobile)
- * 3. Episode Stream / Watch Page Banners
- * 4. Fast, rewarded Direct Download sponsor modal (8s countdown)
+ * High-monetization Adsterra setup:
+ * 1. Smart Popunder Engine (opens Direct Link on authentic user clicks with cooldown)
+ * 2. High CPM Horizontal Banners (320x50 mobile & responsive)
+ * 3. Fast Rewarded Direct Download sponsor modal (8s countdown)
+ * 4. Social Bar Notification Script
  */
 
 window.SHINOBI_ADS_CONFIG = {
-  // Enable or disable the download countdown ad modal (true = ON, false = OFF)
   enabled: true,
-
-  // Countdown timer in seconds before the direct download link unlocks (8s is smooth and fast)
   countdownSeconds: 8,
 
-  // 1. ADSTERRA 300x250 BANNER (Medium Rectangle - Clean & High CPM)
-  adsterra300x250: {
-    key: "dd68086309184ab140f2253b3bf43300",
-    scriptUrl: "https://www.highrevenueformat.com/dd68086309184ab140f2253b3bf43300/invoke.js",
-    width: 300,
-    height: 250
+  // 1. ADSTERRA 320x50 HORIZONTAL BANNER (Active High-CPM Banner)
+  adsterra320x50: {
+    key: "6d392592cfd2e8b5a283a91bbe204b04",
+    scriptUrl: "https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js",
+    width: 320,
+    height: 50
   },
 
   // 2. ADSTERRA 728x90 BANNER (Desktop Leaderboard)
@@ -31,53 +28,98 @@ window.SHINOBI_ADS_CONFIG = {
     height: 90
   },
 
-  // 3. ADSTERRA 320x50 BANNER (Mobile Leaderboard)
-  adsterra320x50: {
-    key: "6d392592cfd2e8b5a283a91bbe204b04",
-    scriptUrl: "https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js",
-    width: 320,
-    height: 50
-  },
-
-  // 4. ADSTERRA 468x60 BANNER (Classic Banner)
-  adsterra468x60: {
-    key: "f7e71cec141d5f3a85eccf90c3d8169d",
-    scriptUrl: "https://www.highrevenueformat.com/f7e71cec141d5f3a85eccf90c3d8169d/invoke.js",
-    width: 468,
-    height: 60
-  },
-
-  // 5. ADSTERRA 160x600 BANNER (Skyscraper)
-  adsterra160x600: {
-    key: "cd081f8ab45a593c7125c4b0f09404f7",
-    scriptUrl: "https://www.highrevenueformat.com/cd081f8ab45a593c7125c4b0f09404f7/invoke.js",
-    width: 160,
-    height: 600
-  },
-
-  // 6. ADSTERRA 160x300 BANNER
-  adsterra160x300: {
-    key: "1d03e619544e1297b1f4f1b6c11b98cc",
-    scriptUrl: "https://www.highrevenueformat.com/1d03e619544e1297b1f4f1b6c11b98cc/invoke.js",
-    width: 160,
-    height: 300
-  },
-
-  // 7. ADSTERRA NATIVE BANNER
-  adsterraNative: {
-    scriptUrl: "https://pl31501567.profitableratecpmnetwork.com/9c0867e2cfc77dac6c823302ba8ee04c/invoke.js",
-    containerId: "container-9c0867e2cfc77dac6c823302ba8ee04c"
-  },
-
-  // 8. ADSTERRA DIRECT LINK (Smartlink / Sponsor URL)
+  // 3. ADSTERRA DIRECT LINK (High-CPM Popunder / Smartlink)
   adsterraDirectLink: "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe",
 
-  // Automatically start download when countdown finishes (true = YES)
   autoStartDownloadOnUnlock: true,
+  statusMessage: "Preparing high-speed 1080p download link...",
 
-  // Sponsor button text shown during the countdown
-  sponsorButtonText: "⚡ Visit Sponsor (Support Shinobi HUB)",
+  /**
+   * Render an Adsterra Banner inside any DOM element using Adsterra's native async container API.
+   * Avoids nested iframes and prevents Safari WebKit ITP blocking.
+   */
+  renderBanner: function(containerId, options = {}) {
+    const container = typeof containerId === 'string' ? document.getElementById(containerId) : containerId;
+    if (!container) return;
 
-  // Helper note shown under the timer
-  statusMessage: "Preparing high-speed 1080p download link..."
+    const key = options.key || "6d392592cfd2e8b5a283a91bbe204b04";
+    const width = options.width || 320;
+    const height = options.height || 50;
+
+    // Clear previous banner if any
+    container.innerHTML = "";
+
+    // Generate unique container ID for Adsterra async lookup
+    const uniqueId = "atContainer-" + key + "-" + Math.random().toString(36).substring(2, 8);
+    const box = document.createElement("div");
+    box.id = uniqueId;
+    box.style.width = width + "px";
+    box.style.height = height + "px";
+    box.style.maxWidth = "100%";
+    box.style.margin = "0 auto";
+    box.style.display = "flex";
+    box.style.justifyContent = "center";
+    box.style.alignItems = "center";
+    box.style.overflow = "hidden";
+    container.appendChild(box);
+
+    // Register with Adsterra async containers
+    window.atAsyncContainers = window.atAsyncContainers || {};
+    window.atAsyncContainers[key] = uniqueId;
+
+    // Configure atOptions
+    window.atOptions = {
+      'key': key,
+      'format': 'iframe',
+      'height': height,
+      'width': width,
+      'params': {}
+    };
+
+    // Load invoke.js
+    const script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://www.highrevenueformat.com/" + key + "/invoke.js";
+    container.appendChild(script);
+  },
+
+  /**
+   * Smart Popunder Trigger
+   * Opens the Adsterra Direct Link in a new tab upon genuine user gestures.
+   */
+  triggerPopunder: function(force = false) {
+    const now = Date.now();
+    const COOLDOWN_MS = 40 * 1000; // 40s between pop ads
+    const lastPop = parseInt(sessionStorage.getItem("shinobi_last_pop") || "0", 10);
+
+    if (!force && (now - lastPop < COOLDOWN_MS)) {
+      return false;
+    }
+
+    try {
+      const pop = window.open(this.adsterraDirectLink, "_blank");
+      if (pop) {
+        sessionStorage.setItem("shinobi_last_pop", now.toString());
+        try { pop.blur(); window.focus(); } catch (_) {}
+        return true;
+      }
+    } catch (_) {}
+    return false;
+  }
 };
+
+// ----------------------------------------------------------------------------
+// Auto-attach Popunder Engine to user gestures across mobile & desktop
+// ----------------------------------------------------------------------------
+(function() {
+  const handler = function(e) {
+    const target = e.target;
+    // Don't intercept close or cancel buttons
+    if (target && target.closest && (target.closest("#dl-ad-close") || target.closest("#dl-ad-cancel-bottom"))) {
+      return;
+    }
+    window.SHINOBI_ADS_CONFIG?.triggerPopunder(false);
+  };
+
+  document.addEventListener("click", handler, { capture: true, passive: true });
+})();

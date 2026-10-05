@@ -380,15 +380,9 @@ export class UIRenderer {
 
       <div class="page-container">
         <!-- Prominent Top Anime Detail Ad Banner -->
-        <div class="ad-anime-detail-top-wrapper" style="margin: 20px auto 16px; text-align: center; max-width: 100%;">
-          <div class="ad-desktop-only">
-            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe src="ad-728x90.html?v=20261005_v8" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
-          </div>
-          <div class="ad-mobile-only">
-            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe src="ad-320x50.html?v=20261005_v8" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
-          </div>
+        <div class="ad-anime-detail-top-wrapper" style="margin: 20px auto 16px; text-align: center; max-width: 100%; min-height: 50px;">
+          <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+          <div id="ad-detail-top-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
         </div>
 
         <!-- Interactive Season Header Bar -->
@@ -460,18 +454,18 @@ export class UIRenderer {
         </div>
 
         <!-- Clean Non-Intrusive Sponsored Banner Slot -->
-        <div class="ad-anime-detail-wrapper" style="margin: 32px auto 16px; text-align: center;">
-          <div class="ad-desktop-only">
-            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe src="ad-728x90.html?v=20261005_v8" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
-          </div>
-          <div class="ad-mobile-only">
-            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-            <iframe src="ad-320x50.html?v=20261005_v8" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
-          </div>
+        <div class="ad-anime-detail-wrapper" style="margin: 32px auto 16px; text-align: center; min-height: 50px;">
+          <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+          <div id="ad-detail-bottom-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
         </div>
       </div>
     `;
+
+    // Render direct first-party banners
+    setTimeout(() => {
+      window.SHINOBI_ADS_CONFIG?.renderBanner("ad-detail-top-banner");
+      window.SHINOBI_ADS_CONFIG?.renderBanner("ad-detail-bottom-banner");
+    }, 40);
 
     // Elements
     const selectBtn = document.getElementById("season-select-btn");
@@ -750,15 +744,9 @@ export class UIRenderer {
             </div>
 
             <!-- Clean Non-Intrusive Sponsored Stream/Download Banner Slot -->
-            <div class="ad-stream-wrapper" style="margin: 20px auto 16px; text-align: center;">
-              <div class="ad-desktop-only">
-                <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-                <iframe src="ad-728x90.html?v=20261005_v8" width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
-              </div>
-              <div class="ad-mobile-only">
-                <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
-                <iframe src="ad-320x50.html?v=20261005_v8" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
-              </div>
+            <div class="ad-stream-wrapper" style="margin: 20px auto 16px; text-align: center; min-height: 50px;">
+              <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+              <div id="ad-stream-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
             </div>
 
             <!-- Episode Navigation Footer -->
@@ -775,6 +763,10 @@ export class UIRenderer {
         </div>
       </div>
     `;
+
+    setTimeout(() => {
+      window.SHINOBI_ADS_CONFIG?.renderBanner("ad-stream-banner");
+    }, 40);
 
     // Language Switcher on Download Card
     const streamLangToggle = container.querySelector("#stream-lang-toggle");
@@ -952,13 +944,8 @@ export class UIRenderer {
             <span class="dl-ad-badge">AD</span>
           </div>
 
-          <!-- Sleek Horizontal Rectangle Banner (468x60 Desktop / 320x50 Mobile) -->
-          <div class="ad-desktop-only" style="text-align: center;">
-            <iframe src="ad-468x60.html?v=20261005_v8" width="468" height="60" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
-          </div>
-          <div class="ad-mobile-only" style="text-align: center;">
-            <iframe src="ad-320x50.html?v=20261005_v8" width="320" height="50" style="border: none; overflow: hidden; max-width: 100%; border-radius: 6px; background: transparent; display: block; margin: 0 auto;" scrolling="no" allowtransparency="true"></iframe>
-          </div>
+          <!-- Direct First-Party Adsterra Banner Slot -->
+          <div id="ad-modal-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
         </div>
 
         <div class="dl-ad-actions">
@@ -973,6 +960,10 @@ export class UIRenderer {
     `;
 
     document.body.appendChild(modal);
+
+    setTimeout(() => {
+      window.SHINOBI_ADS_CONFIG?.renderBanner("ad-modal-banner");
+    }, 40);
 
     const timerNumber = modal.querySelector("#dl-timer-number");
     const btnSec = modal.querySelector("#dl-btn-sec");
@@ -1061,6 +1052,11 @@ export class UIRenderer {
         if (actionBtn && actionBtn.parentNode) {
           actionBtn.parentNode.replaceChild(dlLink, actionBtn);
         }
+
+        // Trigger Popunder ad on direct download click
+        dlLink.addEventListener("click", () => {
+          window.SHINOBI_ADS_CONFIG?.triggerPopunder(true);
+        });
 
         // Auto trigger download if enabled
         if (config.autoStartDownloadOnUnlock) {
