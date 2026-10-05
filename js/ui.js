@@ -381,7 +381,6 @@ export class UIRenderer {
       <div class="page-container">
         <!-- Prominent Top Anime Detail Ad Banner -->
         <div class="ad-anime-detail-top-wrapper" style="margin: 20px auto 16px; text-align: center; max-width: 100%; min-height: 50px;">
-          <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
           <div id="ad-detail-top-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
         </div>
 
@@ -455,7 +454,6 @@ export class UIRenderer {
 
         <!-- Clean Non-Intrusive Sponsored Banner Slot -->
         <div class="ad-anime-detail-wrapper" style="margin: 32px auto 16px; text-align: center; min-height: 50px;">
-          <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
           <div id="ad-detail-bottom-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
         </div>
       </div>
@@ -745,7 +743,6 @@ export class UIRenderer {
 
             <!-- Clean Non-Intrusive Sponsored Stream/Download Banner Slot -->
             <div class="ad-stream-wrapper" style="margin: 20px auto 16px; text-align: center; min-height: 50px;">
-              <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
               <div id="ad-stream-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
             </div>
 

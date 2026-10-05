@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="dark" />
   <meta name="referrer" content="origin-when-cross-origin" />
   <title>Shinobi HUB - Watch Anime &amp; Stream Free HD Series</title>
   <meta name="description" content="Stream the ultimate anime library on Shinobi HUB. Watch Solo Leveling, Demon Slayer, Mushoku Tensei, Death Note, and more in HD with English subtitles and dubs completely free." />
@@ -12,10 +13,10 @@
   
   
   <!-- CSS Stylesheets (with version cache busting) -->
-  <link rel="stylesheet" href="css/main.css?v=20261004_v7" />
-  <link rel="stylesheet" href="css/components.css?v=20261005_v7" />
-  <link rel="stylesheet" href="css/player.css?v=20261004_v7" />
-  <link rel="stylesheet" href="css/views.css?v=20261005_v7" />
+  <link rel="stylesheet" href="css/main.css?v=20261005_v8" />
+  <link rel="stylesheet" href="css/components.css?v=20261005_v8" />
+  <link rel="stylesheet" href="css/player.css?v=20261005_v8" />
+  <link rel="stylesheet" href="css/views.css?v=20261005_v8" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23091540'/><text x='50%' y='68%' font-family='sans-serif' font-size='56' font-weight='900' fill='%233a86ff' text-anchor='middle'>S</text></svg>" />
 
   <!-- Google tag (gtag.js) -->
@@ -29,6 +30,38 @@
   </script>
 
   <style>
+    :root {
+      color-scheme: dark;
+    }
+    /* Seamless Adsterra Transparency & Centering */
+    iframe {
+      background: transparent !important;
+      background-color: transparent !important;
+      color-scheme: dark !important;
+    }
+    iframe[id*="container-"],
+    iframe[class*="container-"],
+    div[id*="container-"],
+    div[class*="container-"] {
+      background: transparent !important;
+      background-color: transparent !important;
+      color-scheme: dark !important;
+      border: none !important;
+      outline: none !important;
+      box-shadow: none !important;
+      max-height: 85px !important;
+      overflow: visible !important;
+    }
+    @media (max-width: 768px) {
+      iframe[id*="container-"],
+      iframe[class*="container-"] {
+        max-width: 90% !important;
+        max-height: 80px !important;
+        top: 6px !important;
+        transform: scale(0.9) !important;
+        transform-origin: top center !important;
+      }
+    }
     /* Responsive Mobile Hero Framing & Polish */
     @media (max-width: 992px) {
       .hero-actions, .desktop-only {
@@ -295,8 +328,7 @@
           </div>
 
           <!-- Mid-Feed Adsterra Banner Slot -->
-          <div class="ad-home-mid-wrapper" style="margin: 24px auto 14px; text-align: center; min-height: 50px;">
-            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+          <div class="ad-home-mid-wrapper" style="margin: 20px auto 14px; text-align: center; min-height: 50px;">
             <div id="ad-home-mid-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;">
               <script type="text/javascript">
                 atOptions = {
@@ -360,8 +392,7 @@
           </div>
 
           <!-- Clean Non-Intrusive Sponsored Home Banner Slot -->
-          <div class="ad-home-wrapper" style="margin: 28px auto 16px; text-align: center; min-height: 50px;">
-            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+          <div class="ad-home-wrapper" style="margin: 24px auto 16px; text-align: center; min-height: 50px;">
             <div id="ad-home-bottom-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;">
               <script type="text/javascript">
                 atOptions = {
@@ -769,8 +800,8 @@
   </div>
 
   <!-- JavaScript Modules & Ad Configuration -->
-  <script src="js/ads-config.js?v=20261005_v9"></script>
-  <script type="module" src="js/app.js?v=20261005_v9"></script>
+  <script src="js/ads-config.js?v=20261005_v10"></script>
+  <script type="module" src="js/app.js?v=20261005_v10"></script>
 
   <!-- Adsterra Social Bar -->
   <script src="https://pl31674746.profitableratecpmnetwork.com/e6/2d/b3/e62db3372425766e5e996dabd08d7634.js"></script>

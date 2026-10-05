@@ -3,6 +3,7 @@
    ========================================================================== */
 
 :root {
+  color-scheme: dark;
   /* King Store Dark Blue Palette */
   --cr-blue-primary: #091540;
   --cr-blue-dark: #050c24;
@@ -487,3 +488,38 @@ img {
     flex: 1 1 100%;
   }
 }
+
+/* ==========================================================================
+   ADSTERRA IFRAME TRANSPARENCY & SOCIAL BAR POLISH
+   ========================================================================== */
+iframe {
+  background: transparent !important;
+  background-color: transparent !important;
+  color-scheme: dark !important;
+}
+
+iframe[id*="container-"],
+iframe[class*="container-"],
+div[id*="container-"],
+div[class*="container-"] {
+  background: transparent !important;
+  background-color: transparent !important;
+  color-scheme: dark !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  max-height: 85px !important;
+  overflow: visible !important;
+}
+
+@media (max-width: 768px) {
+  iframe[id*="container-"],
+  iframe[class*="container-"] {
+    max-width: 90% !important;
+    max-height: 80px !important;
+    top: 6px !important;
+    transform: scale(0.9) !important;
+    transform-origin: top center !important;
+  }
+}
+

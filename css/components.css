@@ -1257,9 +1257,37 @@
 .ad-anime-detail-top-wrapper,
 .ad-stream-wrapper {
   max-width: 100%;
+  width: 100%;
+  margin: 18px auto;
   overflow: hidden;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.ad-home-wrapper > div,
+.ad-home-mid-wrapper > div,
+.ad-anime-detail-wrapper > div,
+.ad-anime-detail-top-wrapper > div,
+.ad-stream-wrapper > div {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 auto !important;
+}
+
+.ad-home-wrapper iframe,
+.ad-home-mid-wrapper iframe,
+.ad-anime-detail-wrapper iframe,
+.ad-anime-detail-top-wrapper iframe,
+.ad-stream-wrapper iframe {
+  max-width: 100% !important;
+  margin: 0 auto !important;
+  display: block !important;
 }
 

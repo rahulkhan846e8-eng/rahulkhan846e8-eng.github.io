@@ -123,3 +123,108 @@ window.SHINOBI_ADS_CONFIG = {
 
   document.addEventListener("click", handler, { capture: true, passive: true });
 })();
+
+// ----------------------------------------------------------------------------
+// Active Social Bar & Iframe Transparentizer & Compact Styler
+// Eliminates iOS Safari WebKit white background block & keeps notification compact
+// ----------------------------------------------------------------------------
+(function() {
+  const fixIframeElement = function(ifr) {
+    try {
+      ifr.setAttribute("allowtransparency", "true");
+      ifr.style.setProperty("background", "transparent", "important");
+      ifr.style.setProperty("background-color", "transparent", "important");
+      ifr.style.setProperty("color-scheme", "dark", "important");
+
+      const isSocialBar = (ifr.id && ifr.id.indexOf("container-") !== -1) ||
+                          (ifr.className && ifr.className.indexOf("container-") !== -1) ||
+                          (ifr.style && ifr.style.position === "fixed");
+
+      if (isSocialBar) {
+        ifr.style.setProperty("max-height", "86px", "important");
+        ifr.style.setProperty("border", "none", "important");
+        ifr.style.setProperty("outline", "none", "important");
+        ifr.style.setProperty("box-shadow", "none", "important");
+        if (window.innerWidth <= 768) {
+          ifr.style.setProperty("transform", "scale(0.92)", "important");
+          ifr.style.setProperty("transform-origin", "top center", "important");
+        }
+
+        const polishInside = function() {
+          try {
+            const doc = ifr.contentDocument || ifr.contentWindow?.document;
+            if (doc && doc.documentElement) {
+              doc.documentElement.style.setProperty("background", "transparent", "important");
+              doc.documentElement.style.setProperty("background-color", "transparent", "important");
+              doc.documentElement.style.setProperty("color-scheme", "dark", "important");
+              if (doc.body) {
+                doc.body.style.setProperty("background", "transparent", "important");
+                doc.body.style.setProperty("background-color", "transparent", "important");
+                doc.body.style.setProperty("color-scheme", "dark", "important");
+              }
+              if (!doc.getElementById("shinobi-sb-transparency-fix")) {
+                const styleEl = doc.createElement("style");
+                styleEl.id = "shinobi-sb-transparency-fix";
+                styleEl.textContent = `
+                  html, body {
+                    background: transparent !important;
+                    background-color: transparent !important;
+                    color-scheme: dark !important;
+                    overflow: hidden !important;
+                  }
+                  div[class*="__wrap"] {
+                    background: transparent !important;
+                    background-color: transparent !important;
+                  }
+                  div[class*="__content"] {
+                    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6) !important;
+                    border-radius: 10px !important;
+                  }
+                `;
+                (doc.head || doc.documentElement).appendChild(styleEl);
+              }
+            }
+          } catch (_) {}
+        };
+
+        polishInside();
+        ifr.addEventListener("load", polishInside);
+      }
+    } catch (_) {}
+  };
+
+  const scanAllIframes = function() {
+    document.querySelectorAll("iframe").forEach(fixIframeElement);
+  };
+
+  const observer = new MutationObserver(function(mutations) {
+    for (const m of mutations) {
+      for (const node of m.addedNodes) {
+        if (node.nodeType === 1) {
+          if (node.tagName === "IFRAME") {
+            fixIframeElement(node);
+          } else if (node.querySelectorAll) {
+            node.querySelectorAll("iframe").forEach(fixIframeElement);
+          }
+        }
+      }
+    }
+  });
+
+  if (document.documentElement) {
+    observer.observe(document.documentElement, { childList: true, subtree: true });
+  } else {
+    document.addEventListener("DOMContentLoaded", function() {
+      observer.observe(document.documentElement, { childList: true, subtree: true });
+    });
+  }
+
+  // Periodic active enforcement during the first 10 seconds
+  let checks = 0;
+  const intervalId = setInterval(function() {
+    scanAllIframes();
+    checks++;
+    if (checks > 40) clearInterval(intervalId);
+  }, 250);
+})();
+
