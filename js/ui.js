@@ -446,6 +446,20 @@ export class UIRenderer {
         <div class="episodes-playlist-stack" id="episodes-playlist-stack">
           ${this.renderEpisodesListHtml(anime, currentSeason, currentMode, currentLanguage)}
         </div>
+
+        <!-- Clean Non-Intrusive Sponsored Banner Slot -->
+        <div class="ad-anime-detail-wrapper" style="margin: 32px auto 16px; text-align: center;">
+          <div class="ad-desktop-only">
+            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+            <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
+              width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+          </div>
+          <div class="ad-mobile-only">
+            <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+            <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'dd68086309184ab140f2253b3bf43300','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://www.highrevenueformat.com/dd68086309184ab140f2253b3bf43300/invoke.js'></script></body></html>"
+              width="300" height="250" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+          </div>
+        </div>
       </div>
     `;
 
@@ -721,7 +735,17 @@ export class UIRenderer {
                       <span>Open Bot</span>
                     </div>
                   </a>
-                ` : ''}
+            <!-- Clean Non-Intrusive Sponsored Stream/Download Banner Slot -->
+            <div class="ad-stream-wrapper" style="margin: 20px auto 16px; text-align: center;">
+              <div class="ad-desktop-only">
+                <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+                <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'5e813742f7427c72c0bcecf1d8022762','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js'></script></body></html>"
+                  width="728" height="90" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
+              </div>
+              <div class="ad-mobile-only">
+                <span style="display:block; font-size: 0.65rem; color: #64748b; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; font-weight: 600;">Sponsored</span>
+                <iframe srcdoc="<!DOCTYPE html><html><head><style>html,body{margin:0;padding:0;background:transparent;display:flex;justify-content:center;align-items:center;overflow:hidden;}</style></head><body><script>atOptions={'key':'dd68086309184ab140f2253b3bf43300','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://www.highrevenueformat.com/dd68086309184ab140f2253b3bf43300/invoke.js'></script></body></html>"
+                  width="300" height="250" style="border: none; overflow: hidden; max-width: 100%; border-radius: 8px; background: rgba(5,12,36,0.5);" loading="lazy"></iframe>
               </div>
             </div>
 
@@ -958,35 +982,41 @@ export class UIRenderer {
 
       const adWrapper = document.createElement("div");
       adWrapper.id = "adsterra-300x250-holder";
-      adWrapper.style.cssText = `width:${w}px;min-height:${h}px;margin:0 auto;display:flex;align-items:center;justify-content:center;position:relative;border-radius:10px;overflow:hidden;background:#060c1c;`;
+      adWrapper.style.cssText = `width:100%;max-width:${w}px;min-height:${h}px;margin:0 auto;display:flex;align-items:center;justify-content:center;position:relative;border-radius:10px;overflow:hidden;background:#060c1c;`;
 
+      const iframe = document.createElement("iframe");
+      iframe.width = w.toString();
+      iframe.height = h.toString();
+      iframe.style.border = "none";
+      iframe.style.overflow = "hidden";
+      iframe.style.maxWidth = "100%";
+      iframe.style.borderRadius = "8px";
+      iframe.scrolling = "no";
+      iframe.srcdoc = `
+        <!DOCTYPE html>
+        <html>
+          <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+              html, body { margin:0; padding:0; background:transparent; display:flex; justify-content:center; align-items:center; overflow:hidden; }
+            </style>
+          </head>
+          <body>
+            <script>
+              atOptions = {
+                'key': '${key}',
+                'format': 'iframe',
+                'height': ${h},
+                'width': ${w},
+                'params': {}
+              };
+            <\/script>
+            <script src="${scriptUrl}"><\/script>
+          </body>
+        </html>
+      `;
+      adWrapper.appendChild(iframe);
       adBox.appendChild(adWrapper);
-
-      // Set global atOptions in page context so Adsterra recognizes shinobihub.run.place
-      window.atOptions = {
-        'key': key,
-        'format': 'iframe',
-        'height': h,
-        'width': w,
-        'params': {}
-      };
-
-      const adScript = document.createElement("script");
-      adScript.type = "text/javascript";
-      adScript.src = scriptUrl;
-      adScript.onerror = () => {
-        adWrapper.innerHTML = `
-          <div class="dl-ad-placeholder-content" style="padding:16px;text-align:center;">
-            <div style="font-size:1.8rem;margin-bottom:6px;">🛡️</div>
-            <div style="font-size:0.92rem;font-weight:700;color:#f87171;">Ad Blocker Detected</div>
-            <div style="font-size:0.78rem;color:#94a3b8;margin-top:4px;max-width:260px;line-height:1.4;">
-              If ads are not visible, please pause your Ad Blocker or Brave Shields to support Shinobi HUB!
-            </div>
-          </div>
-        `;
-      };
-
-      adWrapper.appendChild(adScript);
     } else if (config.bannerCode && config.bannerCode.trim()) {
       adBox.innerHTML = config.bannerCode;
       // Re-run script tags if any inside bannerCode

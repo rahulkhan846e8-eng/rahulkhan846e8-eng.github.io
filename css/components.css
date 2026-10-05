@@ -1232,3 +1232,32 @@
     font-size: 0.74rem;
   }
 }
+
+/* -------------------------------------------------------------------------- */
+/* Responsive Ad Banner Slots (Clean & Non-Intrusive)                         */
+/* -------------------------------------------------------------------------- */
+.ad-desktop-only {
+  display: block;
+}
+.ad-mobile-only {
+  display: none;
+}
+@media (max-width: 768px) {
+  .ad-desktop-only {
+    display: none !important;
+  }
+  .ad-mobile-only {
+    display: block !important;
+  }
+}
+
+.ad-home-wrapper,
+.ad-anime-detail-wrapper,
+.ad-stream-wrapper {
+  max-width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
