@@ -67,16 +67,18 @@ class App {
   // --------------------------------------------------------------------------
   initHeader() {
     const header = document.querySelector(".site-header");
+    let ticking = false;
     window.addEventListener("scroll", () => {
-      const hash = window.location.hash || "#home";
-      const root = hash.slice(1).split("?")[0].split("/")[0];
-      if (root !== "anime" && root !== "stream" && root !== "watch") {
-        sessionStorage.setItem("shinobi_last_browse_scroll", window.scrollY.toString());
-      }
-      if (window.scrollY > 20) {
-        header?.classList.add("scrolled");
-      } else {
-        header?.classList.remove("scrolled");
+      if (!ticking) {
+        requestAnimationFrame(() => {
+          if (window.scrollY > 20) {
+            header?.classList.add("scrolled");
+          } else {
+            header?.classList.remove("scrolled");
+          }
+          ticking = false;
+        });
+        ticking = true;
       }
     }, { passive: true });
 
