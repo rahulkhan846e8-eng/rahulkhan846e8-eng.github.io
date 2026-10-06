@@ -45,6 +45,4524 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "baki",
+    "title": "BAKI",
+    "raw_name": "BAKI",
+    "japaneseTitle": "バキ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97888-0GMFaK3scX5B.jpg",
+    "rating": 7.2,
+    "year": 2018,
+    "currentEpBadge": "S2-EP13",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2018",
+    "studio": "TMS Entertainment",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "synopsis": "The protagonist, Baki Hanma, trains with an intense focus to become strong enough to surpass his father, Yujiro Hanma, the strongest fighter in the world. Five of the world's most violent and brutal death row inmates are gathering to face Baki. Their objective is to taste defeat -- their unmatched strength and skill have led them to grow bored of life itself, and they now seek out Baki in the hopes that he can overwhelm and utterly crush them. In this crisis, other underground martial art warriors gather to fight by Baki's side: Kaoru Hanayama, Gouki Shibukawa, Retsu Kaioh, and Doppo Orochi. An epic showdown between violent death row inmates and Baki and his friends begins!\n\n(Source: Netflix)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2018",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Synchronicity",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 1 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/RsmyNsVK?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/RsmyNsVK?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Dark Martial Arts",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 2 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/e7WFQJ6e?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/e7WFQJ6e?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "They’re Finally Here!!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 3 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/T4Jj84PF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/T4Jj84PF?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "The Battle Begins",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 4 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/bW2zozcv?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/bW2zozcv?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Want some more?",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 5 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/U4hw4hbG?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/U4hw4hbG?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Sergeant Katahira’s Report",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 6 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/cwxUm7TK?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/cwxUm7TK?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "A Formidable Team",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 7 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/w14rc6nf?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/w14rc6nf?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "A Match vs. A True Fight",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 8 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/gAMFACD1?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/gAMFACD1?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Shaken Shinshinkai",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 9 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/vh2D1LgA?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/vh2D1LgA?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Air Duel",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 10 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/v7PuQBj6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/v7PuQBj6?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Tiger Slayer",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 11 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/wh1PQS5v?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/wh1PQS5v?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Candy",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 12 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/vQE4BhM7?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/vQE4BhM7?download"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "Mr. Oliva",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 13 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/pC7Zv6pM?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/pC7Zv6pM?download"
+            }
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 1,
+            "title": "Unforgivable Freedom",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 14 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/utBiG8vD?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/utBiG8vD?download"
+            }
+          },
+          {
+            "id": 15,
+            "number": 15,
+            "season": 1,
+            "title": "Tremendous Muscle Power",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 15 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ucL4ny2m?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ucL4ny2m?download"
+            }
+          },
+          {
+            "id": 16,
+            "number": 16,
+            "season": 1,
+            "title": "Slash",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 16 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/27vrHPXS?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/27vrHPXS?download"
+            }
+          },
+          {
+            "id": 17,
+            "number": 17,
+            "season": 1,
+            "title": "Dad!!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 17 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/iaFmRA7S?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/iaFmRA7S?download"
+            }
+          },
+          {
+            "id": 18,
+            "number": 18,
+            "season": 1,
+            "title": "Thanks",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 18 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/FdZNemXg?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/FdZNemXg?download"
+            }
+          },
+          {
+            "id": 19,
+            "number": 19,
+            "season": 1,
+            "title": "Admission of Defeat",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 19 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/cqbvfsJh?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/cqbvfsJh?download"
+            }
+          },
+          {
+            "id": 20,
+            "number": 20,
+            "season": 1,
+            "title": "Saga",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 20 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/NUNUBq42?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/NUNUBq42?download"
+            }
+          },
+          {
+            "id": 21,
+            "number": 21,
+            "season": 1,
+            "title": "Punishment",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 21 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/YTvb3kz8?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/YTvb3kz8?download"
+            }
+          },
+          {
+            "id": 22,
+            "number": 22,
+            "season": 1,
+            "title": "Clash of the Alphas",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 22 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/m24oESW7?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/m24oESW7?download"
+            }
+          },
+          {
+            "id": 23,
+            "number": 23,
+            "season": 1,
+            "title": "The Real Attack",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 23 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/SBoVnh1E?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/SBoVnh1E?download"
+            }
+          },
+          {
+            "id": 24,
+            "number": 24,
+            "season": 1,
+            "title": "Defeat",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 24 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/KTJghA6r?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/KTJghA6r?download"
+            }
+          },
+          {
+            "id": 25,
+            "number": 25,
+            "season": 1,
+            "title": "God and the Devil",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 25 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/rVzhQyBp?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/rVzhQyBp?download"
+            }
+          },
+          {
+            "id": 26,
+            "number": 26,
+            "season": 1,
+            "title": "The Centennial Tournament – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 26 of BAKI (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/c3E3TyQP?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/c3E3TyQP?download"
+            }
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2018",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Begin! The Centennial Tournament",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 1 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/YFiC6hw6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/YFiC6hw6?download",
+              "original": ""
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Turnaround",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 2 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/EXMHTgA6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/EXMHTgA6?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Revived!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 3 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/DBrsNB9o?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DBrsNB9o?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "Team Formed!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 4 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/HNxDoMwD?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/HNxDoMwD?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "Hand Pocket",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 5 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/wunFTnvH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/wunFTnvH?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "Excellennnnt!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 6 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/poLTwZHC?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/poLTwZHC?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Kaioh",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 7 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/VhuceUhQ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/VhuceUhQ?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "The Title of the Strongest",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 8 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/TkaXjQRp?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/TkaXjQRp?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "The Master vs the Boxer",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 9 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/agauh1kV?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/agauh1kV?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 2,
+            "title": "Stand and Fight",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 10 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/pfZ4EVSs?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/pfZ4EVSs?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 2,
+            "title": "Awakening",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 11 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/F3CrBDTc?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/F3CrBDTc?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 2,
+            "title": "Completion",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 12 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/osbGM5Z2?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/osbGM5Z2?download"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 2,
+            "title": "Revenge Tokyo – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
+            "synopsis": "Episode 13 of BAKI (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/3jKsc1uG?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3jKsc1uG?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baki-dou-the-invincible-samurai",
+    "title": "BAKI-DOU: The Invincible Samurai",
+    "raw_name": "BAKI-DOU: The Invincible Samurai",
+    "japaneseTitle": "刃牙道",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+    "rating": 7.5,
+    "year": 2026,
+    "currentEpBadge": "S1-EP25",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "TMS Entertainment",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "synopsis": "Musashi Miyamoto — the ultimate symbol of strength — descends into an underground fighting arena where the use of weapons is permitted. Underground fighters including Doppo Orochi, Goki Shibukawa and Sea King Retsu square off in succession against Musashi and his godlike strength. It’s sword versus fist in the most heart-pounding and deadly battles yet, where defeat means certain death. \nBe prepared to be blown away by Baki and the other underground fighters as they bravely take on this new battle to determine the strongest fighter in human history. \n(Source: Netflix)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Unstoppable Yawn",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 1 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/XTM12CqK?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XTM12CqK?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "THE BEAT",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 2 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/yLyFk1ZF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/yLyFk1ZF?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "The Countenance of Musashi",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 3 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Gru1nMjV?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Gru1nMjV?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Boy",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 4 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/JR5MvACS?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/JR5MvACS?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Otherworldly Strength",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 5 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Ns71dG8W?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Ns71dG8W?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Real Sword",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 6 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/5Y7LyXUH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/5Y7LyXUH?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Feather",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 7 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/YiL65fJt?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/YiL65fJt?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "You Are Defeated!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 8 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/xgL734o3?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/xgL734o3?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Sea King Retsu",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 9 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/UvwDUGoP?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/UvwDUGoP?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Sekigahara",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 10 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/daysZZnF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/daysZZnF?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Buddy",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 11 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/4x1cm67c?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/4x1cm67c?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Tough Body",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 12 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/1Y1xKijM?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/1Y1xKijM?download"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "Practical Fighter – Part 1 Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 13 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/FJU9ExyD?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/FJU9ExyD?download"
+            }
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 1,
+            "title": "Pickle NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 14 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/UfKv3fhB?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/UfKv3fhB?download"
+            }
+          },
+          {
+            "id": 15,
+            "number": 15,
+            "season": 1,
+            "title": "Death Match NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 15 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/HiC2z53E?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/HiC2z53E?download"
+            }
+          },
+          {
+            "id": 16,
+            "number": 16,
+            "season": 1,
+            "title": "The Beast and the Warrior NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 16 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/wAEtDrEL?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/wAEtDrEL?download"
+            }
+          },
+          {
+            "id": 17,
+            "number": 17,
+            "season": 1,
+            "title": "Protection NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 17 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Yoc7yxqP?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Yoc7yxqP?download"
+            }
+          },
+          {
+            "id": 18,
+            "number": 18,
+            "season": 1,
+            "title": "Cutting off the Country NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 18 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/47FtuL3E?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/47FtuL3E?download"
+            }
+          },
+          {
+            "id": 19,
+            "number": 19,
+            "season": 1,
+            "title": "Un-Severable NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 19 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/sZACekvr?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/sZACekvr?download"
+            }
+          },
+          {
+            "id": 20,
+            "number": 20,
+            "season": 1,
+            "title": "For the Country NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 20 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/9P8hmCC7?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/9P8hmCC7?download"
+            }
+          },
+          {
+            "id": 21,
+            "number": 21,
+            "season": 1,
+            "title": "The Scar and The Sword NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 21 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/z477gdXi?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/z477gdXi?download"
+            }
+          },
+          {
+            "id": 22,
+            "number": 22,
+            "season": 1,
+            "title": "That Man Hanayama NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 22 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ViMphN6z?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ViMphN6z?download"
+            }
+          },
+          {
+            "id": 23,
+            "number": 23,
+            "season": 1,
+            "title": "Eliminate NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 23 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8eYX1vDf?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8eYX1vDf?download"
+            }
+          },
+          {
+            "id": 24,
+            "number": 24,
+            "season": 1,
+            "title": "Exquisite Skill NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 24 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/vvBybABW?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/vvBybABW?download"
+            }
+          },
+          {
+            "id": 25,
+            "number": 25,
+            "season": 1,
+            "title": "The Way of the Sword NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+            "synopsis": "Episode 25 of BAKI-DOU: The Invincible Samurai (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/1cMFzra7?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/1cMFzra7?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baki-hanma-vs-kengan-ashura",
+    "title": "Baki Hanma VS Kengan Ashura",
+    "raw_name": "Baki Hanma VS Kengan Ashura",
+    "japaneseTitle": "範馬刃牙VSケンガンアシュラ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176287-evl3ehXyZ80q.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176287-evl3ehXyZ80q.jpg",
+    "rating": 6.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "TMS Entertainment",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "synopsis": "Who will be crowned victorious in the ultimate fight between the strongest high schooler on earth and the successor of the Niko Style?\n(Source: Netflix Anime)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Baki Hanma VS Kengan Ashura (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176287-evl3ehXyZ80q.jpg",
+            "synopsis": "Baki Hanma VS Kengan Ashura full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/fBkWuTcS?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/fBkWuTcS?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wolf-king",
+    "title": "Wolf King",
+    "raw_name": "Wolf King",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.6,
+    "year": 2025,
+    "currentEpBadge": "S2-EP8",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "synopsis": "Drew Ferran as he comes of age and discovers he's the last of a long line of Werewolves",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Rise of the Wolf -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of Wolf King (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/mtYUjapZ#OEfbN9hjbchoFZYoXykKPHC1dd_TuDX_BSxVz92FfQg",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/mtYUjapZ#OEfbN9hjbchoFZYoXykKPHC1dd_TuDX_BSxVz92FfQg"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Brackenholme -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 2 of Wolf King (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/6g5gxYJR#e-n59iNdly2C4zuy6grP-ETHQXRSH2OfCV8RyRU7uvE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/6g5gxYJR#e-n59iNdly2C4zuy6grP-ETHQXRSH2OfCV8RyRU7uvE"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "The Caged Beast -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of Wolf King (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/Gp5TwCjJ#ZqyXVknkXuC37zwX4iRtcdqk3p9IJRNb3YBqi-phWQ0",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/Gp5TwCjJ#ZqyXVknkXuC37zwX4iRtcdqk3p9IJRNb3YBqi-phWQ0"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "The Wyrmwood -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of Wolf King (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/ipBUiBII#_-x45me09ezumgpFM2E0FD9n9NcCcXjk83_aYFv77Rk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/ipBUiBII#_-x45me09ezumgpFM2E0FD9n9NcCcXjk83_aYFv77Rk"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Return to Motley -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Wolf King (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/T9hxwBgT#tXyY5FP7DxHxs9kDEu7J2PBg7fs3YZCQRRWCbPDJ6kE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/T9hxwBgT#tXyY5FP7DxHxs9kDEu7J2PBg7fs3YZCQRRWCbPDJ6kE"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "The Maelstrom -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Wolf King (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/6wYGRIAK#aQgxiUMoGi62YArdcgw9hGKeJNyT4lIA0z_Cywdz4AY",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/6wYGRIAK#aQgxiUMoGi62YArdcgw9hGKeJNyT4lIA0z_Cywdz4AY"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Chained -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Wolf King (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/now0RTCC#HrzmIztZhoRtaCyzQtm0GJ8vgK1sT5XYn2ivNwzcT3M",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/now0RTCC#HrzmIztZhoRtaCyzQtm0GJ8vgK1sT5XYn2ivNwzcT3M"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "The Fall of the Lion – Season Finale -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Wolf King (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/2sZjyTBR#j0Ef0zDpjGyG7MqqfRzhgwUP-ZWiBub_vDk6FnSjIso",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/2sZjyTBR#j0Ef0zDpjGyG7MqqfRzhgwUP-ZWiBub_vDk6FnSjIso"
+            }
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "The Wolf in Waiting -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of Wolf King (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/7RNFkYKT#aEZLP9RaZU0I_OD_8GJ8La59FdWteBKACo-TenZN_xI",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/7RNFkYKT#aEZLP9RaZU0I_OD_8GJ8La59FdWteBKACo-TenZN_xI"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Baba Korga -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 2 of Wolf King (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/eVUFWb5L#9WfZRtFFRwHzRNXOwGmHSpvK7m5hDA-Neopk3k5Aqd0",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/eVUFWb5L#9WfZRtFFRwHzRNXOwGmHSpvK7m5hDA-Neopk3k5Aqd0"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Biting Point -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of Wolf King (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/HIEXHTab#9GYgGmNbfg5-o2H1hrxjx46a9o50aqfoY3yRACPWDgE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/HIEXHTab#9GYgGmNbfg5-o2H1hrxjx46a9o50aqfoY3yRACPWDgE"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "Hell Comes to Haggard -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of Wolf King (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/uZ92zJoY#epvihvNtrG2sSBeq3pgV4RGEQKLCCcDhpAJ7fZGv4gE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/uZ92zJoY#epvihvNtrG2sSBeq3pgV4RGEQKLCCcDhpAJ7fZGv4gE"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "The Gathering Storm -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Wolf King (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/CU0XDSrC#FSzMuJB7m2z0QYUkbaqdMSjla_TLzgkkL_j4Mn7uup4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/CU0XDSrC#FSzMuJB7m2z0QYUkbaqdMSjla_TLzgkkL_j4Mn7uup4"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "The Reckoning -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Wolf King (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/HcUmgDbD#w7fNGxzN3fhS9VCcZUIcZsXoEFtY9wD_7r_WNVmYTHg",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/HcUmgDbD#w7fNGxzN3fhS9VCcZUIcZsXoEFtY9wD_7r_WNVmYTHg"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Hunted -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Wolf King (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/yAMR3S6Z#NTgDU6huNb4BN_F63FTtUUfMSy0PYFj3dffR3-lsOho",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/yAMR3S6Z#NTgDU6huNb4BN_F63FTtUUfMSy0PYFj3dffR3-lsOho"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "The Fall of the Wolf – Season Finale -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMGQ2NzktOWQ1MS00MzNlLWFkMTQtZTY1OTA5MjhlMmU0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Wolf King (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/GJ9D3YhR#gSVIjIIus4McoTU3xZ4CvNEVr3pOyoufBAsOtl34rV0",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/GJ9D3YhR#gSVIjIIus4McoTU3xZ4CvNEVr3pOyoufBAsOtl34rV0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "helluva-boss",
+    "title": "Helluva Boss",
+    "raw_name": "Helluva Boss",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.9,
+    "year": 2019,
+    "currentEpBadge": "S2-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2019",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy"
+    ],
+    "synopsis": "This adult animated comedy follows the misadventures, hijinks, and relationships of the Immediate Murder Professionals (or I.M.P. for short)-- a band of demon assassins from Hell who kill people on Earth for a living.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Murder Family -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of Helluva Boss (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/mE1z0ZKA#D-AZ7hbCPFlA51FdVAQiF79rzB1aoZSVcZDZjTCWZFE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/mE1z0ZKA#D-AZ7hbCPFlA51FdVAQiF79rzB1aoZSVcZDZjTCWZFE"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Loo Loo Land -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 2 of Helluva Boss (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/7M0AUZBJ#lEeDQEOs6V-bifzb1N1mwiVvlgs7oyrEzlYawCNpp1g",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/7M0AUZBJ#lEeDQEOs6V-bifzb1N1mwiVvlgs7oyrEzlYawCNpp1g"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Spring Broken -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of Helluva Boss (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/KAtSHayR#9PTQJFR4QwcvQRrV0beJWsFd1nl68gBnaPXHDHNLl5E",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/KAtSHayR#9PTQJFR4QwcvQRrV0beJWsFd1nl68gBnaPXHDHNLl5E"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "C.H.E.R.U.B. -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of Helluva Boss (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/SRskTTLR#WwlRM_iB12XJo-InKADzwHCP4UVpMNbrg1J19mNiqLw",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/SRskTTLR#WwlRM_iB12XJo-InKADzwHCP4UVpMNbrg1J19mNiqLw"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "The Harvest Moon Festival -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Helluva Boss (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/aZNU0LTQ#rKnW2qkrIpQ1ZCi0B1Nvb2IhQhsnEEmeIH4cW60aEwg",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/aZNU0LTQ#rKnW2qkrIpQ1ZCi0B1Nvb2IhQhsnEEmeIH4cW60aEwg"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Truth Seekers -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Helluva Boss (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/qAdTjJaR#r-rnO8UjD_T_HRl6-o_JskYS0Yyr4OmMoyAJ849v-mY",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/qAdTjJaR#r-rnO8UjD_T_HRl6-o_JskYS0Yyr4OmMoyAJ849v-mY"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Ozzie’s -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Helluva Boss (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/2VURlKSJ#eHj8CdTHN9zmjVAOYjd1AIQ3HCohODn51smT883-tBs",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/2VURlKSJ#eHj8CdTHN9zmjVAOYjd1AIQ3HCohODn51smT883-tBs"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "The Circus – Season Finale -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Helluva Boss (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/bBU2DTjR#u4jbETykF3JOsP_JaLv7oFU9cWAb0w9Q75PIkr9kux4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/bBU2DTjR#u4jbETykF3JOsP_JaLv7oFU9cWAb0w9Q75PIkr9kux4"
+            }
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Seeing Stars -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/LJ1BQBKY#GVAPRwmt2-XDWfTVSiPI8w-pTWuMhFpf3oHKqrKUF0I",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/LJ1BQBKY#GVAPRwmt2-XDWfTVSiPI8w-pTWuMhFpf3oHKqrKUF0I"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Exes and Oohs -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 2 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/jclyGTDJ#I1s6F9PdYgOL6mnM29jZfuTj4-il3rOfNWqBHwCcEtA",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/jclyGTDJ#I1s6F9PdYgOL6mnM29jZfuTj4-il3rOfNWqBHwCcEtA"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Western Energy -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/iAFhGa7C#YwFT9Y2WQjX2ub3gher4jX8ch8m2JTuBh4O1cQGQDnY",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/iAFhGa7C#YwFT9Y2WQjX2ub3gher4jX8ch8m2JTuBh4O1cQGQDnY"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "Queen Bee -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/rdMwzDgY#ykiE2M361-xR_1wCB8b0IN1jnI5fyN2Bt9dR7nmAbFo",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/rdMwzDgY#ykiE2M361-xR_1wCB8b0IN1jnI5fyN2Bt9dR7nmAbFo"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "Unhappy Campers -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/mQ9kFBTY#7o2oqjns3EDdEXOYBEh6QGgev82zlah4apn-YGyAPDE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/mQ9kFBTY#7o2oqjns3EDdEXOYBEh6QGgev82zlah4apn-YGyAPDE"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "Oops -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/XZtAhL5L#eEzgWgvBDq7kynEmtSZrZ1kuDkzfBKh8HYgMXwxxOXw",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/XZtAhL5L#eEzgWgvBDq7kynEmtSZrZ1kuDkzfBKh8HYgMXwxxOXw"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Mammon’s Magnificent Musical -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/WNcFHSKR#Wr2-20Zbt8vitDgUHORKqiJcq2ivdADgbVLbgt4jt70",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/WNcFHSKR#Wr2-20Zbt8vitDgUHORKqiJcq2ivdADgbVLbgt4jt70"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "The Full Moon",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/Wc912RRL#5vjXTi7Y2B9s5dYL25-oseGWGrxS6KTPJExwjjf2kyQ",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/Wc912RRL#5vjXTi7Y2B9s5dYL25-oseGWGrxS6KTPJExwjjf2kyQ",
+              "original": ""
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "Apology Tour -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 9 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/nUNV1AIQ#YkjX6scYbjirQqUzqv2DqJyR7klWQrIM49t7w3bamng",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/nUNV1AIQ#YkjX6scYbjirQqUzqv2DqJyR7klWQrIM49t7w3bamng"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 2,
+            "title": "Ghostf**kers -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 10 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/nY0HnACJ#THIYPLdTzTQYOTBhM8ICEs4xVqJbQgDGd0f7yNUGOFo",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/nY0HnACJ#THIYPLdTzTQYOTBhM8ICEs4xVqJbQgDGd0f7yNUGOFo"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 2,
+            "title": "Mastermind -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 11 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/2ZFWmbDC#nSWONBi2AKNjj_MgQEHYfGXrBHqQtlqaTJ3biTODwIY",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/2ZFWmbDC#nSWONBi2AKNjj_MgQEHYfGXrBHqQtlqaTJ3biTODwIY"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 2,
+            "title": "Sinsmas – Season Finale -",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 12 of Helluva Boss (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/GM8VkLyb#I7uUFCNOUt9LjgSPWtnAkyJV2yxvXHg9mAooajh5RrI",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/GM8VkLyb#I7uUFCNOUt9LjgSPWtnAkyJV2yxvXHg9mAooajh5RrI"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "even-given-the-worthless-appraiser-class-im-actually-the-strongest",
+    "title": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
+    "raw_name": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
+    "japaneseTitle": "不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178548-dKtmhvOKdr6t.jpg",
+    "rating": 6.3,
+    "year": 2025,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "Okuruto Noboru",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "synopsis": "Ein has been saddled with the job of \"Appraiser,\" the weakest and least fortunate of all the jobs one can be born with, as the only power it grants is the ability to appraise things.\n\nTreated cruelly by all and reduced to a litter collector by his peers, Ein has grown to hate himself and lives his days in spineless self-abasement. But when he meets Yuuri, the spirit of the World Tree, and her protector, Ursula the sage, Ein's fate takes a drastic turn.\n\nWith the gift of a Spirit Eye from Yuuri and the help of Ursula in learning how to use it, Ein grows stronger and stronger, until he's ready to take Yuuri on her long-desired journey to meet her World Tree's sisters. He goes on to overcome all sorts of challenges, armed with his natural kindness and his new-found courage.  (Source: Crunchyroll)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "“Appraiser” Is a Worthless Class",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 1 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/rh7LkAbg?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/rh7LkAbg?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Super Appraise with My Spirit Eye",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 2 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/XUA1HwNh?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XUA1HwNh?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Revenge Match",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 3 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/zY5ndkaA?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/zY5ndkaA?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Searching for the Sisters",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 4 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8JD15DEm?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8JD15DEm?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Quest to Vanquish the Behemoth",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 5 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/drVuaDNr?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/drVuaDNr?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "VS Zoid",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 6 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/fRAVwxgM?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/fRAVwxgM?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "The Girl of the Forbidden Library",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 7 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/1JGCXuog?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/1JGCXuog?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Nigun’s Shadow",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 8 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/GfcY3hjr?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/GfcY3hjr?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Rise to Action",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 9 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ihuNRjfw?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ihuNRjfw?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Nigun’s Darkness",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 10 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/SnJKmF59?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/SnJKmF59?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The Demon Ioana",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 11 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/MgU2aDik?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/MgU2aDik?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Happiness, Forever NEw! – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "synopsis": "Episode 12 of Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/azXFmscQ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/azXFmscQ?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scott-pilgrim-takes-off",
+    "title": "Scott Pilgrim Takes Off",
+    "raw_name": "Scott Pilgrim Takes Off",
+    "japaneseTitle": "スコット・ピルグリム テイクス・オフ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170206-BPEVgOcpHhan.jpg",
+    "rating": 7.9,
+    "year": 2023,
+    "currentEpBadge": "S1-EP8",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2023",
+    "studio": "Science SARU",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "synopsis": "When girl meets boy, love takes off...\n\n\nScott Pilgrim meets the girl of his dreams, Ramona Flowers, but learns he must defeat her seven evil exes in order to date her. Then things get even more complicated. Based on the graphic novels by Bryan Lee O'Malley. \n\n(Source: Science Saru, Netflix)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Scott Pilgrim’s Precious Little Life -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
+            "synopsis": "Episode 1 of Scott Pilgrim Takes Off (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/3Adk1IRJ#qyukjPwYGOBJa2gJPND8ctIAm4Mid0VyKPLpqZgM-fY",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/3Adk1IRJ#qyukjPwYGOBJa2gJPND8ctIAm4Mid0VyKPLpqZgM-fY"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "A League of Their Own -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
+            "synopsis": "Episode 2 of Scott Pilgrim Takes Off (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/SINGzJAb#GZpWaNUeJ41yRK1O3Lvd4zuCUnuDlg-5sRlffIgeito",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/SINGzJAb#GZpWaNUeJ41yRK1O3Lvd4zuCUnuDlg-5sRlffIgeito"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Ramona Rents a Video -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
+            "synopsis": "Episode 3 of Scott Pilgrim Takes Off (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/XANyxRCa#PMpZBuCQt0jJgdUvHI1UCQRGqQtIpke2DdiXa8DCI-E",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/XANyxRCa#PMpZBuCQt0jJgdUvHI1UCQRGqQtIpke2DdiXa8DCI-E"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Whatever -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
+            "synopsis": "Episode 4 of Scott Pilgrim Takes Off (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/ONUmWRoC#ejwuKZrwRVD0i36QjJZEULEUjE5XxgdvVZA5Gkf7b74",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/ONUmWRoC#ejwuKZrwRVD0i36QjJZEULEUjE5XxgdvVZA5Gkf7b74"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Lights. Camera. Sparks?! -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
+            "synopsis": "Episode 5 of Scott Pilgrim Takes Off (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/uBdTVYhZ#_J_bUY4VbX3ZMkOcERRQdnTxlEW3PV8Mz9SRclxhwWA",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/uBdTVYhZ#_J_bUY4VbX3ZMkOcERRQdnTxlEW3PV8Mz9SRclxhwWA"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "WHODIDIT -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
+            "synopsis": "Episode 6 of Scott Pilgrim Takes Off (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/TRNgHQqA#iaLsloXDiAvl1mdsU7i5XlOjG2u_zPzbeVw7EW5j2Rc",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/TRNgHQqA#iaLsloXDiAvl1mdsU7i5XlOjG2u_zPzbeVw7EW5j2Rc"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "2 Scott 2 Pilgrim -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
+            "synopsis": "Episode 7 of Scott Pilgrim Takes Off (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/qc1HHSzL#kP9cjJQS3rwpi6teAWFxYKZzuQSkapLQSjWVRBTwID0",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/qc1HHSzL#kP9cjJQS3rwpi6teAWFxYKZzuQSkapLQSjWVRBTwID0"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "The World vs Scott Pilgrim – Season Finale -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
+            "synopsis": "Episode 8 of Scott Pilgrim Takes Off (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/Sc0UiBLR#IF8r1jI-cndV8IesnU71Rs9_4Y1M9hL2oVKd7l4mIcA",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/Sc0UiBLR#IF8r1jI-cndV8IesnU71Rs9_4Y1M9hL2oVKd7l4mIcA"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "welcome-to-the-outcasts-restaurant",
+    "title": "Welcome to the Outcast's Restaurant!",
+    "raw_name": "Welcome to the Outcast’s Restaurant!",
+    "japaneseTitle": "追放者食堂へようこそ！",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185544-fNbEUlF84hFb.jpg",
+    "rating": 6.9,
+    "year": 2025,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "OLM",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "synopsis": "When superstar adventurer Dennis gets booted from the world’s strongest party, he teams up with runaway Atelier to serve up his true passion—delicious cuisine. But this not-so-average eatery has not-so-average patrons. Dennis will battle his quirky customers’ troubles with his trusty butcher knife and wok. Visit Adventurer’s Restaurant and fill up your heart and stomach!\n\n(Source: Crunchyroll)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "You Are Free",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 1 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Eej9fe7q?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Eej9fe7q?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "It’s Crazy Delicious!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 2 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/5LNrpiYJ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/5LNrpiYJ?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "That’s an Adventurer!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 3 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/9fgpaCj2?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/9fgpaCj2?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Then, I’ll Have the Daily Special",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 4 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/4xc9QXst?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/4xc9QXst?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "It’s Too Soon for a Marriage Proposal!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 5 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/cCSNN2Q8?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/cCSNN2Q8?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "I’ve Come for Lady Atelier",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 6 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/7jdQSZqX?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/7jdQSZqX?download",
+              "original": ""
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Get Better Soon",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 7 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/2GF9qfmh?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/2GF9qfmh?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Were Closed for Today Due to Personal Business",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 8 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ukNZ5Tsa?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ukNZ5Tsa?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "If Its Important to You Then Please Dont Let Go of It",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 9 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/HTdLmJEc?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/HTdLmJEc?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "The Higher and Further Away a Place Is, the More I Aim to Reach It",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 10 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Lb7wyycU?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Lb7wyycU?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The Final Piece",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 11 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/forb3zht?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/forb3zht?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Welcome to the Outcasts Restaurant NEw! – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+            "synopsis": "Episode 12 of Welcome to the Outcast's Restaurant! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/qkokAUVs?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/qkokAUVs?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blade",
+    "title": "Blade",
+    "raw_name": "Blade",
+    "japaneseTitle": "ブレイド",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6920-2EnJCHsrOjmF.jpg",
+    "rating": 5.7,
+    "year": 2011,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2011",
+    "studio": "MADHOUSE",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Supernatural"
+    ],
+    "synopsis": "The story revolves around Blade, a \"Daywalker\" vampire hunter who was born with vampire and human blood after a vampire attacked his mother. While visiting Japan on a mission, Blade tracks down Deacon Frost, the vampire who killed his mother. Blade confronts \"Existence,\" a mysterious organization composed of vampires modified by Frost. \n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2011",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "His Name is Blade",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 1 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/yeRtJSM6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/yeRtJSM6?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "A Night for the Living, A Mourning for the Dead",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 2 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/pUu2z9Vz?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/pUu2z9Vz?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Dead on Arrival",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 3 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/usHhAmKy?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/usHhAmKy?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "That Was Then, This Is Now",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 4 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/EbhHaY6b?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/EbhHaY6b?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "The Island of Fire",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 5 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/gyyhVNNx?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/gyyhVNNx?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Bad Blood",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 6 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/DoTJsSd2?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DoTJsSd2?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Claws and Blades",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 7 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/JukN8HjH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/JukN8HjH?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Old Wounds, Fresh Blood",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 8 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/GeqKfKRv?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/GeqKfKRv?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "The Bond",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 9 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/C3WLFLht?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/C3WLFLht?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Sins of the Father",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 10 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/wjoxoaqwxjj1yza",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/wjoxoaqwxjj1yza"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The Last Sunset",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 11 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/iMg2HCC6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/iMg2HCC6?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "The Final Glory of Deacon Frost",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6920.jpg",
+            "synopsis": "Episode 12 of Blade (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/D6ajdYdN?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/D6ajdYdN?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iron-man",
+    "title": "Iron Man",
+    "raw_name": "Iron Man",
+    "japaneseTitle": "アイアンマン",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6875-rVHFJrKrkqqD.jpg",
+    "rating": 5.4,
+    "year": 2010,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2010",
+    "studio": "MADHOUSE",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha"
+    ],
+    "synopsis": "Tony Stark, CEO of a large weapons manufacturer, physicist, engineer, and brilliant inventor, is wounded by shrapnel from one of his own weapons. While held captive by terrorists, he develops the Iron Man Suit  and escapes. From that day on, he vows not to waste his second chance at life and to change the world for the better. For that purpose, he comes to Japan.\nIn Lab 23 in Japan, great strides have been taken to develop, and build, a unique power station which does not run on fossil fuels, the Arc Station. Stark intends to join this project, and, for that, he is ready to announce his retirement as Iron Man. At the same time, he will also announce the Mass-produced Iron Men, to which he will pass on his duties. However, during the ceremonies, Stark is suddenly attacked by combat mecha belonging to an organization known as Zodiac.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2010",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Japan: Enter Iron Man",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 1 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/GSqLF1Fo?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/GSqLF1Fo?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Going Nuclear",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 2 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ZaXVUroT?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZaXVUroT?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Reap the Whirlwind! -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 3 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/3QUg3SDI#f5jLRqsihyMe4kBRjyydb60B2nhke-mLmgSeAML3pLw",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/3QUg3SDI#f5jLRqsihyMe4kBRjyydb60B2nhke-mLmgSeAML3pLw"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "A Twist of Memory, a Turn of the Mind!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 4 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/36YPLbhy?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/36YPLbhy?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Outbreak",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 5 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/oZCTC2eN?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/oZCTC2eN?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Technical Difficulties",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 6 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/VA4oy4bF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/VA4oy4bF?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "At the Mercy of My Friends",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 7 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/oW5EkfrV?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/oW5EkfrV?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Daughter of the Zodiac",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 8 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/zeRXMXfT?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/zeRXMXfT?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "A Duel of Iron",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 9 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8mNFDfEJ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8mNFDfEJ?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Casualties of War",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 10 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/aLRXb4xt?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/aLRXb4xt?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The Beginning of the End",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 11 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/wUJnA8Sx?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/wUJnA8Sx?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Endgame [Season Finale!]",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+            "synopsis": "Episode 12 of Iron Man (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/fYCESuus?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/fYCESuus?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "roboticsnotes",
+    "title": "Robotics;Notes",
+    "raw_name": "Robotics;Notes",
+    "japaneseTitle": "Robotics;Notes",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13599-0911MR13Gwo8.jpg",
+    "rating": 7.0,
+    "year": 2012,
+    "currentEpBadge": "S1-EP22",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2012",
+    "studio": "Production I.G",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synopsis": "2019, Divergence Ratio 1.048596 (Steins Gate worldline). The near future, where a device popularly called the PokeCom, packaged with PhoneDroid OS, spreads, bringing the Augmented Reality world close to existence. \nCentral Tanegashima High School's Robot Research Club is in danger of losing its club status. Kaito Yashio, one of only two members, is only obsessed with robot fighting games, showing no interest in the Robo Club even in this situation. The reckless, useless club head, Akiho Senomiya, aims to complete a giant robot, struggling hard to avoid losing the club's status. \nThen, one day, Kaito discovers the A.R. annotation that becomes the Kimijima Report. Written in that report is the indictment of someone named Kou Kimijima's conspiracy involving the world.\n(Source: VNdb)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2012",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Because Gunvarrel is Waiting",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 1 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Hi8f8Lqj?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Hi8f8Lqj?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Because of Dreams, Hopes and Passion",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 2 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Gc95oqPA?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Gc95oqPA?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Tanegashi Accel Impact!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 3 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/nW7nRYp3?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/nW7nRYp3?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Together, Let’s Build a Giant Robot of Justice!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 4 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/egnvzfv1gz1pt9t",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/egnvzfv1gz1pt9t"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "May I Call You ‘Brother’?",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 5 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ePdbo7Mw?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ePdbo7Mw?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "It’s So Sad When a Dream Ends",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 6 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/zrwlhhahktwruhr",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/zrwlhhahktwruhr"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Thank You Berry Much",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 7 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/n5hqkhvq4m5mfgt",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/n5hqkhvq4m5mfgt"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "I’m Tennouji Nae. Nice to Meet You!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 8 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/aq4x4py0onb6bqa",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/aq4x4py0onb6bqa"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Because It’s the Product of Our Blood, Sweat, and Tears",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 9 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/mm8w8mi2ag2pdmy",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/mm8w8mi2ag2pdmy"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "A Robot That Only We Can Build",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 10 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/jnpjvpzlaj1yanj",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/jnpjvpzlaj1yanj"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The Flag Has Been Cleared",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 11 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/cquqx1qpis30tc1",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/cquqx1qpis30tc1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Until You Like at Least One Thing",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 12 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/vlonwoywbccckol",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/vlonwoywbccckol"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "What a Mad World",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 13 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/TChKUyvT?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/TChKUyvT?download"
+            }
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 1,
+            "title": "Listen to My Story Like This…",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 14 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/uutyraoH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/uutyraoH?download"
+            }
+          },
+          {
+            "id": 15,
+            "number": 15,
+            "season": 1,
+            "title": "I’ll Show You a Dream",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 15 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/i9tCTT1y?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/i9tCTT1y?download"
+            }
+          },
+          {
+            "id": 16,
+            "number": 16,
+            "season": 1,
+            "title": "I Love Giant Robots!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 16 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/MWkoehHS?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/MWkoehHS?download"
+            }
+          },
+          {
+            "id": 17,
+            "number": 17,
+            "season": 1,
+            "title": "As of Today, The Robotics Club is Disbanded!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 17 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/rzrqdr8sqthqezq",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/rzrqdr8sqthqezq"
+            }
+          },
+          {
+            "id": 18,
+            "number": 18,
+            "season": 1,
+            "title": "The True Gunvarrel’s In There!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 18 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/8qd8tzt6vt747x4",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/8qd8tzt6vt747x4"
+            }
+          },
+          {
+            "id": 19,
+            "number": 19,
+            "season": 1,
+            "title": "I Should Never Have Had a Dream",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 19 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/gufllhvaud3gufa",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/gufllhvaud3gufa"
+            }
+          },
+          {
+            "id": 20,
+            "number": 20,
+            "season": 1,
+            "title": "Does She Still Love Robots?",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 20 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/9G2cxrNj?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/9G2cxrNj?download"
+            }
+          },
+          {
+            "id": 21,
+            "number": 21,
+            "season": 1,
+            "title": "Gunvarrel Takeoff!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 21 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/d9toy1bkndq9so8",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/d9toy1bkndq9so8"
+            }
+          },
+          {
+            "id": 22,
+            "number": 22,
+            "season": 1,
+            "title": "This is Our Game Now – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13599-jpZpumSDPJM0.jpg",
+            "synopsis": "Episode 22 of Robotics;Notes (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/b1f1whnh1mehezl",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/b1f1whnh1mehezl"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "demon-lord-retry",
+    "title": "Demon Lord, Retry!",
+    "raw_name": "Demon Lord, Retry!",
+    "japaneseTitle": "魔王様、リトライ!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104252-qeVvmiAPExqQ.jpg",
+    "rating": 6.3,
+    "year": 2019,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2019",
+    "studio": "EKACHI EPILKA",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synopsis": "The story centers on Akira Ono, a regular guy who works at a company that manages an online game. He often plays the game as his character \"Maou\" (Dark Lord). But one day, when he logs on, he is whisked into the game's fantasy world as his character. There, he meets a one-legged girl, and begins his adventures alongside her. But as he is a powerful \"Dark Lord,\" various nations and holy maidens journey to defeat him, and he stirs up trouble everywhere he goes.\n\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Demon Lord’s Descent",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 1 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/AtJfmbGj?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/AtJfmbGj?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Golden Luna",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 2 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/RxfkDopx?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/RxfkDopx?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Killer Queen",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 3 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/GR7pZxbM?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/GR7pZxbM?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Yu Kirino",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 4 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/5kwpAPzm?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/5kwpAPzm?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Merciless Invasion",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 5 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/cowWdRV5?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/cowWdRV5?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Turmoil in the Capital",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 6 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/TVxCFnv4?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/TVxCFnv4?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "All or Nothing",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 7 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Hb32ghgF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Hb32ghgF?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Demon Lord’s Handiwork",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 8 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ZeJwjm1D?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZeJwjm1D?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Dancing Swindler and the Giant Gold Coin",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 9 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/jSKLXQk8?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/jSKLXQk8?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Madam Roars",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 10 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/CCzPRnvs?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/CCzPRnvs?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Yukikaze Attacks",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 11 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/byxSkkTH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/byxSkkTH?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "White Angel and Demon Lord – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
+            "synopsis": "Episode 12 of Demon Lord, Retry! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/p2fNHpVK?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/p2fNHpVK?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dekin-no-mogura-the-earthbound-mole",
+    "title": "Dekin no Mogura: The Earthbound Mole",
+    "raw_name": "Dekin no Mogura: The Earthbound Mole",
+    "japaneseTitle": "出禁のモグラ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184574-sPCVBO2NGfMp.jpg",
+    "rating": 6.5,
+    "year": 2025,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "Brain's Base",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "synopsis": "\"I won't die 'cause I was banned from the afterlife.\"\n\nA shady self-proclaimed hermit named Momoyuki Mogura, AKA: Mogura, is banned from the afterlife due to an incident. Now he collects spirit possessed will-o'-wisps in his lantern, hoping to make a comeback.\n\nIt seems that those who encounter him begin to see peculiar things.\n\n(Source: Crunchyroll)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "At a Certain Location in Tokyo",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 1 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/7sGJJZb4?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/7sGJJZb4?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Spirit = Human",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 2 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/3LJ6k8e9?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3LJ6k8e9?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "The Gathered Crew",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 3 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/oWZXFJVL?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/oWZXFJVL?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "The Mystery of the Mad Dog and the Red Panda -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 4 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/wjmt6h1gmry51hf",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/wjmt6h1gmry51hf",
+              "original": ""
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Trigger -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 5 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/yjkbjrzdla9ccsz",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/yjkbjrzdla9ccsz",
+              "original": ""
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Brothers and Sisters -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 6 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/btj5dn5ipj55ipp",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/btj5dn5ipj55ipp",
+              "original": ""
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "The Trap of Only Seeing Results -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 7 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/ddf44w6n4lh7qgh",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/ddf44w6n4lh7qgh",
+              "original": ""
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "The Merfolk -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 8 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/eewa83vakakfkfx",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/eewa83vakakfkfx",
+              "original": ""
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "The Great Mother’s Love -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 9 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/TbRBhRSZ#hwbFys6G5uGHZ6OnGmBh_zcF1VJ7kjQMOEIgkhdRPQo",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/TbRBhRSZ#hwbFys6G5uGHZ6OnGmBh_zcF1VJ7kjQMOEIgkhdRPQo"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "True Worth -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 10 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/UBtG3DBC#ogg1rkIsW6YLpIxNoAD9iQROAdcJRcSrwByXIzpv0g0",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/UBtG3DBC#ogg1rkIsW6YLpIxNoAD9iQROAdcJRcSrwByXIzpv0g0"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The Merfolk and the Bakeneko",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 11 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/WY2Uy7Uw?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WY2Uy7Uw?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "During the Rainy Season NEw! – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+            "synopsis": "Episode 12 of Dekin no Mogura: The Earthbound Mole (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/3ch9uZkQ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3ch9uZkQ?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sakamoto-days",
+    "title": "SAKAMOTO DAYS",
+    "raw_name": "SAKAMOTO DAYS",
+    "japaneseTitle": "SAKAMOTO DAYS",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177709-yeZ7ciQULJRx.jpg",
+    "rating": 7.6,
+    "year": 2025,
+    "currentEpBadge": "S1-EP22",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "TMS Entertainment",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "synopsis": "When Sakamoto meets Aoi, the convenience store clerk, it’s love at first sight — and just like that, he retires.\n\nSakamoto gets married, has a daughter, opens a mom-and-pop store in a quiet town, and completely transforms … into a plus-size man. To ensure a peaceful life with his beloved family, the legendary ex–hit man bands together with comrades to face off against the looming threat of assassins.\n\n(Source: Netflix TUDUM)\n\nNote: The series streamed a week in advance on Netflix Japan starting with episode 2 released alongside episode 1.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Legendary Hit Man",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 1 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/qXykSJMt?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/qXykSJMt?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Vs. Son Hee and Bacho",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 2 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/VxWyyvA7?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/VxWyyvA7?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Welcome to Sugar Park",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 3 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/baGAE1kF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/baGAE1kF?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Hard Boiled",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 4 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/gGiFtFGb?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/gGiFtFGb?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Source of Strength",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 5 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/VgrYoMy4?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/VgrYoMy4?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Heisuke Mashimo",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 6 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/JqbTRt7h?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/JqbTRt7h?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Jurassic Bastard",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 7 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Fn7R43hz?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Fn7R43hz?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Sakamoto’s vs. the Lab",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 8 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8f32MQXU?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8f32MQXU?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "All Aboard",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 9 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/d7n7hc8A?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/d7n7hc8A?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Bathhouse Roughhouse",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 10 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/XQAmY2Py?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XQAmY2Py?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Casino Battle – Part 1 Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 11 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ktfnmHsV?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ktfnmHsV?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Overload",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 12 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/e36qX5PV?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/e36qX5PV?download"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "Just Desserts",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 13 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/AB8AQYV6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/AB8AQYV6?download"
+            }
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 1,
+            "title": "Strong Assault",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 14 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Mpf6o7w5?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Mpf6o7w5?download"
+            }
+          },
+          {
+            "id": 15,
+            "number": 15,
+            "season": 1,
+            "title": "Round and Round the Tower",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 15 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/tCN4BU6F?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/tCN4BU6F?download"
+            }
+          },
+          {
+            "id": 16,
+            "number": 16,
+            "season": 1,
+            "title": "Slice Slice Dance",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 16 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/FSnmhmFh?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/FSnmhmFh?download"
+            }
+          },
+          {
+            "id": 17,
+            "number": 17,
+            "season": 1,
+            "title": "Have a Nice Flight",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 17 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ZebRPArN?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZebRPArN?download"
+            }
+          },
+          {
+            "id": 18,
+            "number": 18,
+            "season": 1,
+            "title": "Kanaguri",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 18 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/FEbuqZHd?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/FEbuqZHd?download"
+            }
+          },
+          {
+            "id": 19,
+            "number": 19,
+            "season": 1,
+            "title": "Exam, Stage Three",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 19 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/SXhuVzh7?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/SXhuVzh7?download"
+            }
+          },
+          {
+            "id": 20,
+            "number": 20,
+            "season": 1,
+            "title": "Mutual Fans",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 20 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/zZtT4JST?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/zZtT4JST?download"
+            }
+          },
+          {
+            "id": 21,
+            "number": 21,
+            "season": 1,
+            "title": "Hard Mode",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 21 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ch5jHrmD?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ch5jHrmD?download"
+            }
+          },
+          {
+            "id": 22,
+            "number": 22,
+            "season": 1,
+            "title": "Each One’s Mission NEw! – Part 2 Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+            "synopsis": "Episode 22 of SAKAMOTO DAYS (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/tRr9QKqm?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/tRr9QKqm?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shoot-goal-to-the-future",
+    "title": "Shoot! Goal to the Future",
+    "raw_name": "Shoot! Goal to the Future",
+    "japaneseTitle": "シュート！Goal to the Future",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+    "rating": 4.8,
+    "year": 2022,
+    "currentEpBadge": "S1-EP13",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2022",
+    "studio": "EMT Squared",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Sports"
+    ],
+    "synopsis": "Atsushi Kamiya, a former captain at Kakegawa High School and the world-renowned \"courageous captain\" for a famous Italian soccer team… And Hideto Tsuji, a student at Kakegawa High School, who seems uninterested in the now-weakened soccer team…\n\nTheir meeting is the start of a new legend...\n\n(Source: Official Site)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2022",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Useless",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 1 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/xGz1dYJJ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/xGz1dYJJ?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Group of Losers",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 2 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/9LLenvsG?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/9LLenvsG?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "The Ones Who Leave",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 3 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ihvHWUpn?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ihvHWUpn?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Shaking",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 4 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/ydy1h9jym8zyp8q",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/ydy1h9jym8zyp8q"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Old Friend",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 5 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/QBaEwu9s?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/QBaEwu9s?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Naporitan",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 6 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/qot6ymowot1tmqa",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/qot6ymowot1tmqa"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Training Camp",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 7 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/g0d69gken36gse9",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/g0d69gken36gse9"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Thread",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 8 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/oahzzgdb7rgg1gt",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/oahzzgdb7rgg1gt"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Collapse",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 9 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/G9RyKR1h?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/G9RyKR1h?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Emptiness",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 10 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/kttLb7uD?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/kttLb7uD?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Left Leg",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 11 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/xujozyy7v1ggmya",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/xujozyy7v1ggmya"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Aloof",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 12 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/4flsussmil0098h",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/4flsussmil0098h"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "Beginning – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141775-2ixoFSe09cxA.jpg",
+            "synopsis": "Episode 13 of Shoot! Goal to the Future (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/3uHnuFNn?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3uHnuFNn?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blue-lock",
+    "title": "BLUE LOCK",
+    "raw_name": "BLUE LOCK",
+    "japaneseTitle": "ブルーロック",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137822-oevspckMGLuY.jpg",
+    "rating": 7.9,
+    "year": 2022,
+    "currentEpBadge": "S1-EP24",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2022",
+    "studio": "8-bit",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "synopsis": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?\n\n(Source: Crunchyroll)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2022",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Dream",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 1 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/CefJiRjG?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/CefJiRjG?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Monster",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 2 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/5obEQTkn?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/5obEQTkn?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Soccer’s “Zero",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 3 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/EXjES5SB?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/EXjES5SB?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Premonition and Intuition",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 4 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/XqodZ9Ay?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XqodZ9Ay?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "To Be Reborn",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 5 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/emQwM68G?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/emQwM68G?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "I’m Sorry",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 6 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/FLUTdWdi?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/FLUTdWdi?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Rush",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 7 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/XfVZnTBv?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XfVZnTBv?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "The Formula for Goals",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 8 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/un1tWtR6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/un1tWtR6?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Awakening",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 9 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/TG6p8ihq?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/TG6p8ihq?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Just the Way It Is",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 10 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/UdHGKgEg?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/UdHGKgEg?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The Final Piece",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 11 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/VA8LLMJD?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/VA8LLMJD?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "The Second Selection",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 12 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/jkomQ7oE?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/jkomQ7oE?download"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "TOP3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 13 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/pxLyXena?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/pxLyXena?download"
+            }
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 1,
+            "title": "The Geniuses and the Average Joes",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 14 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/EcvpCtoA?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/EcvpCtoA?download"
+            }
+          },
+          {
+            "id": 15,
+            "number": 15,
+            "season": 1,
+            "title": "Devour",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 15 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ETttyZ9c?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ETttyZ9c?download"
+            }
+          },
+          {
+            "id": 16,
+            "number": 16,
+            "season": 1,
+            "title": "Tri-Fusion",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 16 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ruujF3zD?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ruujF3zD?download"
+            }
+          },
+          {
+            "id": 17,
+            "number": 17,
+            "season": 1,
+            "title": "Donkey",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 17 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/WARfzuzd?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WARfzuzd?download"
+            }
+          },
+          {
+            "id": 18,
+            "number": 18,
+            "season": 1,
+            "title": "The Stage for the Lead",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 18 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Be1EJDah?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Be1EJDah?download"
+            }
+          },
+          {
+            "id": 19,
+            "number": 19,
+            "season": 1,
+            "title": "Dancing Boy",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 19 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/j3DYr2TA?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/j3DYr2TA?download"
+            }
+          },
+          {
+            "id": 20,
+            "number": 20,
+            "season": 1,
+            "title": "Super Link-Up Play",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 20 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/TXX3Vrn2?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/TXX3Vrn2?download"
+            }
+          },
+          {
+            "id": 21,
+            "number": 21,
+            "season": 1,
+            "title": "I’m Not There",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 21 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/geuNkUFS?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/geuNkUFS?download"
+            }
+          },
+          {
+            "id": 22,
+            "number": 22,
+            "season": 1,
+            "title": "Voice",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 22 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/jeApMhEA?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/jeApMhEA?download"
+            }
+          },
+          {
+            "id": 23,
+            "number": 23,
+            "season": 1,
+            "title": "Luck",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 23 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/YXiSTEm4?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/YXiSTEm4?download"
+            }
+          },
+          {
+            "id": 24,
+            "number": 24,
+            "season": 1,
+            "title": "The Time Has Come Season 1 Completed!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+            "synopsis": "Episode 24 of BLUE LOCK (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/PjVLEp2N?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/PjVLEp2N?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "after-school-dice-club",
+    "title": "After School Dice Club",
+    "raw_name": "After School Dice Club",
+    "japaneseTitle": "放課後さいころ倶楽部",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104115-hTIuAGYjjAL4.jpg",
+    "rating": 6.4,
+    "year": 2019,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2019",
+    "studio": "LIDENFILMS",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synopsis": "During a beautiful spring day in Kyoto, Aya and Miki follow the student council president Midori to a board game shop. The three students end up discovering a German board game that causes them to realize their shared passion for games. In the coming days, many more board games will be found and played! \n\n(Source: Crunchyroll)\n",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "A New World",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 1 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/QpdNbqei?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/QpdNbqei?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "This is a Cockroach!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 2 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/TC3cS4dc?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/TC3cS4dc?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Not Alone",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 3 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/75JboWj8?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/75JboWj8?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Midori’s Dream",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 4 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Jyp57U59?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Jyp57U59?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "A Message for You",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 5 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/fhsWNt1k?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/fhsWNt1k?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "A Fledgling Designer is Born!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 6 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/X3rhzyf5?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/X3rhzyf5?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Opening Up",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 7 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/w5YGF7jk?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/w5YGF7jk?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "The Fourth Friend",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 8 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/uu4ayyeisfcfbwr",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/uu4ayyeisfcfbwr"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Daruma-Doll Fell Down",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 9 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://hubcloud.ist/drive/2eqazgydsgvzrgk",
+            "downloadLinks": {
+              "hindi": "https://hubcloud.ist/drive/2eqazgydsgvzrgk"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Happy Holy Night",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 10 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/44DQWkhY?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/44DQWkhY?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "A Game By Everyone",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 11 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/nzw11Q2s?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/nzw11Q2s?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "The Place We All Love – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "synopsis": "Episode 12 of After School Dice Club (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/CnHtXdmy?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/CnHtXdmy?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
     "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
     "raw_name": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
