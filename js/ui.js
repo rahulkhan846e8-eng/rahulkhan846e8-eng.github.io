@@ -810,7 +810,10 @@ export class UIRenderer {
       });
     });
 
-    // Direct Download Click Listener (Rewarded 20s Ad Modal)
+    // Direct Download Click Listener (2-Step Direct Ad-to-Download Gate)
+    // Click 1: Opens high-CPM Adsterra Direct Link in a new tab (100% permitted, never blocked)
+    // Click 2: Opens the episode download link (PixelDrain/Mega) in a new tab
+    // ShinobiHub stays completely open and active in the original tab!
     container.querySelectorAll(".direct-dl-btn").forEach(btn => {
       btn.addEventListener("click", (e) => {
         const hasLink = btn.dataset.hasLink === "true";
@@ -829,9 +832,50 @@ export class UIRenderer {
 
         e.preventDefault();
 
-        // 1. ALWAYS OPEN THE DOWNLOAD LINK IN A NEW TAB!
-        // This guarantees the download provider (PixelDrain/Mega) opens directly in a new tab,
-        // and ShinobiHub stays completely open and active in the original tab!
+        const adsConfig = window.SHINOBI_ADS_CONFIG;
+        const adUrl = adsConfig?.adsterraDirectLink || "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe";
+
+        // STEP 1: First click -> Open High-CPM Adsterra Direct Link in a new tab!
+        if (!btn._adUnlocked && adUrl && adsConfig?.enabled !== false) {
+          btn._adUnlocked = true;
+
+          try {
+            window.open(adUrl, "_blank", "noopener,noreferrer");
+          } catch (adErr) {
+            console.warn("Direct link popup blocked:", adErr);
+          }
+
+          // Visual transformation: Button turns glowing green indicating download is unlocked!
+          btn.classList.add("btn-unlocked");
+          const actionEl = btn.querySelector(".server-btn-action");
+          if (actionEl) {
+            actionEl.innerHTML = `
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
+              <span>Download Ready</span>
+            `;
+          }
+
+          UIRenderer.showToast("⚡ Sponsor unlocked in new tab! Click button to get your file.", "success");
+
+          // Reset unlock state after 45 seconds so subsequent downloads monetize again
+          clearTimeout(btn._resetTimer);
+          btn._resetTimer = setTimeout(() => {
+            btn._adUnlocked = false;
+            btn.classList.remove("btn-unlocked");
+            if (actionEl) {
+              actionEl.innerHTML = `
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+                <span>Download</span>
+              `;
+            }
+          }, 45000);
+
+          return;
+        }
+
+        // STEP 2: Second click (or ads disabled) -> Open Download link in a new tab!
         try {
           window.open(activeUrl, "_blank", "noopener,noreferrer");
         } catch (dlErr) {
@@ -839,18 +883,20 @@ export class UIRenderer {
           window.location.href = activeUrl;
         }
 
-        // 2. ALSO TRIGGER THE ADSTERRA DIRECT LINK AD IN A NEW TAB
-        const adsConfig = window.SHINOBI_ADS_CONFIG;
-        const adUrl = adsConfig?.adsterraDirectLink || "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe";
-        if (adUrl && adsConfig?.enabled !== false) {
-          try {
-            window.open(adUrl, "_blank", "noopener,noreferrer");
-          } catch (adErr) {
-            console.warn("Direct link popup blocked:", adErr);
-          }
-        }
-
         UIRenderer.showToast("Opening download in a new tab...", "success");
+
+        // After successful download click, reset button appearance smoothly
+        setTimeout(() => {
+          btn._adUnlocked = false;
+          btn.classList.remove("btn-unlocked");
+          const actionEl = btn.querySelector(".server-btn-action");
+          if (actionEl) {
+            actionEl.innerHTML = `
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+              <span>Download</span>
+            `;
+          }
+        }, 3500);
       });
     });
   }
@@ -862,18 +908,16 @@ export class UIRenderer {
     const config = window.SHINOBI_ADS_CONFIG;
     const adUrl = config?.adsterraDirectLink || "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe";
 
-    // Open high-CPM ad in new tab
     if (adUrl && config?.enabled !== false) {
       try {
         window.open(adUrl, "_blank", "noopener,noreferrer");
       } catch (_) {}
     }
 
-    // Open download link in a new tab so ShinobiHub stays open!
     if (downloadUrl) {
-      setTimeout(() => {
+      try {
         window.open(downloadUrl, "_blank", "noopener,noreferrer");
-      }, 120);
+      } catch (_) {}
     }
     return;
   }
