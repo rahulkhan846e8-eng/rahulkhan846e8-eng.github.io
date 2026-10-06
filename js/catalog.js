@@ -46,6 +46,28 @@ const FAMOUS_POPULAR_IDS = [
 
 export const ANIME_CATALOG = [
   {
+    "id": "doraemon-shin-nobita-no-kaitei-kiganjou",
+    "title": "Doraemon: Shin Nobita no Kaitei Kiganjou",
+    "japaneseTitle": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "raw_name": "Doraemon New Nobita and the Castle of the Undersea Devil",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
+    "type": "Movie",
+    "status": "Completed",
+    "year": 2026,
+    "rating": 6.2,
+    "genres": [
+      "Fantasy"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Hindi Dub",
+    "hasHindi": true,
+    "synopsis": "10,000 meters below sea level. On this Earth, there lies a world no one has yet to uncover.\n\nNote: This is a remake of the 1983 movie Doraemon: Nobita no Kaitei Kiganjou.",
+    "seasonCount": 1,
+    "totalEpisodes": 1
+  },
+  {
     "id": "baki",
     "title": "BAKI",
     "japaneseTitle": "バキ",

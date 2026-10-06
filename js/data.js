@@ -45,6 +45,56 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "doraemon-shin-nobita-no-kaitei-kiganjou",
+    "title": "Doraemon: Shin Nobita no Kaitei Kiganjou",
+    "raw_name": "Doraemon New Nobita and the Castle of the Undersea Devil",
+    "japaneseTitle": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
+    "rating": 6.2,
+    "year": 2026,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2026",
+    "studio": "Shin-Ei Animation",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Fantasy"
+    ],
+    "synopsis": "10,000 meters below sea level. On this Earth, there lies a world no one has yet to uncover.\n\nNote: This is a remake of the 1983 movie Doraemon: Nobita no Kaitei Kiganjou.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Doraemon: Shin Nobita no Kaitei Kiganjou (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
+            "synopsis": "Doraemon: Shin Nobita no Kaitei Kiganjou full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/CxSxWq8X?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/CxSxWq8X?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "baki",
     "title": "BAKI",
     "raw_name": "BAKI",
