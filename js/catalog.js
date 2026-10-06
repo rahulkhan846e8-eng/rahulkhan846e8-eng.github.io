@@ -46,6 +46,31 @@ const FAMOUS_POPULAR_IDS = [
 
 export const ANIME_CATALOG = [
   {
+    "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
+    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "japaneseTitle": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
+    "raw_name": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180812-K1tCXSQnS8mG.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2025,
+    "rating": 6.5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Hindi Dub",
+    "hasHindi": true,
+    "synopsis": "Yuke, a red mage, angrily declares that he's leaving Thunder Pike, the A-rank party he's been with for five years, because he's fed up with being insulted and ridiculed by the other members.\n\nWhile searching for a new party, he runs into hi",
+    "seasonCount": 1,
+    "totalEpisodes": 24
+  },
+  {
     "id": "dr-seusss-horton",
     "title": "Dr. Seuss's Horton!",
     "japaneseTitle": "",

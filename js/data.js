@@ -45,6 +45,381 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
+    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "raw_name": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "japaneseTitle": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180812-K1tCXSQnS8mG.jpg",
+    "rating": 6.5,
+    "year": 2025,
+    "currentEpBadge": "S1-EP24",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "Bandai Namco Pictures",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synopsis": "Yuke, a red mage, angrily declares that he's leaving Thunder Pike, the A-rank party he's been with for five years, because he's fed up with being insulted and ridiculed by the other members.\n\nWhile searching for a new party, he runs into his former students Marina, Silk, and Rain, and decides to join their party, Clover. Encouraged by their admiration of him as their teacher, Yuke leads them in completing several quests that show off his own extraordinary magic and skills while bringing out the girls' abilities to their fullest.\n\nThen, through an \"adventure broadcast\" by an artifact known as Camelot, Clover becomes well-known throughout society. The party's dream is to conquer Achromatic Darkness, the most challenging dungeon of all, but as they take on other dungeons in hopes of eventually achieving that goal, they gradually become entangled in chaos that threatens the whole world...\n\n(Source: Crunchyroll)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Clover Is Born",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 1 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/5GRmy9vh?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/5GRmy9vh?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "The Forest Where a Magic Beast Dwells",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 2 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/3BwYxKM7?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3BwYxKM7?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Overflow",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 3 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/rWwZMGBE?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/rWwZMGBE?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Shadow Stalker",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 4 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/1o5Hahua?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/1o5Hahua?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Mission",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 5 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ZJSXMG4o?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZJSXMG4o?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Achromatic Darkness",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 6 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/YRdnAtzJ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/YRdnAtzJ?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "The Pale, Immortal Ruler",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 7 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/sYke2Ued?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/sYke2Ued?download"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "One Who Was Once a Friend",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 8 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/5Pqfs5Bw?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/5Pqfs5Bw?download"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "A Six-Leaf Clover",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 9 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/tokdK5VZ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/tokdK5VZ?download"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Clover’s Back in Action!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 10 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/k1aQ758s?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/k1aQ758s?download"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "The Capital Distorted by the Twilight",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 11 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/5jPKvA28?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/5jPKvA28?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "The Golden Priestess – Part 1 Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 12 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/uWdbd4L1?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/uWdbd4L1?download"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "Biblion, the Book Spirit",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 13 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/JPPtNGDJ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/JPPtNGDJ?download"
+            }
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 1,
+            "title": "One Gold",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 14 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/CT1HyLKr?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/CT1HyLKr?download"
+            }
+          },
+          {
+            "id": 15,
+            "number": 15,
+            "season": 1,
+            "title": "Crossing Time",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 15 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/imqf4cT5?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/imqf4cT5?download"
+            }
+          },
+          {
+            "id": 16,
+            "number": 16,
+            "season": 1,
+            "title": "Return From the Twilight, And…",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 16 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Wz1bypjr?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Wz1bypjr?download"
+            }
+          },
+          {
+            "id": 17,
+            "number": 17,
+            "season": 1,
+            "title": "The Seven-Leaf Clover",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 17 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/pU8TU6nc?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/pU8TU6nc?download"
+            }
+          },
+          {
+            "id": 18,
+            "number": 18,
+            "season": 1,
+            "title": "King’s Order",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 18 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/o6quMyyi?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/o6quMyyi?download"
+            }
+          },
+          {
+            "id": 19,
+            "number": 19,
+            "season": 1,
+            "title": "The Dungeon Count of Welmelia",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 19 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8D7zUboA?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8D7zUboA?download"
+            }
+          },
+          {
+            "id": 20,
+            "number": 20,
+            "season": 1,
+            "title": "The World Turns Inside-Out",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 20 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/EunfoWgg?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/EunfoWgg?download"
+            }
+          },
+          {
+            "id": 21,
+            "number": 21,
+            "season": 1,
+            "title": "Tenebre",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 21 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/bVpoyioH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/bVpoyioH?download"
+            }
+          },
+          {
+            "id": 22,
+            "number": 22,
+            "season": 1,
+            "title": "An Unexpected Reunion",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 22 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/yVjKqqcb?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/yVjKqqcb?download"
+            }
+          },
+          {
+            "id": 23,
+            "number": 23,
+            "season": 1,
+            "title": "The End of the Darkness",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 23 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/sJuJ9eBR?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/sJuJ9eBR?download"
+            }
+          },
+          {
+            "id": 24,
+            "number": 24,
+            "season": 1,
+            "title": "Beyond the Dream – Part 2 Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+            "synopsis": "Episode 24 of I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Hsk4vgv9?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Hsk4vgv9?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "dr-seusss-horton",
     "title": "Dr. Seuss's Horton!",
     "raw_name": "Dr. Seuss’s Horton!",
