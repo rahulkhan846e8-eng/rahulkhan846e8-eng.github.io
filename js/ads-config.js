@@ -4,13 +4,13 @@
  * High-monetization Adsterra setup:
  * 1. Smart Popunder Engine (opens Direct Link on authentic user clicks with cooldown)
  * 2. High CPM Horizontal Banners (320x50 mobile & responsive)
- * 3. Fast Rewarded Direct Download sponsor modal (8s countdown)
+ * 3. Instant Direct Download + Direct Link Ad Redirect (Zero waiting time, maximum CPM)
  * 4. Social Bar Notification Script
  */
 
 window.SHINOBI_ADS_CONFIG = {
   enabled: true,
-  countdownSeconds: 8,
+  countdownSeconds: 0,
 
   // 1. ADSTERRA 320x50 HORIZONTAL BANNER (Active High-CPM Banner)
   adsterra320x50: {

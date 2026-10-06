@@ -827,61 +827,60 @@ export class UIRenderer {
           return;
         }
 
-        // If countdown modal is disabled or set to 0 seconds, open download directly immediately
+        // USER REQUIREMENT: No waiting/countdown page!
+        // Immediately open the high-CPM Adsterra Direct Link ad in a new tab,
+        // and instantly initiate the episode download in the current window.
+        e.preventDefault();
+
         const adsConfig = window.SHINOBI_ADS_CONFIG;
-        if (!adsConfig || !adsConfig.enabled || Number(adsConfig.countdownSeconds) <= 0) {
-          window.open(activeUrl, "_blank", "noopener,noreferrer");
-          return;
+        const adUrl = adsConfig?.adsterraDirectLink || "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe";
+
+        // 1. Open the high-profit Adsterra Direct Link in a new tab
+        if (adUrl && adsConfig?.enabled !== false) {
+          try {
+            window.open(adUrl, "_blank", "noopener,noreferrer");
+          } catch (adErr) {
+            console.warn("Direct link popup blocked:", adErr);
+          }
         }
 
-        // Intercept download and trigger the Rewarded Ad Modal
-        e.preventDefault();
-        try {
-          const epTitle = isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : (ep.title || `Episode ${ep.number}`);
-          UIRenderer.openDownloadCountdownModal({
-            downloadUrl: activeUrl,
-            animeTitle: anime.title,
-            epTitle: epTitle,
-            lang: currentLang === 'original' ? 'Original Dub' : 'Hindi Dub',
-            quality: '1080p Full HD'
-          });
-        } catch (modalErr) {
-          console.error("Ad modal trigger error, opening download directly:", modalErr);
-          window.open(activeUrl, "_blank", "noopener,noreferrer");
-        }
+        UIRenderer.showToast("Starting direct download...", "success");
+
+        // 2. Immediately initiate the episode download without waiting
+        setTimeout(() => {
+          window.location.href = activeUrl;
+        }, 120);
       });
     });
   }
 
   // --------------------------------------------------------------------------
-  // Rewarded Download Ad Modal (Adsterra Integration)
+  // Direct Download & Adsterra Direct Link Redirect (Waiting Modal Removed)
   // --------------------------------------------------------------------------
-  static openDownloadCountdownModal({ downloadUrl, animeTitle, epTitle, lang, quality }) {
-    const config = window.SHINOBI_ADS_CONFIG || {
-      enabled: false,
-      countdownSeconds: 0,
-      adsterraDirectLink: "",
-      bannerCode: "",
-      autoStartDownloadOnUnlock: true,
-      sponsorButtonText: "⚡ Visit Sponsor (Support Shinobi HUB)",
-      statusMessage: "Preparing high-speed 1080p download link..."
-    };
+  static openDownloadCountdownModal({ downloadUrl }) {
+    const config = window.SHINOBI_ADS_CONFIG;
+    const adUrl = config?.adsterraDirectLink || "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe";
 
-    // If disabled or countdown is 0, directly open link immediately
-    if (!config.enabled || Number(config.countdownSeconds) <= 0) {
-      window.open(downloadUrl, "_blank", "noopener,noreferrer");
-      return;
+    // Open high-CPM ad in new tab
+    if (adUrl && config?.enabled !== false) {
+      try {
+        window.open(adUrl, "_blank", "noopener,noreferrer");
+      } catch (_) {}
     }
 
-    // Clean up any existing modal or timer
-    if (UIRenderer._dlModalTimer) {
-      clearInterval(UIRenderer._dlModalTimer);
-      UIRenderer._dlModalTimer = null;
+    // Trigger download immediately without any waiting page
+    if (downloadUrl) {
+      setTimeout(() => {
+        window.location.href = downloadUrl;
+      }, 120);
     }
-    const existingModal = document.getElementById("download-ad-modal");
-    if (existingModal) existingModal.remove();
+    return;
+  }
 
-    const totalSeconds = Number(config.countdownSeconds) || 20;
+  static _legacyDownloadModal({ downloadUrl, animeTitle, epTitle, lang, quality }) {
+    const config = window.SHINOBI_ADS_CONFIG || {};
+    return;
+    const totalSeconds = 0;
     let secondsLeft = totalSeconds;
 
     const modal = document.createElement("div");
