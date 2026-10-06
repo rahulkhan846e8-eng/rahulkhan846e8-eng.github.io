@@ -46,7 +46,7 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 export const ANIME_DATABASE = [
   {
     "id": "doraemon-shin-nobita-no-kaitei-kiganjou",
-    "title": "Doraemon New Nobita and the Castle of the Undersea Devil",
+    "title": "Doraemon: New Nobita and the Castle of the Undersea Devil",
     "raw_name": "Doraemon New Nobita and the Castle of the Undersea Devil",
     "japaneseTitle": "映画ドラえもん 新・のび太の海底鬼岩城",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
@@ -80,10 +80,10 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 1,
-            "title": "Doraemon New Nobita and the Castle of the Undersea Devil (Main Movie)",
+            "title": "Doraemon: New Nobita and the Castle of the Undersea Devil (Main Movie)",
             "runtime": "1h 45m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
-            "synopsis": "Doraemon New Nobita and the Castle of the Undersea Devil full animated feature film streaming on ShinobiHub.",
+            "synopsis": "Doraemon: New Nobita and the Castle of the Undersea Devil full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/CxSxWq8X?download",
             "downloadLinks": {
