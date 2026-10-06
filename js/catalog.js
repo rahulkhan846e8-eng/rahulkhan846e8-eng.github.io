@@ -312,7 +312,7 @@ export const ANIME_CATALOG = [
     "japaneseTitle": "ブラッククローバー",
     "raw_name": "Black Clover",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97940-1URQdQ4U1a0b.jpg",
+    "banner": "https://media.assettype.com/outlook-respawn/2026-06-15/16d6nat7/Black-Clover-Season-2-Director-and-October-Return-Confirmed",
     "type": "TV Series",
     "status": "Completed",
     "year": 2017,

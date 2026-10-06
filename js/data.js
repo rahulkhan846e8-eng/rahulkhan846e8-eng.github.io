@@ -1129,7 +1129,8 @@ export const ANIME_DATABASE = [
     ],
     "synopsis": "In an accident, an ordinary boy, Wang Xiaoxiu, obtains a space system called \"Superpower Cube\" from a high-latitude cosmic civilization and gains extraordinary powers. When the school belle, Shen Yao, Wang Xiaoxiu’s longtime crush, confesses her love to him, the delinquent Sun Jun, who also has a crush on her, is provoked. Wang Xiaoxiu resolves the crisis with his wit and extraordinary powers, but it also brings more disasters as a result. Shen Yao is taken to the world of extraordinary beings by a mysterious person, and Wang Xiaoxiu embarks on a journey to rescue her. Fighting in the bizarre universe, he finds the meaning of fairness and justice on the path to becoming a peerless powerhouse.\n\n(Source: iQIYI)",
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "seasons": [
       {
@@ -2746,7 +2747,7 @@ export const ANIME_DATABASE = [
     "raw_name": "Black Clover",
     "japaneseTitle": "ブラッククローバー",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97940-1URQdQ4U1a0b.jpg",
+    "banner": "https://media.assettype.com/outlook-respawn/2026-06-15/16d6nat7/Black-Clover-Season-2-Director-and-October-Return-Confirmed",
     "rating": 7.9,
     "year": 2017,
     "currentEpBadge": "S2-EP1",
