@@ -936,11 +936,6 @@ export class UIRenderer {
         </div>
 
         <div class="dl-ad-sponsor-container" style="padding: 10px 12px; margin-bottom: 14px;">
-          <div class="dl-ad-sponsor-label" style="margin-bottom: 8px;">
-            <span>SPONSORED BY OUR PARTNER</span>
-            <span class="dl-ad-badge">AD</span>
-          </div>
-
           <!-- Direct First-Party Adsterra Banner Slot -->
           <div id="ad-modal-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
         </div>
