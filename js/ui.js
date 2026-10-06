@@ -827,15 +827,21 @@ export class UIRenderer {
           return;
         }
 
-        // Ensure button attributes strictly open the download page in a NEW tab
-        btn.href = activeUrl;
-        btn.target = "_blank";
-        btn.rel = "noopener noreferrer";
+        e.preventDefault();
 
+        // 1. ALWAYS OPEN THE DOWNLOAD LINK IN A NEW TAB!
+        // This guarantees the download provider (PixelDrain/Mega) opens directly in a new tab,
+        // and ShinobiHub stays completely open and active in the original tab!
+        try {
+          window.open(activeUrl, "_blank", "noopener,noreferrer");
+        } catch (dlErr) {
+          console.warn("Download tab open error, fallback to click:", dlErr);
+          window.location.href = activeUrl;
+        }
+
+        // 2. ALSO TRIGGER THE ADSTERRA DIRECT LINK AD IN A NEW TAB
         const adsConfig = window.SHINOBI_ADS_CONFIG;
         const adUrl = adsConfig?.adsterraDirectLink || "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe";
-
-        // 1. Open the high-profit Adsterra Direct Link in a new tab
         if (adUrl && adsConfig?.enabled !== false) {
           try {
             window.open(adUrl, "_blank", "noopener,noreferrer");
@@ -845,9 +851,6 @@ export class UIRenderer {
         }
 
         UIRenderer.showToast("Opening download in a new tab...", "success");
-
-        // Allow native link action with target="_blank" to open download in a new tab!
-        // Never replace or remove the current website (ShinobiHub stays open).
       });
     });
   }
