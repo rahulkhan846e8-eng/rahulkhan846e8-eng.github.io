@@ -827,10 +827,10 @@ export class UIRenderer {
           return;
         }
 
-        // USER REQUIREMENT: No waiting/countdown page!
-        // Immediately open the high-CPM Adsterra Direct Link ad in a new tab,
-        // and instantly initiate the episode download in the current window.
-        e.preventDefault();
+        // Ensure button attributes strictly open the download page in a NEW tab
+        btn.href = activeUrl;
+        btn.target = "_blank";
+        btn.rel = "noopener noreferrer";
 
         const adsConfig = window.SHINOBI_ADS_CONFIG;
         const adUrl = adsConfig?.adsterraDirectLink || "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe";
@@ -844,12 +844,10 @@ export class UIRenderer {
           }
         }
 
-        UIRenderer.showToast("Starting direct download...", "success");
+        UIRenderer.showToast("Opening download in a new tab...", "success");
 
-        // 2. Immediately initiate the episode download without waiting
-        setTimeout(() => {
-          window.location.href = activeUrl;
-        }, 120);
+        // Allow native link action with target="_blank" to open download in a new tab!
+        // Never replace or remove the current website (ShinobiHub stays open).
       });
     });
   }
@@ -868,10 +866,10 @@ export class UIRenderer {
       } catch (_) {}
     }
 
-    // Trigger download immediately without any waiting page
+    // Open download link in a new tab so ShinobiHub stays open!
     if (downloadUrl) {
       setTimeout(() => {
-        window.location.href = downloadUrl;
+        window.open(downloadUrl, "_blank", "noopener,noreferrer");
       }, 120);
     }
     return;
