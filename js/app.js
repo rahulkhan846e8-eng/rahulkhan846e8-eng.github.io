@@ -119,6 +119,18 @@ class App {
   }
 
   handleRoute() {
+    // 0. Search engine / Sitemap deep link support (e.g. ?anime=solo-leveling)
+    if (window.location.search) {
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.has("anime")) {
+        const targetAnime = urlParams.get("anime");
+        if (targetAnime && !window.location.hash.startsWith("#anime/")) {
+          // Remove query param from URL cleanly and set hash route
+          history.replaceState(null, "", window.location.pathname + `#anime/${targetAnime}`);
+        }
+      }
+    }
+
     const hash = window.location.hash || "#home";
     const [pathPart, queryPart] = hash.slice(1).split("?");
     const parts = pathPart.split("/");
