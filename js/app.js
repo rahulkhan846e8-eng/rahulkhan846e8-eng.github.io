@@ -12,10 +12,10 @@ import {
   getAnimeSummary as getAnimeById, 
   getFullAnimeDetails,
   searchAnime 
-} from './catalog.js?v=20261007_v2';
+} from './catalog.js?v=20261007_v3';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
-import { UIRenderer } from './ui.js?v=20261007_v2';
+import { UIRenderer } from './ui.js?v=20261007_v3';
 
 class App {
   constructor() {
