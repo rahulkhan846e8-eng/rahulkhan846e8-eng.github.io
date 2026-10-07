@@ -309,10 +309,10 @@ export class UIRenderer {
 
     // Determine available languages for this anime
     const determineLanguages = (a) => {
-      if (Array.isArray(a.languages) && a.languages.length > 0) {
-        return a.languages.map(l => l.toLowerCase());
-      }
       const set = new Set();
+      if (Array.isArray(a.languages) && a.languages.length > 0) {
+        a.languages.forEach(l => set.add(String(l).toLowerCase().trim()));
+      }
       const allEpisodes = (a.seasons || []).flatMap(s => s.episodes || []).concat(a.episodes || []);
       for (const ep of allEpisodes) {
         if (ep.downloadLinks?.hindi || (ep.downloadUrl && !ep.downloadLinks?.original)) set.add("hindi");
@@ -597,10 +597,10 @@ export class UIRenderer {
 
     // Determine available languages for this anime
     const determineLanguages = (a) => {
-      if (Array.isArray(a.languages) && a.languages.length > 0) {
-        return a.languages.map(l => l.toLowerCase());
-      }
       const set = new Set();
+      if (Array.isArray(a.languages) && a.languages.length > 0) {
+        a.languages.forEach(l => set.add(String(l).toLowerCase().trim()));
+      }
       const allEpisodes = (a.seasons || []).flatMap(s => s.episodes || []).concat(a.episodes || []);
       for (const e of allEpisodes) {
         if (e.downloadLinks?.hindi || (e.downloadUrl && !e.downloadLinks?.original)) set.add("hindi");
@@ -641,6 +641,7 @@ export class UIRenderer {
     const getActiveDlUrl = (l) => {
       if (dlLinks && dlLinks[l]) return dlLinks[l];
       if (l === "hindi" && dlLinks && dlLinks.original && !dlLinks.hindi) return "";
+      if (l === "original" && dlLinks && dlLinks.hindi && !dlLinks.original) return "";
       return dlLinks["1080p"] || dlLinks["720p"] || dlLinks["480p"] || ep.downloadUrl || "";
     };
     const directDlUrl = getActiveDlUrl(currentLang);

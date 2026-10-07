@@ -65,7 +65,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "One peaceful day on Earth, two remnants of Freeza's army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Freeza. They succeed, and Freeza subsequently seeks revenge on the Saiyans.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -89,7 +94,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The evil Dr. Wheelo has resurrected his brain into a robot and now desires to inhabit the body of the world's strongest warrior. This means he must face Son Goku and company in a fight for Goku's life.\n\n(Source: Anime News Network)",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -113,7 +123,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Kami-sama's old nemesis's son has come to exact revenge on Kami-sama for winning the title of Earth's Guardian. After kidnapping Son Gohan and using the dragon balls to gain immortality, he has a final showdown with Goku.\n\n(Source: Anime Ne",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -137,7 +152,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Saiyajin named Turlus has come to Earth in order to plant a tree that will both destroy the planet and give him infinite strength. Son Goku and the Z Warriors cannot let this happen and duke it out with the invaders for the sake of the ",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -161,7 +181,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Jaga Bada, Mr. Satan's old sparring partner, has invited Satan to his personal island to hold a grudge match. Trunks and Goten decide to come for the adventure and Android #18 is following Satan for the money he owes her. Little do they kno",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -185,7 +210,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Satoshi and his friends get lost in an unknown wasteland.  They eventually come across a \"Water Pokemon Show\" performed by the star of the Mariner Troupe, Hiromi.  Hiromi is a descendant of the troupe of Water People able to communicate wit",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -212,7 +242,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When researchers discover and exploit a fossil of the Mythical Pokémon Mew, they unleash a\ncreation that goes against the very laws of nature. \n\nThe Legendary Pokémon Mewtwo was intended for use as a tool of destruction. But as Mewtwo\nbecom",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -236,7 +271,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -259,7 +299,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Pokemon Movie 19 Volcanion Ki Kahani streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -284,7 +329,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The theme of the film is the love between parents and children. The story covers 13 years and begins with a 19-year-old college student named Hana who encounters and falls in \"fairy tale-like\" love with a \"wolf man.\" After marrying the wolf",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -307,7 +357,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Short anime film by Makoto Shinkai screened at the Nomura Real Estate Group's \"Proud Box Kanshasai\" home living exposition, which ran February 10&ndash;11, 2013, at the Tokyo International Forum.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -331,7 +386,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After SpongeBob's beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to the Lost City of Atlantic City to bring Gary home.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -356,7 +416,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Kiki is an enterprising young girl who must follow tradition to become a full-fledged witch. Venturing out with only her chatty black cat, Jiji, Kiki flies off for the adventure of a lifetime. Landing in a far-off city, she sets up a high-f",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -383,7 +448,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Team Rocket leader, Giovanni, has found Mewtwo in a remote area of the Johto region. As Giovanni tries to re-capture Mewtwo, Ash and his friends are kidnapped by Domino, a new Team Rocket member, while trying to rescue Pikachu from Jess",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -407,7 +477,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In a future where humans have temporarily abandoned Earth, a trash-compacting robot falls in love with a flying droid and helps her on her quest to restore hope to mankind.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -431,7 +506,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "With \"Ott\" father's last hope to take back Ramthep City where is now occupy by Asura (Giant Race), the boy was trained the martial art of Muay Thai for the mission of delivering 9 Satra, the sacred weapon to the Prince of Ramthep....",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -455,7 +535,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Three teenagers must help a Yeti return to his family while avoiding a wealthy man and a zoologist who want him for their own needs.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -480,7 +565,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After a routine raid, the rookie sky pirate Coud finds a most unusual cargo in his mates' cargo hold: Ren, an \"Edel Reid\", a race prized by humans for granting special combat power to their partners through \"Reacting\". He quickly discovers,",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -504,7 +594,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Teen Titans are visited by the Nerdlucks, the iconic Space Jam (1996) villains. Astonished to discover his fellow Titans have never seen the movie, Cyborg organizes an exclusive watch party.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -524,7 +619,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Tatsurou Kawano's graduation work at Kyoto Seika University",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -550,7 +650,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ordered to teach a martial arts class of rambunctious bunny kittens, Po tells stories of each of the Furious Five's pasts.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -575,7 +680,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In the film, Mario and Luigi are the owners of a grocery store. One night, Mario was engrossed in his Famicom game. Suddenly, the picture goes out and Princess Peach appears on the TV screen crying for help from the enemies attacking her an",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -598,7 +708,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Yearning to get along with others and not be disliked, first-year high school student Hiiragi finds himself unable to say no whenever someone requests something of him. One summer day, while unsuccessfully carrying out yet another request, ",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -622,7 +737,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The all-powerful Monkey King was imprisoned by the Gods for 500 years, but when a child releases him from his curse, the Monkey King must now save an innocent village from the evil Mountain Lord and his monstrous army.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -646,7 +766,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -666,7 +791,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "108 Ward Inside and Out: Make-Up Artist anime series streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -690,7 +820,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -714,7 +849,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Under the boardwalk at the Jersey Shore, a land crab townie falls in love with a sea crab tourist, but tensions between their friends and families rise. When a storm casts the duo far from home, their love will lead them on an adv...",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -738,7 +878,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -761,7 +906,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ayumu Fujino is a fourth grader who draws a manga strip for the school newspaper. Her art makes her the star of the class, but one day she's told that Kyomoto, a student who refuses to come to school, would also like to submit a manga for t",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -787,7 +937,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Survive family vacation, save the world.\n\nHe's a spy. She's an assassin. Together, Loid and Yor keep their double lives to themselves while pretending to be the perfect family. However, their adopted daughter Anya, a telepath, knows both of",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -811,7 +966,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "While emigrating to the United States, a young Russian mouse gets separated from his family and must locate them while trying to survive in a new country.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -835,7 +995,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Hired to probe seaside village attacks, mutant monster hunter Geralt unravels an age-old conflict between humans and sea people that threatens war between kingdoms. Aided by allies, he must solve the mystery before hostilities esc...",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -859,7 +1024,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The life of a young glassblower in training and his relationships over the years, as his land goes through war and strife.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -881,7 +1051,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ben 10 Generator Rex Heroes United animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -903,7 +1078,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ben 10 Alien X-Tinction animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -927,7 +1107,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When the Omnitrix begins a countdown to self-destruction, Ben and Gwen team up with Tetrax to find the watch's creator before it's too late.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -949,7 +1134,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ben Gen streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -973,7 +1163,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ben Tennyson returns home from summer vacation only to discover that a rapidly aging alien criminal named, Eon, is planning to use an ancient alien artifact to destroy Bellwood.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -997,7 +1192,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Against his grandfather's orders, Ben Tennyson teams up with the daughter of an old enemy in order to prevent an alien infestation of earth.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1019,7 +1219,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ben 10 Versus the Universe animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1043,7 +1248,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but who once were friends bonded like brothers who changed the fate of Cybertron forever.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1070,7 +1280,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Mystery Gang reunite and visit Moonscar Island, a remote island with a dark secret. Daphne wants more than just a villain in a costume, and they get more than they ever expected.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1092,7 +1307,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Scooby-Doo! and the Loch Ness Monster animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1114,7 +1334,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Scooby-Doo! and the Monster of Mexico animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1136,7 +1361,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Scooby-Doo! in Where's My Mummy? streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1162,7 +1392,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The gang's vacation to Paris takes a wrong turn when Scooby and Shaggy miss their flight and end up on a skydiving expedition in the Himalayas. To make matters worse, upon arrival they must outrun the Abominable Snowmonster.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1186,7 +1421,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "This movie chronicles the epic battle between the Autobots and the Decepticons in their mission to defend Earth against Unicron and one day restore their homeworld Cybertron.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1208,7 +1448,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Attack on Titan: THE LAST ATTACK streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1232,7 +1477,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Rejected by his superstitious herd, a half-striped zebra embarks on a daring quest to earn his stripes but finds the courage and self-acceptance to save all the animals of the Great Karoo.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1256,7 +1506,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After a policeman and his police dog are fused together to turn into Dog Man, he must stop the villainous Petey the Cat from cloning himself and creating an evil kitten, doubling his evil abilities.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1280,7 +1535,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A world-renowned K-Pop girl group balance their lives in the spotlight with their secret identities as demon hunters.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1304,7 +1564,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In an alternate 1985 America, a group of retired superheroes investigate a conspiracy after one of their own is murdered.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1333,7 +1598,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Velma discovers she's inherited her great-great-uncles' cursed castle in Transylvania, Pennsylvania. This Scooby-Doo adventure has enough spooky fun to make the whole family come alive!",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1360,7 +1630,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When a ghoul begins to terrorize an amusement park, the Mystery Inc. gang and legendary rock group, KISS, work together as the clues lead them on a cosmic journey to another dimension.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1386,7 +1661,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Medicine Seller returns as the Edo harem faces a new crisis, with family feuds, inner turmoil and fiery envy igniting the birth of a raging spirit.\n\n(Source: Netflix)",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1410,7 +1690,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Bad Guys are struggling to find trust and acceptance in their newly minted lives as Good Guys, when they are pulled out of retirement and forced to do \"one last job\" by an all-female squad of criminals.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1432,7 +1717,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ne Zha Movie English animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1457,7 +1747,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After the heavenly lightning, although Ne Zha and Ao Bing survived by becoming Spirits, they would soon dissipate completely. Taiyi plans to rebuild Ne Zha and Ao Bing's mortal bodies with the Seven-colored Precious Lotus. However, during t",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1481,7 +1776,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant ...",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1506,7 +1806,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Set in a futuristic Japan after the end of a brutal world war, science has advanced by leaps and bounds giving humanity the choice to prolong life and reduce suffering with the use of sophisticated cybernetics. With all of humanity linked i",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1530,7 +1835,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When the farmer's away, all the animals play, and sing, and dance. Eventually, though, someone has to step in and run things, a responsibility that ends up going to Otis, a carefree cow.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1554,7 +1864,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When the world is threatened by an ancient evil, the Ninja Turtles must reunite and overcome their faults in order to stand against it.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1578,7 +1893,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The imagination of a wildly creative girl comes alive in an amusement park.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1600,7 +1920,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "For centuries, the Crystal Frog has protected the Frog Kingdom with its magic. When One-Eye plots to steal the artifact and rule the land, the Frog King asks Freddy and the Frog Princess to undertake a bold journey through forest, desert, r",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1624,7 +1949,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A Christmas-themed special featuring characters from Walt Disney Pictures' 53rd full-length animated motion picture, \"Frozen (2013)\".",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1648,7 +1978,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A criminal produces an uncontrollable laughter to the population and Mortadelo and Filemón will have to stop him.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1670,7 +2005,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Set in an untouched forest, Xiong Chumo tells a story of two brave and mighty bears who try to protect their homeland from the destruction of a sly and persistent woodman. In this war between bears and woodman, you will be given a glimpse o",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1693,7 +2033,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The work centers on Ren Hao, a 23-year-old man who has no job or girlfriend. In order to make ends meet he rents out one of the rooms in his house. While he’s showing Lili, his first tenant, around the house, she’s suddenly attacked by a va",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1717,7 +2062,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The land of Altera has observed an uneasy peace for years among Humans, Elves and Evil beasts who are loyal to the legendary Black Dragon. But the Black Dragon begins to stir from its hibernation, sending the Beasts marching across Altera. ",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1739,7 +2089,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Marco Macaco Movie Tamil – Telugu – animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1763,7 +2118,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
     "hasHindi": false,
+    "hasOriginal": true,
     "synopsis": "Boruto is the son of Naruto who completely rejects his father. Behind this, he has feelings of wanting to surpass Naruto, who is respected as a hero. He ends up meeting his father's friend Sasuke, and requests to become... his apprentice!? ",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1787,7 +2147,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A villain's maniacal plan for world domination gets in the way of the Teen Titans' dream of superhero stardom in Hollywood.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1811,7 +2176,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Gru, Lucy, Margo, Edith, and Agnes welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfriend Valentina, and the family is forced to go on the run.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1835,7 +2205,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "As they grow closer, Poppy discovers that Branch was once part of her favorite boy band phenomenon, BroZone, with his four brothers. When one of them, Floyd, is kidnapped by villains, Branch and Poppy embark on a journey to rescue...",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -1857,7 +2232,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Two old friends go into business together - one's a master communicator, and the other's a great engineer. Their goal? To make a trillion dollars.",
     "seasonCount": 1,
     "totalEpisodes": 26
@@ -1881,7 +2261,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "An unhappy young woman from an abusive family is married off to a fearsome and chilly army commander. But the two learn more about each other, love may have a chance.",
     "seasonCount": 2,
     "totalEpisodes": 25
@@ -1905,7 +2290,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When the druid Getafix forgets how to prepare the magic potion, Asterix and Obelix must defend the village as Caesar plots to use a Gallic law against them.",
     "seasonCount": 1,
     "totalEpisodes": 5
@@ -1929,7 +2319,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "On a post-apocalyptic exoplanet, worker drones struggle to survive by hiding from rogue robots called Murder Drones.",
     "seasonCount": 1,
     "totalEpisodes": 8
@@ -1952,8 +2347,14 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": true,
-    "audioTrack": "Hindi Dub",
+    "audioTrack": "Multi-Audio (Hindi + Original)",
+    "audioBadge": "MULTI-AUDIO",
+    "languages": [
+      "hindi",
+      "original"
+    ],
     "hasHindi": true,
+    "hasOriginal": true,
     "synopsis": "In an accident, an ordinary boy, Wang Xiaoxiu, obtains a space system called \"Superpower Cube\" from a high-latitude cosmic civilization and gains extraordinary powers. When the school belle, Shen Yao, Wang Xiaoxiu’s longtime crush, confesse",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -1977,7 +2378,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any ",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2001,7 +2407,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "One day, Kurt, a kind-hearted boy, is suddenly kicked out of the Hero's Party for being \"useless\". He finds that his aptitude for weapons, magic, and all other combat-related skills is the lowest rank, so he takes odd-jobs repairing the cas",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2025,7 +2436,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Kingdom of Clays faces a dire crisis: an assassination attempt has just been made on its own Princess Lynneburg, and its neighboring countries eye the aftermath like starving vultures, plotting the Kingdom’s downfall. The ensuing confli",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2049,7 +2465,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Where the average scores are the lowest, but the fights are the strongest. Furin High School is renowned as a super school of delinquents. Haruka Sakura, a first-year student, came from outside the city to fight to the top. However, Furin H",
     "seasonCount": 2,
     "totalEpisodes": 25
@@ -2073,7 +2494,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Sophia, a timid daughter of a count, just wanted a peaceful life, but the Gorilla God had other plans. Blessed with unmatched strength, she’s thrust into the Royal Knight Order, turning her quiet days into chaos. Now, she must juggle school",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2096,7 +2522,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Shiunji family with their seven children reside in a mansion within Tokyo’s Setagaya ward. The eldest son, Arata, is tired of being pushed around by his five sisters and daydreams of a life without them. That is, until Arata’s father re",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2121,7 +2552,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both rece",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -2144,7 +2580,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Humans fight to protect their land from invading demi-human tribes in relentless battles. As his world is engulfed by intense warfare, Kai, a village boy from Lag, joins the fight to defend all he knows. After Kai’s comrades fall one by one",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2166,7 +2607,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "10,000 meters below sea level. On this Earth, there lies a world no one has yet to uncover.\n\nNote: This is a remake of the 1983 movie Doraemon: Nobita no Kaitei Kiganjou.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -2189,7 +2635,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The protagonist, Baki Hanma, trains with an intense focus to become strong enough to surpass his father, Yujiro Hanma, the strongest fighter in the world. Five of the world's most violent and brutal death row inmates are gathering to face B",
     "seasonCount": 2,
     "totalEpisodes": 39
@@ -2212,7 +2663,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Musashi Miyamoto — the ultimate symbol of strength — descends into an underground fighting arena where the use of weapons is permitted. Underground fighters including Doppo Orochi, Goki Shibukawa and Sea King Retsu square off in succession ",
     "seasonCount": 1,
     "totalEpisodes": 25
@@ -2235,7 +2691,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Who will be crowned victorious in the ultimate fight between the strongest high schooler on earth and the successor of the Niko Style?\n(Source: Netflix Anime)",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -2259,7 +2720,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Drew Ferran as he comes of age and discovers he's the last of a long line of Werewolves",
     "seasonCount": 2,
     "totalEpisodes": 16
@@ -2283,7 +2749,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "This adult animated comedy follows the misadventures, hijinks, and relationships of the Immediate Murder Professionals (or I.M.P. for short)-- a band of demon assassins from Hell who kill people on Earth for a living.",
     "seasonCount": 2,
     "totalEpisodes": 20
@@ -2310,7 +2781,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ein has been saddled with the job of \"Appraiser,\" the weakest and least fortunate of all the jobs one can be born with, as the only power it grants is the ability to appraise things.\n\nTreated cruelly by all and reduced to a litter collector",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2337,7 +2813,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When girl meets boy, love takes off...\n\n\nScott Pilgrim meets the girl of his dreams, Ramona Flowers, but learns he must defeat her seven evil exes in order to date her. Then things get even more complicated. Based on the graphic novels by B",
     "seasonCount": 1,
     "totalEpisodes": 8
@@ -2362,7 +2843,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When superstar adventurer Dennis gets booted from the world’s strongest party, he teams up with runaway Atelier to serve up his true passion—delicious cuisine. But this not-so-average eatery has not-so-average patrons. Dennis will battle hi",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2387,7 +2873,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The story revolves around Blade, a \"Daywalker\" vampire hunter who was born with vampire and human blood after a vampire attacked his mother. While visiting Japan on a mission, Blade tracks down Deacon Frost, the vampire who killed his mothe",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2411,7 +2902,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Tony Stark, CEO of a large weapons manufacturer, physicist, engineer, and brilliant inventor, is wounded by shrapnel from one of his own weapons. While held captive by terrorists, he develops the Iron Man Suit  and escapes. From that day on",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2435,7 +2931,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "2019, Divergence Ratio 1.048596 (Steins Gate worldline). The near future, where a device popularly called the PokeCom, packaged with PhoneDroid OS, spreads, bringing the Augmented Reality world close to existence. \nCentral Tanegashima High ",
     "seasonCount": 1,
     "totalEpisodes": 22
@@ -2460,7 +2961,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The story centers on Akira Ono, a regular guy who works at a company that manages an online game. He often plays the game as his character \"Maou\" (Dark Lord). But one day, when he logs on, he is whisked into the game's fantasy world as his ",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2486,7 +2992,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "\"I won't die 'cause I was banned from the afterlife.\"\n\nA shady self-proclaimed hermit named Momoyuki Mogura, AKA: Mogura, is banned from the afterlife due to an incident. Now he collects spirit possessed will-o'-wisps in his lantern, hoping",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2509,7 +3020,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When Sakamoto meets Aoi, the convenience store clerk, it’s love at first sight — and just like that, he retires.\n\nSakamoto gets married, has a daughter, opens a mom-and-pop store in a quiet town, and completely transforms … into a plus-size",
     "seasonCount": 1,
     "totalEpisodes": 22
@@ -2531,7 +3047,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Atsushi Kamiya, a former captain at Kakegawa High School and the world-renowned \"courageous captain\" for a famous Italian soccer team… And Hideto Tsuji, a student at Kakegawa High School, who seems uninterested in the now-weakened soccer te",
     "seasonCount": 1,
     "totalEpisodes": 13
@@ -2555,7 +3076,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position,",
     "seasonCount": 1,
     "totalEpisodes": 24
@@ -2578,7 +3104,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "During a beautiful spring day in Kyoto, Aya and Miki follow the student council president Midori to a board game shop. The three students end up discovering a German board game that causes them to realize their shared passion for games. In ",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2603,7 +3134,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Yuke, a red mage, angrily declares that he's leaving Thunder Pike, the A-rank party he's been with for five years, because he's fed up with being insulted and ridiculed by the other members.\n\nWhile searching for a new party, he runs into hi",
     "seasonCount": 1,
     "totalEpisodes": 24
@@ -2627,7 +3163,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Follows the sweet-natured young pachyderm. He will explore the jungle with some of his friends and will learn to stand up for what is right.",
     "seasonCount": 1,
     "totalEpisodes": 7
@@ -2650,7 +3191,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Adaptation of the mobile game \"Girls' Frontline\".\nWe follow the everyday life of the Tactical-Dolls",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2673,7 +3219,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After a brutal war, magic swordsman Kyle defeats the Demon King but is left dying. A crimson crystal sends him four years into the past to his once-destroyed hometown where he finds his lost loved ones alive. Armed with future knowledge, Ky",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2698,7 +3249,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "High schooler Wakana Gojou cares about one thing: making Hina dolls. With nobody to share his obsession, he has trouble finding friends—or even holding conversation. But after the school’s most popular girl, Marin Kitagawa, reveals a secret",
     "seasonCount": 2,
     "totalEpisodes": 24
@@ -2721,7 +3277,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Shinchan Spin-off streaming on ShinobiHub.",
     "seasonCount": 4,
     "totalEpisodes": 52
@@ -2747,7 +3308,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "\"Hanako-san, Hanako-san... are you there?\"\n\nAt Kamome Academy, rumors abound about the school's Seven Mysteries, one of which is Hanako-san. Said to occupy the third stall of the third floor girls' bathroom in the old school building, Hanak",
     "seasonCount": 2,
     "totalEpisodes": 36
@@ -2771,7 +3337,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In the shadowy world of espionage, Sam Fisher is a rumor and a legend. Pulled back into action, he must help a new recruit unravel a global conspiracy.",
     "seasonCount": 1,
     "totalEpisodes": 8
@@ -2794,7 +3365,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Mixed up with another family's child as a baby, high school student Umino Nagi is finally meeting his biological parents. On the day of their meeting, he happens to encounter Amano Erika, a high school student at a prestigious and wealthy g",
     "seasonCount": 2,
     "totalEpisodes": 36
@@ -2818,7 +3394,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi lea",
     "seasonCount": 1,
     "totalEpisodes": 6
@@ -2842,7 +3423,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Hiyori left her hometown to pursue her passion, track and field, by enrolling in Tokyo's Sakuragaoka High School. Looking for a part-time job in Tokyo, she ended up working as an apprentice manager for her classmates (and LIP×LIP members) Y",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2866,7 +3452,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The qualities valued most in the study of magic are bloodline, aptitude, and effort. There was one sorcerer who, despite his deep love for magic, was born a commoner and thus lacked the bloodline and aptitude for it. As he died an unnatural",
     "seasonCount": 2,
     "totalEpisodes": 24
@@ -2891,7 +3482,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Makoto Misumi was just an average teenager who happened to suddenly be summoned to another world as a \"hero.\" But the goddess of this world called him ugly and took his hero status away from him then sent him to the ends of the world. In th",
     "seasonCount": 2,
     "totalEpisodes": 37
@@ -2917,7 +3513,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Two best friends living in a rural Japanese village: Yoshiki and Hikaru. Growing up together, they were inseparable… until the day Hikaru came back from the mountains, and was no longer himself. “Something” has taken over Hikaru’s body, mem",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2941,7 +3542,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After meeting an untimely death, Tomokui Kanata is reincarnated as a lowly goblin, but he’s worked up a monstrous appetite. Thanks to his new ability that allows him to grow stronger the more he feeds, his feeble status quickly changes, and",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -2966,7 +3572,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The second season of Time Bokan 24.",
     "seasonCount": 1,
     "totalEpisodes": 9
@@ -2991,7 +3602,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The protagonist, Yaiba (Kurogane Yaiba), is a wild samurai boy who trains in the jungle with his father, Kenjuro! By chance, Yaiba returns to Japan, where he meets his rival Takeshi Onimaru, who has the same samurai spirit as Yaiba, in a ne",
     "seasonCount": 1,
     "totalEpisodes": 24
@@ -3013,7 +3629,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "BAT-FAM follows Batman, Alfred, and young Damian Wayne - now having taken on the mantle of \"Little Batman\" - as they welcome a few new residents to Wayne Manor. Joining the family dinner table is Alicia Pennyworth, Alfred's free-spirited gr",
     "seasonCount": 1,
     "totalEpisodes": 10
@@ -3038,7 +3659,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Dragons reign terror over the earth, sea and sky. If sworn dragon hunters like Ragna are to have any hope of dealing death to these seemingly invincible, fire-breathing beasts, they must find a way to level the odds. Ragna teams up with a m",
     "seasonCount": 1,
     "totalEpisodes": 24
@@ -3062,7 +3688,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In an attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
     "seasonCount": 1,
     "totalEpisodes": 8
@@ -3086,7 +3717,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Camp Cretaceous gang comes together to unravel a mystery when they discover a global conspiracy that brings danger to dinosaurs and to themselves.",
     "seasonCount": 3,
     "totalEpisodes": 29
@@ -3111,7 +3747,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The story follows Suzume, a 17-year-old girl from a quiet Kyushu town who meets a young man looking for a door. They find a door within ruins in the mountain, and Suzume opens it. Soon, more doors begin to open around Japan, bringing disast",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3135,7 +3776,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Follows the Fraggles as they eagerly await the first snow of the season. When only a single snowflake arrives and Gobo can't write the yearly holiday song everyone is expecting, the season is thrown off course.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3160,7 +3806,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In modern day Tokyo, three university students, Negishi Miyako (Neko-chan), Saiki Haruka, and Yamagishi Keiichiro, have magical powers that make them feel like outcasts. They come together one night and are transported to another world. The",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3184,7 +3835,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A scheming raccoon fools a mismatched family of forest creatures into helping him repay a debt of food, by invading the new suburban sprawl that popped up while they were hibernating...and learns a lesson about family himself.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3208,7 +3864,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "This is the story of Nina, a 13-year-old girl who is transported to the universe of Telurian, a mysterious and Earth-like world inhabited by various fantastic creatures. There she will join a group who must prevent the master of d...",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3232,7 +3893,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3256,7 +3922,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A supernatural, time-travelling, musical adaptation of Charles Dickens's cult Christmas story.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3278,7 +3949,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Loopdidoo and the Treasure of Captain Nem Bones animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3302,7 +3978,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "While Uberta is preparing to give the royal sceptre to Odette and Derek, another queen is scheming to ruin the coronation.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3324,7 +4005,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Swan Princess: Far Longer than Forever is a 2023 direct-to-DVD computer-animated sequel where Derek discovers that his father was accused of having deals with pirates forcing him and Odette to go undercover.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3348,7 +4034,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A father's wish magically brings a wooden boy to life in Italy, giving him a chance to care for the child.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3370,7 +4061,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Pixi Post & the Gift Bringers animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3394,7 +4090,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3418,7 +4119,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Young Pinocchio runs away from his genius creator Jepetto accompanied by the horse Tibalt to see the world and joins the traveling circus run by hustler Modjafocco.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3442,7 +4148,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Tom Lee, a Chinese-American boy, after the death of his grandmother, has to be apprenticed to the talking tiger Mr. Hu and learn ancient magic to become the new guardian of an ancient phoenix.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3466,7 +4177,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3490,7 +4206,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Noah, the world’s strongest six-year-old, has been privileged enough to be reborn as the emperor’s 13th child. What’s more, he’s been overpowered with an infinite level cap and a cheat that stacks the powers of anyone who serves him. But ev",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -3512,7 +4233,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Chimpui tells the story of two cute aliens that come to Earth to find the girl who will get married with their prince of planet Mahl.",
     "seasonCount": 1,
     "totalEpisodes": 27
@@ -3536,7 +4262,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The average human body contains about 60 trillion cells, and each of them has work to do! But when you get injured, viruses or bacteria invade, or when an allergic reaction flares up, everyone from the silent but deadly white blood cells to",
     "seasonCount": 2,
     "totalEpisodes": 22
@@ -3560,7 +4291,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A rookie Red Blood Cell has been bustling about, frantically making oxygen deliveries all around the body! But his workplace is on the brink of going Code Black!! Drinking, smoking, stress, sleep deprivation... Struggling to survive a life ",
     "seasonCount": 1,
     "totalEpisodes": 13
@@ -3585,7 +4321,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Across the Fiore kingdom, wizards join guilds and make their pay by filling magical needs—but one guild has a reputation as the roughest, rowdiest, most dangerous of all: Fairy Tail!\nWhen four young Fairy Tail members unite, their bond is f",
     "seasonCount": 7,
     "totalEpisodes": 229
@@ -3610,7 +4351,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Roland, a modern man reborn as a prince in the dangerous Border Town, rescues the witches Anna and Nana Pine from the Church. Harnessing their extraordinary powers, he fuses magic and technology to craft weapons, armies, and steam engines t",
     "seasonCount": 1,
     "totalEpisodes": 8
@@ -3633,7 +4379,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Cursed to live as both monster and man, Dante must spend his life fighting the demonic forces of darkness. Brandishing his sword, Rebellion, and his always-loaded guns, Ebony and Ivory, Dante is more than happy to send the demons back to he",
     "seasonCount": 2,
     "totalEpisodes": 16
@@ -3655,7 +4406,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A remake of Hajime Ningen Gyatoruz. Each episode contains 3 stories.",
     "seasonCount": 1,
     "totalEpisodes": 37
@@ -3680,7 +4436,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The rules of alchemy state that to gain something, one must lose something of equal value. Alchemy is the process of taking apart and reconstructing an object into a different entity, with the rules of alchemy to govern this procedure. Howe",
     "seasonCount": 1,
     "totalEpisodes": 51
@@ -3704,7 +4465,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Yoshioka Futaba has a few reasons why she wants to \"reset\" her image & life as a new high school student. Because she's cute, she was ostracized by her female friends in junior high, and because of a misunderstanding, she couldn't get her f",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -3728,7 +4494,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Brings out the animal within to unleash our natural instincts in the pursuit of true love.",
     "seasonCount": 1,
     "totalEpisodes": 10
@@ -3751,7 +4522,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Van, fourth son of a marquis, is just a toddler when he realizes he’s been reincarnated. Thanks to his literal lifetime of knowledge, he’s raised as a child prodigy—until his production magic manifests, and it’s the last thing his snooty ma",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -3776,7 +4552,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Nine people are tricked and forced by a evil organization called The Neo-Black Ghosts into becoming cyborgs. But they refuse to become the neo-black ghosts killing machines, and guided by Dr. Gilmore the cyborgs escape. They team up in orde",
     "seasonCount": 1,
     "totalEpisodes": 40
@@ -3798,7 +4579,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Doraemon Nobita Chala Chand Pe animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3820,7 +4606,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Dragon Ball Z Movie Fusion Reborn animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3842,7 +4633,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Dragon Ball Z Movie Wrath of the Dragon animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3866,7 +4662,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A group of youths aspiring to become professional superheroes, fight in a world full of people with abilities, also known as quirks. Deku and his fellow classmates from Hero Academy face Nine, the strongest villain yet.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3890,7 +4691,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A bombing case at Nichiuri TV in autumn. The Satsuki Cup, which crowns the winner of Japan's Ogura Hyakunin Isshu based competitive karuta tournament, is currently being filmed inside the facility. The incident results in a big commotion an",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3914,7 +4720,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A secret agent's life changes after being selected to pilot an experimental suit enhanced by artificial intelligence, designed to revolutionize covert operations.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3936,7 +4747,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Pokémon the Movie 21: Hum Mein Dum (The Power of Us) animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3958,7 +4774,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Shin-chan the Movie 31: Battle of Supernatural Powers animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -3980,7 +4801,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Shin-chan the Movie 30: The Legends of Ninja Mononoke animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4002,7 +4828,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Shin-chan the Movie 28: Rakuga Kingdom animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4024,7 +4855,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Shin-chan the Movie 26: Baku Mori! Kung Fu Boys animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4046,7 +4882,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Shin-chan the Movie 29: The Mystery of Tenkasu Academy animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4070,7 +4911,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "2500 years ago, in India, Siddhartha was born as a prince of the Shakya clan, but he gives up his position as a prince to see the world. He meets a strange boy named Assaji, who can predict the future, a monk with only one eye and...",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4093,7 +4939,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The anime is set in Australia and follows the Nohara family on an inexpensive and family-friendly honeymoon trip that Misae discovered. Instead of the romantic trip they envisioned, Misae, Hiroshi, and their children get wrapped up in a dan",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4120,7 +4971,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The story revolves around Kaiman, who does not remember who he was before he was transfigured by a Magic user. This transformation left him with a reptile's head, and a desire to find out the truth about who he really is. Accompanied by Nik",
     "seasonCount": 2,
     "totalEpisodes": 24
@@ -4145,7 +5001,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Hibiki, a high school student who was suddenly transferred to another world, wanders alone in a vast grassland of a fantasy world where monsters inhabit. All he has are non-combat skills such as \"Appraisal\"! From a hopeless situation, he is",
     "seasonCount": 1,
     "totalEpisodes": 6
@@ -4169,7 +5030,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Naofumi Iwatani, an uncharismatic Otaku who spends his days on games and manga, suddenly finds himself summoned to a parallel universe! He discovers he is one of four heroes equipped with legendary weapons and tasked with saving the world f",
     "seasonCount": 4,
     "totalEpisodes": 62
@@ -4194,7 +5060,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "It’s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and ",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -4218,7 +5089,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Vash the Stampede’s a joyful gunslinging pacifist, so why does he have a $6 million bounty on his head? That’s what’s puzzling rookie reporter Meryl Stryfe and her jaded veteran partner when looking into the vigilante only to find someone w",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -4242,7 +5118,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -4267,7 +5148,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind ",
     "seasonCount": 4,
     "totalEpisodes": 94
@@ -4291,7 +5177,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. \"Ugh... Damn it. I never want to go through that again.\" \n\nCompletely spiteful, Kazuya uses a certain meth",
     "seasonCount": 5,
     "totalEpisodes": 59
@@ -4316,7 +5207,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Ye Jiayao finds herself back in time in the body of Ye Jinxuan. After many twists, she thought that she would finally be able to lead a simple life and achieve her dream of opening the best restaurant in Huai Song. However, there are villai",
     "seasonCount": 3,
     "totalEpisodes": 36
@@ -4338,7 +5234,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "First Dragon (Carp Reborn) anime series streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 16
@@ -4360,7 +5261,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Mighty Morphin Power Rangers: Once & Always animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4382,7 +5288,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A story from the age of valiant knights, beautiful princesses, and evil sorcerers. Ruslan, an artist who dreams of becoming a knight, meets and falls in love with the beautiful Mila, without realizing that she is the King's daughter.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4404,7 +5315,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4426,7 +5342,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4448,7 +5369,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Count Dracula and company participate in a cruise for sea-loving monsters, unaware that their boat is being commandeered by the monster-hating Van Helsing family.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4470,7 +5396,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After one experiment, Johnny turns into a monster and everyone else becomes human. Now it has to be seen whether they will be able to reverse this experiment.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4492,7 +5423,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Animated favorite about the fun-loving residents of Jellystone Park, Yogi Bear and his sidekick, Boo Boo, who try to steal picnic baskets and stay one step ahead of Ranger Smith.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4514,7 +5450,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The knd must find a way to stop grandfather from ruling the world and turning everyone including adults into senior citizen zombies. Meanwhile numbuh one finds out his loser dad was the great numbuh zero.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4536,7 +5477,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Spider-Man and Marvel's Super Heroes take on a mischievous Loki and a team of super villains.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4558,7 +5504,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following the Flying Dutchman, a mysterious swashbuckling ghost pirate, to the deepest depths of the deep sea.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4580,7 +5531,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When a crew of animal bandits embark on a routine swindle, they find themselves caught up in a train heist. It's up to Falcon, a petty thief raccoon, and Rex, a righteous police-dog, to save the animals on this high-speed runway t...",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4602,7 +5558,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "High quiality melodrama with profound psychological sketch. This drama delicately views Cinderella Complex still alive in every women of modern society. The two sisters, the elder struggling to become successful whatever the cost ; the smal",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4628,7 +5589,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After the second impact, all that remains of Japan is Tokyo-3, a city that's being attacked by giant creatures that seek to eradicate the human kind, called Angels. After not seeing his father for more than eight years, Shinji Ikari receive",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4654,7 +5620,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "14 years after third impact, Ikari Shinji awakens to a world he does not remember. He hasn't aged. Much of Earth is laid in ruins, Nerv has been dismantled, and people who he once protected have turned against him. Befriending the enigmatic",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4680,7 +5651,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each of them live a life far different ",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4704,7 +5680,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "While Alex, Marty, Gloria, and Melman are still relaxing in Africa, the four penguins: Skipper, Kowalski, Private and Rico, have returned to New York City in Central Park Zoo. The Penguins will rule the roost at their Central Park Zoo home,",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4726,7 +5707,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A plover chick has not learned to fly when his family migrates in the fall. He must survive the arctic winter, vicious enemies and himself in order to be reunited with his beloved one next spring.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4751,7 +5737,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Hitomi, Rui, and Ai are sisters and cat burglars. They steal a painting from a museum around the same time Lupin the 3rd appears to steal another painting himself. Both paintings are part of Michael Heinz’s series titled the Girl and the Fl",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4773,7 +5764,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When a son of a gangster shark boss is accidentally killed while on the hunt, his would-be prey and his vegetarian brother decide to use the incident to their own advantage.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4795,7 +5791,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4817,7 +5818,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Toy Story 4 animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4839,7 +5845,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Madagascar: Escape 2 Africa animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4861,7 +5872,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Madagascar animals join a struggling European circus to get back to New York, but find themselves being pursued by a psychotic animal-control officer.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4883,7 +5899,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Secret Life of Pets 2 animated movie streaming on ShinobiHub.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4905,7 +5926,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "This series scours the internet to highlight viral videos that have rocked the digital world, including talking goats, trick shots and elephant toothpaste.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4927,7 +5953,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Looking for a new home, the Ogglies end up in the beautiful, peaceful village of Smelliville. Unfortunately, Smelliville has a stinky problem: The local garbage dump is spoiling the place. Something must be done.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4953,7 +5984,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Asa and Kame strike up an immediate friendship when they arrive at the same time for their first day of duty at the Ooku, the splendid pleasure palace housing the harem of Lord Tenshi. The two young women are there to join the many hundreds",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4975,7 +6011,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Thanks to Green Goblin and Venom, tech theft is at an all-time high -- can Spider-Man put an end to their mysterious scheme before New York City is destroyed?",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -4997,7 +6038,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When Thanos steals the quantum tunnel, the Avengers must travel through time to stop him.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -5019,7 +6065,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Avengers are forced to 'party' with Ultron when he takes control of Iron Man's armor.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -5041,7 +6092,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Loki tries to convince the Avengers that he wants to be a hero, but they're not so sure they can trust him.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -5063,7 +6119,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Batman prides himself on being a loner, but when the members of the Justice League begin disappearing one by one, he must seek the help of Superman to find them.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -5086,7 +6147,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Teikou Junior High School's basketball team is crowned champion three years in a row thanks to five outstanding players who, with their breathtaking and unique skills, leave opponents in despair and fans in admiration. However, after gradua",
     "seasonCount": 1,
     "totalEpisodes": 25
@@ -5111,7 +6177,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Xie Lian, the crown prince of Xian Le Kingdom, successfully ascends to Heaven during his third trial in spite of successive demotions. However, he accidentally breaks the Gold Palace of heavenly officials. With no human worshiping him, Xie ",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -5134,7 +6205,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki st",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -5156,7 +6232,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Eriko Tamura is Kousuke Tamura, the chairman of Tamura Productions (reknown music company) and Minako Tamura's (former famous idol singer) only daughter. Having talent for singing since birth, she has always loved her parent's media world. ",
     "seasonCount": 1,
     "totalEpisodes": 24
@@ -5182,7 +6263,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He s",
     "seasonCount": 1,
     "totalEpisodes": 24
@@ -5207,7 +6293,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage. But no good deed g",
     "seasonCount": 3,
     "totalEpisodes": 35
@@ -5231,7 +6322,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Utage Kinoshita is a high school girl who works part-time as a housekeeper. She has devoted her life to her favorite idol, Tamon Fukuhara, from the group F/ACE. Then one day, Utage ends up being assigned to Tamon’s house! There she discover",
     "seasonCount": 1,
     "totalEpisodes": 13
@@ -5257,7 +6353,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "On August 10th of the year 2010 the Holy Empire of Britannia began a campaign of conquest, its sights set on Japan. Operations were completed in one month thanks to Britannia's deployment of new mobile humanoid armor vehicles dubbed Knightm",
     "seasonCount": 1,
     "totalEpisodes": 25
@@ -5281,7 +6382,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The great sage Ephtal dies in despair after failing to reach the peak of magic—but 400 years later, he’s reborn with all his memories and power intact! In a world where magic has decayed and ancient spells are treated as miracles, Ephtal st",
     "seasonCount": 1,
     "totalEpisodes": 5
@@ -5306,7 +6412,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "7 million years of human civilization is coming to an end…\n\nEvery thousand years, all the gods of the world gather in heaven to attend the Conference of Mankind Survival. The gods agree to end to mankind due to their foolish acts, but befor",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -5330,7 +6441,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. R",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -5355,7 +6471,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Having endured a nuclear winter, humanity is no longer the master of this world. Species have mutated, and survival resources are scarce, leaving people to face an unpredictable future and environment fraught with constant crises. To protec",
     "seasonCount": 1,
     "totalEpisodes": 16
@@ -5377,7 +6498,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Stranger Things: Tales from ’85 anime series streaming on ShinobiHub.",
     "seasonCount": 2,
     "totalEpisodes": 18
@@ -5400,7 +6526,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Tianbao Period.\n\nKong Hongjun, a young man who was ignorant of worldly affairs, came to Chang’an with three important tasks and entered the Great Tang’s Exorcist Department. Inside the department, he led a ragtag group of yao-vanquishing ex",
     "seasonCount": 1,
     "totalEpisodes": 13
@@ -5424,7 +6555,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to fi",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -5448,7 +6584,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Was it all just a coincidence, or was it inevitable?\n\nIchigo Kurosaki gained the powers of a Soul Reaper through a chance encounter. As a Substitute\nSoul Reaper, Ichigo became caught in the turmoil of the Soul Society, a place where decease",
     "seasonCount": 3,
     "totalEpisodes": 40
@@ -5472,7 +6613,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable ",
     "seasonCount": 1,
     "totalEpisodes": 10
@@ -5496,7 +6642,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and g",
     "seasonCount": 1,
     "totalEpisodes": 10
@@ -5521,7 +6672,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Socially inept, Higawa Koyuki maintains a wall between herself and other people. She spends her time in high school alone, until she meets Amamiya Minato, a boy who keeps trying to close the distance between them for some reason?!\n\nThe lone",
     "seasonCount": 1,
     "totalEpisodes": 14
@@ -5546,7 +6702,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, whi",
     "seasonCount": 2,
     "totalEpisodes": 21
@@ -5570,7 +6731,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A new life begins for Kitahara Iori as he begins his college career near the ocean in Izu city, full of excitement for his new life. He will be moving into his Uncle's diving store \"Grand Blue.\" There he finds the beautiful ocean, beautiful",
     "seasonCount": 2,
     "totalEpisodes": 24
@@ -5595,7 +6761,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Mizuki Ashiya is on a mission: disguise herself as a boy and enroll in a male boarding school to meet her idol, high jump star Izumi Sano. But after successfully infiltrating the school, she discovers he’s suddenly quit the sport! Now Mizuk",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -5618,7 +6789,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The International Junior Youth Tournament in Paris, France, is about to begin, and Tsubasa, Misaki, Wakabayashi, Hyuga, and Wakashimazu are ready. Japan’s team of elite players is to face off against the best the soccer world has to offer. ",
     "seasonCount": 1,
     "totalEpisodes": 36
@@ -5644,7 +6820,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
     "hasHindi": false,
+    "hasOriginal": true,
     "synopsis": "After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal c",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -5666,7 +6847,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
     "hasHindi": false,
+    "hasOriginal": true,
     "synopsis": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use m",
     "seasonCount": 1,
     "totalEpisodes": 23
@@ -5690,7 +6876,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
     "hasHindi": false,
+    "hasOriginal": true,
     "synopsis": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam foreve",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -5713,7 +6904,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
     "hasHindi": false,
+    "hasOriginal": true,
     "synopsis": "Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks m",
     "seasonCount": 1,
     "totalEpisodes": 11
@@ -5737,7 +6933,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
     "hasHindi": false,
+    "hasOriginal": true,
     "synopsis": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Ever",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -5759,7 +6960,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "One Punch Man anime series streaming on ShinobiHub.",
     "seasonCount": 3,
     "totalEpisodes": 36
@@ -5782,7 +6988,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames Takakura.",
     "seasonCount": 2,
     "totalEpisodes": 24
@@ -5805,7 +7016,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "In a world where hunters battle deadly monsters, Sung Jinwoo, the weakest hunter in the world, receives a mysterious quest log allowing him to level up indefinitely.",
     "seasonCount": 2,
     "totalEpisodes": 25
@@ -5829,7 +7045,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "Naruto Uzumaki, a mischievous adolescent ninja, searches for recognition from his peers and the village, aspiring to become the next Hokage.",
     "seasonCount": 3,
     "totalEpisodes": 78
@@ -5853,7 +7074,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "Yuji Itadori joins a secret organization of sorcerers to eliminate a powerful Curse named Ryomen Sukuna.",
     "seasonCount": 3,
     "totalEpisodes": 59
@@ -5877,7 +7103,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "Tanjiro Kamado sets out on a journey as a demon slayer to avenge his family and cure his demon-turned sister Nezuko.",
     "seasonCount": 4,
     "totalEpisodes": 63
@@ -5902,7 +7133,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "Reincarnated as Rudeus Greyrat, a young boy masters magical arts and sets out on world adventures.",
     "seasonCount": 3,
     "totalEpisodes": 47
@@ -5926,7 +7162,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Shigeo 'Mob' Kageyama is an average middle school boy who is a formidable esper with immense psychic power trying to live a normal life.",
     "seasonCount": 3,
     "totalEpisodes": 38
@@ -5949,8 +7190,14 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": false,
-    "audioTrack": "Hindi Dub",
+    "audioTrack": "Multi-Audio (Hindi + Original)",
+    "audioBadge": "MULTI-AUDIO",
+    "languages": [
+      "hindi",
+      "original"
+    ],
     "hasHindi": true,
+    "hasOriginal": true,
     "synopsis": "Humanity fights for survival against giant man-eating Titans behind colossal stone walls.",
     "seasonCount": 5,
     "totalEpisodes": 89
@@ -5975,7 +7222,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Elven mage Frieren embarks on a nostalgic pilgrimage across the continent after defeating the Demon King.",
     "seasonCount": 2,
     "totalEpisodes": 38
@@ -5999,7 +7251,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he is living a rock bottom life while harvesting devil corpses with Pochita. One day, Denji is betrayed and killed, only to be revive",
     "seasonCount": 2,
     "totalEpisodes": 12
@@ -6023,7 +7280,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Light Yagami is a genius high school student who discovers the Death Note, a notebook dropped by a Shinigami with the power to kill anyone whose name is written in it. He begins a secret crusade to rid the world of criminals.",
     "seasonCount": 1,
     "totalEpisodes": 37
@@ -6047,7 +7309,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": true,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "Monkey D. Luffy sails with his crew in search of the legendary treasure known as One Piece to become the Pirate King.",
     "seasonCount": 2,
     "totalEpisodes": 40
@@ -6072,7 +7339,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Reincarnated into a fantasy realm as a slime, Rimuru builds a nation where monsters and humans live in harmony.",
     "seasonCount": 4,
     "totalEpisodes": 96
@@ -6096,7 +7368,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In medieval Japan, eight-year-old Hojo Tokiyuki escapes a coup and uses his evasion talents to reclaim his clan's legacy.",
     "seasonCount": 2,
     "totalEpisodes": 20
@@ -6120,7 +7397,12 @@ export const ANIME_CATALOG = [
     "isPopular": true,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Jiro Azuma has the ability to talk to animals and gets caught in an occult conflict alongside a black cat Mononoke.",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -6145,7 +7427,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Briar leaves the forest and joins a traveling circus after feeling unappreciated by his friends, unaware of the circus ringmaster's dark secret.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6170,7 +7457,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A family of mallards tries to convince their overprotective father to embark on the vacation of a lifetime as they attempt to migrate from New England to Jamaica.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6194,7 +7486,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Do these sports-crossed lovers have a chance? Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he f",
     "seasonCount": 1,
     "totalEpisodes": 25
@@ -6219,7 +7516,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A suit-wearing, briefcase-carrying baby pairs up with his seven-year old brother to stop the dastardly plot of the CEO of Puppy Co.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6242,7 +7544,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "Wacky Races (2017) - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6266,7 +7573,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "\"Yukio... I'm going to make a friend.\" A shy boy named Tetsuo. The only thing he had was a giant robot named Yukio. They became \"saviors\" in the fight against the galactic monsters coming from outer space. After the final battle, Tetsuo ret",
     "seasonCount": 1,
     "totalEpisodes": 13
@@ -6291,7 +7603,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Serafina, the West’s fiercest knight, expected torture when captured by barbarians. Instead, she got a marriage proposal! Marrying her sworn enemy is a hard no! But after seeing her wedding captor’s culture and very pretty face, she may be ",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -6316,7 +7633,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Vick embarks on a mind-bending time travel journey to alter the destiny of his friends and the forest.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6341,7 +7663,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A woman transformed into a giant after she is struck by a meteorite becomes part of a team of monsters sent by the U.S. government to defeat an alien mastermind.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6364,7 +7691,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Amane lives alone in an apartment, and the most beautiful girl in school, Mahiru, lives just next door. They've almost never spoken&mdash;until the day he sees her in distress on a rainy day and lends her his umbrella. To return the favor, ",
     "seasonCount": 2,
     "totalEpisodes": 24
@@ -6391,7 +7723,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Naruto: Shippuuden is the continuation of the original animated TV series Naruto. The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Sh",
     "seasonCount": 11,
     "totalEpisodes": 234
@@ -6414,7 +7751,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Koudo Ikusei Senior High School is a leading school with state-of-the-art facilities. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is like a utopia, but the truth is that",
     "seasonCount": 4,
     "totalEpisodes": 53
@@ -6439,7 +7781,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "Scooby and the gang face their most challenging mystery ever: a plot to unleash the ghost dog Cerberus upon the world.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6464,7 +7811,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A thirteen-year-old girl named Mei Lee turns into a giant red panda whenever she gets too excited or stressed.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6489,7 +7841,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6515,7 +7872,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Kakashi orders Naruto, Sasuke, and Sakura to watch a movie before their next mission. Naruto is a big fan of the lead actress. After the movie, they see the heroine in person and being chased. They help her and Naruto asks for an autograph ",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6538,7 +7900,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "SWAT Kats: The Radical Squadron -2 - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 1,
     "totalEpisodes": 13
@@ -6561,7 +7928,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Arifureta: From Commonplace to World’s Strongest - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 3,
     "totalEpisodes": 42
@@ -6585,7 +7957,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The future of this fantasy world now lies in the hands of…a vending machine! Boxxo was once a human, until he died in an accident and was reincarnated as a sentient piece of machinery. While he can still hear and see, there’s no way for him",
     "seasonCount": 2,
     "totalEpisodes": 24
@@ -6609,7 +7986,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match tur",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6633,7 +8015,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "After a mysterious death, King Grey is reborn as Arthur Leywin on the magical continent of Dicathen. Although he enters his second life as a baby, his previous wisdom remains. He begins to master magic and forge his own path as the years go",
     "seasonCount": 2,
     "totalEpisodes": 24
@@ -6658,7 +8045,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Many years ago, a Great Civil War ravaged Japan, leaving the country fragmented between two regions: Kansai and Kanto. In Kansai, a group of six Akudama carry out missions given to them by a mysterious black cat, while evading the police. B",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -6682,7 +8074,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "After defeating the Wicked Witch of the West, Princess Dorothy is named the Princess of Emerald City and protects the land of Oz from magical threats.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6705,7 +8102,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Sheep & Wolves (2016) - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6730,7 +8132,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "The Templeton brothers have become adults and drifted away from each other, but a new boss baby with a cutting-edge approach is about to bring them together again.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6754,7 +8161,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6777,7 +8189,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Astro Boy (2009) - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6800,7 +8217,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "My Hero Academia: Vigilantes () - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 2,
     "totalEpisodes": 26
@@ -6823,7 +8245,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "An Observation Log of My Fiancée Who Calls Herself a Villainess - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -6847,7 +8274,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "When a young girl stows away on the ship of a legendary sea monster hunter, they embark on an epic journey into uncharted waters.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6870,7 +8302,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Captain Tsubasa - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 1,
     "totalEpisodes": 52
@@ -6893,7 +8330,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "A heartwarming cinematic story of perseverance, dreams, and the extraordinary everyday moments of life.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6918,7 +8360,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -6941,7 +8388,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "GANTZ - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 2,
     "totalEpisodes": 26
@@ -6964,7 +8416,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": false,
+    "hasOriginal": false,
     "synopsis": "Lord of Mysteries - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 1,
     "totalEpisodes": 12
@@ -6987,7 +8444,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022) - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -7012,7 +8474,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Vick and the bears are shrunken by a new invention, forcing them to brave an overgrown world to restore their normal size.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -7036,7 +8503,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Briar, Bramble, and Vick travel to a futuristic cyberpunk Earth, uniting with robot companions to protect nature's rebirth.",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -7059,7 +8531,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "Watari-kun’s ****** Is About to Collapse - Full episodes with Hindi Dub & English Subs on Shinobi HUB.",
     "seasonCount": 1,
     "totalEpisodes": 26
@@ -7083,7 +8560,12 @@ export const ANIME_CATALOG = [
     "isPopular": false,
     "isTrending": false,
     "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
     "hasHindi": true,
+    "hasOriginal": false,
     "synopsis": "In a world floating high above the clouds, a young aviator discovers an ancient sky-bridge linking lost celestial islands.",
     "seasonCount": 1,
     "totalEpisodes": 1
