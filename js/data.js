@@ -2383,8 +2383,8 @@ export const ANIME_DATABASE = [
     "title": "Scooby-Doo! in Where's My Mummy (2005)",
     "raw_name": "Scooby-Doo! in Where’s My Mummy?",
     "japaneseTitle": "",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX500.jpg",
-    "banner": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX500.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGZkM2E1ZDQtY2U1OS00MDY5LWFkYWMtNTNkZjU2NjkxMGIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://m.media-amazon.com/images/S/pv-target-images/a4c06072258643c0e91dc677cbad3512caf9b8da5766ad8a7656a69dab263f1d._SX1080_FMjpg_.jpg",
     "rating": 8.5,
     "year": 2022,
     "currentEpBadge": "Movie",
@@ -3747,7 +3747,7 @@ export const ANIME_DATABASE = [
     "season": "2015",
     "studio": "Studio Pierrot",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -3757,7 +3757,7 @@ export const ANIME_DATABASE = [
     ],
     "synopsis": "Boruto is the son of Naruto who completely rejects his father. Behind this, he has feelings of wanting to surpass Naruto, who is respected as a hero. He ends up meeting his father's friend Sasuke, and requests to become... his apprentice!? The curtain rises on the story of the new generation written by Masashi Kishimoto!\n\n(Source: Anime News Network)",
     "languages": [
-      "hindi"
+      "original"
     ],
     "seasons": [
       {
