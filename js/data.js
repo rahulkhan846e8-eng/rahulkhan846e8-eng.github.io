@@ -45,6 +45,3903 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "dragon-ball-z-resurrection-f",
+    "title": "Dragon Ball Z: Resurrection 'F'",
+    "raw_name": "Dragon Ball Z Movie 15 Resurrection F",
+    "japaneseTitle": "ドラゴンボールZ 復活の「F」",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20778-HYEes09iv8fJ.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20778-wi4bZxwjT3c6.jpg",
+    "rating": 6.7,
+    "year": 2015,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2015",
+    "studio": "Toei Animation",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "synopsis": "One peaceful day on Earth, two remnants of Freeza's army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Freeza. They succeed, and Freeza subsequently seeks revenge on the Saiyans.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2015",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Dragon Ball Z: Resurrection 'F' (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20778-HYEes09iv8fJ.jpg",
+            "synopsis": "Dragon Ball Z: Resurrection 'F' full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/mWxTBCwA#GGpSnsVRTvQIoT7B7o8nGmZdApbH4psIXwndTHsVj7A",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/mWxTBCwA#GGpSnsVRTvQIoT7B7o8nGmZdApbH4psIXwndTHsVj7A"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dragon-ball-z-the-worlds-strongest",
+    "title": "Dragon Ball Z: The World's Strongest",
+    "raw_name": "Dragon Ball Z Movie 2 The World’s Strongest",
+    "japaneseTitle": "ドラゴンボールＺ この世で一番強いヤツ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/895-GuuZOIRCBHhI.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/895-cAESC6fP8PzR.jpg",
+    "rating": 6.1,
+    "year": 1990,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1990",
+    "studio": "Toei Animation",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "The evil Dr. Wheelo has resurrected his brain into a robot and now desires to inhabit the body of the world's strongest warrior. This means he must face Son Goku and company in a fight for Goku's life.\n\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1990",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Dragon Ball Z: The World's Strongest (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/895-GuuZOIRCBHhI.jpg",
+            "synopsis": "Dragon Ball Z: The World's Strongest full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/vCx12CyI#sQk3GY3R-5dZUocGXBXRf23Dl-F-FlJ4mQy_ILVLTiQ",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/vCx12CyI#sQk3GY3R-5dZUocGXBXRf23Dl-F-FlJ4mQy_ILVLTiQ"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dragon-ball-z-dead-zone",
+    "title": "Dragon Ball Z: Dead Zone",
+    "raw_name": "Dragon Ball Z Movie 1 Dead Zone",
+    "japaneseTitle": "ドラゴンボールZ オラの悟飯をかえせッ!!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/894-9eA7z7CyNMms.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/894-E53wr4IIwNuJ.jpg",
+    "rating": 6.2,
+    "year": 1989,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1989",
+    "studio": "Toei Animation",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Kami-sama's old nemesis's son has come to exact revenge on Kami-sama for winning the title of Earth's Guardian. After kidnapping Son Gohan and using the dragon balls to gain immortality, he has a final showdown with Goku.\n\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1989",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Dragon Ball Z: Dead Zone (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/894-9eA7z7CyNMms.jpg",
+            "synopsis": "Dragon Ball Z: Dead Zone full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/nGwhXAJQ#AqG8CHvokuDLRlHN74eOaqZsY7laS4kzjSdlUz8bg24",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/nGwhXAJQ#AqG8CHvokuDLRlHN74eOaqZsY7laS4kzjSdlUz8bg24"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dragon-ball-z-the-tree-of-might",
+    "title": "Dragon Ball Z: The Tree of Might",
+    "raw_name": "Dragon Ball Z Movie 3 The Tree of Might",
+    "japaneseTitle": "ドラゴンボールＺ 地球まるごと超決戦",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/896.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/896-WMwj6ze1rcqE.jpg",
+    "rating": 6.3,
+    "year": 1990,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1990",
+    "studio": "Toei Animation",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "The Saiyajin named Turlus has come to Earth in order to plant a tree that will both destroy the planet and give him infinite strength. Son Goku and the Z Warriors cannot let this happen and duke it out with the invaders for the sake of the planet.\n\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1990",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Dragon Ball Z: The Tree of Might (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/896.jpg",
+            "synopsis": "Dragon Ball Z: The Tree of Might full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/iHhTwKoB#5AfKk98X6KaKM42gaM_JGht6oarvCG-z0UWFid5iCMw",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/iHhTwKoB#5AfKk98X6KaKM42gaM_JGht6oarvCG-z0UWFid5iCMw"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dragon-ball-z-bio-broly",
+    "title": "Dragon Ball Z: Bio-Broly",
+    "raw_name": "Dragon Ball Z Movie 11 Bio-Broly",
+    "japaneseTitle": "ドラゴンボールＺ 超戦士撃破!!勝のはオレだ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/904-nuPbNMkv1uX2.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/904-gowezIX2SK2p.jpg",
+    "rating": 5.2,
+    "year": 1994,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1994",
+    "studio": "Toei Animation",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Jaga Bada, Mr. Satan's old sparring partner, has invited Satan to his personal island to hold a grudge match. Trunks and Goten decide to come for the adventure and Android #18 is following Satan for the money he owes her. Little do they know that Jaga Bada's scientist have found a way to resurrect Broly, the legendary Super Saiyan.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1994",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Dragon Ball Z: Bio-Broly (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/904-nuPbNMkv1uX2.jpg",
+            "synopsis": "Dragon Ball Z: Bio-Broly full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/yCpxhC6Y#wCjIBq7DlVQK7Tz5tvK5XkmysMRKwUeSo19tUzHk2TE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/yCpxhC6Y#wCjIBq7DlVQK7Tz5tvK5XkmysMRKwUeSo19tUzHk2TE"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pokémon-ranger-and-the-temple-of-the-sea",
+    "title": "Pokémon Ranger and the Temple of the Sea",
+    "raw_name": "Pokemon Movie 9 Ranger and the Temple of the Sea",
+    "japaneseTitle": "ポケットモンスターアドバンスジェネレーション ポケモンレンジャーと蒼海の王子 マナフィ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2201-1B1dS0NLJ3g5.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2201-AaINJqkO5zge.jpg",
+    "rating": 6.5,
+    "year": 2006,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2006",
+    "studio": "OLM",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "Satoshi and his friends get lost in an unknown wasteland.  They eventually come across a \"Water Pokemon Show\" performed by the star of the Mariner Troupe, Hiromi.  Hiromi is a descendant of the troupe of Water People able to communicate with water pokemon, and she tells our heroes the legend that's been passed down by her people for generations.   According to legend, a temple the Water People built called \"The Water Temple Akuusha\" rests somewhere in the ocean, and a treasure called \"The Water Crown\" is hidden there.  It's said that no one has ever seen this treasure, but that changes when a Pokemon Ranger named Jack Walker (aka Jackie) appears to chase aftert it.\nJackie is on a top secret mission that has him protecting the egg of the leader of the water pokemon, Manaphy. This pokemon, called the \"Prince of the Sea,\" needs to be taken to the Water Temple Akuusha, so Satoshi-tachi and Hiromi decide to help him.  Along the way, a pirate named Phantom attacks our heroes from his great submarine.  Phantom plans to use the Water Crown's power to help him conquer the world, but he'll have to solve the mystery of Manaphy's egg first.  When the Rocket-Dan get into the mix, Jackie uses his Capture Styler to borrow the power of a nearby pokemon to stand up to them.  Satoshi and Pikachu enter the fray, but they still have to contend with the attacks of Phantom's powerful high tech mecha!  Suddenly, the egg starts to shine with a vivid light, and Manpahy is born!  \nWhat is the mystery of the legendary treasure?  What mysterious powers does Manaphy have?  Can Satoshi-tachi and Jackie complete their top secret mission?  The journey to reach the Water Temple Akuusha has begun!",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2006",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Pokémon Ranger and the Temple of the Sea (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2201-1B1dS0NLJ3g5.jpg",
+            "synopsis": "Pokémon Ranger and the Temple of the Sea full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/4Wxh2RwJ#TTgF0I8SNeazzfbrHCN_KK6FQ6CjaZ-STIYMLMzM5UI",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/4Wxh2RwJ#TTgF0I8SNeazzfbrHCN_KK6FQ6CjaZ-STIYMLMzM5UI"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pokémon-mewtwo-strikes-backevolution",
+    "title": "Pokémon: Mewtwo Strikes Back—Evolution",
+    "raw_name": "Pokemon Movie 22 Mewtwo Strikes Back Evolution",
+    "japaneseTitle": "劇場版 ポケットモンスター ミュウツーの逆襲 EVOLUTION",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106287-THH8DMCFuVNc.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106287-THH8DMCFuVNc.png",
+    "rating": 6.1,
+    "year": 2019,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2019",
+    "studio": "OLM",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "synopsis": "When researchers discover and exploit a fossil of the Mythical Pokémon Mew, they unleash a\ncreation that goes against the very laws of nature. \n\nThe Legendary Pokémon Mewtwo was intended for use as a tool of destruction. But as Mewtwo\nbecomes aware of its own dubious origin, it begins to resent its human creators and seeks revenge…\n\n(Source: Netflix)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Pokémon: Mewtwo Strikes Back—Evolution (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106287-THH8DMCFuVNc.png",
+            "synopsis": "Pokémon: Mewtwo Strikes Back—Evolution full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/ZeQgTaSL#CRg_3ef0VSas0KqhUCpLpzVzI91UI0MwQUuQ5buFR5Q",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/ZeQgTaSL#CRg_3ef0VSas0KqhUCpLpzVzI91UI0MwQUuQ5buFR5Q"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minions-the-rise-of-gru",
+    "title": "Minions: The Rise of Gru",
+    "raw_name": "Minions the Rise of Gru",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTAzMTkyNmQtNTMzZS00MTM1LWI4YzEtMjVlYjU0ZWI5Y2IzXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZTAzMTkyNmQtNTMzZS00MTM1LWI4YzEtMjVlYjU0ZWI5Y2IzXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.5,
+    "year": 2022,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2022",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2022",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Minions: The Rise of Gru (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTAzMTkyNmQtNTMzZS00MTM1LWI4YzEtMjVlYjU0ZWI5Y2IzXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Minions: The Rise of Gru full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Z59szEtE?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Z59szEtE?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pokemon-movie-19-volcanion-ki-kahani",
+    "title": "Pokemon Movie 19 Volcanion Ki Kahani",
+    "raw_name": "Pokemon Movie 19 Volcanion Ki Kahani",
+    "japaneseTitle": "ポケットモンスター",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Pokemon Movie 19 Volcanion Ki Kahani streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Pokemon Movie 19 Volcanion Ki Kahani (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
+            "synopsis": "Pokemon Movie 19 Volcanion Ki Kahani full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/9H52hTiZ#PzTORm17hXJ8mh0oq8HGTLr5xUQQXPXtQeuq82mNqZk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/9H52hTiZ#PzTORm17hXJ8mh0oq8HGTLr5xUQQXPXtQeuq82mNqZk"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wolf-children",
+    "title": "Wolf Children",
+    "raw_name": "Wolf Children",
+    "japaneseTitle": "おおかみこどもの雨と雪",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12355.jpg",
+    "rating": 8.3,
+    "year": 2012,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2012",
+    "studio": "MADHOUSE",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "synopsis": "The theme of the film is the love between parents and children. The story covers 13 years and begins with a 19-year-old college student named Hana who encounters and falls in \"fairy tale-like\" love with a \"wolf man.\" After marrying the wolf man, Hana gives birth and raises two wolf children&mdash;an older sister named Yuki who was born on a snowy day, and a younger brother named Ame who was born on a rainy day. The four quietly lived in a corner of a city to conceal the existence of the \"wolf children,\" but when the wolf man suddenly dies, Hana decides to move to a rural town far removed from the city.\n\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2012",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Wolf Children (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
+            "synopsis": "Wolf Children full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/7cox2CwL#7xG6hsHjzufmZR3FNq1LG7p6gGgVZJbOPyNCTwdcvVk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/7cox2CwL#7xG6hsHjzufmZR3FNq1LG7p6gGgVZJbOPyNCTwdcvVk"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dareka-no-manazashi",
+    "title": "Dareka no Manazashi",
+    "raw_name": "Someone’s Gaze (Dareka no Manazashi)",
+    "japaneseTitle": "だれかのまなざし",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17121-JEuXAtZkz9Nk.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n17121-ddfQA9v0ZiDR.jpg",
+    "rating": 7.0,
+    "year": 2013,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2013",
+    "studio": "CoMix Wave",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "synopsis": "Short anime film by Makoto Shinkai screened at the Nomura Real Estate Group's \"Proud Box Kanshasai\" home living exposition, which ran February 10&ndash;11, 2013, at the Tokyo International Forum.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2013",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Dareka no Manazashi (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17121-JEuXAtZkz9Nk.jpg",
+            "synopsis": "Dareka no Manazashi full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/CNIzBCBI#3Yu2ewXMs6UvTZ3UQjcIgMRMNwYcjPmqfwVpTEqqGNk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/CNIzBCBI#3Yu2ewXMs6UvTZ3UQjcIgMRMNwYcjPmqfwVpTEqqGNk"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-spongebob-movie-sponge-on-the-run",
+    "title": "The SpongeBob Movie: Sponge on the Run",
+    "raw_name": "The SpongeBob Movie Sponge on the Run",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTBiZDQ2MWEtYzE1MC00YmMyLTg1NjUtNzE2YTZlMjI3MGUxXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZTBiZDQ2MWEtYzE1MC00YmMyLTg1NjUtNzE2YTZlMjI3MGUxXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 5.9,
+    "year": 2020,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2020",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "After SpongeBob's beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to the Lost City of Atlantic City to bring Gary home.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2020",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The SpongeBob Movie: Sponge on the Run (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTBiZDQ2MWEtYzE1MC00YmMyLTg1NjUtNzE2YTZlMjI3MGUxXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "The SpongeBob Movie: Sponge on the Run full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/vH2Zg948?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/vH2Zg948?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kikis-delivery-service",
+    "title": "Kiki's Delivery Service",
+    "raw_name": "Kiki’s Delivery Service",
+    "japaneseTitle": "魔女の宅急便",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-UwP8X4BR8YoM.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/512-Ssp3EE2NdeoA.jpg",
+    "rating": 8.1,
+    "year": 1989,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1989",
+    "studio": "Studio Ghibli",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "synopsis": "Kiki is an enterprising young girl who must follow tradition to become a full-fledged witch. Venturing out with only her chatty black cat, Jiji, Kiki flies off for the adventure of a lifetime. Landing in a far-off city, she sets up a high-flying delivery service and begins a wonderful experience of independence and responsibility as she finds her place in the world.\n(Source: Disney)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1989",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Kiki's Delivery Service (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-UwP8X4BR8YoM.png",
+            "synopsis": "Kiki's Delivery Service full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/yyJH0biI#tW00cZ848mNo-JXvyqCu60WoJmfkflMANZfPodPpVvY",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/yyJH0biI#tW00cZ848mNo-JXvyqCu60WoJmfkflMANZfPodPpVvY"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pokémon-mewtwo-returns",
+    "title": "Pokémon: Mewtwo Returns",
+    "raw_name": "Pokemon Mewtwo Returns",
+    "japaneseTitle": "ポケットモンスター ミュウツー! 我ハココニ在リ",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1709-vQoFgnySwLOq.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1709-vQoFgnySwLOq.jpg",
+    "rating": 6.8,
+    "year": 2001,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2001",
+    "studio": "OLM",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "synopsis": "The Team Rocket leader, Giovanni, has found Mewtwo in a remote area of the Johto region. As Giovanni tries to re-capture Mewtwo, Ash and his friends are kidnapped by Domino, a new Team Rocket member, while trying to rescue Pikachu from Jessie and James. The Clone Pokemon are also captured and are then used as bait for Mewtwo. The situation then becomes a battle between the wills of Mewtwo and Giovanni; and Mewtwo also tries to discover if it and the clones have a purpose in life, even though they are products of science.\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2001",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Pokémon: Mewtwo Returns (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1709-vQoFgnySwLOq.jpg",
+            "synopsis": "Pokémon: Mewtwo Returns full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/9TxiBIxK#L8MIKyYEQXlGAC2dP-Nvb59L3HhtWdg2UixS0roAM5k",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/9TxiBIxK#L8MIKyYEQXlGAC2dP-Nvb59L3HhtWdg2UixS0roAM5k"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "walle",
+    "title": "WALL·E",
+    "raw_name": "WALL E",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX500.jpg",
+    "rating": 8.4,
+    "year": 2008,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2008",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "synopsis": "In a future where humans have temporarily abandoned Earth, a trash-compacting robot falls in love with a flying droid and helps her on her quest to restore hope to mankind.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2008",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "WALL·E (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX500.jpg",
+            "synopsis": "WALL·E full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/1utxWRSL#9GY1KgT4p67c8OU4Brvau23R7kCIxm4c5ybH_dATxvc",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/1utxWRSL#9GY1KgT4p67c8OU4Brvau23R7kCIxm4c5ybH_dATxvc"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-legend-of-muay-thai-9-satra",
+    "title": "The Legend of Muay Thai: 9 Satra",
+    "raw_name": "The Legend of Muay Thai 9 Satra",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZkZGNkNWEtOTU0MS00MGMxLTgyNjktMjRkYWIxZDdkMWY1XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNTZkZGNkNWEtOTU0MS00MGMxLTgyNjktMjRkYWIxZDdkMWY1XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.3,
+    "year": 2018,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2018",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "With \"Ott\" father's last hope to take back Ramthep City where is now occupy by Asura (Giant Race), the boy was trained the martial art of Muay Thai for the mission of delivering 9 Satra, the sacred weapon to the Prince of Ramthep....",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2018",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Legend of Muay Thai: 9 Satra (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZkZGNkNWEtOTU0MS00MGMxLTgyNjktMjRkYWIxZDdkMWY1XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "The Legend of Muay Thai: 9 Satra full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/RylgxTwQ#hfhmOmlJ07kHVlHq_5b2apSHKWMZBwXLq2Z7wTLZ8y8",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/RylgxTwQ#hfhmOmlJ07kHVlHq_5b2apSHKWMZBwXLq2Z7wTLZ8y8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "abominable",
+    "title": "Abominable",
+    "raw_name": "Abominable",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdiYTViMzQtNDhkZC00YTgzLWI2NWItODZkNjVlMDZkMDNiXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNDdiYTViMzQtNDhkZC00YTgzLWI2NWItODZkNjVlMDZkMDNiXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.0,
+    "year": 2019,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2019",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Three teenagers must help a Yeti return to his family while avoiding a wealthy man and a zoologist who want him for their own needs.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Abominable (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDdiYTViMzQtNDhkZC00YTgzLWI2NWItODZkNjVlMDZkMDNiXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Abominable full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/aJNGwL6D#km3eKN-JSzeqZU4eFShWhznII_TZ_EPC08sr1V6kFto",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/aJNGwL6D#km3eKN-JSzeqZU4eFShWhznII_TZ_EPC08sr1V6kFto"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elemental-gelade",
+    "title": "Elemental Gelade",
+    "raw_name": "Elemental",
+    "japaneseTitle": "エレメンタルジェレイド",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1250-pLME3wBHl6Yt.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1250-EsHaDpJKNxTq.jpg",
+    "rating": 6.8,
+    "year": 2005,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2005",
+    "studio": "Xebec",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "synopsis": "After a routine raid, the rookie sky pirate Coud finds a most unusual cargo in his mates' cargo hold: Ren, an \"Edel Reid\", a race prized by humans for granting special combat power to their partners through \"Reacting\". He quickly discovers, however, that Ren is even more prized than he expected. The pirate ship is visited by three members of the Edel Reid Complete Protection Agency \"Arc Aire\", who try to purchase her. When Coud refuses, the ship is suddenly attacked by a mysterious force, and Coud's captain charges him with Ren's protection.\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2005",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Elemental Gelade (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1250-pLME3wBHl6Yt.png",
+            "synopsis": "Elemental Gelade full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/eKynbmt5?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/eKynbmt5?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "teen-titans-go-see-space-jam",
+    "title": "Teen Titans Go! See Space Jam",
+    "raw_name": "Teen Titans Go! See Space Jam",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTA2MTQyNjktZWY2ZS00MWI4LWI4MzUtN2I4ZGU1OTk4ZjNmXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNTA2MTQyNjktZWY2ZS00MWI4LWI4MzUtN2I4ZGU1OTk4ZjNmXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 4.5,
+    "year": 2021,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2021",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "The Teen Titans are visited by the Nerdlucks, the iconic Space Jam (1996) villains. Astonished to discover his fellow Titans have never seen the movie, Cyborg organizes an exclusive watch party.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2021",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Teen Titans Go! See Space Jam (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTA2MTQyNjktZWY2ZS00MWI4LWI4MzUtN2I4ZGU1OTk4ZjNmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Teen Titans Go! See Space Jam full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/JTcPR2sg?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/JTcPR2sg?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "loud-house",
+    "title": "LOUD HOUSE",
+    "raw_name": "The Loud House",
+    "japaneseTitle": "LOUD HOUSE",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118129-UTCoVqqedwW3.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118129-UTCoVqqedwW3.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [],
+    "synopsis": "Tatsurou Kawano's graduation work at Kyoto Seika University",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "LOUD HOUSE (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118129-UTCoVqqedwW3.jpg",
+            "synopsis": "LOUD HOUSE full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/XRJmjaLa#XXgeEW-RA7NJ01RHKwccI0CuAl4HlHIS09_GWxbOPFk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/XRJmjaLa#XXgeEW-RA7NJ01RHKwccI0CuAl4HlHIS09_GWxbOPFk"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kung-fu-panda-secrets-of-the-furious-five",
+    "title": "Kung Fu Panda: Secrets of the Furious Five",
+    "raw_name": "Kung Fu Panda Secrets of the Furious Five",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQwMWNmYWUtY2E5NS00OTlkLWI2Y2MtNzhjZDUyYmZhZDVjXkEyXkFqcGdeQXVyNjc2MjYzMTY@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMjQwMWNmYWUtY2E5NS00OTlkLWI2Y2MtNzhjZDUyYmZhZDVjXkEyXkFqcGdeQXVyNjc2MjYzMTY@._V1_SX500.jpg",
+    "rating": 7.1,
+    "year": 2008,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2008",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Short",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "synopsis": "Ordered to teach a martial arts class of rambunctious bunny kittens, Po tells stories of each of the Furious Five's pasts.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2008",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Kung Fu Panda: Secrets of the Furious Five (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQwMWNmYWUtY2E5NS00OTlkLWI2Y2MtNzhjZDUyYmZhZDVjXkEyXkFqcGdeQXVyNjc2MjYzMTY@._V1_SX500.jpg",
+            "synopsis": "Kung Fu Panda: Secrets of the Furious Five full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/UdcHyDDL#K5DerIdPn2cTU8SDXZapwwXb5AiNKPeAB4J8CVQd3Kk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/UdcHyDDL#K5DerIdPn2cTU8SDXZapwwXb5AiNKPeAB4J8CVQd3Kk"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "super-mario-brothers-peach-hime-kyuushutsu-daisakusen",
+    "title": "Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!",
+    "raw_name": "The Super Mario Bros",
+    "japaneseTitle": "スーパーマリオブラザーズ　ピーチ姫救出大作戦!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3886-WYh9WeSnxEhm.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3886-Ob0dYPonXpJk.jpg",
+    "rating": 5.3,
+    "year": 1986,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1986",
+    "studio": "Grouper Production",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synopsis": "In the film, Mario and Luigi are the owners of a grocery store. One night, Mario was engrossed in his Famicom game. Suddenly, the picture goes out and Princess Peach appears on the TV screen crying for help from the enemies attacking her and jumps out of the TV. Mario falls in love with her and vows to protect her. Soon after, Koopa appears on the TV screen and starts to come out of the TV. He grabs Princess Peach and takes her into the TV. Mario then discovers a small brooch that Peach left on the floor.\nThe next day, the brooch that Peach dropped becomes a matter of concern for Mario. Luigi immediately notices the brooch and regards it as the \"Visionary Jewel from the Country of Treasure\". Soon, Kibidango, a small dog-like being, wanders into the store and notices that Mario has Peach's brooch. He takes it away from Mario, enraging him, thus beginning his (and Luigi's) chase with Kibidango into the Mushroom Kingdom.\n(Source: Wikipedia)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1986",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen! (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3886-WYh9WeSnxEhm.png",
+            "synopsis": "Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen! full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/NEaC7htX?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/NEaC7htX?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "my-oni-girl",
+    "title": "My Oni Girl",
+    "raw_name": "My Oni Girl",
+    "japaneseTitle": "好きでも嫌いなあまのじゃく",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148080-2wVRYUghiaAq.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148080-4FZfDfDhW7Ds.jpg",
+    "rating": 6.8,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Studio Colorido",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Adventure",
+      "Supernatural"
+    ],
+    "synopsis": "Yearning to get along with others and not be disliked, first-year high school student Hiiragi finds himself unable to say no whenever someone requests something of him. One summer day, while unsuccessfully carrying out yet another request, he encounters an oni girl named Tsumugi, who has come to the human world to search for her mother. She does whatever she pleases and is the complete opposite of Hiiragi. Snow mysteriously begins to fall... and their adventure begins. \n(Source: Netflix, edited)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "My Oni Girl (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148080-2wVRYUghiaAq.png",
+            "synopsis": "My Oni Girl full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/c5hqMpoW?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/c5hqMpoW?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "monkey-king-hero-is-back",
+    "title": "Monkey King: Hero Is Back",
+    "raw_name": "Monkey King: Hero Is Back",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3Njk1MzAxOF5BMl5BanBnXkFtZTgwNzg2MTI4ODE@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTQ3Njk1MzAxOF5BMl5BanBnXkFtZTgwNzg2MTI4ODE@._V1_SX500.jpg",
+    "rating": 6.7,
+    "year": 2016,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2016",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "The all-powerful Monkey King was imprisoned by the Gods for 500 years, but when a child releases him from his curse, the Monkey King must now save an innocent village from the evil Mountain Lord and his monstrous army.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2016",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Monkey King: Hero Is Back (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ3Njk1MzAxOF5BMl5BanBnXkFtZTgwNzg2MTI4ODE@._V1_SX500.jpg",
+            "synopsis": "Monkey King: Hero Is Back full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/dekz3IZR#YNjKQDGQ2teHI6P-u5qlUMeXlR3WJ5S8TQtDvfTQW9w",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/dekz3IZR#YNjKQDGQ2teHI6P-u5qlUMeXlR3WJ5S8TQtDvfTQW9w"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coco",
+    "title": "Coco",
+    "raw_name": "Coco",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.4,
+    "year": 2017,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2017",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2017",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Coco (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Coco full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Q3M6dQNU?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Q3M6dQNU?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "108-ward-inside-and-out-make-up-artist",
+    "title": "108 Ward Inside and Out: Make-Up Artist",
+    "raw_name": "Inside Out 2",
+    "japaneseTitle": "八百八町表裏 化粧師",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11545-L1NFW3jUQmWa.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11545-L1NFW3jUQmWa.jpg",
+    "rating": 6.6,
+    "year": 1990,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1990",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [],
+    "synopsis": "108 Ward Inside and Out: Make-Up Artist anime series streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1990",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "108 Ward Inside and Out: Make-Up Artist (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11545-L1NFW3jUQmWa.jpg",
+            "synopsis": "108 Ward Inside and Out: Make-Up Artist full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/XJutKQBB?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XJutKQBB?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-witcher-nightmare-of-the-wolf",
+    "title": "The Witcher: Nightmare of the Wolf",
+    "raw_name": "The Witcher Nightmare of the Wolf",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQzNDE4N2ItZDAwMC00YzA3LTkwMTEtZDgyMjE3M2ZiY2NiXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BODQzNDE4N2ItZDAwMC00YzA3LTkwMTEtZDgyMjE3M2ZiY2NiXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.2,
+    "year": 2021,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2021",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2021",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Witcher: Nightmare of the Wolf (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BODQzNDE4N2ItZDAwMC00YzA3LTkwMTEtZDgyMjE3M2ZiY2NiXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "The Witcher: Nightmare of the Wolf full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/5ZRjXdgk?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/5ZRjXdgk?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "under-the-boardwalk",
+    "title": "Under the Boardwalk",
+    "raw_name": "Under the Boardwalk",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFhOTdmMzItYjUxYy00NjkyLTllMmItNmUyYjcwYzVjNzU4XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZWFhOTdmMzItYjUxYy00NjkyLTllMmItNmUyYjcwYzVjNzU4XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 5.9,
+    "year": 2023,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2023",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Under the boardwalk at the Jersey Shore, a land crab townie falls in love with a sea crab tourist, but tensions between their friends and families rise. When a storm casts the duo far from home, their love will lead them on an adv...",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Under the Boardwalk (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFhOTdmMzItYjUxYy00NjkyLTllMmItNmUyYjcwYzVjNzU4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Under the Boardwalk full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/9zVGjLQR#bI9iAjR44NNKffZtpDiUggC0fQjg0o2GshehztL6uPw",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/9zVGjLQR#bI9iAjR44NNKffZtpDiUggC0fQjg0o2GshehztL6uPw"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-wild-robot",
+    "title": "The Wild Robot",
+    "raw_name": "The Wild Robot",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.2,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "synopsis": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Wild Robot (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "The Wild Robot full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8EkWxjBs?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8EkWxjBs?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "look-back",
+    "title": "LOOK BACK",
+    "raw_name": "Look Back",
+    "japaneseTitle": "ルックバック",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174788-9LsUnn0oEppv.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174788-0ZM9g7npJH8X.jpg",
+    "rating": 8.6,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Studio Durian",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "synopsis": "Ayumu Fujino is a fourth grader who draws a manga strip for the school newspaper. Her art makes her the star of the class, but one day she's told that Kyomoto, a student who refuses to come to school, would also like to submit a manga for the paper...\n\n(Source: MANGA Plus, edited)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "LOOK BACK (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174788-9LsUnn0oEppv.jpg",
+            "synopsis": "LOOK BACK full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/T8t1XVwv?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/T8t1XVwv?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spy-x-family-code-white",
+    "title": "SPY x FAMILY CODE: White",
+    "raw_name": "SPY x FAMILY CODE: White",
+    "japaneseTitle": "SPY×FAMILY CODE: White",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158928-xqE0euKlQMnY.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158928-7j4JK7pGvZnZ.jpg",
+    "rating": 8.1,
+    "year": 2023,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2023",
+    "studio": "WIT STUDIO",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "synopsis": "Survive family vacation, save the world.\n\nHe's a spy. She's an assassin. Together, Loid and Yor keep their double lives to themselves while pretending to be the perfect family. However, their adopted daughter Anya, a telepath, knows both of their exciting secrets unbeknownst to them. While under the guise of taking his family on a weekend winter getaway, Loid's attempt to make progress on his current mission Operation Strix proves difficult when Anya mistakenly gets involved and triggers events that threaten world peace!\n(Source: Crunchyroll, edited)\n\n",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "SPY x FAMILY CODE: White (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158928-xqE0euKlQMnY.jpg",
+            "synopsis": "SPY x FAMILY CODE: White full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/72xrqg5R?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/72xrqg5R?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "an-american-tail",
+    "title": "An American Tail",
+    "raw_name": "An American Tail",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q4YTcyOTItNjE3OC00MjFkLTk0YjktNmYxNGI0OTI0OTI1XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BM2Q4YTcyOTItNjE3OC00MjFkLTk0YjktNmYxNGI0OTI0OTI1XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.9,
+    "year": 1986,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1986",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "While emigrating to the United States, a young Russian mouse gets separated from his family and must locate them while trying to survive in a new country.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1986",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "An American Tail (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2Q4YTcyOTItNjE3OC00MjFkLTk0YjktNmYxNGI0OTI0OTI1XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "An American Tail full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/mNYBQIKL#CP4y__fznQJEOsVzYSC99qDUSwynvUcRFxh90VfD4zE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/mNYBQIKL#CP4y__fznQJEOsVzYSC99qDUSwynvUcRFxh90VfD4zE"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-witcher-sirens-of-the-deep",
+    "title": "The Witcher: Sirens of the Deep",
+    "raw_name": "The Witcher: Sirens of the Deep",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJhNWI4NTQtOWVlOS00MWQyLWI2MTktYzRiNzk4Yzg2YjQyXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BODJhNWI4NTQtOWVlOS00MWQyLWI2MTktYzRiNzk4Yzg2YjQyXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.1,
+    "year": 2025,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "Hired to probe seaside village attacks, mutant monster hunter Geralt unravels an age-old conflict between humans and sea people that threatens war between kingdoms. Aided by allies, he must solve the mystery before hostilities esc...",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Witcher: Sirens of the Deep (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BODJhNWI4NTQtOWVlOS00MWQyLWI2MTktYzRiNzk4Yzg2YjQyXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "The Witcher: Sirens of the Deep full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/OuIlXCZT#eTul2lFqYagEU97v77oY8k5ryoznkCRbwMMIS2HIyPU",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/OuIlXCZT#eTul2lFqYagEU97v77oY8k5ryoznkCRbwMMIS2HIyPU"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-glassworker",
+    "title": "The Glassworker",
+    "raw_name": "The Glassworker",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQzZTE2YWUtZTliOC00ZmUyLWE4ZmUtMjNhZmZlMDg0NDYzXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNjQzZTE2YWUtZTliOC00ZmUyLWE4ZmUtMjNhZmZlMDg0NDYzXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.0,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "synopsis": "The life of a young glassblower in training and his relationships over the years, as his land goes through war and strife.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Glassworker (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjQzZTE2YWUtZTliOC00ZmUyLWE4ZmUtMjNhZmZlMDg0NDYzXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "The Glassworker full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Yhz6RNqh?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Yhz6RNqh?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ben-10-generator-rex-heroes-united",
+    "title": "Ben 10 Generator Rex Heroes United",
+    "raw_name": "Ben 10 Generator Rex Heroes United",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Ben 10 Generator Rex Heroes United animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ben 10 Generator Rex Heroes United (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Ben 10 Generator Rex Heroes United full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/3MgZ3pSM?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3MgZ3pSM?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ben-10-alien-x-tinction",
+    "title": "Ben 10 Alien X-Tinction",
+    "raw_name": "Ben 10 Alien X-Tinction",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Ben 10 Alien X-Tinction animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ben 10 Alien X-Tinction (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Ben 10 Alien X-Tinction full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ixoopQhZ?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ixoopQhZ?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ben-10-secret-of-the-omnitrix",
+    "title": "Ben 10: Secret of the Omnitrix",
+    "raw_name": "Ben 10 Secret of the Omnitrix",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTQxZTdhMmQtOTNiMS00ZjNmLThkNjktZDA0NzVjNDNjMDY5XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYTQxZTdhMmQtOTNiMS00ZjNmLThkNjktZDA0NzVjNDNjMDY5XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.5,
+    "year": 2007,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2007",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "When the Omnitrix begins a countdown to self-destruction, Ben and Gwen team up with Tetrax to find the watch's creator before it's too late.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2007",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ben 10: Secret of the Omnitrix (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTQxZTdhMmQtOTNiMS00ZjNmLThkNjktZDA0NzVjNDNjMDY5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Ben 10: Secret of the Omnitrix full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/wcGzYEst?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/wcGzYEst?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gen-ben-ting-bu-xia-lai",
+    "title": "Gen Ben Ting bu xia lai",
+    "raw_name": "Ben Gen",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmU1MGE2OWMtYzE2ZS00NGMzLWE1ZjAtZjEzMjE5OTlhY2MyXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNmU1MGE2OWMtYzE2ZS00NGMzLWE1ZjAtZjEzMjE5OTlhY2MyXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Ben Gen streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 10,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 10,
+            "title": "Gen Ben Ting bu xia lai (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmU1MGE2OWMtYzE2ZS00NGMzLWE1ZjAtZjEzMjE5OTlhY2MyXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Gen Ben Ting bu xia lai full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/BMC3Zs9i?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/BMC3Zs9i?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ben-10-race-against-time",
+    "title": "Ben 10: Race Against Time",
+    "raw_name": "Ben 10: Race Against Time",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmJiZTdkNTItNjVkOC00NTViLWJhMjQtNWNmODUyY2E2ZTZiXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZmJiZTdkNTItNjVkOC00NTViLWJhMjQtNWNmODUyY2E2ZTZiXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 4.2,
+    "year": 2007,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2007",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "synopsis": "Ben Tennyson returns home from summer vacation only to discover that a rapidly aging alien criminal named, Eon, is planning to use an ancient alien artifact to destroy Bellwood.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2007",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ben 10: Race Against Time (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmJiZTdkNTItNjVkOC00NTViLWJhMjQtNWNmODUyY2E2ZTZiXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Ben 10: Race Against Time full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/2k3cUxmL?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/2k3cUxmL?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ben-10-alien-swarm",
+    "title": "Ben 10: Alien Swarm",
+    "raw_name": "Ben 10: Alien Swarm",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODA3ODY0NV5BMl5BanBnXkFtZTcwOTA3MzAwMw@@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTc3ODA3ODY0NV5BMl5BanBnXkFtZTcwOTA3MzAwMw@@._V1_SX500.jpg",
+    "rating": 4.6,
+    "year": 2009,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2009",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "synopsis": "Against his grandfather's orders, Ben Tennyson teams up with the daughter of an old enemy in order to prevent an alien infestation of earth.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2009",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ben 10: Alien Swarm (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc3ODA3ODY0NV5BMl5BanBnXkFtZTcwOTA3MzAwMw@@._V1_SX500.jpg",
+            "synopsis": "Ben 10: Alien Swarm full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/C6qLKyqb?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/C6qLKyqb?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ben-10-versus-the-universe",
+    "title": "Ben 10 Versus the Universe",
+    "raw_name": "Ben 10 Versus the Universe",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Ben 10 Versus the Universe animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ben 10 Versus the Universe (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Ben 10 Versus the Universe full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/hP74Swtq?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/hP74Swtq?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "transformers-one",
+    "title": "Transformers One",
+    "raw_name": "Transformers One",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.6,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but who once were friends bonded like brothers who changed the fate of Cybertron forever.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Transformers One (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Transformers One full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/SbJWY22c?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/SbJWY22c?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scooby-doo-on-zombie-island",
+    "title": "Scooby-Doo on Zombie Island",
+    "raw_name": "Scooby-Doo on Zombie Island",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJlYjU0MWQtYTRkMi00ODAwLWFkZGUtNGRkNzJjMzIzNWU0XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYmJlYjU0MWQtYTRkMi00ODAwLWFkZGUtNGRkNzJjMzIzNWU0XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX500.jpg",
+    "rating": 7.8,
+    "year": 1998,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "1998",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Mystery"
+    ],
+    "synopsis": "The Mystery Gang reunite and visit Moonscar Island, a remote island with a dark secret. Daphne wants more than just a villain in a costume, and they get more than they ever expected.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "1998",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Scooby-Doo on Zombie Island (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJlYjU0MWQtYTRkMi00ODAwLWFkZGUtNGRkNzJjMzIzNWU0XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX500.jpg",
+            "synopsis": "Scooby-Doo on Zombie Island full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ekeG31pv?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ekeG31pv?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scooby-doo-and-the-loch-ness-monster",
+    "title": "Scooby-Doo! and the Loch Ness Monster",
+    "raw_name": "Scooby-Doo! and the Loch Ness Monster",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Scooby-Doo! and the Loch Ness Monster animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Scooby-Doo! and the Loch Ness Monster (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Scooby-Doo! and the Loch Ness Monster full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/WoGnmcF9?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WoGnmcF9?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scooby-doo-and-the-monster-of-mexico",
+    "title": "Scooby-Doo! and the Monster of Mexico",
+    "raw_name": "Scooby-Doo! and the Monster of Mexico",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Scooby-Doo! and the Monster of Mexico animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Scooby-Doo! and the Monster of Mexico (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Scooby-Doo! and the Monster of Mexico full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/bCMKFSfo?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/bCMKFSfo?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scooby-doo-in-wheres-my-mummy-2005",
+    "title": "Scooby-Doo! in Where's My Mummy (2005)",
+    "raw_name": "Scooby-Doo! in Where’s My Mummy?",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.5,
+    "year": 2022,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2022",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "N/A"
+    ],
+    "synopsis": "Scooby-Doo! in Where's My Mummy? streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2022",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Scooby-Doo! in Where's My Mummy (2005) (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Scooby-Doo! in Where's My Mummy (2005) full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/jXVkMtfr?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/jXVkMtfr?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chill-out-scooby-doo",
+    "title": "Chill Out, Scooby-Doo!",
+    "raw_name": "Chill Out, Scooby-Doo!",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODA2NDFkODUtOTg1Mi00NzM2LTg2NDctZDRhYjYzN2Q0ZWQwXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BODA2NDFkODUtOTg1Mi00NzM2LTg2NDctZDRhYjYzN2Q0ZWQwXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_SX500.jpg",
+    "rating": 6.7,
+    "year": 2007,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2007",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Mystery"
+    ],
+    "synopsis": "The gang's vacation to Paris takes a wrong turn when Scooby and Shaggy miss their flight and end up on a skydiving expedition in the Himalayas. To make matters worse, upon arrival they must outrun the Abominable Snowmonster.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2007",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Chill Out, Scooby-Doo! (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BODA2NDFkODUtOTg1Mi00NzM2LTg2NDctZDRhYjYzN2Q0ZWQwXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_SX500.jpg",
+            "synopsis": "Chill Out, Scooby-Doo! full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/KFZXwWeH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/KFZXwWeH?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "transformers-prime-beast-hunters-predacons-rising",
+    "title": "Transformers Prime Beast Hunters: Predacons Rising",
+    "raw_name": "Transformers Prime: Beast Hunters – Predacons Rising",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5MTQ2NDYzNl5BMl5BanBnXkFtZTgwNDcwNDg2MTE@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTg5MTQ2NDYzNl5BMl5BanBnXkFtZTgwNDcwNDg2MTE@._V1_SX500.jpg",
+    "rating": 7.5,
+    "year": 2013,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2013",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Family"
+    ],
+    "synopsis": "This movie chronicles the epic battle between the Autobots and the Decepticons in their mission to defend Earth against Unicron and one day restore their homeworld Cybertron.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2013",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Transformers Prime Beast Hunters: Predacons Rising (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTg5MTQ2NDYzNl5BMl5BanBnXkFtZTgwNDcwNDg2MTE@._V1_SX500.jpg",
+            "synopsis": "Transformers Prime Beast Hunters: Predacons Rising full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/PCVksdy3?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/PCVksdy3?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "attack-on-titan-the-last-attack",
+    "title": "Attack on Titan: The Last Attack",
+    "raw_name": "Attack on Titan: THE LAST ATTACK",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Attack on Titan: THE LAST ATTACK streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Attack on Titan: The Last Attack (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Attack on Titan: The Last Attack full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/trKVp6kX?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/trKVp6kX?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "khumba",
+    "title": "Khumba",
+    "raw_name": "Khumba",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNTgzODU1N15BMl5BanBnXkFtZTgwMjg4NjQxMDE@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTQyNTgzODU1N15BMl5BanBnXkFtZTgwMjg4NjQxMDE@._V1_SX500.jpg",
+    "rating": 5.6,
+    "year": 2013,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2013",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Rejected by his superstitious herd, a half-striped zebra embarks on a daring quest to earn his stripes but finds the courage and self-acceptance to save all the animals of the Great Karoo.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2013",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Khumba (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQyNTgzODU1N15BMl5BanBnXkFtZTgwMjg4NjQxMDE@._V1_SX500.jpg",
+            "synopsis": "Khumba full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/fZARnQCC#_7JDmpkqTsbuAbTDyZqOjukJ3tyL22ev89ZwQppssAU",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/fZARnQCC#_7JDmpkqTsbuAbTDyZqOjukJ3tyL22ev89ZwQppssAU"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dog-man",
+    "title": "Dog Man",
+    "raw_name": "Dog Man",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVlZGQyM2MtNjA2OS00MjdkLThiNDQtZTYzMTA1MGU3M2M0XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNDVlZGQyM2MtNjA2OS00MjdkLThiNDQtZTYzMTA1MGU3M2M0XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.3,
+    "year": 2025,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "After a policeman and his police dog are fused together to turn into Dog Man, he must stop the villainous Petey the Cat from cloning himself and creating an evil kitten, doubling his evil abilities.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Dog Man (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDVlZGQyM2MtNjA2OS00MjdkLThiNDQtZTYzMTA1MGU3M2M0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Dog Man full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/y0pBkQhQ#IVNlUvqhmrvD_LSOCwD20MwpvHiSNs3OkS8Hat7n8vc",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/y0pBkQhQ#IVNlUvqhmrvD_LSOCwD20MwpvHiSNs3OkS8Hat7n8vc"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kpop-demon-hunters",
+    "title": "KPop Demon Hunters",
+    "raw_name": "KPop Demon Hunters",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.4,
+    "year": 2025,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "A world-renowned K-Pop girl group balance their lives in the spotlight with their secret identities as demon hunters.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "KPop Demon Hunters (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "KPop Demon Hunters full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/jAc2wNua?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/jAc2wNua?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "watchmen-chapter-ii",
+    "title": "Watchmen: Chapter II",
+    "raw_name": "Watchmen: Chapter II",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGEyYTQ2ODctNzQ1NS00NWEyLWE5NzEtNjgzYTIwYjlmODE0XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BOGEyYTQ2ODctNzQ1NS00NWEyLWE5NzEtNjgzYTIwYjlmODE0XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.1,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "synopsis": "In an alternate 1985 America, a group of retired superheroes investigate a conspiracy after one of their own is murdered.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Watchmen: Chapter II (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGEyYTQ2ODctNzQ1NS00NWEyLWE5NzEtNjgzYTIwYjlmODE0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Watchmen: Chapter II full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ZkzUEyGd?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZkzUEyGd?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scooby-doo-frankencreepy",
+    "title": "Scooby-Doo! Frankencreepy",
+    "raw_name": "Scooby-Doo! Frankencreepy",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmRmMTNjM2UtNTIyMy00MWEzLWJkZTEtNGNkY2E2Y2JjOGVlXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNmRmMTNjM2UtNTIyMy00MWEzLWJkZTEtNGNkY2E2Y2JjOGVlXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX500.jpg",
+    "rating": 6.7,
+    "year": 2014,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2014",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "synopsis": "Velma discovers she's inherited her great-great-uncles' cursed castle in Transylvania, Pennsylvania. This Scooby-Doo adventure has enough spooky fun to make the whole family come alive!",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2014",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Scooby-Doo! Frankencreepy (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmRmMTNjM2UtNTIyMy00MWEzLWJkZTEtNGNkY2E2Y2JjOGVlXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX500.jpg",
+            "synopsis": "Scooby-Doo! Frankencreepy full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/sFoWgDot?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/sFoWgDot?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scooby-doo-and-kiss-rock-and-roll-mystery",
+    "title": "Scooby-Doo! And Kiss: Rock and Roll Mystery",
+    "raw_name": "Scooby-Doo! and Kiss: Rock and Roll Mystery",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0OTU2NTUxMF5BMl5BanBnXkFtZTgwNTM0NzIzNjE@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTc0OTU2NTUxMF5BMl5BanBnXkFtZTgwNTM0NzIzNjE@._V1_SX500.jpg",
+    "rating": 6.5,
+    "year": 2015,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2015",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "synopsis": "When a ghoul begins to terrorize an amusement park, the Mystery Inc. gang and legendary rock group, KISS, work together as the clues lead them on a cosmic journey to another dimension.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2015",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Scooby-Doo! And Kiss: Rock and Roll Mystery (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc0OTU2NTUxMF5BMl5BanBnXkFtZTgwNTM0NzIzNjE@._V1_SX500.jpg",
+            "synopsis": "Scooby-Doo! And Kiss: Rock and Roll Mystery full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/DtKgxSx6?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DtKgxSx6?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mononoke-the-movie-chapter-ii-the-ashes-of-rage",
+    "title": "Mononoke The Movie: Chapter II - The Ashes of Rage",
+    "raw_name": "Mononoke the Movie: Chapter II – The Ashes of Rage",
+    "japaneseTitle": "モノノ怪 火鼠",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179852-tPwGOkCxA8em.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179852-av1TkD4sHTwI.jpg",
+    "rating": 8.2,
+    "year": 2025,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2025",
+    "studio": "EOTA",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "synopsis": "The Medicine Seller returns as the Edo harem faces a new crisis, with family feuds, inner turmoil and fiery envy igniting the birth of a raging spirit.\n\n(Source: Netflix)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Mononoke The Movie: Chapter II - The Ashes of Rage (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179852-tPwGOkCxA8em.jpg",
+            "synopsis": "Mononoke The Movie: Chapter II - The Ashes of Rage full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/dKKABEzw?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/dKKABEzw?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-bad-guys-2",
+    "title": "The Bad Guys 2",
+    "raw_name": "The Bad Guys 2",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2YwODhmODctMjE2OS00Y2EyLWEyZTEtOGU3ODk5MGIzYmU1XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BY2YwODhmODctMjE2OS00Y2EyLWEyZTEtOGU3ODk5MGIzYmU1XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.0,
+    "year": 2025,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "The Bad Guys are struggling to find trust and acceptance in their newly minted lives as Good Guys, when they are pulled out of retirement and forced to do \"one last job\" by an all-female squad of criminals.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The Bad Guys 2 (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2YwODhmODctMjE2OS00Y2EyLWEyZTEtOGU3ODk5MGIzYmU1XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "The Bad Guys 2 full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/KUjETFLt?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/KUjETFLt?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ne-zha-movie-english",
+    "title": "Ne Zha Movie English",
+    "raw_name": "Ne Zha Movie English",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Ne Zha Movie English animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ne Zha Movie English (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Ne Zha Movie English full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/F3Fg3DQ4?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/F3Fg3DQ4?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ne-zha-2",
+    "title": "Ne Zha 2",
+    "raw_name": "Ne Zha 2",
+    "japaneseTitle": "哪吒之魔童闹海",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186861-3zhIhilJvbJz.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186861-RyWM70oLPA9h.jpg",
+    "rating": 8.3,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Coco Cartoon",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "synopsis": "After the heavenly lightning, although Ne Zha and Ao Bing survived by becoming Spirits, they would soon dissipate completely. Taiyi plans to rebuild Ne Zha and Ao Bing's mortal bodies with the Seven-colored Precious Lotus. However, during the process of reconstruction, numerous obstacles arise. What will become of the fate of Ne Zha and Ao Bing?\n\n(Source: AMC)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ne Zha 2 (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186861-3zhIhilJvbJz.jpg",
+            "synopsis": "Ne Zha 2 full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/rRzt48g2?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/rRzt48g2?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elio",
+    "title": "Elio",
+    "raw_name": "Elio",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE5ZDMyMWEtOTZjMi00YzFhLWE4OTEtNDc3MDMzZjFmMmIzXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BOWE5ZDMyMWEtOTZjMi00YzFhLWE4OTEtNDc3MDMzZjFmMmIzXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.6,
+    "year": 2025,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant ...",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Elio (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWE5ZDMyMWEtOTZjMi00YzFhLWE4OTEtNDc3MDMzZjFmMmIzXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Elio full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/k19zgiMh?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/k19zgiMh?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ghost-in-the-shell-the-new-movie",
+    "title": "Ghost in the Shell: The New Movie",
+    "raw_name": "Ghost in the Shell: The New",
+    "japaneseTitle": "攻殻機動隊 新劇場版",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21057-5Be8sbErytgT.jpg",
+    "rating": 7.2,
+    "year": 2015,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2015",
+    "studio": "Production I.G",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "synopsis": "Set in a futuristic Japan after the end of a brutal world war, science has advanced by leaps and bounds giving humanity the choice to prolong life and reduce suffering with the use of sophisticated cybernetics. With all of humanity linked into one system of minds and personalities known as ghosts, the biggest threat to civilization is the cyber terrorists capable of hijacking people's bodies and memories. When a ghost-infecting virus known as Fire-Starter begins spreading through the system resulting in the assassination of the Japanese Prime Minister, Major Motoko Kusanagi and her elite team of special operatives are called in to track down its source. As they delve deeper and deeper into their investigation, they uncover traces of government corruption and a shadowy broker that bears an all-too-familiar face.\n\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2015",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Ghost in the Shell: The New Movie (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png",
+            "synopsis": "Ghost in the Shell: The New Movie full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.dev/u/c7eCogmS",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.dev/u/c7eCogmS",
+              "original": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "barnyard",
+    "title": "Barnyard",
+    "raw_name": "Barnyard",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NDE0ODYyNF5BMl5BanBnXkFtZTcwNjQ3NzAzMQ@@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTU2NDE0ODYyNF5BMl5BanBnXkFtZTcwNjQ3NzAzMQ@@._V1_SX500.jpg",
+    "rating": 5.7,
+    "year": 2006,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2006",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "When the farmer's away, all the animals play, and sing, and dance. Eventually, though, someone has to step in and run things, a responsibility that ends up going to Otis, a carefree cow.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2006",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Barnyard (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU2NDE0ODYyNF5BMl5BanBnXkFtZTcwNjQ3NzAzMQ@@._V1_SX500.jpg",
+            "synopsis": "Barnyard full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Vf9XwM3c?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Vf9XwM3c?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tmnt",
+    "title": "TMNT",
+    "raw_name": "TMNT",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyODQ1NTc0ODBeQTJeQWpwZ15BbWU3MDg4MTc0NDE@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMTAyODQ1NTc0ODBeQTJeQWpwZ15BbWU3MDg4MTc0NDE@._V1_SX500.jpg",
+    "rating": 6.2,
+    "year": 2007,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2007",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "When the world is threatened by an ancient evil, the Ninja Turtles must reunite and overcome their faults in order to stand against it.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2007",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "TMNT (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTAyODQ1NTc0ODBeQTJeQWpwZ15BbWU3MDg4MTc0NDE@._V1_SX500.jpg",
+            "synopsis": "TMNT full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/kY6gyB49?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/kY6gyB49?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wonder-park",
+    "title": "Wonder Park",
+    "raw_name": "Wonder Park",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SX500.jpg",
+    "rating": 5.9,
+    "year": 2019,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2019",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "The imagination of a wildly creative girl comes alive in an amusement park.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Wonder Park (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SX500.jpg",
+            "synopsis": "Wonder Park full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/qjcb8XHi?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/qjcb8XHi?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arctic-adventure-on-frozen-pond",
+    "title": "Arctic Adventure: On Frozen Pond",
+    "raw_name": "Frozen",
+    "japaneseTitle": "青蛙王国之冰冻大冒险",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102396-e7xdRVF3glju.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102396-e7xdRVF3glju.jpg",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Adventure"
+    ],
+    "synopsis": "For centuries, the Crystal Frog has protected the Frog Kingdom with its magic. When One-Eye plots to steal the artifact and rule the land, the Frog King asks Freddy and the Frog Princess to undertake a bold journey through forest, desert, river rapids, and icy caverns. But as the protectors arrive, it becomes clear that One-Eye may have led them into a trap.\n\n(Source: Redbox)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Arctic Adventure: On Frozen Pond (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102396-e7xdRVF3glju.jpg",
+            "synopsis": "Arctic Adventure: On Frozen Pond full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/7QxRxKjZ#J0OqrFA1qi4Wj_mEumOCJ3TPL7TOseg9wSmwNSJS9Ts",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/7QxRxKjZ#J0OqrFA1qi4Wj_mEumOCJ3TPL7TOseg9wSmwNSJS9Ts"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "olafs-frozen-adventure",
+    "title": "Olaf's Frozen Adventure",
+    "raw_name": "Olaf’s Frozen Adventure",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzRlNWU1NjMtMTY3ZC00MmQxLTk0YWEtNzcxNzI3NjFhNDQzXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMzRlNWU1NjMtMTY3ZC00MmQxLTk0YWEtNzcxNzI3NjFhNDQzXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 5.8,
+    "year": 2017,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2017",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Short",
+      "Adventure"
+    ],
+    "synopsis": "A Christmas-themed special featuring characters from Walt Disney Pictures' 53rd full-length animated motion picture, \"Frozen (2013)\".",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2017",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Olaf's Frozen Adventure (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzRlNWU1NjMtMTY3ZC00MmQxLTk0YWEtNzcxNzI3NjFhNDQzXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Olaf's Frozen Adventure full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/6QQXBABQ#dNIoEpEzbbqw9tTwdKKPs_YCrSvnODMPWM_l4vCJzgM",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/6QQXBABQ#dNIoEpEzbbqw9tTwdKKPs_YCrSvnODMPWM_l4vCJzgM"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mortadelo-and-filemon-mission-implausible",
+    "title": "Mortadelo and Filemon: Mission Implausible",
+    "raw_name": "Mortadelo and Filemon Mission Implausible",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzVhMDFmOTItNGNhZS00NjJhLTgzYjUtODlmYzhhMjI1ODAyXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMzVhMDFmOTItNGNhZS00NjJhLTgzYjUtODlmYzhhMjI1ODAyXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.5,
+    "year": 2019,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2019",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "A criminal produces an uncontrollable laughter to the population and Mortadelo and Filemón will have to stop him.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Mortadelo and Filemon: Mission Implausible (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzVhMDFmOTItNGNhZS00NjJhLTgzYjUtODlmYzhhMjI1ODAyXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Mortadelo and Filemon: Mission Implausible full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/uEZHkaib#AW1RWqObpY6NHPC9n-w30ySvnIBbf-9n4wJVQma01gM",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/uEZHkaib#AW1RWqObpY6NHPC9n-w30ySvnIBbf-9n4wJVQma01gM"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "xiong-chumo",
+    "title": "Xiong Chumo",
+    "raw_name": "Boonie Bears: Blast into the Past",
+    "japaneseTitle": "熊出沒",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148972-tvIL8Q58zahZ.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148972-tvIL8Q58zahZ.jpg",
+    "rating": 4.8,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Fantawild Animation",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Comedy"
+    ],
+    "synopsis": "Set in an untouched forest, Xiong Chumo tells a story of two brave and mighty bears who try to protect their homeland from the destruction of a sly and persistent woodman. In this war between bears and woodman, you will be given a glimpse of the wit and smarts of two lovely forest protectors. Filled with non-stop comedy, Xiong Chumo will surely show bears in a whole new light, as you've never seen them before.\n\n(Source: Official YouTube Channel)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Xiong Chumo (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148972-tvIL8Q58zahZ.jpg",
+            "synopsis": "Xiong Chumo full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/LcwkSSLZ#lEsbXMm5gJSJq0T72UjOd12C_o7NKsVyBBRm0m9n0LM",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/LcwkSSLZ#lEsbXMm5gJSJq0T72UjOd12C_o7NKsVyBBRm0m9n0LM"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "journal-of-the-mysterious-creatures",
+    "title": "Journal of the Mysterious Creatures",
+    "raw_name": "Fantastica: A Boonie Bears Adventure",
+    "japaneseTitle": "异常生物见闻录",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108146-MNTOvV1kDFX3.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108146-lwd8ctlXIuDJ.jpg",
+    "rating": 5.9,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "MMT",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "synopsis": "The work centers on Ren Hao, a 23-year-old man who has no job or girlfriend. In order to make ends meet he rents out one of the rooms in his house. While he’s showing Lili, his first tenant, around the house, she’s suddenly attacked by a vampire named Vivian, and Ren Hao notices that Lili is actually a werewolf. As Ren Hao and Lili start living in the same house, Ren Hao is scouted for an organization that maintains order of the parallel universes, and strange creatures one after another become tenants in his house.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Journal of the Mysterious Creatures (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108146-MNTOvV1kDFX3.png",
+            "synopsis": "Journal of the Mysterious Creatures full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/vMp1SRpa#Yb_mEUeB7SkO2FlMFPIi7uE33HJH8aeQJTz0-zNvRkk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/vMp1SRpa#Yb_mEUeB7SkO2FlMFPIi7uE33HJH8aeQJTz0-zNvRkk"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dragon-nest-warriors-dawn",
+    "title": "Dragon Nest: Warriors' Dawn",
+    "raw_name": "Dragon Nest Warriors Dawn",
+    "japaneseTitle": "龙之谷 破晓奇兵",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102657-VcqJoec39JoZ.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102657-VcqJoec39JoZ.jpg",
+    "rating": 6.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "The land of Altera has observed an uneasy peace for years among Humans, Elves and Evil beasts who are loyal to the legendary Black Dragon. But the Black Dragon begins to stir from its hibernation, sending the Beasts marching across Altera. With a beast conquest perilously close, a small group of Humans and Elves unite to try to find a secret hidden road to the Black Dragon's cave and destroy it. But the fate of all of them may be in the hands of the young warrior Lambert, who must summon the confidence and skill to face the Black Dragon himself just when all may be lost.\n\n(Source: Official site)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Dragon Nest: Warriors' Dawn (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102657-VcqJoec39JoZ.jpg",
+            "synopsis": "Dragon Nest: Warriors' Dawn full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/PQ5AHIyZ#21HOj0_ncuEqz8uX6dmWyQ9cIBRuS4sglj7ajGPk7rE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/PQ5AHIyZ#21HOj0_ncuEqz8uX6dmWyQ9cIBRuS4sglj7ajGPk7rE"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "marco-macaco-movie-tamil-telugu",
+    "title": "Marco Macaco Movie Tamil – Telugu –",
+    "raw_name": "Marco Macaco Movie Tamil – Telugu –",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Marco Macaco Movie Tamil – Telugu – animated movie streaming on ShinobiHub.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Marco Macaco Movie Tamil – Telugu – (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Marco Macaco Movie Tamil – Telugu – full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/KAZARJ6Q#lOPnuYKB5K-O73PDUcnbu1dqTRsQDOj6XTcEgeX2L_0",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/KAZARJ6Q#lOPnuYKB5K-O73PDUcnbu1dqTRsQDOj6XTcEgeX2L_0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "boruto-naruto-the-movie",
+    "title": "Boruto: Naruto the Movie",
+    "raw_name": "Boruto: Naruto The",
+    "japaneseTitle": "BORUTO -NARUTO THE MOVIE-",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21220-3cWAUtR1Ih5h.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21220-tdeNPd6YFzIo.jpg",
+    "rating": 7.0,
+    "year": 2015,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2015",
+    "studio": "Studio Pierrot",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Boruto is the son of Naruto who completely rejects his father. Behind this, he has feelings of wanting to surpass Naruto, who is respected as a hero. He ends up meeting his father's friend Sasuke, and requests to become... his apprentice!? The curtain rises on the story of the new generation written by Masashi Kishimoto!\n\n(Source: Anime News Network)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2015",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Boruto: Naruto the Movie (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21220-3cWAUtR1Ih5h.jpg",
+            "synopsis": "Boruto: Naruto the Movie full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/WVDUCxsq?download",
+            "downloadLinks": {
+              "hindi": "",
+              "original": "https://pixeldrain.net/u/WVDUCxsq?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "teen-titans-go-to-the-movies",
+    "title": "Teen Titans GO! To the Movies",
+    "raw_name": "Teen Titans Go! to the Movies",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTU5YjQxNzAtNzkxNC00MGVjLWFhMjgtMjg2ZDUyM2Q5YzdhXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNTU5YjQxNzAtNzkxNC00MGVjLWFhMjgtMjg2ZDUyM2Q5YzdhXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.7,
+    "year": 2018,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2018",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "A villain's maniacal plan for world domination gets in the way of the Teen Titans' dream of superhero stardom in Hollywood.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2018",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Teen Titans GO! To the Movies (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTU5YjQxNzAtNzkxNC00MGVjLWFhMjgtMjg2ZDUyM2Q5YzdhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Teen Titans GO! To the Movies full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ieXvZZB5?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ieXvZZB5?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "despicable-me-4",
+    "title": "Despicable Me 4",
+    "raw_name": "Despicable Me 4",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.2,
+    "year": 2024,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Gru, Lucy, Margo, Edith, and Agnes welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfriend Valentina, and the family is forced to go on the run.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Despicable Me 4 (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Despicable Me 4 full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/4noduS3n?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/4noduS3n?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trolls-band-together",
+    "title": "Trolls Band Together",
+    "raw_name": "Trolls Band Together",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EzNTY0N2MtMTAyZS00ZTIwLTk5MmUtNWJhMmIwYmM5OWFiXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BY2EzNTY0N2MtMTAyZS00ZTIwLTk5MmUtNWJhMmIwYmM5OWFiXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.0,
+    "year": 2023,
+    "currentEpBadge": "Movie",
+    "status": "Completed",
+    "type": "Movie",
+    "season": "2023",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "As they grow closer, Poppy discovers that Branch was once part of her favorite boy band phenomenon, BroZone, with his four brothers. When one of them, Floyd, is kidnapped by villains, Branch and Poppy embark on a journey to rescue...",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Movie",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Trolls Band Together (Main Movie)",
+            "runtime": "1h 45m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2EzNTY0N2MtMTAyZS00ZTIwLTk5MmUtNWJhMmIwYmM5OWFiXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Trolls Band Together full animated feature film streaming on ShinobiHub.",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/7LhKtVwh?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/7LhKtVwh?download"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "trillion-game",
     "title": "Trillion Game",
     "raw_name": "TRILLION GAME",
@@ -7951,9 +11848,9 @@ export const ANIME_DATABASE = [
     "banner": "https://m.media-amazon.com/images/M/MV5BYzk2NjMzOTUtYzVmZS00ZTFmLThiYmEtZDdjMmU3MTZmMTMyXkEyXkFqcGc@._V1_SX500.jpg",
     "rating": 8.5,
     "year": 2025,
-    "currentEpBadge": "S1-EP7",
+    "currentEpBadge": "Movie",
     "status": "Completed",
-    "type": "TV Series",
+    "type": "Movie",
     "season": "2025",
     "studio": "Animation Studio",
     "hasSub": true,
@@ -7972,7 +11869,7 @@ export const ANIME_DATABASE = [
     "seasons": [
       {
         "number": 1,
-        "title": "Season 1",
+        "title": "Movie",
         "airDate": "2025",
         "isComingSoon": false,
         "episodes": [
@@ -7981,13 +11878,13 @@ export const ANIME_DATABASE = [
             "number": 1,
             "season": 1,
             "title": "Birthday Cake Catastrophe / Catch that Kite",
-            "runtime": "24m",
+            "runtime": "1h 45m",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzk2NjMzOTUtYzVmZS00ZTFmLThiYmEtZDdjMmU3MTZmMTMyXkEyXkFqcGc@._V1_SX500.jpg",
             "synopsis": "Episode 1 of Dr. Seuss's Horton! (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://hubcloud.ist/drive/hhu7dnbwp9scb1f",
+            "downloadUrl": "https://pixeldrain.net/u/tBoWaKau?download",
             "downloadLinks": {
-              "hindi": "https://hubcloud.ist/drive/hhu7dnbwp9scb1f"
+              "hindi": "https://pixeldrain.net/u/tBoWaKau?download"
             }
           },
           {
@@ -7995,7 +11892,7 @@ export const ANIME_DATABASE = [
             "number": 2,
             "season": 1,
             "title": "Bust a Move / Snowy Situation",
-            "runtime": "24m",
+            "runtime": "1h 45m",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzk2NjMzOTUtYzVmZS00ZTFmLThiYmEtZDdjMmU3MTZmMTMyXkEyXkFqcGc@._V1_SX500.jpg",
             "synopsis": "Episode 2 of Dr. Seuss's Horton! (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -8009,7 +11906,7 @@ export const ANIME_DATABASE = [
             "number": 3,
             "season": 1,
             "title": "Special Delivery / Ready…Set…Bath!",
-            "runtime": "24m",
+            "runtime": "1h 45m",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzk2NjMzOTUtYzVmZS00ZTFmLThiYmEtZDdjMmU3MTZmMTMyXkEyXkFqcGc@._V1_SX500.jpg",
             "synopsis": "Episode 3 of Dr. Seuss's Horton! (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -8023,7 +11920,7 @@ export const ANIME_DATABASE = [
             "number": 4,
             "season": 1,
             "title": "A Howl for Help / The Amazing Race",
-            "runtime": "24m",
+            "runtime": "1h 45m",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzk2NjMzOTUtYzVmZS00ZTFmLThiYmEtZDdjMmU3MTZmMTMyXkEyXkFqcGc@._V1_SX500.jpg",
             "synopsis": "Episode 4 of Dr. Seuss's Horton! (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -8037,7 +11934,7 @@ export const ANIME_DATABASE = [
             "number": 5,
             "season": 1,
             "title": "Star Trek / Horton Helps a Who",
-            "runtime": "24m",
+            "runtime": "1h 45m",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzk2NjMzOTUtYzVmZS00ZTFmLThiYmEtZDdjMmU3MTZmMTMyXkEyXkFqcGc@._V1_SX500.jpg",
             "synopsis": "Episode 5 of Dr. Seuss's Horton! (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -8051,7 +11948,7 @@ export const ANIME_DATABASE = [
             "number": 6,
             "season": 1,
             "title": "Jungle Scout Adventure / Flower Power",
-            "runtime": "24m",
+            "runtime": "1h 45m",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzk2NjMzOTUtYzVmZS00ZTFmLThiYmEtZDdjMmU3MTZmMTMyXkEyXkFqcGc@._V1_SX500.jpg",
             "synopsis": "Episode 6 of Dr. Seuss's Horton! (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -8065,7 +11962,7 @@ export const ANIME_DATABASE = [
             "number": 7,
             "season": 1,
             "title": "Up…Up…and Away! / Nighttime Nuisance – Season Finale",
-            "runtime": "24m",
+            "runtime": "1h 45m",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzk2NjMzOTUtYzVmZS00ZTFmLThiYmEtZDdjMmU3MTZmMTMyXkEyXkFqcGc@._V1_SX500.jpg",
             "synopsis": "Episode 7 of Dr. Seuss's Horton! (Season 1)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -29415,9 +33312,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_.jpg",
             "synopsis": "Zootopia 2 full animated feature film streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/symygyJZ?download",
+            "downloadUrl": "https://pixeldrain.net/u/6255FXgy?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/symygyJZ?download"
+              "hindi": "https://pixeldrain.net/u/6255FXgy?download"
             }
           }
         ]
