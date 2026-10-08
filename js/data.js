@@ -68253,7 +68253,7 @@ export const ANIME_DATABASE = [
             "downloadUrl": "https://pixeldrain.net/u/YSUB3xVX?download",
             "downloadLinks": {
               "hindi": "https://pixeldrain.net/u/YSUB3xVX?download",
-              "original": "https://my.1anime.site/videos/I_Became_a_Legend_after_My_10_Year-Long_Last_Stand_Episode_10_1788530976.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/I_Became_a_Legend_after_My_10_Year-Long_Last_Stand_Episode_8_1787321486.mp4?dl=1"
             }
           },
           {
@@ -81714,8 +81714,8 @@ export const ANIME_DATABASE = [
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
     "rating": 9,
     "year": 2024,
-    "audioBadge": "Multi-Audio",
-    "currentEpBadge": "EP 1100",
+    "audioBadge": "MULTI-AUDIO",
+    "currentEpBadge": "S2-EP20",
     "status": "Airing",
     "type": "TV Series",
     "season": "Ongoing",
@@ -81935,8 +81935,429 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
             "synopsis": "Episode 20",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          },
+          {
+            "id": 1150,
+            "number": 1150,
+            "season": 1,
+            "title": "Episode 1150",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1150 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1150_1763310283.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1150_1763310283.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1151,
+            "number": 1151,
+            "season": 1,
+            "title": "Episode 1151",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1151 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1151_1764519796.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1151_1764519796.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1152,
+            "number": 1152,
+            "season": 1,
+            "title": "Episode 1152",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1152 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1152_1765124395.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1152_1765124395.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1153,
+            "number": 1153,
+            "season": 1,
+            "title": "Episode 1153",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1153 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1153_1765729300.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1153_1765729300.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1154,
+            "number": 1154,
+            "season": 1,
+            "title": "Episode 1154",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1154 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/one_piece_1154_1766335613.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/one_piece_1154_1766335613.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1155,
+            "number": 1155,
+            "season": 1,
+            "title": "Episode 1155",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1155 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1155_1766938762.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1155_1766938762.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1156,
+            "number": 1156,
+            "season": 1,
+            "title": "Episode 1156",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1156 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/one-piece-episode-1156.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/one-piece-episode-1156.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1157,
+            "number": 1157,
+            "season": 1,
+            "title": "Episode 1157",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1157 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/one-piece-episode-1157.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/one-piece-episode-1157.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1158,
+            "number": 1158,
+            "season": 1,
+            "title": "Episode 1158",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1158 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/one-piece-episode-1158.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/one-piece-episode-1158.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1159,
+            "number": 1159,
+            "season": 1,
+            "title": "Episode 1159",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1159 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/one-piece-episode-1159.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/one-piece-episode-1159.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1161,
+            "number": 1161,
+            "season": 1,
+            "title": "Episode 1161",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1161 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/one-piece-episode-1161.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/one-piece-episode-1161.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1162,
+            "number": 1162,
+            "season": 1,
+            "title": "Episode 1162",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1162 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/one-piece-episode-1162.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/one-piece-episode-1162.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1163,
+            "number": 1163,
+            "season": 1,
+            "title": "Episode 1163",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1163 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/one-piece-episode-1163.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/one-piece-episode-1163.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1164,
+            "number": 1164,
+            "season": 1,
+            "title": "Episode 1164",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1164 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/one-piece-episode-1164.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/one-piece-episode-1164.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1165,
+            "number": 1165,
+            "season": 1,
+            "title": "Episode 1165",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1165 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1165_1780848667.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1165_1780848667.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1166,
+            "number": 1166,
+            "season": 1,
+            "title": "Episode 1166",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1166 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1166_1781453473.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1166_1781453473.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1167,
+            "number": 1167,
+            "season": 1,
+            "title": "Episode 1167",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1167 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1167_1782058330.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1167_1782058330.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1168,
+            "number": 1168,
+            "season": 1,
+            "title": "Episode 1168",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1168 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1168_1782663499.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1168_1782663499.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1169,
+            "number": 1169,
+            "season": 1,
+            "title": "Episode 1169",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1169 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1169_1783872998.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1169_1783872998.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1170,
+            "number": 1170,
+            "season": 1,
+            "title": "Episode 1170",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1170 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1169_1783872998.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1169_1783872998.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1171,
+            "number": 1171,
+            "season": 1,
+            "title": "Episode 1171",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1171 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1171_1785082552.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1171_1785082552.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1172,
+            "number": 1172,
+            "season": 1,
+            "title": "Episode 1172",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1172 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1172_1785687272.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1172_1785687272.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1173,
+            "number": 1173,
+            "season": 1,
+            "title": "Episode 1173",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1173 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1173_1786292185.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1173_1786292185.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1174,
+            "number": 1174,
+            "season": 1,
+            "title": "Episode 1174",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1174 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1174_1786897667.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1174_1786897667.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1175,
+            "number": 1175,
+            "season": 1,
+            "title": "Episode 1175",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1175 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1175_1787506105.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1175_1787506105.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1176,
+            "number": 1176,
+            "season": 1,
+            "title": "Episode 1176",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1176 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1176_1788106802.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1176_1788106802.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1177,
+            "number": 1177,
+            "season": 1,
+            "title": "Episode 1177",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1177 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1177_1788711100.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1177_1788711100.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1178,
+            "number": 1178,
+            "season": 1,
+            "title": "Episode 1178",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1178 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1178_1789317131.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1178_1789317131.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1179,
+            "number": 1179,
+            "season": 1,
+            "title": "Episode 1179",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1179 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1179_1789920756.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1179_1789920756.mp4?dl=1"
+            }
+          },
+          {
+            "id": 1180,
+            "number": 1180,
+            "season": 1,
+            "title": "Episode 1180",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "synopsis": "Episode 1180 of One Piece",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/One_Piece_Episode_1180_1790528463.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/One_Piece_Episode_1180_1790528463.mp4?dl=1"
+            }
           }
-        ]
+        ],
+        "isComingSoon": false
       },
       {
         "number": 2,
@@ -82349,8 +82770,9 @@ export const ANIME_DATABASE = [
       }
     ],
     "languages": [
-      "hindi"
-    ]
+      "original"
+    ],
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)"
   },
   {
     "id": "slime-reincarnation",

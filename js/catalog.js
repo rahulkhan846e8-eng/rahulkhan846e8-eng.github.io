@@ -11562,16 +11562,16 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": true,
-    "audioTrack": "Original Dub",
-    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)",
+    "audioBadge": "MULTI-AUDIO",
     "languages": [
-      "hindi"
+      "original"
     ],
-    "hasHindi": false,
-    "hasOriginal": false,
+    "hasHindi": true,
+    "hasOriginal": true,
     "synopsis": "Monkey D. Luffy sails with his crew in search of the legendary treasure known as One Piece to become the Pirate King.",
     "seasonCount": 2,
-    "totalEpisodes": 40
+    "totalEpisodes": 70
   },
   {
     "id": "slime-reincarnation",
