@@ -46,6 +46,553 @@ const FAMOUS_POPULAR_IDS = [
 
 export const ANIME_CATALOG = [
   {
+    "id": "the-apothecary-diaries",
+    "title": "The Apothecary Diaries",
+    "japaneseTitle": "",
+    "raw_name": "The Apothecary Diaries",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjAxMmFjZjgtYjM1ZS00NzdmLTliZDktZmIyMzU5YTBlNDBmXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNjAxMmFjZjgtYjM1ZS00NzdmLTliZDktZmIyMzU5YTBlNDBmXkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2023,
+    "rating": 8.6,
+    "genres": [
+      "Animation",
+      "Drama",
+      "History"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "A young maiden is kidnapped and sold into servitude at the emperor's palace, where she secretly employs her pharmacist skills with the help of the head eunuch to unravel medical mysteries in the inner court.",
+    "seasonCount": 1,
+    "totalEpisodes": 1
+  },
+  {
+    "id": "kingdom",
+    "title": "Kingdom",
+    "japaneseTitle": "",
+    "raw_name": "Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2019,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "While strange rumors about their ill King grip a kingdom, the crown prince becomes their only hope against a mysterious plague overtaking the land.",
+    "seasonCount": 1,
+    "totalEpisodes": 9
+  },
+  {
+    "id": "golden-kamuy",
+    "title": "Golden Kamuy",
+    "japaneseTitle": "",
+    "raw_name": "Golden Kamuy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2018,
+    "rating": 8.1,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "In the early 20th century in Hokkaido, Japan, a treasure hunt between various parties takes place for a hidden stash of gold.",
+    "seasonCount": 1,
+    "totalEpisodes": 11
+  },
+  {
+    "id": "skeleton-knight-in-another-world-ii",
+    "title": "Skeleton Knight in Another World II",
+    "japaneseTitle": "",
+    "raw_name": "Skeleton Knight in Another World II",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2024,
+    "rating": 8.5,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "Skeleton Knight in Another World II anime series streaming on ShinobiHub.",
+    "seasonCount": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "medalist",
+    "title": "Medalist",
+    "japaneseTitle": "",
+    "raw_name": "Medalist",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2025,
+    "rating": 8.0,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Sport"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "Tsukasa, whose dreams were crushed. Inori, left to fend for herself. These two share a dream...and their tenacity may be the only thing that sees them through. Their destination? The ice...on the world's stage.",
+    "seasonCount": 1,
+    "totalEpisodes": 9
+  },
+  {
+    "id": "from-old-country-bumpkin-to-master-swordsman",
+    "title": "From Old Country Bumpkin to Master Swordsman",
+    "japaneseTitle": "",
+    "raw_name": "From Old Country Bumpkin to Master Swordsman",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2025,
+    "rating": 6.8,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "A modest country Dojo master is called by his legendary student to be special instructor for the Knights' order. This starts his reluctant journey, marked by choreographed duels, to win over his and others' doubts.",
+    "seasonCount": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "a-returners-magic-should-be-special",
+    "title": "A Returner's Magic Should Be Special",
+    "japaneseTitle": "",
+    "raw_name": "A Returner’s Magic Should be Special",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWRmZDNmMDUtNzFhNS00MGVjLTk2NGYtOTUzYzI3ZjA1NjdmXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZWRmZDNmMDUtNzFhNS00MGVjLTk2NGYtOTUzYzI3ZjA1NjdmXkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2023,
+    "rating": 6.8,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "Just when he thinks it's the end, Desir wakes up 13 years in the past. Can he make the changes needed to save the world from destruction?",
+    "seasonCount": 1,
+    "totalEpisodes": 1
+  },
+  {
+    "id": "spy-x-family",
+    "title": "Spy x Family",
+    "japaneseTitle": "",
+    "raw_name": "Spy x Family",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2022,
+    "rating": 8.2,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "A spy on an undercover mission gets married and adopts a child as part of his cover. His wife and daughter have secrets of their own, and all three must strive to keep together.",
+    "seasonCount": 1,
+    "totalEpisodes": 8
+  },
+  {
+    "id": "fire-force",
+    "title": "Fire Force",
+    "japaneseTitle": "",
+    "raw_name": "Fire Force",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2019,
+    "rating": 7.6,
+    "genres": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "A superhuman firefighter force is formed to deal with supernatural fire incidents.",
+    "seasonCount": 1,
+    "totalEpisodes": 13
+  },
+  {
+    "id": "clevatess",
+    "title": "Clevatess",
+    "japaneseTitle": "",
+    "raw_name": "Clevatess",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2025,
+    "rating": 7.7,
+    "genres": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "One of the Lords of Dark Beasts, Clevatess's reign shatters when he revives a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. Now bound together, what fate awaits this unlikely t...",
+    "seasonCount": 1,
+    "totalEpisodes": 13
+  },
+  {
+    "id": "bungo-stray-dogs-wan",
+    "title": "Bungo Stray Dogs Wan!",
+    "japaneseTitle": "",
+    "raw_name": "Bungo Stray Dogs Wan!",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2021,
+    "rating": 7.5,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "Atsushi Nakajima and the Armed Detective Agency find themselves embroiled in bizarre situations as they roam Yokohama's streets alongside their Port Mafia rivals, despite seeking normalcy.",
+    "seasonCount": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "tougen-anki-nikko-kegon-falls-arc",
+    "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+    "japaneseTitle": "桃源暗鬼 日光・華厳の滝編",
+    "raw_name": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2026,
+    "rating": 7.1,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their \"the total eradication of the Momotaro.\"\n\nWhen Shiki realizes that they also target nonc",
+    "seasonCount": 1,
+    "totalEpisodes": 2
+  },
+  {
+    "id": "there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her",
+    "title": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+    "japaneseTitle": "勇者パーティーにかわいい子がいたので、告白してみた。",
+    "raw_name": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195515-JYI8JvJvDSZp.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2026,
+    "rating": 6.2,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "Reincarnated as a mid-tier demon, Youki had one job: Crush the hero’s party. Then he saw the party’s priestess, Cecilia, and fell for her hard. Now this lovestruck demon vows to confess his feelings, even if it means betraying the Demon Kin",
+    "seasonCount": 1,
+    "totalEpisodes": 11
+  },
+  {
+    "id": "the-worlds-strongest-witch",
+    "title": "The World's Strongest Witch",
+    "japaneseTitle": "世界最強の魔女、始めました",
+    "raw_name": "The World’s Strongest Witch",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211778-ZbXEhqfFkj62.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2026,
+    "rating": 6.6,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "After using her SSS-Rank skill, Internet, to crush her former family’s ambitions, Lorna is free to travel the world. Her next stop is the port town of Aquas, where she hopes to see the sights and chow down on some fresh seafood. But when sh",
+    "seasonCount": 1,
+    "totalEpisodes": 1
+  },
+  {
+    "id": "the-cold-sato-san-is-only-sweet-to-me",
+    "title": "The Cold Sato-san is Only Sweet to Me",
+    "japaneseTitle": "塩対応の佐藤さんが俺にだけ甘い",
+    "raw_name": "The Cold Sato-san is Only Sweet to Me",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209502-TATgyznMxQOe.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2026,
+    "rating": 6.7,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.\n\nOshio-kun is friendly and lively, but only I",
+    "seasonCount": 1,
+    "totalEpisodes": 1
+  },
+  {
+    "id": "with-you-our-love-will-make-it-through",
+    "title": "With You, Our Love Will Make It Through",
+    "japaneseTitle": "キミと越えて恋になる",
+    "raw_name": "Kimi to Koete Koi ni Naru",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186161-KYfFUJEVLB1W.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2025,
+    "rating": 6.9,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "When high schooler Mari bumps into a fellow tardy student, she's surprised to find out he's a beastfolk who's to attend her school! After all, it's not rare for beastfolk to coexist alongside humans, but it's still uncommon, with the prejud",
+    "seasonCount": 1,
+    "totalEpisodes": 9
+  },
+  {
+    "id": "sgt-frog",
+    "title": "Sgt. Frog",
+    "japaneseTitle": "ケロロ軍曹",
+    "raw_name": "Keroro Gunsou■",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx516-ofBmeR4TcbKb.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/516-kgoFaO4d13bt.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2004,
+    "rating": 7.5,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "Keroro is a frog-like alien sent from his home planet on a mission to conquer Earth. But when his cover is blown, his battalion abandons him and he ends up in the home of the Hinata family. There, he's forced to do household chores and slee",
+    "seasonCount": 1,
+    "totalEpisodes": 1
+  },
+  {
+    "id": "kamui-hes-behind-you",
+    "title": "KAMUI ---He's behind you",
+    "japaneseTitle": "うしろの正面カムイさん",
+    "raw_name": "KAMUI: He’s Behind You",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207674-0bYvzXIq7Lq3.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2026,
+    "rating": 5.8,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "This exorcism is OMFFFFFFFFF!!!! Shizuka is a self-proclaimed ordinary high school girl who \"only\" sees ghosts. Using her unique ability to attract spirits, she works as an assistant to the famous psychic, Kamui. Though Kamui boasts overwhe",
+    "seasonCount": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "kaiju-no-8",
+    "title": "Kaiju No. 8",
+    "japaneseTitle": "怪獣８号",
+    "raw_name": "Kaiju No. 8: Narumi’s Week at Work",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153288-JNsWuMPMAuJL.jpg",
+    "type": "TV Series",
+    "status": "Completed",
+    "year": 2024,
+    "rating": 8.1,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "hasHindi": false,
+    "hasOriginal": true,
+    "synopsis": "With the highest kaiju-emergence rates in the world, Japan is no stranger to attack by deadly monsters. Enter the Japan Defense Force, a military organization tasked with the neutralization of kaiju. Kafka Hibino, a kaiju-corpse cleanup man",
+    "seasonCount": 1,
+    "totalEpisodes": 4
+  },
+  {
     "id": "mebius-dust",
     "title": "Mebius Dust",
     "japaneseTitle": "",
@@ -210,8 +757,8 @@ export const ANIME_CATALOG = [
     "hasHindi": false,
     "hasOriginal": true,
     "synopsis": "Demons once terrorized Earth. As their armies break free and invade again, five young warriors known as the Samurai Troopers rise to defend humanity in a new battle.",
-    "seasonCount": 1,
-    "totalEpisodes": 12
+    "seasonCount": 2,
+    "totalEpisodes": 22
   },
   {
     "id": "sparks-of-tomorrow",
@@ -6782,13 +7329,14 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": true,
-    "audioTrack": "Hindi Dub",
-    "audioBadge": "HINDI DUB",
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)",
+    "audioBadge": "MULTI-AUDIO",
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "hasHindi": true,
-    "hasOriginal": false,
+    "hasOriginal": true,
     "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both rece",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -10928,8 +11476,8 @@ export const ANIME_CATALOG = [
     "hasHindi": true,
     "hasOriginal": true,
     "synopsis": "Socially inept, Higawa Koyuki maintains a wall between herself and other people. She spends her time in high school alone, until she meets Amamiya Minato, a boy who keeps trying to close the distance between them for some reason?!\n\nThe lone",
-    "seasonCount": 1,
-    "totalEpisodes": 14
+    "seasonCount": 2,
+    "totalEpisodes": 15
   },
   {
     "id": "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs",
@@ -10950,16 +11498,17 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": true,
-    "audioTrack": "Hindi Dub",
-    "audioBadge": "HINDI DUB",
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)",
+    "audioBadge": "MULTI-AUDIO",
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "hasHindi": true,
-    "hasOriginal": false,
+    "hasOriginal": true,
     "synopsis": "Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, whi",
     "seasonCount": 2,
-    "totalEpisodes": 21
+    "totalEpisodes": 23
   },
   {
     "id": "grand-blue-dreaming",
@@ -11592,13 +12141,14 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": false,
-    "audioTrack": "Hindi Dub",
-    "audioBadge": "HINDI DUB",
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)",
+    "audioBadge": "MULTI-AUDIO",
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "hasHindi": true,
-    "hasOriginal": false,
+    "hasOriginal": true,
     "synopsis": "Reincarnated into a fantasy realm as a slime, Rimuru builds a nation where monsters and humans live in harmony.",
     "seasonCount": 4,
     "totalEpisodes": 96
@@ -11741,16 +12291,17 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": false,
     "isTrending": false,
-    "audioTrack": "Hindi Dub",
-    "audioBadge": "HINDI DUB",
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)",
+    "audioBadge": "MULTI-AUDIO",
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "hasHindi": true,
-    "hasOriginal": false,
+    "hasOriginal": true,
     "synopsis": "Do these sports-crossed lovers have a chance? Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he f",
-    "seasonCount": 1,
-    "totalEpisodes": 25
+    "seasonCount": 2,
+    "totalEpisodes": 26
   },
   {
     "id": "the-boss-baby",
@@ -11948,13 +12499,14 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": false,
     "isTrending": false,
-    "audioTrack": "Hindi Dub",
-    "audioBadge": "HINDI DUB",
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)",
+    "audioBadge": "MULTI-AUDIO",
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "hasHindi": true,
-    "hasOriginal": false,
+    "hasOriginal": true,
     "synopsis": "Amane lives alone in an apartment, and the most beautiful girl in school, Mahiru, lives just next door. They've almost never spoken&mdash;until the day he sees her in distress on a rainy day and lends her his umbrella. To return the favor, ",
     "seasonCount": 2,
     "totalEpisodes": 24

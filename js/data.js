@@ -45,6 +45,2712 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "the-apothecary-diaries",
+    "title": "The Apothecary Diaries",
+    "raw_name": "The Apothecary Diaries",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjAxMmFjZjgtYjM1ZS00NzdmLTliZDktZmIyMzU5YTBlNDBmXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNjAxMmFjZjgtYjM1ZS00NzdmLTliZDktZmIyMzU5YTBlNDBmXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.6,
+    "year": 2023,
+    "currentEpBadge": "S3-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2023",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Drama",
+      "History"
+    ],
+    "synopsis": "A young maiden is kidnapped and sold into servitude at the emperor's palace, where she secretly employs her pharmacist skills with the help of the head eunuch to unravel medical mysteries in the inner court.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 3,
+        "title": "Season 3",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 3,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjAxMmFjZjgtYjM1ZS00NzdmLTliZDktZmIyMzU5YTBlNDBmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of The Apothecary Diaries (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Apothecary_Diaries_3rd_Season_Episode_1_1790957864.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Apothecary_Diaries_3rd_Season_Episode_1_1790957864.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kingdom",
+    "title": "Kingdom",
+    "raw_name": "Kingdom",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.3,
+    "year": 2019,
+    "currentEpBadge": "S6-EP9",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2019",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "synopsis": "While strange rumors about their ill King grip a kingdom, the crown prince becomes their only hope against a mysterious plague overtaking the land.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 6,
+        "title": "Season 6",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 5,
+            "number": 5,
+            "season": 6,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Kingdom (Season 6)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kingdom_6_Episode_5_1762028482.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kingdom_6_Episode_5_1762028482.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 6,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Kingdom (Season 6)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kingdom_6_Episode_6_1762629697.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kingdom_6_Episode_6_1762629697.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 6,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Kingdom (Season 6)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kingdom_6_Episode_7_1763235677.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kingdom_6_Episode_7_1763235677.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 6,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Kingdom (Season 6)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_8_1763839744.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_8_1763839744.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 6,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 9 of Kingdom (Season 6)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_9_1764444153.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_9_1764444153.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 6,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 10 of Kingdom (Season 6)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_10_1765049111.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_10_1765049111.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 6,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 11 of Kingdom (Season 6)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_11_1765653922.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_11_1765653922.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 6,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 12 of Kingdom (Season 6)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_12_1766258545.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kingdom_Season_6_Episode_12_1766258545.mp4?dl=1"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 6,
+            "title": "Episode 13",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQyMDQyYzItYWFhNi00YmViLTkwZTctY2M2NjEyNDJmNGQ5XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 13 of Kingdom (Season 6)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kingdom_6_Episode_13_1766863596.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kingdom_6_Episode_13_1766863596.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "golden-kamuy",
+    "title": "Golden Kamuy",
+    "raw_name": "Golden Kamuy",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.1,
+    "year": 2018,
+    "currentEpBadge": "S4-EP11",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2018",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "In the early 20th century in Hokkaido, Japan, a treasure hunt between various parties takes place for a hidden stash of gold.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 4,
+        "title": "Season 4",
+        "airDate": "2018",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 3,
+            "number": 3,
+            "season": 4,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-3.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-3.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 4,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-4.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-4.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 4,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-final-season-episode-5.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-final-season-episode-5.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 4,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-6.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-6.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 4,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-7.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-7.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 4,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-8.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-8.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 4,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 9 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-9.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-9.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 4,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 10 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-10.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-10.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 4,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 11 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-11.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-11.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 4,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 12 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-12.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-12.mp4?dl=1"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 4,
+            "title": "Episode 13",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliMTU1OTEtOTE0Yi00YmUxLWFiN2YtYzBlNzdkNjg2MmY3XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 13 of Golden Kamuy (Season 4)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-13.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/golden-kamuy-season-5-episode-13.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "skeleton-knight-in-another-world-ii",
+    "title": "Skeleton Knight in Another World II",
+    "raw_name": "Skeleton Knight in Another World II",
+    "japaneseTitle": "",
+    "poster": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "banner": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+    "rating": 8.5,
+    "year": 2024,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2024",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "synopsis": "Skeleton Knight in Another World II anime series streaming on ShinobiHub.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 1 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_1_1783166439.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_1_1783166439.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 2 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_2_1783948791.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_2_1783948791.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 3 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_3_1784553238.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_3_1784553238.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 4 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_3_1784553238.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_3_1784553238.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 5 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_5_1785762933.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_5_1785762933.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 6 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_6_1786367772.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_6_1786367772.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 7 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_7_1786972520.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_7_1786972520.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 8 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_8_1787577300.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_8_1787577300.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 9 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_9_1788182032.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_9_1788182032.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 10 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_10_178878",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_10_178878"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 11 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_11_178939",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_11_178939"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E",
+            "synopsis": "Episode 12 of Skeleton Knight in Another World II (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_12_178999",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Skeleton_Knight_in_Another_World_2_Episode_12_178999"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "medalist",
+    "title": "Medalist",
+    "raw_name": "Medalist",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.0,
+    "year": 2025,
+    "currentEpBadge": "S2-EP9",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Sport"
+    ],
+    "synopsis": "Tsukasa, whose dreams were crushed. Inori, left to fend for herself. These two share a dream...and their tenacity may be the only thing that sees them through. Their destination? The ice...on the world's stage.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of Medalist (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Medalist_Season_2_Episode_1_English_Subbed_-_Animenosub.to_1769277585.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Medalist_Season_2_Episode_1_English_Subbed_-_Animenosub.to_1769277585.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 2 of Medalist (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/medalist-season-2-episode-2.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/medalist-season-2-episode-2.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of Medalist (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/medalist-season-2-episode-3.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/medalist-season-2-episode-3.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of Medalist (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/medalist-season-2-episode-4.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/medalist-season-2-episode-4.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Medalist (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/medalist-season-2-episode-5.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/medalist-season-2-episode-5.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Medalist (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/media-list.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/media-list.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Medalist (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/medalist-season-2-episode-7.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/medalist-season-2-episode-7.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Medalist (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/medalist-season-2-episode-8.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/medalist-season-2-episode-8.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWMyYjE1ZWYtMTRhZC00MDFkLWFkOTEtMGZkNzc0MmVkMjQ2XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 9 of Medalist (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/medalist-season-2-episode-9.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/medalist-season-2-episode-9.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "from-old-country-bumpkin-to-master-swordsman",
+    "title": "From Old Country Bumpkin to Master Swordsman",
+    "raw_name": "From Old Country Bumpkin to Master Swordsman",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.8,
+    "year": 2025,
+    "currentEpBadge": "S2-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "A modest country Dojo master is called by his legendary student to be special instructor for the Knights' order. This starts his reluctant journey, marked by choreographed duels, to win over his and others' doubts.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_1_1783528268.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_1_1783528268.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 2 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_2_1784173181.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_2_1784173181.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_3_1784745920.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_3_1784745920.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_4_1785340084.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_4_1785340084.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_5_1785947222.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_5_1785947222.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_6_1786551284.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_6_1786551284.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_7_1787166931.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_7_1787166931.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_8_1787759439.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_8_1787759439.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 9 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_9_1788368060.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_9_1788368060.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 2,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 10 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_10_1788970189.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_10_1788970189.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 2,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 11 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_11_1789573281.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_11_1789573281.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 2,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg2ODRmN2ItMTIwNC00YmQ2LWFhYTItYmVmZDhkNWEzMjFhXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 12 of From Old Country Bumpkin to Master Swordsman (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_12_1790177333.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/From_Old_Country_Bumpkin_to_Master_Swordsman_Season_2_Episode_12_1790177333.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a-returners-magic-should-be-special",
+    "title": "A Returner's Magic Should Be Special",
+    "raw_name": "A Returner’s Magic Should be Special",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWRmZDNmMDUtNzFhNS00MGVjLTk2NGYtOTUzYzI3ZjA1NjdmXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZWRmZDNmMDUtNzFhNS00MGVjLTk2NGYtOTUzYzI3ZjA1NjdmXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 6.8,
+    "year": 2023,
+    "currentEpBadge": "S2-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2023",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "Just when he thinks it's the end, Desir wakes up 13 years in the past. Can he make the changes needed to save the world from destruction?",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2023",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWRmZDNmMDUtNzFhNS00MGVjLTk2NGYtOTUzYzI3ZjA1NjdmXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of A Returner's Magic Should Be Special (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/A_Returners_Magic_Should_Be_Special_Season_2_Episode_1_1791394219.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/A_Returners_Magic_Should_Be_Special_Season_2_Episode_1_1791394219.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spy-x-family",
+    "title": "Spy x Family",
+    "raw_name": "Spy x Family",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 8.2,
+    "year": 2022,
+    "currentEpBadge": "S3-EP8",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2022",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy"
+    ],
+    "synopsis": "A spy on an undercover mission gets married and adopts a child as part of his cover. His wife and daughter have secrets of their own, and all three must strive to keep together.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 3,
+        "title": "Season 3",
+        "airDate": "2022",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 5,
+            "number": 5,
+            "season": 3,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Spy x Family (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_5_1762010151.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_5_1762010151.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 3,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Spy x Family (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_6_1762615301.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_6_1762615301.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 3,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Spy x Family (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_8_1763832247.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_8_1763832247.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 3,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 9 of Spy x Family (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_9_1764429871.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_9_1764429871.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 3,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 10 of Spy x Family (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_10_1765034815.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_10_1765034815.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 3,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 11 of Spy x Family (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Spy_x_Family_Season_3_Episode_11_1765639122.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Spy_x_Family_Season_3_Episode_11_1765639122.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 3,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 12 of Spy x Family (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_12_1766243902.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_12_1766243902.mp4?dl=1"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 3,
+            "title": "Episode 13",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 13 of Spy x Family (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_13_1766848696.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/SPY_x_FAMILY_Season_3_Episode_13_1766848696.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fire-force",
+    "title": "Fire Force",
+    "raw_name": "Fire Force",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.6,
+    "year": 2019,
+    "currentEpBadge": "S3-EP13",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2019",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "synopsis": "A superhuman firefighter force is formed to deal with supernatural fire incidents.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 3,
+        "title": "Season 3",
+        "airDate": "2019",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 3,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-1.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-1.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 3,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 2 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-2.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-2.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 3,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-3.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-3.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 3,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-4.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-4.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 3,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-5.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-5.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 3,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-6.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-6.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 3,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-7.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-7.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 3,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-8.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-8.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 3,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 9 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-2-episode-9.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-2-episode-9.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 3,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 10 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-10.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-10.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 3,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 11 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-11.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-11.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 3,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 12 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3.mp4?dl=1"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 3,
+            "title": "Episode 13",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDRhMDMzYzktYmI3My00YzBlLTkxOTMtMTUxNjZjN2NkOWQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 13 of Fire Force (Season 3)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-13.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/fire-force-season-3-part-ii-episode-13.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clevatess",
+    "title": "Clevatess",
+    "raw_name": "Clevatess",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.7,
+    "year": 2025,
+    "currentEpBadge": "S2-EP13",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "synopsis": "One of the Lords of Dark Beasts, Clevatess's reign shatters when he revives a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. Now bound together, what fate awaits this unlikely t...",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_1783515578.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_1783515578.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 2 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_2_1784117468.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_2_1784117468.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_3_1784722408.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_3_1784722408.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_4_1785327148.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_4_1785327148.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_5_1785934336.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_5_1785934336.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_6_1786536830.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_6_1786536830.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_7_1787141735.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_7_1787141735.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_8_1787746448.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_8_1787746448.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 9 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_9_1788351146.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_9_1788351146.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 2,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 10 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_10_1788956664.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_10_1788956664.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 2,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 11 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_11_1789560834.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_11_1789560834.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 2,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 12 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_12_1790165716.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_12_1790165716.mp4?dl=1"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 2,
+            "title": "Episode 13",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVkODQ2MDctOTVkYi00YWYwLWJlMmMtOThlOGMzNTZkYzQ4XkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 13 of Clevatess (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_13_1790775167.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Clevatess_Season_2_Episode_13_1790775167.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bungo-stray-dogs-wan",
+    "title": "Bungo Stray Dogs Wan!",
+    "raw_name": "Bungo Stray Dogs Wan!",
+    "japaneseTitle": "",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+    "rating": 7.5,
+    "year": 2021,
+    "currentEpBadge": "S2-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2021",
+    "studio": "Animation Studio",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synopsis": "Atsushi Nakajima and the Armed Detective Agency find themselves embroiled in bizarre situations as they roam Yokohama's streets alongside their Port Mafia rivals, despite seeking normalcy.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2021",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_1_1782997316.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_1_1782997316.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 2 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_2_1783601200.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_2_1783601200.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 2,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 3 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_3_1784206341.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_3_1784206341.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 2,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 4 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_4_1784810781.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_4_1784810781.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 2,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 5 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_5_1785416082.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_5_1785416082.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 2,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 6 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_6_1786020464.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_6_1786020464.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 2,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 7 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_7_1786625702.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_7_1786625702.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 2,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 8 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_8_1787229984.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_8_1787229984.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 2,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 9 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_9_1787835209.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_9_1787835209.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 2,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 10 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_10_1788439650.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_10_1788439650.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 2,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 11 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_11_1789044377.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_11_1789044377.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 2,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmRlZWQ3YmUtMTdjNC00YmQ1LWI5ODMtNzQzYzc4NzllYjNlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 12 of Bungo Stray Dogs Wan! (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_12_1789649161.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Bungo_Stray_Dogs_Wan_2_Episode_12_1789649161.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tougen-anki-nikko-kegon-falls-arc",
+    "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+    "raw_name": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+    "japaneseTitle": "桃源暗鬼 日光・華厳の滝編",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
+    "rating": 7.1,
+    "year": 2026,
+    "currentEpBadge": "S1-EP2",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "Studio Hibari",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "synopsis": "After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their \"the total eradication of the Momotaro.\"\n\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…\n\n(Source: REMOW)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 0,
+            "number": 0,
+            "season": 1,
+            "title": "Episode 0",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
+            "synopsis": "Episode 0 of TOUGEN ANKI: Nikko Kegon Falls Arc (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Tougen_Anki_Nikko_Kegon_Falls_Arc_Episode_0_17908594",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Tougen_Anki_Nikko_Kegon_Falls_Arc_Episode_0_17908594"
+            }
+          },
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
+            "synopsis": "Episode 1 of TOUGEN ANKI: Nikko Kegon Falls Arc (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Tougen_Anki_Nikko_Kegon_Falls_Arc_Episode_1_17908794",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Tougen_Anki_Nikko_Kegon_Falls_Arc_Episode_1_17908794"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her",
+    "title": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+    "raw_name": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+    "japaneseTitle": "勇者パーティーにかわいい子がいたので、告白してみた。",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195515-JYI8JvJvDSZp.jpg",
+    "rating": 6.2,
+    "year": 2026,
+    "currentEpBadge": "S1-EP11",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "Gekkou",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "synopsis": "Reincarnated as a mid-tier demon, Youki had one job: Crush the hero’s party. Then he saw the party’s priestess, Cecilia, and fell for her hard. Now this lovestruck demon vows to confess his feelings, even if it means betraying the Demon King. Will love bloom between these two sworn enemies?\n\n(Source: Crunchyroll)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 3 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-episode-3.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-episode-3.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 4 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-episode-4.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-episode-4.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 5 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-5.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-5.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 6 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-6.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-6.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 7 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-7.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-7.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 8 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-8.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-8.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 9 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-9.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-9.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 10 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-10.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-10.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 11 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-11.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-11.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 12 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-12.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-12.mp4?dl=1"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "Episode 13",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg",
+            "synopsis": "Episode 13 of There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-13.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-13.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-worlds-strongest-witch",
+    "title": "The World's Strongest Witch",
+    "raw_name": "The World’s Strongest Witch",
+    "japaneseTitle": "世界最強の魔女、始めました",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211778-ZbXEhqfFkj62.jpg",
+    "rating": 6.6,
+    "year": 2026,
+    "currentEpBadge": "S1-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "Bridge",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synopsis": "After using her SSS-Rank skill, Internet, to crush her former family’s ambitions, Lorna is free to travel the world. Her next stop is the port town of Aquas, where she hopes to see the sights and chow down on some fresh seafood. But when she arrives, the place is on the brink of destruction thanks to a certain Weekly Quest… Good thing Lorna has the gods on her side!\n\n(Source: Crunchyroll)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg",
+            "synopsis": "Episode 1 of The World's Strongest Witch (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Worlds_Strongest_Witch_Episode_1_1791383553.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Worlds_Strongest_Witch_Episode_1_1791383553.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-cold-sato-san-is-only-sweet-to-me",
+    "title": "The Cold Sato-san is Only Sweet to Me",
+    "raw_name": "The Cold Sato-san is Only Sweet to Me",
+    "japaneseTitle": "塩対応の佐藤さんが俺にだけ甘い",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209502-TATgyznMxQOe.jpg",
+    "rating": 6.7,
+    "year": 2026,
+    "currentEpBadge": "S1-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "Tezuka Productions",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synopsis": "Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.\n\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!\n\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
+            "synopsis": "Episode 1 of The Cold Sato-san is Only Sweet to Me (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Cold_Sato-san_is_Only_Sweet_to_Me_Episode_1_1791294078.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Cold_Sato-san_is_Only_Sweet_to_Me_Episode_1_1791294078.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "with-you-our-love-will-make-it-through",
+    "title": "With You, Our Love Will Make It Through",
+    "raw_name": "Kimi to Koete Koi ni Naru",
+    "japaneseTitle": "キミと越えて恋になる",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186161-KYfFUJEVLB1W.jpg",
+    "rating": 6.9,
+    "year": 2025,
+    "currentEpBadge": "S1-EP9",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2025",
+    "studio": "Millepensee",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "synopsis": "When high schooler Mari bumps into a fellow tardy student, she's surprised to find out he's a beastfolk who's to attend her school! After all, it's not rare for beastfolk to coexist alongside humans, but it's still uncommon, with the prejudice and all. Nervous to meet one at first, Mari soon learns there's more to him than his furry exterior. In fact, the more she gets to know him, the more she finds herself drawn to him, his steadfastness, his kindheartedness, and…his body…\n\n(Source: Yen Press)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2025",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+            "synopsis": "Episode 4 of With You, Our Love Will Make It Through (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_4_1762271277.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_4_1762271277.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+            "synopsis": "Episode 5 of With You, Our Love Will Make It Through (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_5_1762875430.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_5_1762875430.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+            "synopsis": "Episode 6 of With You, Our Love Will Make It Through (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_6_1763480754.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_6_1763480754.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+            "synopsis": "Episode 7 of With You, Our Love Will Make It Through (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_7_1764083846.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_7_1764083846.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+            "synopsis": "Episode 8 of With You, Our Love Will Make It Through (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_8_1764688983.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_8_1764688983.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+            "synopsis": "Episode 9 of With You, Our Love Will Make It Through (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_9_1765293339.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_9_1765293339.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+            "synopsis": "Episode 10 of With You, Our Love Will Make It Through (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_It_Through_Episode_10_1765898480.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_It_Through_Episode_10_1765898480.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+            "synopsis": "Episode 11 of With You, Our Love Will Make It Through (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_11_1766503250.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/With_You_Our_Love_Will_Make_it_Through_Episode_11_1766503250.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+            "synopsis": "Episode 12 of With You, Our Love Will Make It Through (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/with-you-our-love-will-make-it-through-episode-12.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/with-you-our-love-will-make-it-through-episode-12.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sgt-frog",
+    "title": "Sgt. Frog",
+    "raw_name": "Keroro Gunsou■",
+    "japaneseTitle": "ケロロ軍曹",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx516-ofBmeR4TcbKb.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/516-kgoFaO4d13bt.jpg",
+    "rating": 7.5,
+    "year": 2004,
+    "currentEpBadge": "S1-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2004",
+    "studio": "Sunrise",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "synopsis": "Keroro is a frog-like alien sent from his home planet on a mission to conquer Earth. But when his cover is blown, his battalion abandons him and he ends up in the home of the Hinata family. There, he's forced to do household chores and sleep in a dark basement that was once supposedly a prison cell haunted by the ghost of an innocent girl. He even spends his free time assembling Gundam model kits. During his stay, Keroro meets up with subordinates who were also stranded during their failed invasion. \n\n(Source: Anime News Network)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2004",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx516-ofBmeR4TcbKb.jpg",
+            "synopsis": "Episode 1 of Sgt. Frog (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Sgt_1791018671.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Sgt_1791018671.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kamui-hes-behind-you",
+    "title": "KAMUI ---He's behind you",
+    "raw_name": "KAMUI: He’s Behind You",
+    "japaneseTitle": "うしろの正面カムイさん",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207674-0bYvzXIq7Lq3.jpg",
+    "rating": 5.8,
+    "year": 2026,
+    "currentEpBadge": "S1-EP12",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "Zero-G",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "synopsis": "This exorcism is OMFFFFFFFFF!!!! Shizuka is a self-proclaimed ordinary high school girl who \"only\" sees ghosts. Using her unique ability to attract spirits, she works as an assistant to the famous psychic, Kamui. Though Kamui boasts overwhelming spiritual power, his exorcism methods are unprecedented...?! Will Shizuka, tossed about by supernatural disturbances, ever find peace? The curtain rises on \"supreme\" exorcism!! OMFFFFFFFFFG ALMIGHTY!!\n\n(Source: OceanVeil)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 1 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_1_1783106591.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_1_1783106591.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 2 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_2_1783747233.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_2_1783747233.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 3 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_3_1784345224.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_3_1784345224.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 4 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_4_1784952595.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_4_1784952595.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 5 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_5_1785519699.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_5_1785519699.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 6 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_6_1786121675.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_6_1786121675.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 7 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_7_1786726403.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_7_1786726403.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 8 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_9_1787935999.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_9_1787935999.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 9 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_9_1787935999.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_9_1787935999.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 10 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_10_1788540733.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_10_1788540733.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 11 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_11_1789151013.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_11_1789151013.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+            "synopsis": "Episode 12 of KAMUI ---He's behind you (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_12_1789755121.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kamui-san_Directly_Behind_You_Episode_12_1789755121.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kaiju-no-8",
+    "title": "Kaiju No. 8",
+    "raw_name": "Kaiju No. 8: Narumi’s Week at Work",
+    "japaneseTitle": "怪獣８号",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153288-JNsWuMPMAuJL.jpg",
+    "rating": 8.1,
+    "year": 2024,
+    "currentEpBadge": "S1-EP4",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2024",
+    "studio": "Production I.G",
+    "hasSub": true,
+    "hasDub": false,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "synopsis": "With the highest kaiju-emergence rates in the world, Japan is no stranger to attack by deadly monsters. Enter the Japan Defense Force, a military organization tasked with the neutralization of kaiju. Kafka Hibino, a kaiju-corpse cleanup man, has always dreamed of joining the force. But when he gets another shot at achieving his childhood dream, he undergoes an unexpected transformation. How can he fight kaiju now that he’s become one himself?!\n\n(Source: VIZ Media)",
+    "languages": [
+      "original"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+            "synopsis": "Episode 1 of Kaiju No. 8 (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kaiju_No_1789213958.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kaiju_No_1789213958.mp4?dl=1"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "Episode 2",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+            "synopsis": "Episode 2 of Kaiju No. 8 (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kaiju_No_1789212710.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kaiju_No_1789212710.mp4?dl=1"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+            "synopsis": "Episode 3 of Kaiju No. 8 (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kaiju_No_1789816505.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kaiju_No_1789816505.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+            "synopsis": "Episode 4 of Kaiju No. 8 (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Kaiju_No_1790420889.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Kaiju_No_1790420889.mp4?dl=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "mebius-dust",
     "title": "Mebius Dust",
     "raw_name": "Mebius Dust",
@@ -1123,6 +3829,154 @@ export const ANIME_DATABASE = [
     ],
     "seasons": [
       {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "Episode 3",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 3 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-3.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-3.mp4?dl=1"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "Episode 4",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 4 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shin-den-samurai-troopers-episode-4.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shin-den-samurai-troopers-episode-4.mp4?dl=1"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "Episode 5",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 5 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-5.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-5.mp4?dl=1"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "Episode 6",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 6 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-6.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-6.mp4?dl=1"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "Episode 7",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 7 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-7.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-7.mp4?dl=1"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Episode 8",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 8 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-8.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-8.mp4?dl=1"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Episode 9",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 9 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-9.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-9.mp4?dl=1"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Episode 10",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 10 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-10.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-10.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 11 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-11.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-11.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+            "synopsis": "Episode 12 of Yoroi-Shinden Samurai Troopers (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-12.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/yoroi-shinden-samurai-troopers-episode-12.mp4?dl=1"
+            }
+          }
+        ]
+      },
+      {
         "number": 2,
         "title": "Season 2",
         "airDate": "2026",
@@ -1298,7 +4152,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "sparks-of-tomorrow",
@@ -1710,7 +4566,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "young-ladies-dont-play-fighting-games",
@@ -1914,7 +4772,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
@@ -2658,7 +5518,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "the-insipid-princes-furtive-grab-for-the-throne",
@@ -2866,7 +5728,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "love-unseen-beneath-the-clear-night-sky",
@@ -3977,7 +6841,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "magilumiere-magical-girls-inc",
@@ -8495,7 +11361,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "the-oblivious-saint-cant-contain-her-power",
@@ -8687,7 +11555,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "bai-ri-cheng-cai",
@@ -10446,7 +13316,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "yowayowa-sensei",
@@ -12960,7 +15832,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "you-and-i-are-polar-opposites",
@@ -15330,7 +18204,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "jack-of-all-trades-party-of-none",
@@ -16674,7 +19550,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "roll-over-and-die",
@@ -18006,7 +20884,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "tune-in-to-the-midnight-heart",
@@ -18375,7 +21255,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "wandance",
@@ -20692,7 +23574,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "shabake",
@@ -21763,7 +24647,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "rooster-fighter",
@@ -23469,7 +26355,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "pardon-the-intrusion-im-home",
@@ -23661,7 +26549,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "eren-the-southpaw",
@@ -25201,7 +28091,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "wistoria-wand-and-sword",
@@ -28759,7 +31651,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "the-daily-life-of-the-immortal-king",
@@ -35434,7 +38328,8 @@ export const ANIME_DATABASE = [
     ],
     "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n(Source: Crunchyroll)",
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "seasons": [
       {
@@ -35454,12 +38349,15 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/UEjkAdTw?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/UEjkAdTw?download"
+              "hindi": "https://pixeldrain.net/u/UEjkAdTw?download",
+              "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_1_1791041583.mp4?dl=1"
             }
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "MULTI-AUDIO",
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)"
   },
   {
     "id": "teogonia",
@@ -68518,7 +71416,7 @@ export const ANIME_DATABASE = [
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
     "rating": 8.3,
     "year": 2026,
-    "currentEpBadge": "S1-EP14",
+    "currentEpBadge": "S2-EP1",
     "status": "Completed",
     "type": "TV Series",
     "season": "2026",
@@ -68755,6 +71653,28 @@ export const ANIME_DATABASE = [
             }
           }
         ]
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/612/1531910.jpg",
+            "synopsis": "Episode 1 of The Ramparts of Ice (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/The_Ramparts_of_Ice_Season_2_Episode_1_1790869865.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/The_Ramparts_of_Ice_Season_2_Episode_1_1790869865.mp4?dl=1"
+            }
+          }
+        ]
       }
     ],
     "audioBadge": "MULTI-AUDIO",
@@ -68769,7 +71689,7 @@ export const ANIME_DATABASE = [
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142074-X972q2Mdi8y0.jpg",
     "rating": 7.1,
     "year": 2022,
-    "currentEpBadge": "S2-EP10",
+    "currentEpBadge": "S2-EP12",
     "status": "Completed",
     "type": "TV Series",
     "season": "2022",
@@ -68786,7 +71706,8 @@ export const ANIME_DATABASE = [
     ],
     "synopsis": "Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire…of living a quiet, easy life in the countryside!\n\n(Source: Seven Seas Entertainment)",
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "seasons": [
       {
@@ -68968,7 +71889,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/pur8Tf6k?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/pur8Tf6k?download"
+              "hindi": "https://pixeldrain.net/u/pur8Tf6k?download",
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_1_1783525489.mp4?dl=1"
             }
           },
           {
@@ -68982,7 +71904,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/uKuA8VAD?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/uKuA8VAD?download"
+              "hindi": "https://pixeldrain.net/u/uKuA8VAD?download",
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_2_1784130054.mp4?dl=1"
             }
           },
           {
@@ -69010,7 +71933,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/4FwHHfYZ?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/4FwHHfYZ?download"
+              "hindi": "https://pixeldrain.net/u/4FwHHfYZ?download",
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_4_1785339673.mp4?dl=1"
             }
           },
           {
@@ -69024,7 +71948,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/GzYDMXpm?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/GzYDMXpm?download"
+              "hindi": "https://pixeldrain.net/u/GzYDMXpm?download",
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_5_1785944705.mp4?dl=1"
             }
           },
           {
@@ -69038,7 +71963,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/VzpSWGzi?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/VzpSWGzi?download"
+              "hindi": "https://pixeldrain.net/u/VzpSWGzi?download",
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_6_1786549399.mp4?dl=1"
             }
           },
           {
@@ -69052,7 +71978,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/aGsVPuwa?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/aGsVPuwa?download"
+              "hindi": "https://pixeldrain.net/u/aGsVPuwa?download",
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_7_1787154225.mp4?dl=1"
             }
           },
           {
@@ -69066,7 +71993,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/KCYKDg3m?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/KCYKDg3m?download"
+              "hindi": "https://pixeldrain.net/u/KCYKDg3m?download",
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_8_1787758954.mp4?dl=1"
             }
           },
           {
@@ -69080,7 +72008,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/uiLEMrk1?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/uiLEMrk1?download"
+              "hindi": "https://pixeldrain.net/u/uiLEMrk1?download",
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_9_1788363846.mp4?dl=1"
             }
           },
           {
@@ -69094,12 +72023,43 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/gCpJ1qNb?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/gCpJ1qNb?download"
+              "hindi": "https://pixeldrain.net/u/gCpJ1qNb?download",
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_10_1788968791.mp4?dl=1"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 2,
+            "title": "Episode 11",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142074-pHe4bX791PJh.jpg",
+            "synopsis": "Episode 11 of Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_11_1789573858.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_11_1789573858.mp4?dl=1"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 2,
+            "title": "Episode 12",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142074-pHe4bX791PJh.jpg",
+            "synopsis": "Episode 12 of Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_12_1790178029.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Trapped_in_a_Dating_Sim_The_World_of_Otome_Games_is_Tough_for_Mobs_2nd_Season_Episode_12_1790178029.mp4?dl=1"
             }
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "MULTI-AUDIO",
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)"
   },
   {
     "id": "grand-blue-dreaming",
@@ -71568,7 +74528,9 @@ export const ANIME_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "i-want-to-love-you-till-your-dying-day",
@@ -82782,7 +85744,7 @@ export const ANIME_DATABASE = [
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
     "rating": 8.8,
     "year": 2018,
-    "audioBadge": "Multi-Audio",
+    "audioBadge": "MULTI-AUDIO",
     "currentEpBadge": "S4-EP24",
     "status": "Airing",
     "type": "TV Series",
@@ -83849,7 +86811,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/oy649N3u?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/oy649N3u?download"
+              "hindi": "https://pixeldrain.net/u/oy649N3u?download",
+              "original": "https://my.1anime.site/videos/that-time-i-got-reincarnated-as-a-slime-season-4-episode-1.mp4?dl=1"
             }
           },
           {
@@ -83863,7 +86826,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/8FN9MAvw?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/8FN9MAvw?download"
+              "hindi": "https://pixeldrain.net/u/8FN9MAvw?download",
+              "original": "https://my.1anime.site/videos/that-time-i-got-reincarnated-as-a-slime-season-4-episode-2.mp4?dl=1"
             }
           },
           {
@@ -83877,7 +86841,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/CSBqfg6f?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/CSBqfg6f?download"
+              "hindi": "https://pixeldrain.net/u/CSBqfg6f?download",
+              "original": "https://my.1anime.site/videos/that-time-i-got-reincarnated-as-a-slime-season-4-episode-3.mp4?dl=1"
             }
           },
           {
@@ -83891,7 +86856,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/DBmYgeXE?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/DBmYgeXE?download"
+              "hindi": "https://pixeldrain.net/u/DBmYgeXE?download",
+              "original": "https://my.1anime.site/videos/that-time-i-got-reincarnated-as-a-slime-season-4-episode-4.mp4?dl=1"
             }
           },
           {
@@ -83905,7 +86871,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/dJPt7YRU?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/dJPt7YRU?download"
+              "hindi": "https://pixeldrain.net/u/dJPt7YRU?download",
+              "original": "https://my.1anime.site/videos/that-time-i-got-reincarnated-as-a-slime-season-4-episode-5.mp4?dl=1"
             }
           },
           {
@@ -83919,7 +86886,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/cDM78UAk?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/cDM78UAk?download"
+              "hindi": "https://pixeldrain.net/u/cDM78UAk?download",
+              "original": "https://my.1anime.site/videos/that-time-i-got-reincarnated-as-a-slime-season-4-episode-6.mp4?dl=1"
             }
           },
           {
@@ -83933,7 +86901,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/A4du6EFv?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/A4du6EFv?download"
+              "hindi": "https://pixeldrain.net/u/A4du6EFv?download",
+              "original": "https://my.1anime.site/videos/that-time-i-got-reincarnated-as-a-slime-season-4-episode-7.mp4?dl=1"
             }
           },
           {
@@ -83947,7 +86916,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/cYDrVM2X?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/cYDrVM2X?download"
+              "hindi": "https://pixeldrain.net/u/cYDrVM2X?download",
+              "original": "https://my.1anime.site/videos/that-time-i-got-reincarnated-as-a-slime-season-4-episode.mp4?dl=1"
             }
           },
           {
@@ -83961,7 +86931,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/S5WX7cMk?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/S5WX7cMk?download"
+              "hindi": "https://pixeldrain.net/u/S5WX7cMk?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_9_1780672299.mp4?dl=1"
             }
           },
           {
@@ -83975,7 +86946,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/PFjj7YCR?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/PFjj7YCR?download"
+              "hindi": "https://pixeldrain.net/u/PFjj7YCR?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_10_1781277231.mp4?dl=1"
             }
           },
           {
@@ -83989,7 +86961,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/EY8gSEfP?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/EY8gSEfP?download"
+              "hindi": "https://pixeldrain.net/u/EY8gSEfP?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_11_1781882184.mp4?dl=1"
             }
           },
           {
@@ -84003,7 +86976,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/CKFKon5x?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/CKFKon5x?download"
+              "hindi": "https://pixeldrain.net/u/CKFKon5x?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_12_1782486704.mp4?dl=1"
             }
           },
           {
@@ -84017,7 +86991,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/kzk6Pk9N?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/kzk6Pk9N?download"
+              "hindi": "https://pixeldrain.net/u/kzk6Pk9N?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_13_1783091726.mp4?dl=1"
             }
           },
           {
@@ -84031,7 +87006,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/bLySxaCU?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/bLySxaCU?download"
+              "hindi": "https://pixeldrain.net/u/bLySxaCU?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_14_1783696532.mp4?dl=1"
             }
           },
           {
@@ -84045,7 +87021,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/VTwvx8rp?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/VTwvx8rp?download"
+              "hindi": "https://pixeldrain.net/u/VTwvx8rp?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_15_1784301163.mp4?dl=1"
             }
           },
           {
@@ -84059,7 +87036,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/RMyyeRJW?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/RMyyeRJW?download"
+              "hindi": "https://pixeldrain.net/u/RMyyeRJW?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_16_1784906003.mp4?dl=1"
             }
           },
           {
@@ -84073,7 +87051,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/4dk15zgf?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/4dk15zgf?download"
+              "hindi": "https://pixeldrain.net/u/4dk15zgf?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_17_1786116062.mp4?dl=1"
             }
           },
           {
@@ -84087,7 +87066,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/P2d9yc4J?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/P2d9yc4J?download"
+              "hindi": "https://pixeldrain.net/u/P2d9yc4J?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_18_1786720330.mp4?dl=1"
             }
           },
           {
@@ -84101,7 +87081,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/6CxZ59FS?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/6CxZ59FS?download"
+              "hindi": "https://pixeldrain.net/u/6CxZ59FS?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_19_1787325195.mp4?dl=1"
             }
           },
           {
@@ -84115,7 +87096,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/Bu1XtDnp?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/Bu1XtDnp?download"
+              "hindi": "https://pixeldrain.net/u/Bu1XtDnp?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_20_1787929953.mp4?dl=1"
             }
           },
           {
@@ -84129,7 +87111,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/WQTqHfSt?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/WQTqHfSt?download"
+              "hindi": "https://pixeldrain.net/u/WQTqHfSt?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_21_1788534820.mp4?dl=1"
             }
           },
           {
@@ -84143,7 +87126,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/QFftmm25?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/QFftmm25?download"
+              "hindi": "https://pixeldrain.net/u/QFftmm25?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_22_1789139604.mp4?dl=1"
             }
           },
           {
@@ -84157,7 +87141,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/MyzAqmnM?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/MyzAqmnM?download"
+              "hindi": "https://pixeldrain.net/u/MyzAqmnM?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_23_1789744440.mp4?dl=1"
             }
           },
           {
@@ -84171,7 +87156,8 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/7H9hymoC?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/7H9hymoC?download"
+              "hindi": "https://pixeldrain.net/u/7H9hymoC?download",
+              "original": "https://my.1anime.site/videos/That_Time_I_Got_Reincarnated_as_a_Slime_Season_4_Episode_24_1790350934.mp4?dl=1"
             }
           }
         ]
@@ -84420,8 +87406,10 @@ export const ANIME_DATABASE = [
       }
     ],
     "languages": [
-      "hindi"
-    ]
+      "hindi",
+      "original"
+    ],
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)"
   },
   {
     "id": "the-elusive-samurai",
@@ -85410,8 +88398,8 @@ export const ANIME_DATABASE = [
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
     "rating": 8.1,
     "year": 2024,
-    "audioBadge": "Multi-Audio (Hindi Dub)",
-    "currentEpBadge": "S1-EP25",
+    "audioBadge": "MULTI-AUDIO",
+    "currentEpBadge": "S2-EP1",
     "status": "Completed",
     "type": "TV Series",
     "genres": [
@@ -85855,6 +88843,28 @@ export const ANIME_DATABASE = [
             "hasTelegram": false
           }
         ]
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 2,
+            "title": "Episode 1",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTI1OTE2ZWQtOWI0NC00ZTZhLTgwZTEtNmJhZGVmOWFmOGJlXkEyXkFqcGc@._V1_SX500.jpg",
+            "synopsis": "Episode 1 of Blue Box (Season 2)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://my.1anime.site/videos/Blue_Box_Season_2_Episode_1_1791103026.mp4?dl=1",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Blue_Box_Season_2_Episode_1_1791103026.mp4?dl=1"
+            }
+          }
+        ]
       }
     ],
     "episodes": [
@@ -86260,10 +89270,12 @@ export const ANIME_DATABASE = [
       }
     ],
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "hasDub": true,
-    "hasSub": true
+    "hasSub": true,
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)"
   },
   {
     "id": "the-boss-baby",
@@ -87484,7 +90496,7 @@ export const ANIME_DATABASE = [
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
     "rating": 7.8,
     "year": 2023,
-    "audioBadge": "Multi-Audio (Hindi Dub)",
+    "audioBadge": "MULTI-AUDIO",
     "currentEpBadge": "S2-EP12",
     "status": "Completed",
     "type": "TV Series",
@@ -87691,7 +90703,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/RgaMwLPi?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=99c4e4720023c249289f51d3df8ff1266d888044f4d9e84e53a0f0a7bc5e46983e51b3af9d26981c5428e6b950e293bad0710ccfc58b754c849528eefba13cfed4238ba2c2372c3106601faddb4ad39e90ecc488425ed9b753ed5722b80d023f::9dfa93e123a56fb20fc273fc7a12d472",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=99c4e4720023c249289f51d3df8ff1266d888044f4d9e84e53a0f0a7bc5e46983e51b3af9d26981c5428e6b950e293bad0710ccfc58b754c849528eefba13cfed4238ba2c2372c3106601faddb4ad39e90ecc488425ed9b753ed5722b80d023f::9dfa93e123a56fb20fc273fc7a12d472",
-              "hindi": "https://pixeldrain.net/u/RgaMwLPi?download"
+              "hindi": "https://pixeldrain.net/u/RgaMwLPi?download",
+              "original": "https://my.1anime.site/videos/the-angel-next-door-spoils-me-rotten-season-2-episode-1.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87708,7 +90721,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/yBdbX2Bd?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=5759fc91a370888da89977749e5b84c469519044621868dfb3d5d2e55bb154bd8badf6a9315bd861c42604a9f714c673b6fadd7f8d96e44a38db4f3578b8d17ada3690942a2c018b756c8ef080f120a06805d1c8877c2cd7cc57d839b17b72b3::51a4befa2a2fa5b8a15ab2fd30201411",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=5759fc91a370888da89977749e5b84c469519044621868dfb3d5d2e55bb154bd8badf6a9315bd861c42604a9f714c673b6fadd7f8d96e44a38db4f3578b8d17ada3690942a2c018b756c8ef080f120a06805d1c8877c2cd7cc57d839b17b72b3::51a4befa2a2fa5b8a15ab2fd30201411",
-              "hindi": "https://pixeldrain.net/u/yBdbX2Bd?download"
+              "hindi": "https://pixeldrain.net/u/yBdbX2Bd?download",
+              "original": "https://my.1anime.site/videos/the-angel-next-door-spoils-me-rotten-season-2-episode-2.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87725,7 +90739,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/ejFte2pm?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=d882809f927b88037b3a6ff1487c56008a84c72dbbb4939de933c1cfdcc0c770613e1fe8c69a7e0afded071aea491915b375817b312a2e55b5d1720c60ec35b021206ba44190ea9e50602b8e936cb428233832fefc755f17f600c2082f97212a::876aa75e7d534a3e56ccb403c13524e1",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=d882809f927b88037b3a6ff1487c56008a84c72dbbb4939de933c1cfdcc0c770613e1fe8c69a7e0afded071aea491915b375817b312a2e55b5d1720c60ec35b021206ba44190ea9e50602b8e936cb428233832fefc755f17f600c2082f97212a::876aa75e7d534a3e56ccb403c13524e1",
-              "hindi": "https://pixeldrain.net/u/ejFte2pm?download"
+              "hindi": "https://pixeldrain.net/u/ejFte2pm?download",
+              "original": "https://my.1anime.site/videos/the-angel-next-door-spoils-me-rotten-season-2-episode-3.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87742,7 +90757,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/wTBdoAyZ?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzExZmU4ZTI2OGY5YWJhN2JjN2Y3MWEyNjQzNTdlNzcyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDAxNDA1NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDQlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRkNzY1YTY1ZTU0ZDM5MWUwOTc0NDg0MDg3ZDJlYjBiMzlmZTViY2ViZmY0MjFhYjcxZTlmZjdlMTY1YmQ3NmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDczNzkwMDAsImhhc2giOiIwNzAzNWExMDgwN2Q3MjQ3ZjhlNDdkN2M1ZWNhODc4NDA3ZjJmODBiZDI2NTJlNmY3MGYxZmNkYzI2YTM1N2EwIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA0IFtIaW5kaV0gLm1rdiJ9",
               "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzExZmU4ZTI2OGY5YWJhN2JjN2Y3MWEyNjQzNTdlNzcyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDgyOSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDAxNDA1NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDQlMjAlNUJIaW5kaSU1RCUyMC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTRkNzY1YTY1ZTU0ZDM5MWUwOTc0NDg0MDg3ZDJlYjBiMzlmZTViY2ViZmY0MjFhYjcxZTlmZjdlMTY1YmQ3NmYiLCJ0aW1lc3RhbXAiOjE3ODg0NDczNzkwMDAsImhhc2giOiIwNzAzNWExMDgwN2Q3MjQ3ZjhlNDdkN2M1ZWNhODc4NDA3ZjJmODBiZDI2NTJlNmY3MGYxZmNkYzI2YTM1N2EwIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA0IFtIaW5kaV0gLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/wTBdoAyZ?download"
+              "hindi": "https://pixeldrain.net/u/wTBdoAyZ?download",
+              "original": "https://my.1anime.site/videos/the-angel-next-door-spoils-me-rotten-season-2-episode-4.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87759,7 +90775,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/oQLJAjD9?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jODhlMGIzMzliMjcwMTI2NzhkOWIyYjEwNTIxOGVlZD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwOTI0NTlaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA1JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1kZTg0MGU2YzgyMzQzNzdhZmI1MzRkMDQ2OWI5MjJjNzRlM2QxMDVhNTAwNWM4NTU2ODYzYjQ2NGU2Y2ZmMjE3IiwidGltZXN0YW1wIjoxNzg4NDQ3Mzg0MDAwLCJoYXNoIjoiMDA2OGVmY2M3ZDk0YjU2YzkzYjMxMmMzOTQxZmU0NDE4ZmQ1NDBhNThlN2ZhMWM0NzkwYzhkZTBjNDc3MjliNCIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwNSBbSGluZGldLm1rdiJ9",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9jODhlMGIzMzliMjcwMTI2NzhkOWIyYjEwNTIxOGVlZD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwOTI0NTlaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA1JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1kZTg0MGU2YzgyMzQzNzdhZmI1MzRkMDQ2OWI5MjJjNzRlM2QxMDVhNTAwNWM4NTU2ODYzYjQ2NGU2Y2ZmMjE3IiwidGltZXN0YW1wIjoxNzg4NDQ3Mzg0MDAwLCJoYXNoIjoiMDA2OGVmY2M3ZDk0YjU2YzkzYjMxMmMzOTQxZmU0NDE4ZmQ1NDBhNThlN2ZhMWM0NzkwYzhkZTBjNDc3MjliNCIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwNSBbSGluZGldLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/oQLJAjD9?download"
+              "hindi": "https://pixeldrain.net/u/oQLJAjD9?download",
+              "original": "https://my.1anime.site/videos/the-angel-next-door-spoils-me-rotten-season-2-episode-5.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87776,7 +90793,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/jserww9B?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4ZTU5MTY3MzViMmVkNmZiNjY0N2U4OGFlNDk0NTU3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1NVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDYlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWZjNjA5ODJkZTVkMThhNmMwNzMzYzVhNzQwYzJlZjRkYmI4YzIwMDViZjk1NWVhNjgxOWI2MjY1YjllMzY3ZWMiLCJ0aW1lc3RhbXAiOjE3ODg0NDczODgwMDAsImhhc2giOiI1ZGM0Y2U5OGM1OGExZjUwZTg5NGUyMGM5MjFmZmU4YjhiYTk3YzJjNTE0MzEzYWUwNTdhYzlhYWIxZWMxZDMzIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA2IFtIaW5kaV0ubWt2In0",
               "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2Y4ZTU5MTY3MzViMmVkNmZiNjY0N2U4OGFlNDk0NTU3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1NVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMDYlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWZjNjA5ODJkZTVkMThhNmMwNzMzYzVhNzQwYzJlZjRkYmI4YzIwMDViZjk1NWVhNjgxOWI2MjY1YjllMzY3ZWMiLCJ0aW1lc3RhbXAiOjE3ODg0NDczODgwMDAsImhhc2giOiI1ZGM0Y2U5OGM1OGExZjUwZTg5NGUyMGM5MjFmZmU4YjhiYTk3YzJjNTE0MzEzYWUwNTdhYzlhYWIxZWMxZDMzIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTA2IFtIaW5kaV0ubWt2In0",
-              "hindi": "https://pixeldrain.net/u/jserww9B?download"
+              "hindi": "https://pixeldrain.net/u/jserww9B?download",
+              "original": "https://my.1anime.site/videos/the-angel-next-door-spoils-me-rotten-season-2-episode-6.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87793,7 +90811,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/PBbnEovd?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=bdcd6bc32edc814301268ece2cdc9b4b509cb7b893bfbbc33eaf11f000a391e24cf5bc9e579561a3b147f2c9b1f5b60e11a1eebb31ee9f7b03c46f547ac3cd668255c74c67df00e8cd1cc5152bb6a1fe91ab7f95658c797370d65b1b2d56d902::ad212e242ed2d5b6a2464d3a7b51df5a",
               "480p": "https://pixel.rohitkiskk.workers.dev/?id=bdcd6bc32edc814301268ece2cdc9b4b509cb7b893bfbbc33eaf11f000a391e24cf5bc9e579561a3b147f2c9b1f5b60e11a1eebb31ee9f7b03c46f547ac3cd668255c74c67df00e8cd1cc5152bb6a1fe91ab7f95658c797370d65b1b2d56d902::ad212e242ed2d5b6a2464d3a7b51df5a",
-              "hindi": "https://pixeldrain.net/u/PBbnEovd?download"
+              "hindi": "https://pixeldrain.net/u/PBbnEovd?download",
+              "original": "https://my.1anime.site/videos/the-angel-next-door-spoils-me-rotten-season-2-episode-7.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87810,7 +90829,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/ihY4R8FP?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1FPajVHV1R6cDMyS0FZUzZZWmJ1TWg5Q1NBQmxfdWlyZFFHSTlMSHJ6VjltYzdZZU9yZFR0Y0MyTVVlYURjTEUydy1pZmN3dm1FQjZlWFNXOWdKTUt0d3RvZE4tVkwtRDJ1MHhVekNvMWpwQ3BKTUxtOWhhN3pjM0xtanR4aTdFYkhiVU1yVDR4Ynh2dXA4TDdrb1lhYjdDbUQ4LWV1bHluRUFDQVdqUW1tTmhKaHYzNjhxTTg2OGxhUU9DQ0ltUFQzcEI1a2ZLNkRpMEFCQ2d6bU0wQUhrUVcwSkhkdnEzTy01VTBhaHJZQkY1d1hxMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzM5ODAwMCwiaGFzaCI6ImViODI3OGY3YzAyYWYwNDlmYjhkYTJlYzBiODNkZGFmMDRlNmNmYzAyZDQ0MmIzMjRjNjA2NzQ0Y2EwYzczOGEiLCJmaWxlbmFtZSI6IlRoZSBBbmdlbCBOZXh0IERvb3IgU3BvaWxzIE1lIFJvdHRlbiBTMDJFMDggW0hpbmRpXS5ta3YifQ",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ya1FPajVHV1R6cDMyS0FZUzZZWmJ1TWg5Q1NBQmxfdWlyZFFHSTlMSHJ6VjltYzdZZU9yZFR0Y0MyTVVlYURjTEUydy1pZmN3dm1FQjZlWFNXOWdKTUt0d3RvZE4tVkwtRDJ1MHhVekNvMWpwQ3BKTUxtOWhhN3pjM0xtanR4aTdFYkhiVU1yVDR4Ynh2dXA4TDdrb1lhYjdDbUQ4LWV1bHluRUFDQVdqUW1tTmhKaHYzNjhxTTg2OGxhUU9DQ0ltUFQzcEI1a2ZLNkRpMEFCQ2d6bU0wQUhrUVcwSkhkdnEzTy01VTBhaHJZQkY1d1hxMCIsInRpbWVzdGFtcCI6MTc4ODQ0NzM5ODAwMCwiaGFzaCI6ImViODI3OGY3YzAyYWYwNDlmYjhkYTJlYzBiODNkZGFmMDRlNmNmYzAyZDQ0MmIzMjRjNjA2NzQ0Y2EwYzczOGEiLCJmaWxlbmFtZSI6IlRoZSBBbmdlbCBOZXh0IERvb3IgU3BvaWxzIE1lIFJvdHRlbiBTMDJFMDggW0hpbmRpXS5ta3YifQ",
-              "hindi": "https://pixeldrain.net/u/ihY4R8FP?download"
+              "hindi": "https://pixeldrain.net/u/ihY4R8FP?download",
+              "original": "https://my.1anime.site/videos/the-angel-next-door-spoils-me-rotten-season-2-episode-8.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87827,7 +90847,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/Y1SAzTCt?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNGUwN2JiYzQyYmNkOWQ0YWM2Njk0MDdkZDM5YWMyOGUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8wYmExYzI4NTEwNDBhYTZmMWY3NTMyNjlmZWMyNGU0OD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWVlODI1ODI2Njk0MjM2NTJlZGI3ZjQyZmQzOGI0MTJjJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxOTU0MjhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA5JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01YThjNjlmNTY5MjcxNjBhMTFlZTg4NTU1NTFmZDJhMDBiY2RmYjI3YjI2MjBjNjM3MjE2NDE1MjY4OTEwZThlIiwidGltZXN0YW1wIjoxNzg4NDQ3NDA4MDAwLCJoYXNoIjoiZWM0MjhlYTkwYjQ4YjExNDkxYjc4NDEwZDJjOTA1NTA4OTViNjJjZmRmMzllOTY4NGUxYzQ3YWFhNmY5NDdiYyIsImZpbGV uYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwOSBbSGluZGldLm1rdiJ9",
               "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvNGUwN2JiYzQyYmNkOWQ0YWM2Njk0MDdkZDM5YWMyOGUucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC8wYmExYzI4NTEwNDBhYTZmMWY3NTMyNjlmZWMyNGU0OD9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWVlODI1ODI2Njk0MjM2NTJlZGI3ZjQyZmQzOGI0MTJjJTJGMjAyNjA4MjUlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQxOTU0MjhaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTA5JTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01YThjNjlmNTY5MjcxNjBhMTFlZTg4NTU1NTFmZDJhMDBiY2RmYjI3YjI2MjBjNjM3MjE2NDE1MjY4OTEwZThlIiwidGltZXN0YW1wIjoxNzg4NDQ3NDA4MDAwLCJoYXNoIjoiZWM0MjhlYTkwYjQ4YjExNDkxYjc4NDEwZDJjOTA1NTA4OTViNjJjZmRmMzllOTY4NGUxYzQ3YWFhNmY5NDdiYyIsImZpbGV uYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUwOSBbSGluZGldLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/Y1SAzTCt?download"
+              "hindi": "https://pixeldrain.net/u/Y1SAzTCt?download",
+              "original": "https://my.1anime.site/videos/the-angel-next-door-spoils-me-rotten-season-2-episode-9.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87844,7 +90865,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/AeTYTvme?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iN2EwZmQ5ZjJlYjc3NDRhNzBmOWM0YTFlYTQyZGI2ZT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwMTUzNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTEwJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT02YzkzOTMxMjg3M2M2MjgxOGJhYTAzYzBhZDY2NGUzNzI5ODQwNjM5MTExMzNmZWY1OGNhYzkyYWY2MWM0ZGQ0IiwidGltZXN0YW1wIjoxNzg4NDQ3NDE0MDAwLCJoYXNoIjoiY2QzYWIxMmNlNzdmMTVmNjNhYzM3YzNiOTYxZDUxNmZjOTBkZmYxYzBiOTc0YjBmYzFlNzU4MmRiNjU3NmM2NSIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUxMCBbSGluZGldLm1rdiJ9",
               "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvOWY3ZTJiOWY1ZWUzMDRkODU4YzlhNzQzYTNhYTUzNTcucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWIyXC9iN2EwZmQ5ZjJlYjc3NDRhNzBmOWM0YTFlYTQyZGI2ZT9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPWYzYTJmYzgwOThhZjgzMzY2NGExYWYxOTA4MjQ5OTMxJTJGMjAyNjA4MzAlMkZhdXRvJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgzMFQwMTUzNDFaJlgtQW16LUV4cGlyZXM9Mjg4MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249YXR0YWNobWVudCUzQiUyMGZpbGVuYW1lJTNEJTIyVGhlJTIwQW5nZWwlMjBOZXh0JTIwRG9vciUyMFNwb2lscyUyME1lJTIwUm90dGVuJTIwUzAyRTEwJTIwJTVCSGluZGklNUQubWt2JTIyJlgtQW16LVNpZ25hdHVyZT02YzkzOTMxMjg3M2M2MjgxOGJhYTAzYzBhZDY2NGUzNzI5ODQwNjM5MTExMzNmZWY1OGNhYzkyYWY2MWM0ZGQ0IiwidGltZXN0YW1wIjoxNzg4NDQ3NDE0MDAwLCJoYXNoIjoiY2QzYWIxMmNlNzdmMTVmNjNhYzM3YzNiOTYxZDUxNmZjOTBkZmYxYzBiOTc0YjBmYzFlNzU4MmRiNjU3NmM2NSIsImZpbGVuYW1lIjoiVGhlIEFuZ2VsIE5leHQgRG9vciBTcG9pbHMgTWUgUm90dGVuIFMwMkUxMCBbSGluZGldLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/AeTYTvme?download"
+              "hindi": "https://pixeldrain.net/u/AeTYTvme?download",
+              "original": "https://my.1anime.site/videos/The_Angel_Next_Door_Spoils_Me_Rotten_Season_2_Episode_10_1780670489.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87861,7 +90883,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/RaLu3Spb?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzQxNjhjMGU1NjUwNGNhOWJmNGNkMTA2MzU5NmEyZmRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDEwNTYwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTElMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTViMTk1M2JkMjZhOGFiNDkyYWUyMWM1YzVlMzk3M2EwZTQ1MjM3MGU4OTcwZTNjZTAzN2ZmYjU2YTJkNTZiMjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjEwMDAsImhhc2giOiJiMGY5ZDQyOTVlM2ZlNTdhNTY3MTBjMWVhM2I2NGQyNDJlYWRjOTM3MzU4MGVhZmMzM2M0MTBlNjgxOTFjY2QyIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTExIFtIaW5kaV0ubWt2In0",
               "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvYzZiMWU4YzkzNjgzYmRkZTU4MWUyMTY0Y2I5NjU3YzkucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzQxNjhjMGU1NjUwNGNhOWJmNGNkMTA2MzU5NmEyZmRkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9Y2UzODA2ZmRjYTk5N2Y2NWUzNTZmM2I2ZmMyZjczNWQlMkYyMDI2MDgyOCUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI4VDEwNTYwN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjBUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTElMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPTViMTk1M2JkMjZhOGFiNDkyYWUyMWM1YzVlMzk3M2EwZTQ1MjM3MGU4OTcwZTNjZTAzN2ZmYjU2YTJkNTZiMjIiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjEwMDAsImhhc2giOiJiMGY5ZDQyOTVlM2ZlNTdhNTY3MTBjMWVhM2I2NGQyNDJlYWRjOTM3MzU4MGVhZmMzM2M0MTBlNjgxOTFjY2QyIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTExIFtIaW5kaV0ubWt2In0",
-              "hindi": "https://pixeldrain.net/u/RaLu3Spb?download"
+              "hindi": "https://pixeldrain.net/u/RaLu3Spb?download",
+              "original": "https://my.1anime.site/videos/The_Angel_Next_Door_Spoils_Me_Rotten_Season_2_Episode_11_1781275163.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -87878,7 +90901,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/qkbCBW4g?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE0NWEyMjI0NDVlMTJjMzY2MzQwYTE1OTgxYzE5NzQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTIlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWY5NjMzNDA4N2E3M2NmZTg2Mzk4MTg2ZGZmMjkwMjQ1ODI1NTY3MDY1YTQ3YjQ3ZTFiODA5NGY5ZWNkM2NiNzYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjcwMDAsImhhc2giOiJmNGViZGNkZWI4YzlkZTJkNTlkZjYyOTJjZDU4OGE5MzViNDY4MThjMWRmNGY0NTMxZWE0MWE4ZWNjNDIwNzliIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTEyIFtIaW5kaV0ubWt2In0",
               "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzE0NWEyMjI0NDVlMTJjMzY2MzQwYTE1OTgxYzE5NzQ5P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDEwNDg1OFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJUaGUlMjBBbmdlbCUyME5leHQlMjBEb29yJTIwU3BvaWxzJTIwTWUlMjBSb3R0ZW4lMjBTMDJFMTIlMjAlNUJIaW5kaSU1RC5ta3YlMjImWC1BbXotU2lnbmF0dXJlPWY5NjMzNDA4N2E3M2NmZTg2Mzk4MTg2ZGZmMjkwMjQ1ODI1NTY3MDY1YTQ3YjQ3ZTFiODA5NGY5ZWNkM2NiNzYiLCJ0aW1lc3RhbXAiOjE3ODg0NDc0MjcwMDAsImhhc2giOiJmNGViZGNkZWI4YzlkZTJkNTlkZjYyOTJjZDU4OGE5MzViNDY4MThjMWRmNGY0NTMxZWE0MWE4ZWNjNDIwNzliIiwiZmlsZW5hbWUiOiJUaGUgQW5nZWwgTmV4dCBEb29yIFNwb2lscyBNZSBSb3R0ZW4gUzAyRTEyIFtIaW5kaV0ubWt2In0",
-              "hindi": "https://pixeldrain.net/u/qkbCBW4g?download"
+              "hindi": "https://pixeldrain.net/u/qkbCBW4g?download",
+              "original": "https://my.1anime.site/videos/The_Angel_Next_Door_Spoils_Me_Rotten_Season_2_Episode_12_1781880147.mp4?dl=1"
             },
             "hasTelegram": false
           }
@@ -88080,10 +91104,12 @@ export const ANIME_DATABASE = [
       }
     ],
     "languages": [
-      "hindi"
+      "hindi",
+      "original"
     ],
     "hasDub": true,
-    "hasSub": true
+    "hasSub": true,
+    "audioTrack": "Multi-Audio (Hindi Dub + Original)"
   },
   {
     "id": "naruto-shippuden",
@@ -96566,7 +99592,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/6xs6uymL?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzg2YTMyMzUwN2Y4MjkzMzUzNGQxNzEzZjhiNTI0ZDRiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDA4MzIxM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjAlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDMlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1mZGVlZjEyYTM2Y2E2MTUxMzM4OTI5YmM3YmEyZGI2ODM3OTQzOTE1NDdmZjg0NjQxMmNlZTMzMThkN2ZiOWU2IiwidGltZXN0YW1wIjoxNzg4NDQ4MDcwMDAwLCJoYXNoIjoiMTBlMzZmZTY4Y2Q1NDUyZjc1OGM5YWUwNDk3YjhhMzlkZjRiMmM2YTFjYTBlMGIyZjMzZjNmMWJkNGY4ZWRkOCIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwMyAtIEhpbmRpLm1rdiJ9",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZjg0Zjg0YWQzZTk2MjQ3ZjVkMTMyZTUwZTI1YWNlNzQucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzg2YTMyMzUwN2Y4MjkzMzUzNGQxNzEzZjhiNTI0ZDRiP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9NmIzNDlmZWZkYWViNzNmODRiZDdlZDRhOTEwNWZlMTglMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDA4MzIxM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlMjAlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDMlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT1mZGVlZjEyYTM2Y2E2MTUxMzM4OTI5YmM3YmEyZGI2ODM3OTQzOTE1NDdmZjg0NjQxMmNlZTMzMThkN2ZiOWU2IiwidGltZXN0YW1wIjoxNzg4NDQ4MDcwMDAwLCJoYXNoIjoiMTBlMzZmZTY4Y2Q1NDUyZjc1OGM5YWUwNDk3YjhhMzlkZjRiMmM2YTFjYTBlMGIyZjMzZjNmMWJkNGY4ZWRkOCIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwMyAtIEhpbmRpLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/6xs6uymL?download"
+              "hindi": "https://pixeldrain.net/u/6xs6uymL?download",
+              "original": "https://my.1anime.site/videos/my-hero-academia-vigilantes-season-2-episode-3.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -96600,7 +99627,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/dFictru3?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzg3ZWQzZDFjYzUzNzhkZjU4ZTI0MzFkZGMxYTg4ODMyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTM0N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDUlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01MWFhM2UwYTE2ODMwYTY4MDRlOGFhMGM1NjEyN2EwOWE4MDdmMzgyYTQ4MzRkNWU0YzQ5NWE4ZTQ1NTFmNzdkIiwidGltZXN0YW1wIjoxNzg4NDQ4MDg0MDAwLCJoYXNoIjoiNGE2OWQ4MzlmZDFhODk4NGMzODdjYWY4Yjg4ZjhlNjVhMjVlNzQzMGUyZjgzZDZiZWIzYjQxNGUwZjczYzZkOSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNSAtIEhpbmRpLm1rdiJ9",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzg3ZWQzZDFjYzUzNzhkZjU4ZTI0MzFkZGMxYTg4ODMyP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTM0N1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDUlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT01MWFhM2UwYTE2ODMwYTY4MDRlOGFhMGM1NjEyN2EwOWE4MDdmMzgyYTQ4MzRkNWU0YzQ5NWE4ZTQ1NTFmNzdkIiwidGltZXN0YW1wIjoxNzg4NDQ4MDg0MDAwLCJoYXNoIjoiNGE2OWQ4MzlmZDFhODk4NGMzODdjYWY4Yjg4ZjhlNjVhMjVlNzQzMGUyZjgzZDZiZWIzYjQxNGUwZjczYzZkOSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNSAtIEhpbmRpLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/dFictru3?download"
+              "hindi": "https://pixeldrain.net/u/dFictru3?download",
+              "original": "https://my.1anime.site/videos/my-hero-academia-vigilantes-season-2-episode-5.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -96617,7 +99645,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/CaciVd5g?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UzMTg4ZDM3YTQ3NDU0YTMyZmM2MWRkMzQ4ZGQ2NjIwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTUyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDYlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0wMWVmMGMzZjEwZGJmMTg5MmE0MzcyYzRkNWRiM2I1NThlZjFkNTcxMmQxZTZiM2M4MzFhMWI1NDQzYjYzMjU2IiwidGltZXN0YW1wIjoxNzg4NDQ4MDkyMDAwLCJoYXNoIjoiYmVkZDE3ZTFjMmJhNGI0YmE1MzgzMTMxMTllNzA4YTc2OTFkOGE3Y2QwODk2Yzk1ODAwZDEzNTA4MmM1OWQ3YiIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNiAtIEhpbmRpLm1rdiJ9",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2UzMTg4ZDM3YTQ3NDU0YTMyZmM2MWRkMzQ4ZGQ2NjIwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMSUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAxVDA0NTUyN1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDYlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0wMWVmMGMzZjEwZGJmMTg5MmE0MzcyYzRkNWRiM2I1NThlZjFkNTcxMmQxZTZiM2M4MzFhMWI1NDQzYjYzMjU2IiwidGltZXN0YW1wIjoxNzg4NDQ4MDkyMDAwLCJoYXNoIjoiYmVkZDE3ZTFjMmJhNGI0YmE1MzgzMTMxMTllNzA4YTc2OTFkOGE3Y2QwODk2Yzk1ODAwZDEzNTA4MmM1OWQ3YiIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNiAtIEhpbmRpLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/CaciVd5g?download"
+              "hindi": "https://pixeldrain.net/u/CaciVd5g?download",
+              "original": "https://my.1anime.site/videos/my-hero-academia-vigilantes-season-2-episode-6.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -96634,7 +99663,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/DvWC3SLY?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY3ZDk4ZThjYjhlYjk0ZTUzMzBhOTUxMTc1NTk1MGMwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE1Mjk0MVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDclMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT03ZGNlMmJhYjAxYWZiMDA5NDllM2IxMTZkMDMxY2U4ZDBjOTJiOWExNjYwMmRjODQ1MjYwYjQ5MjdiMWZkZjViIiwidGltZXN0YW1wIjoxNzg4NDQ4MTA1MDAwLCJoYXNoIjoiYjQxODIzOGIwZDdiZmJhOTJhYTI2NDA0ZGE3ODNmOTAwN2E3YjMwZWMyYmU0ODA1MWE2NGI0ZjUwZDQyNWRhZCIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNyAtIEhpbmRpLm1rdiJ9",
               "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzY3ZDk4ZThjYjhlYjk0ZTUzMzBhOTUxMTc1NTk1MGMwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE1Mjk0MVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDclMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT03ZGNlMmJhYjAxYWZiMDA5NDllM2IxMTZkMDMxY2U4ZDBjOTJiOWExNjYwMmRjODQ1MjYwYjQ5MjdiMWZkZjViIiwidGltZXN0YW1wIjoxNzg4NDQ4MTA1MDAwLCJoYXNoIjoiYjQxODIzOGIwZDdiZmJhOTJhYTI2NDA0ZGE3ODNmOTAwN2E3YjMwZWMyYmU0ODA1MWE2NGI0ZjUwZDQyNWRhZCIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwNyAtIEhpbmRpLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/DvWC3SLY?download"
+              "hindi": "https://pixeldrain.net/u/DvWC3SLY?download",
+              "original": "https://my.1anime.site/videos/my-hero-academia-vigilantes-season-2-episode-7.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -96651,7 +99681,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/qVrpqu5C?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMxNjBkYTE4ZTRiNTE1NzY4NjExZDRjMTA1ZDQ3MzZjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDA1OVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDglMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYjI3MmE0ZmIwYWE3MDQ4N2Q0MmNhYjE3OWRiZGE5MGU1NzIxNWI0MjdlMTFjMmI3ZGZiMzhiM2JhZjhlZWU0IiwidGltZXN0YW1wIjoxNzg4NDQ4MTEwMDAwLCJoYXNoIjoiYjA2NGE4OTI4NWMyYzcyNGEzYjAwZDE2NTc3YTc0MWUxODM4ZDEzMjc5NTBiMDc4OGQ2NjcwNDc0ZmY0ZDgxNyIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwOCAtIEhpbmRpLm1rdiJ9",
               "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMxNjBkYTE4ZTRiNTE1NzY4NjExZDRjMTA1ZDQ3MzZjP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDA1OVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDglMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYjI3MmE0ZmIwYWE3MDQ4N2Q0MmNhYjE3OWRiZGE5MGU1NzIxNWI0MjdlMTFjMmI3ZGZiMzhiM2JhZjhlZWU0IiwidGltZXN0YW1wIjoxNzg4NDQ4MTEwMDAwLCJoYXNoIjoiYjA2NGE4OTI4NWMyYzcyNGEzYjAwZDE2NTc3YTc0MWUxODM4ZDEzMjc5NTBiMDc4OGQ2NjcwNDc0ZmY0ZDgxNyIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwOCAtIEhpbmRpLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/qVrpqu5C?download"
+              "hindi": "https://pixeldrain.net/u/qVrpqu5C?download",
+              "original": "https://my.1anime.site/videos/my-hero-academia-vigilantes-season-2-episode-8.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -96668,7 +99699,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/Vh3vvPww?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RmMTliYmUwNmY4OGYxNmRmODUyMmY0NDA5ODcwNjkwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDIzOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDklMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYTBjYzRmOTYzMDRiNzM4MTAxMDU2ZjI3NmQ4NTVmM2E5ZjI3MjBmODcyNTE5MGRiM2U1YzM4Yjk0YjIwMzk3IiwidGltZXN0YW1wIjoxNzg4NDQ4MTE5MDAwLCJoYX NoIjoiOTgwZDEwNjg2MDA5NTc1YTZjMmJiNGUwZWM2ZDY1MmQyODlkMDg1MDg1NjU5NTlhMGFjMDU3MTIxOGUwMjkzZiIsIm ZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwOSAtIEhpbmRpLm1rdiJ9",
               "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvY2U3M2RjZjFmMWFkZjBkMzRlOTM2OGRjNDdhM2EwMTAucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RmMTliYmUwNmY4OGYxNmRmODUyMmY0NDA5ODcwNjkwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9MTQ5NWZiZDgxZTdiOTJiM2YxMTRlY2E2NjRhODUwMGIlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDIzOFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMDklMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yYTBjYzRmOTYzMDRiNzM4MTAxMDU2ZjI3NmQ4NTVmM2E5ZjI3MjBmODcyNTE5MGRiM2U1YzM4Yjk0YjIwMzk3IiwidGltZXN0YW1wIjoxNzg4NDQ4MTE5MDAwLCJoYX NoIjoiOTgwZDEwNjg2MDA5NTc1YTZjMmJiNGUwZWM2ZDY1MmQyODlkMDg1MDg1NjU5NTlhMGFjMDU3MTIxOGUwMjkzZiIsIm ZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUwOSAtIEhpbmRpLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/Vh3vvPww?download"
+              "hindi": "https://pixeldrain.net/u/Vh3vvPww?download",
+              "original": "https://my.1anime.site/videos/my-hero-academia-vigilantes-season-2-episode-9.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -96685,7 +99717,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/vrdLUAtD?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMzMzU3MGU2MDFlYTk3MWQ0NThmMjcxZmI4ZTBjMTRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDQwM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTAlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yZTMwMDNhMmEyMWY5NjBkOGM5NzY1ZDExN2U2ODI2MDQzYWExNGRlMzFlYTRjZTlkY2VjMTRlOWNiNTU3ODAxIiwidGltZXN0YW1wIjoxNzg4NDQ4MTI4MDAwLCJoYXNoIjoiYmY0ZWI5Y2Y1ODIyZTQxNzkwZDZlYjcwZWQ0ZWQ1YWNhZTIxZTc5Mjg3MWM0MmE0ZThhZmM5ZTRkYTYzODYxMyIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMCAtIEhpbmRpLm1rdiJ9",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzMzMzU3MGU2MDFlYTk3MWQ0NThmMjcxZmI4ZTBjMTRhP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDQwM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTAlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT0yZTMwMDNhMmEyMWY5NjBkOGM5NzY1ZDExN2U2ODI2MDQzYWExNGRlMzFlYTRjZTlkY2VjMTRlOWNiNTU3ODAxIiwidGltZXN0YW1wIjoxNzg4NDQ4MTI4MDAwLCJoYXNoIjoiYmY0ZWI5Y2Y1ODIyZTQxNzkwZDZlYjcwZWQ0ZWQ1YWNhZTIxZTc5Mjg3MWM0MmE0ZThhZmM5ZTRkYTYzODYxMyIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMCAtIEhpbmRpLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/vrdLUAtD?download"
+              "hindi": "https://pixeldrain.net/u/vrdLUAtD?download",
+              "original": "https://my.1anime.site/videos/my-hero-academia-vigilantes-season-2-episode-10.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -96702,7 +99735,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://pixeldrain.net/u/duRs3Y6s?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzYxMjZiMDg1M2M2YWUwNWMxYWM5M2Y3NTI3YzM0MDdkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDQ1OVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTElMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT04MzJlZDE4ZjI0MTg3OGE0MzE1M2Q2ZDU1ZWNiMmU3ZWI1ODRjYjU5MGIzOTg3MTEyNmMzNGEzMzc3ZTVhYjA0IiwidGltZXN0YW1wIjoxNzg4NDQ4MTM2MDAwLCJoYXNoIjoiZjE4NzdiNDc4MWNiZTcxY2M1MDUzYTVmZGYzZDg1YzhkZmUyYWNiZjI3NWZkNzYwNjQzN2Q0YWI1YWI4ZjY4YSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMSAtIEhpbmRpLm1rdiJ9",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcLzYxMjZiMDg1M2M2YWUwNWMxYWM5M2Y3NTI3YzM0MDdkP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDQ1OVomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTElMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT04MzJlZDE4ZjI0MTg3OGE0MzE1M2Q2ZDU1ZWNiMmU3ZWI1ODRjYjU5MGIzOTg3MTEyNmMzNGEzMzc3ZTVhYjA0IiwidGltZXN0YW1wIjoxNzg4NDQ4MTM2MDAwLCJoYXNoIjoiZjE4NzdiNDc4MWNiZTcxY2M1MDUzYTVmZGYzZDg1YzhkZmUyYWNiZjI3NWZkNzYwNjQzN2Q0YWI1YWI4ZjY4YSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMSAtIEhpbmRpLm1rdiJ9",
-              "hindi": "https://pixeldrain.net/u/duRs3Y6s?download"
+              "hindi": "https://pixeldrain.net/u/duRs3Y6s?download",
+              "original": "https://my.1anime.site/videos/my-hero-academia-vigilantes-season-2-episode-11.mp4?dl=1"
             },
             "hasTelegram": false
           },
@@ -96736,7 +99770,8 @@ export const ANIME_DATABASE = [
               "1080p": "https://hubcloud.ist/drive/qjvmcot9qt9tikb",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RjNWU3YjQ1Nzk1NWZkNzk3ZDk4MWQ2NjE0M2EyNTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDczM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTMlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT00MmQ4MjY2YTRmMjQ2ZGVlYmY5MmM1MDVhY2NmODZjYTQ0ZGUyOTk0ZmQ0YzZlYTYzNzY3YTQwZmMyY2RhYTVlIiwidGltZXN0YW1wIjoxNzg4NDQ4MTQ0MDAwLCJoYXNoIjoiZjNjOTcyZTc1MmEwYjllNjAwOGM0N2NkNGY2N2Q0MzBiOTE2YmI4MWEwNWNkMWE5MzQ1NzU3M2Q1NmY1OGY0OSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMyAtIEhpbmRpLm1rdiJ9",
               "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZDgyZTg1NjAxMzg4ZDM4OGE1Zjg5MjMyNGFhMjIwOTIucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RjNWU3YjQ1Nzk1NWZkNzk3ZDk4MWQ2NjE0M2EyNTE3P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OWIyYzkwNTM1ZTRlMTI3MGJmMWE0ZTJlNTIxMjBhZWYlMkYyMDI2MDkwMiUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAyVDE2MDczM1omWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjIlNUJSQUklNUQlMjBNeSUyMEhlcm8lMjBBY2FkZW1pYSUyMFZpZ2lsYW50ZXMlMjBTMDJFMTMlMjAtJTIwSGluZGkubWt2JTIyJlgtQW16LVNpZ25hdHVyZT00MmQ4MjY2YTRmMjQ2ZGVlYmY5MmM1MDVhY2NmODZjYTQ0ZGUyOTk0ZmQ0YzZlYTYzNzY3YTQwZmMyY2RhYTVlIiwidGltZXN0YW1wIjoxNzg4NDQ4MTQ0MDAwLCJoYXNoIjoiZjNjOTcyZTc1MmEwYjllNjAwOGM0N2NkNGY2N2Q0MzBiOTE2YmI4MWEwNWNkMWE5MzQ1NzU3M2Q1NmY1OGY0OSIsImZpbGVuYW1lIjoiW1JBSV0gTXkgSGVybyBBY2FkZW1pYSBWaWdpbGFudGVzIFMwMkUxMyAtIEhpbmRpLm1rdiJ9",
-              "hindi": "https://hubcloud.ist/drive/qjvmcot9qt9tikb"
+              "hindi": "https://hubcloud.ist/drive/qjvmcot9qt9tikb",
+              "original": "https://my.1anime.site/videos/my-hero-academia-vigilantes-season-2-episode-13.mp4?dl=1"
             },
             "hasTelegram": false
           }
