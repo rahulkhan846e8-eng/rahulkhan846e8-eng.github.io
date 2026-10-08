@@ -12,10 +12,10 @@ import {
   getAnimeSummary as getAnimeById, 
   getFullAnimeDetails,
   searchAnime 
-} from './catalog.js?v=20261007_v3';
+} from './catalog.js?v=20261008_v1';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
-import { UIRenderer } from './ui.js?v=20261007_v3';
+import { UIRenderer } from './ui.js?v=20261008_v1';
 
 class App {
   constructor() {
@@ -148,6 +148,11 @@ class App {
         this.selectedType = decodeURIComponent(params.get("type"));
       } else {
         this.selectedType = "All";
+      }
+      if (params.has("sort")) {
+        this.selectedSort = decodeURIComponent(params.get("sort"));
+      } else {
+        this.selectedSort = "popularity";
       }
       if (params.has("q")) {
         this.searchQuery = decodeURIComponent(params.get("q"));
@@ -387,7 +392,7 @@ class App {
     let currentSearch = this.searchQuery || "";
     let currentGenre = this.selectedCategory || "All";
     let currentType = this.selectedType || "All";
-    let currentSort = "popularity";
+    let currentSort = this.selectedSort || "popularity";
 
     const filterTypeSelect = document.getElementById("filter-type");
     if (filterTypeSelect && currentType) {
