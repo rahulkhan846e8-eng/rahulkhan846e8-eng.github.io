@@ -141,14 +141,18 @@ window.SHINOBI_ADS_CONFIG = {
                           (ifr.style && ifr.style.position === "fixed");
 
       if (isSocialBar) {
+        if (window.innerWidth <= 768 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+          ifr.style.setProperty("display", "none", "important");
+          ifr.style.setProperty("visibility", "hidden", "important");
+          ifr.style.setProperty("opacity", "0", "important");
+          ifr.style.setProperty("pointer-events", "none", "important");
+          return;
+        }
+
         ifr.style.setProperty("max-height", "86px", "important");
         ifr.style.setProperty("border", "none", "important");
         ifr.style.setProperty("outline", "none", "important");
         ifr.style.setProperty("box-shadow", "none", "important");
-        if (window.innerWidth <= 768) {
-          ifr.style.setProperty("transform", "scale(0.92)", "important");
-          ifr.style.setProperty("transform-origin", "top center", "important");
-        }
 
         const polishInside = function() {
           try {

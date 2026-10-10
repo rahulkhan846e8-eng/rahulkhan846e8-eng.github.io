@@ -131,13 +131,17 @@
       overflow: visible !important;
     }
     @media (max-width: 768px) {
+      /* Completely hide Social Bar floating ads on mobile */
       iframe[id*="container-"],
-      iframe[class*="container-"] {
-        max-width: 90% !important;
-        max-height: 80px !important;
-        top: 6px !important;
-        transform: scale(0.9) !important;
-        transform-origin: top center !important;
+      iframe[class*="container-"],
+      div[id*="container-"],
+      div[class*="container-"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+        height: 0 !important;
+        width: 0 !important;
       }
     }
     /* Responsive Mobile Hero Framing & Polish */
@@ -879,13 +883,25 @@
   </div>
 
   <!-- JavaScript Modules & Ad Configuration -->
-  <script src="js/ads-config.js?v=20261008_v2"></script>
+  <script src="js/ads-config.js?v=20261010_v1"></script>
   <script type="module" src="js/app.js?v=20261008_v2"></script>
 
   <!-- Adsterra Popunder (On-Click High CPM) -->
   <script src="https://pl31751437.profitableratecpmnetwork.com/92/2d/90/922d90b81800841f4a771b207622b7a2.js"></script>
 
-  <!-- Adsterra Social Bar -->
-  <script src="https://pl31674746.profitableratecpmnetwork.com/e6/2d/b3/e62db3372425766e5e996dabd08d7634.js"></script>
+  <!-- Adsterra Social Bar (Desktop Only - Disabled on Mobile) -->
+  <script>
+    (function() {
+      try {
+        const isMobile = window.innerWidth <= 768 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        if (!isMobile) {
+          const s = document.createElement("script");
+          s.src = "https://pl31674746.profitableratecpmnetwork.com/e6/2d/b3/e62db3372425766e5e996dabd08d7634.js";
+          s.async = true;
+          document.body.appendChild(s);
+        }
+      } catch (_) {}
+    })();
+  </script>
 </body>
 </html>
