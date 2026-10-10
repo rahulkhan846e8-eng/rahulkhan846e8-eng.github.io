@@ -3446,7 +3446,7 @@
 /* Header & Search Bar for Legal Pages */
 .brand-logo, .site-header .logo {
   display: inline-flex;
-  align-items: baseline;
+  align-items: center;
   text-decoration: none;
   font-size: 1.25rem;
   letter-spacing: 0.08em;
