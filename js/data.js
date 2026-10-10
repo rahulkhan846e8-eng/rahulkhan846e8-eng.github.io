@@ -37843,8 +37843,8 @@ export const ANIME_DATABASE = [
     "title": "Black Clover",
     "raw_name": "Black Clover",
     "japaneseTitle": "ブラッククローバー",
-    "poster": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-    "banner": "https://images.alphacoders.com/139/thumb-1920-1399535.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-fyh8o7gNbha0.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-fyh8o7gNbha0.png",
     "rating": 7.9,
     "year": 2017,
     "currentEpBadge": "S2-EP1",
@@ -76195,14 +76195,14 @@ export const ANIME_DATABASE = [
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
     "rating": 8.9,
     "year": 2024,
-    "audioBadge": "Multi-Audio",
+    "audioBadge": "HINDI DUB",
     "currentEpBadge": "S2-EP13",
     "status": "Airing",
     "type": "TV Series",
     "season": "Winter 2024",
     "studio": "A-1 Pictures",
     "hasSub": true,
-    "hasDub": false,
+    "hasDub": true,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -76347,133 +76347,186 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 2,
-            "title": "Episode 1",
+            "title": "You Aren’t E-Rank, Are You?",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 1",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XKD2F4uS?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/XKD2F4uS?download"
           },
           {
             "id": 2,
             "number": 2,
             "season": 2,
-            "title": "Episode 2",
+            "title": "I Suppose You Aren’t Aware",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/6LPUVHkh?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/6LPUVHkh?download"
           },
           {
             "id": 3,
             "number": 3,
             "season": 2,
-            "title": "Episode 3",
+            "title": "Still a Long Way to Go",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 3",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/nFMbEnBG?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/nFMbEnBG?download"
           },
           {
             "id": 4,
             "number": 4,
             "season": 2,
-            "title": "Episode 4",
+            "title": "I Need To Stop Faking",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 4",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/MM341qcJ?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/MM341qcJ?download"
           },
           {
             "id": 5,
             "number": 5,
             "season": 2,
-            "title": "Episode 5",
+            "title": "This Is What We’re Trained to Do",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 5",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/x71F1rh7?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/x71F1rh7?download"
           },
           {
             "id": 6,
             "number": 6,
             "season": 2,
-            "title": "Episode 6",
+            "title": "Don’t Look Down on My Guys",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 6",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/3qaSZHU6?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/3qaSZHU6?download"
           },
           {
             "id": 7,
             "number": 7,
             "season": 2,
-            "title": "Episode 7",
+            "title": "The 10th S-rank Hunter",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 7",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/M1R97kuy?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/M1R97kuy?download"
           },
           {
             "id": 8,
             "number": 8,
             "season": 2,
-            "title": "Episode 8",
+            "title": "Looking Up was Tiring Me Out",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 8",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/RvVj6sep?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/RvVj6sep?download"
           },
           {
             "id": 9,
             "number": 9,
             "season": 2,
-            "title": "Episode 9",
+            "title": "It Was All Worth It",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 9",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/HiKw7oo9?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/HiKw7oo9?download"
           },
           {
             "id": 10,
             "number": 10,
             "season": 2,
-            "title": "Episode 10",
+            "title": "We Need a Hero -",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 10",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/KBxCSSqB#FAWVqmuD8Fkjmkbw3LTQAJHgit3lSHmyT7QzV78LYUU"
+            },
+            "downloadUrl": "https://mega.nz/file/KBxCSSqB#FAWVqmuD8Fkjmkbw3LTQAJHgit3lSHmyT7QzV78LYUU"
           },
           {
             "id": 11,
             "number": 11,
             "season": 2,
-            "title": "Episode 11",
+            "title": "Its Going to Get Even More Intense -",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 11",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/rSJAiR4Y#mwVyNG9OSxeLF-mmZjrZcHyBFTeej-HPavp19eev-MI"
+            },
+            "downloadUrl": "https://mega.nz/file/rSJAiR4Y#mwVyNG9OSxeLF-mmZjrZcHyBFTeej-HPavp19eev-MI"
           },
           {
             "id": 12,
             "number": 12,
             "season": 2,
-            "title": "Episode 12",
+            "title": "Are You the King of Humans",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 12",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/bVz2VDYk?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/bVz2VDYk?download"
           },
           {
             "id": 13,
             "number": 13,
             "season": 2,
-            "title": "Episode 13",
+            "title": "On to the Next Target – Season Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
             "synopsis": "Episode 13",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/kzkEoFyA?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/kzkEoFyA?download"
           }
-        ]
+        ],
+        "isComingSoon": false
       }
     ],
     "episodes": [
@@ -76600,7 +76653,8 @@ export const ANIME_DATABASE = [
     ],
     "languages": [
       "hindi"
-    ]
+    ],
+    "audioTrack": "Hindi Dub"
   },
   {
     "id": "naruto",

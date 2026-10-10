@@ -7228,8 +7228,8 @@ export const ANIME_CATALOG = [
     "title": "Black Clover",
     "japaneseTitle": "ブラッククローバー",
     "raw_name": "Black Clover",
-    "poster": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-    "banner": "https://images.alphacoders.com/139/thumb-1920-1399535.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-fyh8o7gNbha0.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-fyh8o7gNbha0.png",
     "type": "TV Series",
     "status": "Upcoming",
     "year": 2017,
@@ -11729,12 +11729,12 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": true,
-    "audioTrack": "Original Dub",
-    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
     "languages": [
       "hindi"
     ],
-    "hasHindi": false,
+    "hasHindi": true,
     "hasOriginal": false,
     "synopsis": "In a world where hunters battle deadly monsters, Sung Jinwoo, the weakest hunter in the world, receives a mysterious quest log allowing him to level up indefinitely.",
     "seasonCount": 2,
@@ -13326,7 +13326,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=20261010_v11');
+    const { ANIME_DATABASE } = await import('./data.js?v=20261008_v2');
     for (const anime of ANIME_DATABASE) {
       const key = (anime.id || "").toLowerCase().trim();
       fullAnimeCache.set(key, anime);
