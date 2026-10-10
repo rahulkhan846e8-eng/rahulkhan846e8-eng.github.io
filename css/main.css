@@ -394,12 +394,22 @@ img {
 
 .footer-brand .footer-logo {
   display: inline-flex;
-  align-items: baseline;
+  align-items: center;
   font-size: 1.25rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   margin-bottom: 14px;
   user-select: none;
+}
+
+.footer-brand .footer-logo .footer-logo-img {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1.5px solid rgba(58, 134, 255, 0.6);
+  margin-right: 8px;
+  flex-shrink: 0;
 }
 
 .footer-brand .footer-logo .logo-main {
@@ -410,7 +420,7 @@ img {
 .footer-brand .footer-logo .logo-sub {
   font-weight: 400;
   color: var(--cr-accent);
-  margin-left: 5px;
+  margin-left: 3px;
 }
 
 .footer-brand p {

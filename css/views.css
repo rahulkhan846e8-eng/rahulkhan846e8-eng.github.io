@@ -3460,7 +3460,7 @@
 .brand-logo .logo-sub, .site-header .logo .logo-sub {
   font-weight: 400;
   color: var(--cr-accent, #3a86ff);
-  margin-left: 5px;
+  margin-left: 3px;
 }
 
 .legal-header-search,
