@@ -37869,6 +37869,728 @@ export const ANIME_DATABASE = [
     ],
     "seasons": [
       {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2017",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "Asta and Yuno",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 1 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/NaGx2tni?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/NaGx2tni?download"
+            }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "The Boys’ Promise",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 2 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/vg8Uz5nE?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/vg8Uz5nE?download"
+            }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "To the Royal Capital of the Clover Kingdom!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 3 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Ma5eNiur?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Ma5eNiur?download"
+            }
+          },
+          {
+            "id": 4,
+            "number": 4,
+            "season": 1,
+            "title": "The Magic Knights Entrance Exam",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 4 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/SkHJkRmL?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/SkHJkRmL?download"
+            }
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "season": 1,
+            "title": "The Path to the Wizard King",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 5 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/wxFxwTYA?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/wxFxwTYA?download"
+            }
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "season": 1,
+            "title": "The Black Bulls",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 6 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/KK5eWCsF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/KK5eWCsF?download"
+            }
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "season": 1,
+            "title": "The Other New Recruit -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 7 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/cdR22aYD#jVUKDYqJ4tR-14fX6DdbvdrRV7t7pDkzn1pa2ye2rfI",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/cdR22aYD#jVUKDYqJ4tR-14fX6DdbvdrRV7t7pDkzn1pa2ye2rfI"
+            }
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "season": 1,
+            "title": "Go! Go! First Mission -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 8 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/xc5BjKoZ#MalDhN0YGZL6QSQKEZ2sE5C139RVWMTcurytuuBauzg",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/xc5BjKoZ#MalDhN0YGZL6QSQKEZ2sE5C139RVWMTcurytuuBauzg"
+            }
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "season": 1,
+            "title": "Beasts -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 9 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/5EgjzQxK#KPpW69XhzxeITNIRqtD1CZ1Z9aIxlyxnJjXaCP4ChWg",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/5EgjzQxK#KPpW69XhzxeITNIRqtD1CZ1Z9aIxlyxnJjXaCP4ChWg"
+            }
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "season": 1,
+            "title": "Those Who Protect -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 10 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/pVoh1J7I#ljbMW8dbciGBMu-v6PWdFN4ywYRDEJ0cDENw4goKKx0",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/pVoh1J7I#ljbMW8dbciGBMu-v6PWdFN4ywYRDEJ0cDENw4goKKx0"
+            }
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "season": 1,
+            "title": "What Happened on a Certain Day in the Castle Town",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 11 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/j6HLJoYk?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/j6HLJoYk?download"
+            }
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "season": 1,
+            "title": "The Wizard King Saw",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 12 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/CzPNyYPa?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/CzPNyYPa?download"
+            }
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "season": 1,
+            "title": "The Wizard King Saw, Continued",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 13 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/97oD5Nkk?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/97oD5Nkk?download"
+            }
+          },
+          {
+            "id": 14,
+            "number": 14,
+            "season": 1,
+            "title": "Dungeon",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 14 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/JyeamE5r?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/JyeamE5r?download"
+            }
+          },
+          {
+            "id": 15,
+            "number": 15,
+            "season": 1,
+            "title": "The Diamond Mage",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 15 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Xu5te4Pr?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Xu5te4Pr?download"
+            }
+          },
+          {
+            "id": 16,
+            "number": 16,
+            "season": 1,
+            "title": "Friends",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 16 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/9yWkeqRp?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/9yWkeqRp?download"
+            }
+          },
+          {
+            "id": 17,
+            "number": 17,
+            "season": 1,
+            "title": "Destroyer",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 17 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/GpfeR2Hy?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/GpfeR2Hy?download"
+            }
+          },
+          {
+            "id": 18,
+            "number": 18,
+            "season": 1,
+            "title": "Memories of You",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 18 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ZAjKUxS3?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZAjKUxS3?download"
+            }
+          },
+          {
+            "id": 19,
+            "number": 19,
+            "season": 1,
+            "title": "Destruction and Salvation",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 19 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Lw63jXNw?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Lw63jXNw?download"
+            }
+          },
+          {
+            "id": 20,
+            "number": 20,
+            "season": 1,
+            "title": "Assembly at the Royal Capital",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 20 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/DMZ1kJgR?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DMZ1kJgR?download"
+            }
+          },
+          {
+            "id": 21,
+            "number": 21,
+            "season": 1,
+            "title": "Capital Riot",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 21 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/frXgpAbo?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/frXgpAbo?download"
+            }
+          },
+          {
+            "id": 22,
+            "number": 22,
+            "season": 1,
+            "title": "Wild Magic Dance",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 22 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/9e1ZHtji?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/9e1ZHtji?download"
+            }
+          },
+          {
+            "id": 23,
+            "number": 23,
+            "season": 1,
+            "title": "The Crimson Lion King",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 23 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/zaK7Vzop?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/zaK7Vzop?download"
+            }
+          },
+          {
+            "id": 24,
+            "number": 24,
+            "season": 1,
+            "title": "Blackout",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 24 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/u8nX6a92?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/u8nX6a92?download"
+            }
+          },
+          {
+            "id": 25,
+            "number": 25,
+            "season": 1,
+            "title": "Adversity -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 25 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/EMQ31R6S#RFUthDb8NI_vEnV_d7MbPy7-fE5BLTcgsEXVh1E9PxY",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/EMQ31R6S#RFUthDb8NI_vEnV_d7MbPy7-fE5BLTcgsEXVh1E9PxY"
+            }
+          },
+          {
+            "id": 26,
+            "number": 26,
+            "season": 1,
+            "title": "Wounded Beasts",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 26 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/AwLg7UUy?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/AwLg7UUy?download"
+            }
+          },
+          {
+            "id": 27,
+            "number": 27,
+            "season": 1,
+            "title": "Light",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 27 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/LJ8VYQs8?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/LJ8VYQs8?download"
+            }
+          },
+          {
+            "id": 28,
+            "number": 28,
+            "season": 1,
+            "title": "The One I’ve Set My Heart On",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 28 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/rtgGiDMD?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/rtgGiDMD?download"
+            }
+          },
+          {
+            "id": 29,
+            "number": 29,
+            "season": 1,
+            "title": "Filler! Path",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 29 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/CsHo1bRf?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/CsHo1bRf?download"
+            }
+          },
+          {
+            "id": 30,
+            "number": 30,
+            "season": 1,
+            "title": "The Mirror Mage",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 30 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/mxAs9RFP?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/mxAs9RFP?download"
+            }
+          },
+          {
+            "id": 31,
+            "number": 31,
+            "season": 1,
+            "title": "Pursuit Over the Snow",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 31 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/8B6EYyGU?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8B6EYyGU?download"
+            }
+          },
+          {
+            "id": 32,
+            "number": 32,
+            "season": 1,
+            "title": "Three-Leaf Sprouts -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 32 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/YN5jEJzY#UO9d5T_j4pq3slbGHHeNDGCu93-7gEjXSpIkRqKAXEQ",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/YN5jEJzY#UO9d5T_j4pq3slbGHHeNDGCu93-7gEjXSpIkRqKAXEQ"
+            }
+          },
+          {
+            "id": 33,
+            "number": 33,
+            "season": 1,
+            "title": "To Help Somebody, Someday",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 33 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/PafebUsf?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/PafebUsf?download"
+            }
+          },
+          {
+            "id": 34,
+            "number": 34,
+            "season": 1,
+            "title": "Light Magic vs. Dark Magic",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 34 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/JCxSyv5y?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/JCxSyv5y?download"
+            }
+          },
+          {
+            "id": 35,
+            "number": 35,
+            "season": 1,
+            "title": "The Light of Judgment",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 35 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/ZyZJa2vc?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ZyZJa2vc?download"
+            }
+          },
+          {
+            "id": 36,
+            "number": 36,
+            "season": 1,
+            "title": "Three Eyes",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 36 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/pJzKJKJy?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/pJzKJKJy?download"
+            }
+          },
+          {
+            "id": 37,
+            "number": 37,
+            "season": 1,
+            "title": "The One with No Magic",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 37 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/wDyHKoTu?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/wDyHKoTu?download"
+            }
+          },
+          {
+            "id": 38,
+            "number": 38,
+            "season": 1,
+            "title": "The Magic Knight Captains Conference",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 38 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/1tAN3eoH?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/1tAN3eoH?download"
+            }
+          },
+          {
+            "id": 39,
+            "number": 39,
+            "season": 1,
+            "title": "Three-Leaf Salute",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 39 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/WkevaCvy?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WkevaCvy?download"
+            }
+          },
+          {
+            "id": 40,
+            "number": 40,
+            "season": 1,
+            "title": "A Black Beach Story -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 40 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/BEgnzQ6S#8lu878WPJMtjeOPPH46dhYMLW8zhHgO-ZRHk0Ri0b_4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/BEgnzQ6S#8lu878WPJMtjeOPPH46dhYMLW8zhHgO-ZRHk0Ri0b_4"
+            }
+          },
+          {
+            "id": 41,
+            "number": 41,
+            "season": 1,
+            "title": "The Water Girl Grows Up",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 41 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/KPeCggsM?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/KPeCggsM?download"
+            }
+          },
+          {
+            "id": 42,
+            "number": 42,
+            "season": 1,
+            "title": "The Underwater Temple",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 42 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/DqQDHtwu?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DqQDHtwu?download"
+            }
+          },
+          {
+            "id": 43,
+            "number": 43,
+            "season": 1,
+            "title": "Temple Battle Royale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 43 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/Nymwa1Tq?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Nymwa1Tq?download"
+            }
+          },
+          {
+            "id": 44,
+            "number": 44,
+            "season": 1,
+            "title": "The Pointlessly Direct Fireball and the Wild Lightning -",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 44 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/7cFxzBZb#1Mmx-Z-YgN_lnV1pQY-jYDdIMeV8g71uwHobbAbExrI",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/7cFxzBZb#1Mmx-Z-YgN_lnV1pQY-jYDdIMeV8g71uwHobbAbExrI"
+            }
+          },
+          {
+            "id": 45,
+            "number": 45,
+            "season": 1,
+            "title": "The Guy Who Doesn’t Know When to Quit",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 45 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/P295mCnG?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/P295mCnG?download"
+            }
+          },
+          {
+            "id": 46,
+            "number": 46,
+            "season": 1,
+            "title": "Awakening",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 46 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/G7WDsp6j?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/G7WDsp6j?download"
+            }
+          },
+          {
+            "id": 47,
+            "number": 47,
+            "season": 1,
+            "title": "The Only Weapon",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 47 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/s58bseDF?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/s58bseDF?download"
+            }
+          },
+          {
+            "id": 48,
+            "number": 48,
+            "season": 1,
+            "title": "Despair vs. Hope",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 48 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/vHYfsN2K?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/vHYfsN2K?download"
+            }
+          },
+          {
+            "id": 49,
+            "number": 49,
+            "season": 1,
+            "title": "Beyond Limits",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 49 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/XQ5zerFi?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XQ5zerFi?download"
+            }
+          },
+          {
+            "id": 50,
+            "number": 50,
+            "season": 1,
+            "title": "End of the Battle, End of Despair",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 50 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/X1LmVALp?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/X1LmVALp?download"
+            }
+          },
+          {
+            "id": 51,
+            "number": 51,
+            "season": 1,
+            "title": "Proof of Rightness – Season Finale",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "synopsis": "Episode 51 of Black Clover (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/MQDcBmzV?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/MQDcBmzV?download"
+            }
+          }
+        ]
+      },
+      {
         "number": 2,
         "title": "Season 2",
         "airDate": "2017",
