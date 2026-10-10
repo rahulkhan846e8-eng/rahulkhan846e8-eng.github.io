@@ -46,35 +46,6 @@ const FAMOUS_POPULAR_IDS = [
 
 export const ANIME_CATALOG = [
   {
-    "id": "the-apothecary-diaries",
-    "title": "The Apothecary Diaries",
-    "japaneseTitle": "",
-    "raw_name": "The Apothecary Diaries",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjAxMmFjZjgtYjM1ZS00NzdmLTliZDktZmIyMzU5YTBlNDBmXkEyXkFqcGc@._V1_SX500.jpg",
-    "banner": "https://m.media-amazon.com/images/M/MV5BNjAxMmFjZjgtYjM1ZS00NzdmLTliZDktZmIyMzU5YTBlNDBmXkEyXkFqcGc@._V1_SX500.jpg",
-    "type": "TV Series",
-    "status": "Completed",
-    "year": 2023,
-    "rating": 8.6,
-    "genres": [
-      "Animation",
-      "Drama",
-      "History"
-    ],
-    "isPopular": true,
-    "isTrending": true,
-    "audioTrack": "Original Dub",
-    "audioBadge": "ORIGINAL DUB",
-    "languages": [
-      "original"
-    ],
-    "hasHindi": false,
-    "hasOriginal": true,
-    "synopsis": "A young maiden is kidnapped and sold into servitude at the emperor's palace, where she secretly employs her pharmacist skills with the help of the head eunuch to unravel medical mysteries in the inner court.",
-    "seasonCount": 1,
-    "totalEpisodes": 1
-  },
-  {
     "id": "kingdom",
     "title": "Kingdom",
     "japaneseTitle": "",
@@ -534,35 +505,6 @@ export const ANIME_CATALOG = [
     "synopsis": "Keroro is a frog-like alien sent from his home planet on a mission to conquer Earth. But when his cover is blown, his battalion abandons him and he ends up in the home of the Hinata family. There, he's forced to do household chores and slee",
     "seasonCount": 1,
     "totalEpisodes": 1
-  },
-  {
-    "id": "kamui-hes-behind-you",
-    "title": "KAMUI ---He's behind you",
-    "japaneseTitle": "うしろの正面カムイさん",
-    "raw_name": "KAMUI: He’s Behind You",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207674-0bYvzXIq7Lq3.jpg",
-    "type": "TV Series",
-    "status": "Completed",
-    "year": 2026,
-    "rating": 5.8,
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Supernatural"
-    ],
-    "isPopular": true,
-    "isTrending": true,
-    "audioTrack": "Original Dub",
-    "audioBadge": "ORIGINAL DUB",
-    "languages": [
-      "original"
-    ],
-    "hasHindi": false,
-    "hasOriginal": true,
-    "synopsis": "This exorcism is OMFFFFFFFFF!!!! Shizuka is a self-proclaimed ordinary high school girl who \"only\" sees ghosts. Using her unique ability to attract spirits, she works as an assistant to the famous psychic, Kamui. Though Kamui boasts overwhe",
-    "seasonCount": 1,
-    "totalEpisodes": 12
   },
   {
     "id": "kaiju-no-8",
@@ -1917,35 +1859,6 @@ export const ANIME_CATALOG = [
     "synopsis": "Suddenly thrown together, a group of girls are now debuting as the virtual band, Mugendai Mewtype. They’ve got talent and personality, but no clue how to perform as one. Can they survive, let alone make it to the top in this unforgiving mus",
     "seasonCount": 1,
     "totalEpisodes": 13
-  },
-  {
-    "id": "yowayowa-sensei",
-    "title": "Yowayowa Sensei",
-    "japaneseTitle": "よわよわ先生",
-    "raw_name": "Yowayowa Teacher",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185211-ewfgT5Cn99k0.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
-    "type": "TV Series",
-    "status": "Completed",
-    "year": 2026,
-    "rating": 6.4,
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance"
-    ],
-    "isPopular": true,
-    "isTrending": true,
-    "audioTrack": "Original Dub",
-    "audioBadge": "ORIGINAL DUB",
-    "languages": [
-      "original"
-    ],
-    "hasHindi": false,
-    "hasOriginal": true,
-    "synopsis": "High school homeroom teacher Hiyori Hiwamura is known as the “Scary Teacher,” and if you offend her, she’ll put a curse on you! Or at least that’s what everyone believes. She’s secretly a total softy who’s deeply misunderstood, and once you",
-    "seasonCount": 1,
-    "totalEpisodes": 12
   },
   {
     "id": "the-villager-of-level-999",
