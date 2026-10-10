@@ -12,7 +12,7 @@ import {
   getAnimeSummary as getAnimeById, 
   getFullAnimeDetails,
   searchAnime 
-} from './catalog.js?v=20261008_v2';
+} from './catalog.js?v=20261010_v11';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
 import { UIRenderer } from './ui.js?v=20261008_v2';

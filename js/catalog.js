@@ -7228,8 +7228,8 @@ export const ANIME_CATALOG = [
     "title": "Black Clover",
     "japaneseTitle": "ブラッククローバー",
     "raw_name": "Black Clover",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-fyh8o7gNbha0.png",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-fyh8o7gNbha0.png",
+    "poster": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+    "banner": "https://images.alphacoders.com/139/thumb-1920-1399535.jpg",
     "type": "TV Series",
     "status": "Upcoming",
     "year": 2017,
@@ -13326,7 +13326,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=20261008_v2');
+    const { ANIME_DATABASE } = await import('./data.js?v=20261010_v11');
     for (const anime of ANIME_DATABASE) {
       const key = (anime.id || "").toLowerCase().trim();
       fullAnimeCache.set(key, anime);
