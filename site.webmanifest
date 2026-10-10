@@ -1,0 +1,21 @@
+{
+  "name": "Shinobi Hub",
+  "short_name": "Shinobi Hub",
+  "description": "Stream and download high-definition Anime and Cartoon series in Hindi Dub and English Subtitles on Shinobi Hub.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060d24",
+  "theme_color": "#060d24",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
