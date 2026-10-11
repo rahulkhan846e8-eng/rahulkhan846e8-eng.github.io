@@ -11817,12 +11817,12 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": true,
-    "audioTrack": "Original Dub",
-    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
     "languages": [
       "hindi"
     ],
-    "hasHindi": false,
+    "hasHindi": true,
     "hasOriginal": false,
     "synopsis": "Tanjiro Kamado sets out on a journey as a demon slayer to avenge his family and cure his demon-turned sister Nezuko.",
     "seasonCount": 4,
