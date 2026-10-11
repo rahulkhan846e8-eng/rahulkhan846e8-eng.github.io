@@ -258,10 +258,22 @@ export class UIRenderer {
 
     const sNum = season.number || 1;
     const isMovie = anime.type === "Movie";
-    const isOriginal = lang === "original";
 
-    return season.episodes.map(ep => `
-      <div class="episode-row-item play-episode-btn" data-anime-id="${anime.id}" data-ep="${ep.number}" data-season="${sNum}" data-mode="download" data-lang="${lang}">
+    return season.episodes.map(ep => {
+      const epDl = ep.downloadLinks || {};
+      const epHasHindi = Boolean(epDl.hindi || (ep.downloadUrl && !epDl.original));
+      const epHasOriginal = Boolean(epDl.original);
+
+      let epLang = lang;
+      if (lang === "original" && !epHasOriginal && epHasHindi) {
+        epLang = "hindi";
+      } else if (lang === "hindi" && !epHasHindi && epHasOriginal) {
+        epLang = "original";
+      }
+      const epIsOriginal = epLang === "original";
+
+      return `
+      <div class="episode-row-item play-episode-btn" data-anime-id="${anime.id}" data-ep="${ep.number}" data-season="${sNum}" data-mode="download" data-lang="${epLang}">
         <div class="ep-row-thumb">
           <img src="${ep.thumbnail || anime.poster}" alt="${ep.title}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
           <span class="ep-row-runtime">${ep.runtime || (isMovie ? '1h 45m' : '24m')}</span>
@@ -273,7 +285,7 @@ export class UIRenderer {
           <div class="ep-row-title-line">
             <span class="ep-badge-gold">${isMovie ? 'Full Feature' : `S${sNum}-E${ep.number}`}</span>
             <span class="ep-row-title">${isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : ep.title}</span>
-            <span class="ep-lang-pill ${isOriginal ? 'lang-original' : 'lang-hindi'}">${isOriginal ? '🇯🇵 Original Dub' : '🇮🇳 Hindi Dub'}</span>
+            <span class="ep-lang-pill ${epIsOriginal ? 'lang-original' : 'lang-hindi'}">${epIsOriginal ? '🇯🇵 Original Dub' : '🇮🇳 Hindi Dub'}</span>
           </div>
         </div>
         <div class="ep-row-action">
@@ -283,7 +295,8 @@ export class UIRenderer {
           </button>
         </div>
       </div>
-    `).join("");
+    `;
+    }).join("");
   }
 
   static renderAnimeDetail(anime, initialSeasonNum = 1, targetEpNum = 0) {
@@ -307,26 +320,58 @@ export class UIRenderer {
       sessionStorage.setItem(`shinobi_last_ep_${anime.id}`, targetEpNum);
     }
 
-    // Determine available languages for this anime
-    const determineLanguages = (a) => {
+    // Helper to evaluate available languages for a specific season
+    const getSeasonLanguages = (season) => {
       const set = new Set();
-      if (Array.isArray(a.languages) && a.languages.length > 0) {
-        a.languages.forEach(l => set.add(String(l).toLowerCase().trim()));
+      const eps = season?.episodes || [];
+      for (const ep of eps) {
+        const dl = ep.downloadLinks || {};
+        if (dl.hindi || (ep.downloadUrl && !dl.original)) {
+          set.add("hindi");
+        }
+        if (dl.original) {
+          set.add("original");
+        }
       }
-      const allEpisodes = (a.seasons || []).flatMap(s => s.episodes || []).concat(a.episodes || []);
-      for (const ep of allEpisodes) {
-        if (ep.downloadLinks?.hindi || (ep.downloadUrl && !ep.downloadLinks?.original)) set.add("hindi");
-        if (ep.downloadLinks?.original) set.add("original");
+      // Fallback for anime where episodes have raw downloadUrl without downloadLinks keys
+      if (set.size === 0 && eps.some(ep => ep.downloadUrl)) {
+        if (Array.isArray(anime.languages) && anime.languages.length > 0) {
+          anime.languages.forEach(l => set.add(String(l).toLowerCase().trim()));
+        } else {
+          set.add("hindi");
+        }
       }
-      return set.size > 0 ? Array.from(set) : ["hindi", "original"];
+      return Array.from(set);
     };
 
-    const availableLangs = determineLanguages(anime);
-    const hasHindi = availableLangs.includes("hindi");
-    const hasOriginal = availableLangs.includes("original");
+    const getLanguageToggleHtml = (season, activeLang) => {
+      const langs = getSeasonLanguages(season);
+      const hasH = langs.includes("hindi");
+      const hasO = langs.includes("original");
 
-    // Default language is hindi if available, otherwise original
-    let currentLanguage = hasHindi ? "hindi" : (hasOriginal ? "original" : "hindi");
+      // Strictly only display audio toggle buttons when BOTH dubs are actually available and linked for this season!
+      // If a season only has one dub (or neither has links), omit the toggle options completely.
+      if (hasH && hasO) {
+        return `
+          <button class="lang-toggle-btn ${activeLang === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
+            <span class="lang-flag">🇮🇳</span>
+            <span class="lang-text">Hindi</span>
+          </button>
+          <button class="lang-toggle-btn ${activeLang === 'original' ? 'active' : ''}" data-lang="original" type="button">
+            <span class="lang-flag">🇯🇵</span>
+            <span class="lang-text">Original Dub</span>
+          </button>
+        `;
+      }
+      return "";
+    };
+
+    const seasonLangs = getSeasonLanguages(currentSeason);
+    const seasonHasHindi = seasonLangs.includes("hindi");
+    const seasonHasOriginal = seasonLangs.includes("original");
+
+    // Default language is hindi if available in this season, otherwise original, otherwise hindi
+    let currentLanguage = seasonHasHindi ? "hindi" : (seasonHasOriginal ? "original" : "hindi");
 
     const hasDownload = !currentSeason.isComingSoon && anime.hasDownload !== false;
     const hasWatch = !currentSeason.isComingSoon && anime.hasWatch !== false;
@@ -411,28 +456,9 @@ export class UIRenderer {
             </div>
           `}
 
-          <!-- Multi-Language Audio Selector (Conditional based on available languages) -->
-          <div class="language-toggle-group" id="language-toggle-group" title="Select Audio Language">
-            ${hasHindi && hasOriginal ? `
-              <button class="lang-toggle-btn ${currentLanguage === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
-                <span class="lang-flag">🇮🇳</span>
-                <span class="lang-text">Hindi</span>
-              </button>
-              <button class="lang-toggle-btn ${currentLanguage === 'original' ? 'active' : ''}" data-lang="original" type="button">
-                <span class="lang-flag">🇯🇵</span>
-                <span class="lang-text">Original Dub</span>
-              </button>
-            ` : (hasHindi ? `
-              <button class="lang-toggle-btn active single-lang" data-lang="hindi" type="button" style="cursor: default;">
-                <span class="lang-flag">🇮🇳</span>
-                <span class="lang-text">Hindi Dub</span>
-              </button>
-            ` : `
-              <button class="lang-toggle-btn active single-lang" data-lang="original" type="button" style="cursor: default;">
-                <span class="lang-flag">🇯🇵</span>
-                <span class="lang-text">Original Dub</span>
-              </button>
-            `)}
+          <!-- Multi-Language Audio Selector (Only rendered when BOTH dubs are available for the selected season) -->
+          <div class="language-toggle-group" id="language-toggle-group" title="Select Audio Language" style="${seasonHasHindi && seasonHasOriginal ? '' : 'display: none;'}">
+            ${getLanguageToggleHtml(currentSeason, currentLanguage)}
           </div>
 
           <!-- Clean Direct Download Mode Indicator (Watch Mode Removed) -->
@@ -483,23 +509,28 @@ export class UIRenderer {
     };
 
     // Multi-Language Toggle Listener
-    langToggleGroup?.querySelectorAll(".lang-toggle-btn").forEach(btn => {
-      btn.addEventListener("click", (e) => {
-        e.stopPropagation();
-        const selectedLang = btn.dataset.lang || "hindi";
-        if (selectedLang === currentLanguage) return;
-        currentLanguage = selectedLang;
+    const bindLanguageToggleListeners = () => {
+      if (!langToggleGroup) return;
+      langToggleGroup.querySelectorAll(".lang-toggle-btn").forEach(btn => {
+        btn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          const selectedLang = btn.dataset.lang || "hindi";
+          if (selectedLang === currentLanguage) return;
+          currentLanguage = selectedLang;
 
-        langToggleGroup.querySelectorAll(".lang-toggle-btn").forEach(b => b.classList.remove("active"));
-        btn.classList.add("active");
+          langToggleGroup.querySelectorAll(".lang-toggle-btn").forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
 
-        // Update hero download button data-lang
-        const heroPlayBtn = detailContainer.querySelector(".play-episode-btn");
-        if (heroPlayBtn) heroPlayBtn.dataset.lang = currentLanguage;
+          // Update hero download button data-lang
+          const heroPlayBtn = detailContainer.querySelector(".play-episode-btn");
+          if (heroPlayBtn) heroPlayBtn.dataset.lang = currentLanguage;
 
-        refreshPlaylist();
+          refreshPlaylist();
+        });
       });
-    });
+    };
+
+    bindLanguageToggleListeners();
 
     // Download Mode Click
     downloadToggleBtn?.addEventListener("click", (e) => {
@@ -531,6 +562,30 @@ export class UIRenderer {
 
         currentSeason = selectedSeason;
 
+        // Update language state and toggle buttons for the newly selected season
+        const newSeasonLangs = getSeasonLanguages(currentSeason);
+        const newHasHindi = newSeasonLangs.includes("hindi");
+        const newHasOriginal = newSeasonLangs.includes("original");
+
+        // If the previously selected language is not available in the new season, auto-switch
+        if (currentLanguage === "original" && !newHasOriginal && newHasHindi) {
+          currentLanguage = "hindi";
+        } else if (currentLanguage === "hindi" && !newHasHindi && newHasOriginal) {
+          currentLanguage = "original";
+        }
+
+        // Re-render language toggle group
+        if (langToggleGroup) {
+          if (newHasHindi && newHasOriginal) {
+            langToggleGroup.style.display = "inline-flex";
+            langToggleGroup.innerHTML = getLanguageToggleHtml(currentSeason, currentLanguage);
+            bindLanguageToggleListeners();
+          } else {
+            langToggleGroup.style.display = "none";
+            langToggleGroup.innerHTML = "";
+          }
+        }
+
         dropdownMenu.querySelectorAll(".season-menu-option").forEach(o => {
           o.classList.remove("active");
           o.querySelector(".season-check-icon")?.remove();
@@ -560,13 +615,16 @@ export class UIRenderer {
         } catch (err) {}
 
         const heroPlayBtn = detailContainer.querySelector(".play-episode-btn");
-        if (heroPlayBtn && !isMovie) {
-          heroPlayBtn.dataset.season = currentSeason.number;
-          const firstEpNum = currentSeason.episodes?.[0]?.number || 1;
-          heroPlayBtn.dataset.ep = firstEpNum;
-          const heroTextNode = Array.from(heroPlayBtn.childNodes).find(n => n.nodeType === Node.TEXT_NODE && n.nodeValue.trim());
-          if (heroTextNode) {
-            heroTextNode.nodeValue = ` DOWNLOAD EPISODE ${firstEpNum}`;
+        if (heroPlayBtn) {
+          heroPlayBtn.dataset.lang = currentLanguage;
+          if (!isMovie) {
+            heroPlayBtn.dataset.season = currentSeason.number;
+            const firstEpNum = currentSeason.episodes?.[0]?.number || 1;
+            heroPlayBtn.dataset.ep = firstEpNum;
+            const heroTextNode = Array.from(heroPlayBtn.childNodes).find(n => n.nodeType === Node.TEXT_NODE && n.nodeValue.trim());
+            if (heroTextNode) {
+              heroTextNode.nodeValue = ` DOWNLOAD EPISODE ${firstEpNum}`;
+            }
           }
         }
 
@@ -595,29 +653,6 @@ export class UIRenderer {
 
     const isMovie = anime.type === "Movie";
 
-    // Determine available languages for this anime
-    const determineLanguages = (a) => {
-      const set = new Set();
-      if (Array.isArray(a.languages) && a.languages.length > 0) {
-        a.languages.forEach(l => set.add(String(l).toLowerCase().trim()));
-      }
-      const allEpisodes = (a.seasons || []).flatMap(s => s.episodes || []).concat(a.episodes || []);
-      for (const e of allEpisodes) {
-        if (e.downloadLinks?.hindi || (e.downloadUrl && !e.downloadLinks?.original)) set.add("hindi");
-        if (e.downloadLinks?.original) set.add("original");
-      }
-      return set.size > 0 ? Array.from(set) : ["hindi", "original"];
-    };
-
-    const availableLangs = determineLanguages(anime);
-    const hasHindi = availableLangs.includes("hindi");
-    const hasOriginal = availableLangs.includes("original");
-
-    let currentLang = lang || (hasHindi ? "hindi" : (hasOriginal ? "original" : "hindi"));
-    if (!availableLangs.includes(currentLang)) {
-      currentLang = hasHindi ? "hindi" : (hasOriginal ? "original" : "hindi");
-    }
-
     const sNum = parseInt(seasonNum, 10) || 1;
     const seasons = anime.seasons || [];
     const currentSeason = seasons.find(s => s.number === sNum) || seasons[0];
@@ -636,8 +671,28 @@ export class UIRenderer {
     const hasTelegram = Boolean(ep.hasTelegram || ep.telegramFileId || anime.hasTelegram);
     const deepLinkKey = sNum > 1 ? `${anime.id}_s${sNum}_ep${ep.number}` : `${anime.id}_ep${ep.number}`;
 
-    // Direct download link (Single High Quality option supporting language tracks)
+    // Determine available languages specifically for this episode
     const dlLinks = ep.downloadLinks || {};
+    let hasHindi = Boolean(dlLinks.hindi || (ep.downloadUrl && !dlLinks.original));
+    let hasOriginal = Boolean(dlLinks.original);
+
+    // Fallback if episode has raw downloadUrl without downloadLinks keys
+    if (!hasHindi && !hasOriginal && ep.downloadUrl) {
+      if (Array.isArray(anime.languages) && anime.languages.includes("original") && !anime.languages.includes("hindi")) {
+        hasOriginal = true;
+      } else {
+        hasHindi = true;
+      }
+    }
+
+    let currentLang = lang || (hasHindi ? "hindi" : (hasOriginal ? "original" : "hindi"));
+    if (currentLang === "original" && !hasOriginal && hasHindi) {
+      currentLang = "hindi";
+    } else if (currentLang === "hindi" && !hasHindi && hasOriginal) {
+      currentLang = "original";
+    }
+
+    // Direct download link (Single High Quality option supporting language tracks)
     const getActiveDlUrl = (l) => {
       if (dlLinks && dlLinks[l]) return dlLinks[l];
       if (l === "hindi" && dlLinks && dlLinks.original && !dlLinks.hindi) return "";
