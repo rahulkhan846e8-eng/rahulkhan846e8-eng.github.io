@@ -77783,277 +77783,346 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 1,
-            "title": "Episode 1",
+            "title": "Ryomen Sukuna",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 1",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XNkzNH34?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/XNkzNH34?download"
           },
           {
             "id": 2,
             "number": 2,
             "season": 1,
-            "title": "Episode 2",
+            "title": "For Myself",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/kVT4mGEP?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/kVT4mGEP?download"
           },
           {
             "id": 3,
             "number": 3,
             "season": 1,
-            "title": "Episode 3",
+            "title": "Girl of Steel",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 3",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-3.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-3.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/uzBVJEyD?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-3.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/uzBVJEyD?download"
           },
           {
             "id": 4,
             "number": 4,
             "season": 1,
-            "title": "Episode 4",
+            "title": "Curse Womb Must Die",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 4",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-4.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-4.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/VswtSysh?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-4.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/VswtSysh?download"
           },
           {
             "id": 5,
             "number": 5,
             "season": 1,
-            "title": "Episode 5",
+            "title": "Curse Womb Must Die -II",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 5",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-5.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-5.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/SxXWJcbj?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-5.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/SxXWJcbj?download"
           },
           {
             "id": 6,
             "number": 6,
             "season": 1,
-            "title": "Episode 6",
+            "title": "After Rain",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 6",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-6.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-6.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/Wub8GGUW?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-6.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/Wub8GGUW?download"
           },
           {
             "id": 7,
             "number": 7,
             "season": 1,
-            "title": "Episode 7",
+            "title": "Assault",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 7",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-7.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-7.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/ojmBEvAy?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-7.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/ojmBEvAy?download"
           },
           {
             "id": 8,
             "number": 8,
             "season": 1,
-            "title": "Episode 8",
+            "title": "Boredom",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 8",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-8.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-8.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/LcHT29ST?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-8.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/LcHT29ST?download"
           },
           {
             "id": 9,
             "number": 9,
             "season": 1,
-            "title": "Episode 9",
+            "title": "Small Fry and Reverse Retribution",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 9",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-9.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-9.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/WYPW2Gj6?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-9.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/WYPW2Gj6?download"
           },
           {
             "id": 10,
             "number": 10,
             "season": 1,
-            "title": "Episode 10",
+            "title": "Idle Transfiguration",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 10",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-10.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-10.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/zQBuMDaU?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-10.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/zQBuMDaU?download"
           },
           {
             "id": 11,
             "number": 11,
             "season": 1,
-            "title": "Episode 11",
+            "title": "Narrow-minded",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 11",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-11.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-11.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/KigAujKx?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-11.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/KigAujKx?download"
           },
           {
             "id": 12,
             "number": 12,
             "season": 1,
-            "title": "Episode 12",
+            "title": "To You, Someday",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 12",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/PQw1z2rG?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/PQw1z2rG?download"
           },
           {
             "id": 13,
             "number": 13,
             "season": 1,
-            "title": "Episode 13",
+            "title": "Tomorrow",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 13",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/4W6mmpHZ?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/4W6mmpHZ?download"
           },
           {
             "id": 14,
             "number": 14,
             "season": 1,
-            "title": "Episode 14",
+            "title": "Kyoto Sister School Exchange Event – Group Battle 0",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 14",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/MejRUwfe?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/MejRUwfe?download"
           },
           {
             "id": 15,
             "number": 15,
             "season": 1,
-            "title": "Episode 15",
+            "title": "Kyoto Sister School Exchange Event – Group Battle 1",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 15",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/pFgQSEUz?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/pFgQSEUz?download"
           },
           {
             "id": 16,
             "number": 16,
             "season": 1,
-            "title": "Episode 16",
+            "title": "Kyoto Sister School Exchange Event – Group Battle 2",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 16",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/xANFJj8B?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/xANFJj8B?download"
           },
           {
             "id": 17,
             "number": 17,
             "season": 1,
-            "title": "Episode 17",
+            "title": "Kyoto Sister School Exchange Event – Group Battle 3",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 17",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/qpczsssS?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/qpczsssS?download"
           },
           {
             "id": 18,
             "number": 18,
             "season": 1,
-            "title": "Episode 18",
+            "title": "Sage",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 18",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/byHnm1R4?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/byHnm1R4?download"
           },
           {
             "id": 19,
             "number": 19,
             "season": 1,
-            "title": "Episode 19",
+            "title": "Black Flash",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 19",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/obt3zrKN?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/obt3zrKN?download"
           },
           {
             "id": 20,
             "number": 20,
             "season": 1,
-            "title": "Episode 20",
+            "title": "Nonstandard",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 20",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/QE8Yosjk?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/QE8Yosjk?download"
           },
           {
             "id": 21,
             "number": 21,
             "season": 1,
-            "title": "Episode 21",
+            "title": "Jujutsu Koshien",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 21",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/eaRvAr8Y?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/eaRvAr8Y?download"
           },
           {
             "id": 22,
             "number": 22,
             "season": 1,
-            "title": "Episode 22",
+            "title": "The Origin of Blind Obedience",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 22",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/UgrY3Xdy?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/UgrY3Xdy?download"
           },
           {
             "id": 23,
             "number": 23,
             "season": 1,
-            "title": "Episode 23",
+            "title": "The Origin of Blind Obedience – 2",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 23",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/JJGqZ9q3?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/JJGqZ9q3?download"
           },
           {
             "id": 24,
             "number": 24,
             "season": 1,
-            "title": "Episode 24",
+            "title": "Accomplices [Season 1 Finale!]",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 24",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/t6hCrHhG?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/t6hCrHhG?download"
           }
         ],
         "isComingSoon": false
@@ -78067,235 +78136,324 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 2,
-            "title": "Episode 1",
+            "title": "Hidden Inventory",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 1",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/bFPwgxM3?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/bFPwgxM3?download"
           },
           {
             "id": 2,
             "number": 2,
             "season": 2,
-            "title": "Episode 2",
+            "title": "Hidden Inventory 2",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/Gh3hjjhc?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/Gh3hjjhc?download"
           },
           {
             "id": 3,
             "number": 3,
             "season": 2,
-            "title": "Episode 3",
+            "title": "Hidden Inventory 3",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 3",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/XrwMzA4f?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/XrwMzA4f?download"
           },
           {
             "id": 4,
             "number": 4,
             "season": 2,
-            "title": "Episode 4",
+            "title": "Hidden Inventory 4",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 4",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8vsx4CuJ?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/8vsx4CuJ?download"
           },
           {
             "id": 5,
             "number": 5,
             "season": 2,
-            "title": "Episode 5",
+            "title": "Premature Death!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 5",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/jo29bZtH?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/jo29bZtH?download"
           },
           {
             "id": 6,
             "number": 6,
             "season": 2,
-            "title": "Episode 6",
+            "title": "It’s Like That",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 6",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/132Xv6zN?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/132Xv6zN?download"
           },
           {
             "id": 7,
             "number": 7,
             "season": 2,
-            "title": "Episode 7",
+            "title": "Evening Festival",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 7",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/DfXsxbjv?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/DfXsxbjv?download"
           },
           {
             "id": 8,
             "number": 8,
             "season": 2,
-            "title": "Episode 8",
+            "title": "The Shibuya Incident",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 8",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WbgmJCD4?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/WbgmJCD4?download"
           },
           {
             "id": 9,
             "number": 9,
             "season": 2,
-            "title": "Episode 9",
+            "title": "Shibuya Incident – Gate, Open",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 9",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/AEEPxFSJ?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/AEEPxFSJ?download"
           },
           {
             "id": 10,
             "number": 10,
             "season": 2,
-            "title": "Episode 10",
+            "title": "Pandemonium",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 10",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/xga9Lunf?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/xga9Lunf?download"
           },
           {
             "id": 11,
             "number": 11,
             "season": 2,
-            "title": "Episode 11",
+            "title": "Seance",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 11",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/EXCGJP3F?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/EXCGJP3F?download"
           },
           {
             "id": 12,
             "number": 12,
             "season": 2,
-            "title": "Episode 12",
+            "title": "Dull Knife",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 12",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-12.mp4?dl=1"
+              "original": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-12.mp4?dl=1",
+              "hindi": "https://pixeldrain.net/u/7wTT9mun?download"
             },
-            "downloadUrl": "https://my.1anime.site/videos/jujutsu-kaisen-the-culling-game-episode-12.mp4?dl=1"
+            "downloadUrl": "https://pixeldrain.net/u/7wTT9mun?download"
           },
           {
             "id": 13,
             "number": 13,
             "season": 2,
-            "title": "Episode 13",
+            "title": "Red Scale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 13",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/ev3NsDv8?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/ev3NsDv8?download"
           },
           {
             "id": 14,
             "number": 14,
             "season": 2,
-            "title": "Episode 14",
+            "title": "Fluctuations",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 14",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/FUBJe3Uh?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/FUBJe3Uh?download"
           },
           {
             "id": 15,
             "number": 15,
             "season": 2,
-            "title": "Episode 15",
+            "title": "Fluctuations, Part 2",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 15",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/yFDrUWwD?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/yFDrUWwD?download"
           },
           {
             "id": 16,
             "number": 16,
             "season": 2,
-            "title": "Episode 16",
+            "title": "Thunderclap",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 16",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/S6dqjWdu?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/S6dqjWdu?download"
           },
           {
             "id": 17,
             "number": 17,
             "season": 2,
-            "title": "Episode 17",
+            "title": "Thunderclap, Part 2",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 17",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/GAhHxU4p?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/GAhHxU4p?download"
           },
           {
             "id": 18,
             "number": 18,
             "season": 2,
-            "title": "Episode 18",
+            "title": "Right and Wrong",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 18",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/zy3zKnjh?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/zy3zKnjh?download"
           },
           {
             "id": 19,
             "number": 19,
             "season": 2,
-            "title": "Episode 19",
+            "title": "Right and Wrong, Part 2",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 19",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/8g3f5yZQ?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/8g3f5yZQ?download"
           },
           {
             "id": 20,
             "number": 20,
             "season": 2,
-            "title": "Episode 20",
+            "title": "Right and Wrong, Part 3",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 20",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/qrcLz1Xj?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/qrcLz1Xj?download"
           },
           {
             "id": 21,
             "number": 21,
             "season": 2,
-            "title": "Episode 21",
+            "title": "Metamorphosis",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 21",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/xfRhbzsL?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/xfRhbzsL?download"
           },
           {
             "id": 22,
             "number": 22,
             "season": 2,
-            "title": "Episode 22",
+            "title": "Metamorphosis, Part 2",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 22",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/d9jgKqW6?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/d9jgKqW6?download"
           },
           {
             "id": 23,
             "number": 23,
             "season": 2,
-            "title": "Episode 23",
+            "title": "Shibuya Incident – Gate, Close [Season 2 Finale!]",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Episode 23",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/VYmkWzSL?download"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/VYmkWzSL?download"
           }
         ],
         "isComingSoon": false
@@ -78314,11 +78472,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 1",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=c54446fc04a9d78428e6243da69016c42868b3dc271f5fab1b32b32f49ff5f1873db97f86b5045c159dd053b8a9f09e09a790acbaffd4413ba4b8e6ea627a3605c143ae9ed39d8c630695cf1455df34c3950b54a733a194595b1dd18b0bc8991::9cf6ae9acb53bd384c37259fecdebedf",
+            "downloadUrl": "https://pixeldrain.net/u/dNT85kdi?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=c54446fc04a9d78428e6243da69016c42868b3dc271f5fab1b32b32f49ff5f1873db97f86b5045c159dd053b8a9f09e09a790acbaffd4413ba4b8e6ea627a3605c143ae9ed39d8c630695cf1455df34c3950b54a733a194595b1dd18b0bc8991::9cf6ae9acb53bd384c37259fecdebedf",
+              "1080p": "https://pixeldrain.net/u/dNT85kdi?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=c54446fc04a9d78428e6243da69016c42868b3dc271f5fab1b32b32f49ff5f1873db97f86b5045c159dd053b8a9f09e09a790acbaffd4413ba4b8e6ea627a3605c143ae9ed39d8c630695cf1455df34c3950b54a733a194595b1dd18b0bc8991::9cf6ae9acb53bd384c37259fecdebedf",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=c54446fc04a9d78428e6243da69016c42868b3dc271f5fab1b32b32f49ff5f1873db97f86b5045c159dd053b8a9f09e09a790acbaffd4413ba4b8e6ea627a3605c143ae9ed39d8c630695cf1455df34c3950b54a733a194595b1dd18b0bc8991::9cf6ae9acb53bd384c37259fecdebedf"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=c54446fc04a9d78428e6243da69016c42868b3dc271f5fab1b32b32f49ff5f1873db97f86b5045c159dd053b8a9f09e09a790acbaffd4413ba4b8e6ea627a3605c143ae9ed39d8c630695cf1455df34c3950b54a733a194595b1dd18b0bc8991::9cf6ae9acb53bd384c37259fecdebedf",
+              "hindi": "https://pixeldrain.net/u/dNT85kdi?download"
             },
             "hasTelegram": false
           },
@@ -78330,11 +78489,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 2",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=5247ba1a8840d65b3559792f99c4a49443a2d67bf8d5d196ed1cdb87bfac237aa4e5d641caaaeee730c412f27a3a66f1b8ff5151a2f712928b8d8ba08addd801398d9b4af7a12f9ea52c09f2388be5c586e5909760c17f7ddd9db2ec34db1538b61ca27a0c22cff21d7080e28376218d::faa0fec1e20de7f7a4093ddfe0d654c8",
+            "downloadUrl": "https://pixeldrain.net/u/Cydgan7i?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=5247ba1a8840d65b3559792f99c4a49443a2d67bf8d5d196ed1cdb87bfac237aa4e5d641caaaeee730c412f27a3a66f1b8ff5151a2f712928b8d8ba08addd801398d9b4af7a12f9ea52c09f2388be5c586e5909760c17f7ddd9db2ec34db1538b61ca27a0c22cff21d7080e28376218d::faa0fec1e20de7f7a4093ddfe0d654c8",
+              "1080p": "https://pixeldrain.net/u/Cydgan7i?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=5247ba1a8840d65b3559792f99c4a49443a2d67bf8d5d196ed1cdb87bfac237aa4e5d641caaaeee730c412f27a3a66f1b8ff5151a2f712928b8d8ba08addd801398d9b4af7a12f9ea52c09f2388be5c586e5909760c17f7ddd9db2ec34db1538b61ca27a0c22cff21d7080e28376218d::faa0fec1e20de7f7a4093ddfe0d654c8",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=5247ba1a8840d65b3559792f99c4a49443a2d67bf8d5d196ed1cdb87bfac237aa4e5d641caaaeee730c412f27a3a66f1b8ff5151a2f712928b8d8ba08addd801398d9b4af7a12f9ea52c09f2388be5c586e5909760c17f7ddd9db2ec34db1538b61ca27a0c22cff21d7080e28376218d::faa0fec1e20de7f7a4093ddfe0d654c8"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=5247ba1a8840d65b3559792f99c4a49443a2d67bf8d5d196ed1cdb87bfac237aa4e5d641caaaeee730c412f27a3a66f1b8ff5151a2f712928b8d8ba08addd801398d9b4af7a12f9ea52c09f2388be5c586e5909760c17f7ddd9db2ec34db1538b61ca27a0c22cff21d7080e28376218d::faa0fec1e20de7f7a4093ddfe0d654c8",
+              "hindi": "https://pixeldrain.net/u/Cydgan7i?download"
             },
             "hasTelegram": false
           },
@@ -78346,11 +78506,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 3",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=f02dd73839555e94b985439ff5390771e6f91f7a77874c86da773d7399e56f6049762938b6c6eacc0fde8c7a2f9055e127c107ca134dae44da8e44b4f1947b398d38f7275b8a8de9dda8455f94b64146d0c14d1d57e4092424c11339ee4ad18f::d66eccdc03cc53d42ad43821235b2e64",
+            "downloadUrl": "https://pixeldrain.net/u/HbrK93UZ?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=f02dd73839555e94b985439ff5390771e6f91f7a77874c86da773d7399e56f6049762938b6c6eacc0fde8c7a2f9055e127c107ca134dae44da8e44b4f1947b398d38f7275b8a8de9dda8455f94b64146d0c14d1d57e4092424c11339ee4ad18f::d66eccdc03cc53d42ad43821235b2e64",
+              "1080p": "https://pixeldrain.net/u/HbrK93UZ?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=f02dd73839555e94b985439ff5390771e6f91f7a77874c86da773d7399e56f6049762938b6c6eacc0fde8c7a2f9055e127c107ca134dae44da8e44b4f1947b398d38f7275b8a8de9dda8455f94b64146d0c14d1d57e4092424c11339ee4ad18f::d66eccdc03cc53d42ad43821235b2e64",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=f02dd73839555e94b985439ff5390771e6f91f7a77874c86da773d7399e56f6049762938b6c6eacc0fde8c7a2f9055e127c107ca134dae44da8e44b4f1947b398d38f7275b8a8de9dda8455f94b64146d0c14d1d57e4092424c11339ee4ad18f::d66eccdc03cc53d42ad43821235b2e64"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=f02dd73839555e94b985439ff5390771e6f91f7a77874c86da773d7399e56f6049762938b6c6eacc0fde8c7a2f9055e127c107ca134dae44da8e44b4f1947b398d38f7275b8a8de9dda8455f94b64146d0c14d1d57e4092424c11339ee4ad18f::d66eccdc03cc53d42ad43821235b2e64",
+              "hindi": "https://pixeldrain.net/u/HbrK93UZ?download"
             },
             "hasTelegram": false
           },
@@ -78362,11 +78523,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 4",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=19c29b3d03c4b976a0a441311009524a05159febec1d9acd920d9b0bce2eef80dd93d487f4d2928472924cb5b5ffe0a0866448c484f3a376e549a9d22864e132ae24b8afa2f9920c3ffed51dd6f45bbd3ffb8dbd00b8e1868bb6b305bb2e8b75::b5ce3c50eda750f53d3fb9e949f666e8",
+            "downloadUrl": "https://pixeldrain.net/u/vP5qmWBS?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=19c29b3d03c4b976a0a441311009524a05159febec1d9acd920d9b0bce2eef80dd93d487f4d2928472924cb5b5ffe0a0866448c484f3a376e549a9d22864e132ae24b8afa2f9920c3ffed51dd6f45bbd3ffb8dbd00b8e1868bb6b305bb2e8b75::b5ce3c50eda750f53d3fb9e949f666e8",
+              "1080p": "https://pixeldrain.net/u/vP5qmWBS?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=19c29b3d03c4b976a0a441311009524a05159febec1d9acd920d9b0bce2eef80dd93d487f4d2928472924cb5b5ffe0a0866448c484f3a376e549a9d22864e132ae24b8afa2f9920c3ffed51dd6f45bbd3ffb8dbd00b8e1868bb6b305bb2e8b75::b5ce3c50eda750f53d3fb9e949f666e8",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=19c29b3d03c4b976a0a441311009524a05159febec1d9acd920d9b0bce2eef80dd93d487f4d2928472924cb5b5ffe0a0866448c484f3a376e549a9d22864e132ae24b8afa2f9920c3ffed51dd6f45bbd3ffb8dbd00b8e1868bb6b305bb2e8b75::b5ce3c50eda750f53d3fb9e949f666e8"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=19c29b3d03c4b976a0a441311009524a05159febec1d9acd920d9b0bce2eef80dd93d487f4d2928472924cb5b5ffe0a0866448c484f3a376e549a9d22864e132ae24b8afa2f9920c3ffed51dd6f45bbd3ffb8dbd00b8e1868bb6b305bb2e8b75::b5ce3c50eda750f53d3fb9e949f666e8",
+              "hindi": "https://pixeldrain.net/u/vP5qmWBS?download"
             },
             "hasTelegram": false
           },
@@ -78378,11 +78540,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 5",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybTFUdUhvbW1ZZzVLY1hXNDRiT2oteUNYc0dXRWd4M1FPcHZlMm55akhQUU5VaGYtT1dkQnpMUlZZSFJ3SG1FeGYtOXdkTlRzel9ZcURaenozVWxLZTZSS3kzMURGTVBQR1BWbWQydEpuSGVZTmpBZlNIcE5QYjg2MlhVYzJvSExYa0hTUnZhY3pIVXJIYk1UVEM4M01saUJKZkFUeUhSOWdTNkttenA3Mk1fTTU4eDZiT2pRQkhMMEtaVWRrSENjLXhmcDBnMWhza2d3UFpOaFhxdFhaZWItUGV4M2czZDF2bkVWbUtORkRObUJtQmhKWSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQwOTAwMCwiaGFzaCI6IjcyZDBlZjRhN2NkY2MzZjUzNWZhNDBlMDhhZDE1ZmQyZDhiNzMyNmNkZWEyYTc3NjMzOTdlNDFjZGU2OTc0YmIiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UwNSBbUmFyZVRvb25zaW5kaWFdLm1rdiJ9",
+            "downloadUrl": "https://pixeldrain.net/u/CF54BH2b?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybTFUdUhvbW1ZZzVLY1hXNDRiT2oteUNYc0dXRWd4M1FPcHZlMm55akhQUU5VaGYtT1dkQnpMUlZZSFJ3SG1FeGYtOXdkTlRzel9ZcURaenozVWxLZTZSS3kzMURGTVBQR1BWbWQydEpuSGVZTmpBZlNIcE5QYjg2MlhVYzJvSExYa0hTUnZhY3pIVXJIYk1UVEM4M01saUJKZkFUeUhSOWdTNkttenA3Mk1fTTU4eDZiT2pRQkhMMEtaVWRrSENjLXhmcDBnMWhza2d3UFpOaFhxdFhaZWItUGV4M2czZDF2bkVWbUtORkRObUJtQmhKWSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQwOTAwMCwiaGFzaCI6IjcyZDBlZjRhN2NkY2MzZjUzNWZhNDBlMDhhZDE1ZmQyZDhiNzMyNmNkZWEyYTc3NjMzOTdlNDFjZGU2OTc0YmIiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UwNSBbUmFyZVRvb25zaW5kaWFdLm1rdiJ9",
+              "1080p": "https://pixeldrain.net/u/CF54BH2b?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybTFUdUhvbW1ZZzVLY1hXNDRiT2oteUNYc0dXRWd4M1FPcHZlMm55akhQUU5VaGYtT1dkQnpMUlZZSFJ3SG1FeGYtOXdkTlRzel9ZcURaenozVWxLZTZSS3kzMURGTVBQR1BWbWQydEpuSGVZTmpBZlNIcE5QYjg2MlhVYzJvSExYa0hTUnZhY3pIVXJIYk1UVEM4M01saUJKZkFUeUhSOWdTNkttenA3Mk1fTTU4eDZiT2pRQkhMMEtaVWRrSENjLXhmcDBnMWhza2d3UFpOaFhxdFhaZWItUGV4M2czZDF2bkVWbUtORkRObUJtQmhKWSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQwOTAwMCwiaGFzaCI6IjcyZDBlZjRhN2NkY2MzZjUzNWZhNDBlMDhhZDE1ZmQyZDhiNzMyNmNkZWEyYTc3NjMzOTdlNDFjZGU2OTc0YmIiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UwNSBbUmFyZVRvb25zaW5kaWFdLm1rdiJ9",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybTFUdUhvbW1ZZzVLY1hXNDRiT2oteUNYc0dXRWd4M1FPcHZlMm55akhQUU5VaGYtT1dkQnpMUlZZSFJ3SG1FeGYtOXdkTlRzel9ZcURaenozVWxLZTZSS3kzMURGTVBQR1BWbWQydEpuSGVZTmpBZlNIcE5QYjg2MlhVYzJvSExYa0hTUnZhY3pIVXJIYk1UVEM4M01saUJKZkFUeUhSOWdTNkttenA3Mk1fTTU4eDZiT2pRQkhMMEtaVWRrSENjLXhmcDBnMWhza2d3UFpOaFhxdFhaZWItUGV4M2czZDF2bkVWbUtORkRObUJtQmhKWSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQwOTAwMCwiaGFzaCI6IjcyZDBlZjRhN2NkY2MzZjUzNWZhNDBlMDhhZDE1ZmQyZDhiNzMyNmNkZWEyYTc3NjMzOTdlNDFjZGU2OTc0YmIiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UwNSBbUmFyZVRvb25zaW5kaWFdLm1rdiJ9"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybTFUdUhvbW1ZZzVLY1hXNDRiT2oteUNYc0dXRWd4M1FPcHZlMm55akhQUU5VaGYtT1dkQnpMUlZZSFJ3SG1FeGYtOXdkTlRzel9ZcURaenozVWxLZTZSS3kzMURGTVBQR1BWbWQydEpuSGVZTmpBZlNIcE5QYjg2MlhVYzJvSExYa0hTUnZhY3pIVXJIYk1UVEM4M01saUJKZkFUeUhSOWdTNkttenA3Mk1fTTU4eDZiT2pRQkhMMEtaVWRrSENjLXhmcDBnMWhza2d3UFpOaFhxdFhaZWItUGV4M2czZDF2bkVWbUtORkRObUJtQmhKWSIsInRpbWVzdGFtcCI6MTc4ODQ0ODQwOTAwMCwiaGFzaCI6IjcyZDBlZjRhN2NkY2MzZjUzNWZhNDBlMDhhZDE1ZmQyZDhiNzMyNmNkZWEyYTc3NjMzOTdlNDFjZGU2OTc0YmIiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UwNSBbUmFyZVRvb25zaW5kaWFdLm1rdiJ9",
+              "hindi": "https://pixeldrain.net/u/CF54BH2b?download"
             },
             "hasTelegram": false
           },
@@ -78394,11 +78557,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 6",
-            "downloadUrl": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybXdMMU9SVnByNTBxSjg3Z2RkbExaZWJ4WVlFMnZOcTdaQ1Vad3pKX21aSDZKVkVhV2Q3UHVuY2diQzFhTjN3aUxTTi13d00wZVV2V05pN3g0UUd5VG9ITFhOVXFzd25RblU3aGhBY0lzdmhELXQtSDZsQjdpMG9NTE0taG9ReUtPUFpaMGJuSHhqc21lbXRsVjhaeUZnTG02RWU3RU42azU1VkVJLVMtenEydVA3QzZ5cUc3dEIzamlNQU5wN2NHQnE3aWR6Uk1XR2p6TjV3NHhac1BsYWsxa2hnb0t6N0VTR0kzOFJZSnZSZGZlQ1lFY3ZqWnJUTThXMEZxa0E5QUdaLUtuSW9uZ0FoZUkxNkxUSWpOT3R6YXNKakM2cmxRRnJDUGZKcXRuQ2xWMU1JUE41Y0NMVzhRUHhpQzhPRHp0VzFFLXZnS3p1NXJLbl8ta21FSGpvQllXS05adW1DWDI5Um9IcHRkN09BY1BadWRoRExvdzNnTDBqdDktWnota1puMWpuVHJBNk15MjBycTdYb3ZMekdsY2M0Y3VDVkVnbEt6U0daMWx4RFZ6MVhqT3o1WTNDUk1Yc3RwQm5pelJhcGRMdXEzdzVRRWxEUENpRXMtb1N6OXZfY3N6VG0wU3hrZWpmNEJZbVRWOE9nVVh1TlRyT0tncHhHcWZaY3ozcUZXbE1sUXpaUGVqYVdkTFdiWkM5XzVqVnZWbjliUWY4NkkxT05ReGVkLXBWYVA5NWMtZWdtMExkY244S25OandYS0VNc1U4V2dzSWdEM2xQbFhja3AyWk11dkV4QnZ5U3lJakdoYzI5bDdfcXdBcjVJUndIa29rU1NFOEVqZjJwMW0zRVRMaWJwaTdmdWtYOXl5S3EwTEU0bmRUVV80dFphOGVieXFtXzQ2MldDZ25sWFJqSHhBSkxoVFZDSXE1VFY4V1pTclFJN3JVUFFTcGR5TVVhTGs3WDd3MGlTdU9xLXVqdVNjNTlFeEV1M0IzM2VLaUJzZ1lNdTZRdTFhOGZVcGhEU3JLN1NmQjluQXRtNS1MVDJnWnNhMDUxNmt5Sk5DY3ltbGNpcmFiYkJQSG5pSGN1d21mZnF4RFd1VmkwMWtQZzRPUEZZeDNvY1lEVWFCUnhEYVA1Rm9LYUM4Q1dOLWRibjBRaUNmMlRLSUp6bmVsNmVFYW1XazBCaDV5MTlmaWRfbnpYcHJyZEJwLWY2VE9ocVVVejVwem12ZzNaZVdTTGhndTNHRG51X0hPUXJYYXBmMWZjSmNLcnJRbFVSdDkyVnFKQ0swYzZNUU5nUVBHOU1ydld1eFcyVmRZQm9QeW1XeTFjWE9fWjJZNlpTQzRKODNVNmt3VWVIWEtVdFFhTDRZSjRQQjJxT21nbWdsQWFySWF3ZENWam8xQmVvc3RwYkl2SVo0RmlwWjUtcWNWOS0xdXJ3Yk81QnBCa0hhdjloaFdZcUV2R3NMOGItYlpMMEs3aFlBbkpYSFRmYzUxSFAtODBQM2J6bEw4IiwidGltZXN0YW1wIjoxNzg4NDQ4NDE1MDAwLCJoYXNoIjoiYmI4NmQxMTM4YTczMDM0NDY5MjUwMzViNzJlOTk2Nzc4MjVjNWY3MmQzZWFiNThjOGQ5NjlhNzAzMzVkYTk5YyIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTA2IFtSYXJlVG9vbnNpbmRpYV0ubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/Dt2rGKtb?download",
             "downloadLinks": {
-              "1080p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybXdMMU9SVnByNTBxSjg3Z2RkbExaZWJ4WVlFMnZOcTdaQ1Vad3pKX21aSDZKVkVhV2Q3UHVuY2diQzFhTjN3aUxTTi13d00wZVV2V05pN3g0UUd5VG9ITFhOVXFzd25RblU3aGhBY0lzdmhELXQtSDZsQjdpMG9NTE0taG9ReUtPUFpaMGJuSHhqc21lbXRsVjhaeUZnTG02RWU3RU42azU1VkVJLVMtenEydVA3QzZ5cUc3dEIzamlNQU5wN2NHQnE3aWR6Uk1XR2p6TjV3NHhac1BsYWsxa2hnb0t6N0VTR0kzOFJZSnZSZGZlQ1lFY3ZqWnJUTThXMEZxa0E5QUdaLUtuSW9uZ0FoZUkxNkxUSWpOT3R6YXNKakM2cmxRRnJDUGZKcXRuQ2xWMU1JUE41Y0NMVzhRUHhpQzhPRHp0VzFFLXZnS3p1NXJLbl8ta21FSGpvQllXS05adW1DWDI5Um9IcHRkN09BY1BadWRoRExvdzNnTDBqdDktWnota1puMWpuVHJBNk15MjBycTdYb3ZMekdsY2M0Y3VDVkVnbEt6U0daMWx4RFZ6MVhqT3o1WTNDUk1Yc3RwQm5pelJhcGRMdXEzdzVRRWxEUENpRXMtb1N6OXZfY3N6VG0wU3hrZWpmNEJZbVRWOE9nVVh1TlRyT0tncHhHcWZaY3ozcUZXbE1sUXpaUGVqYVdkTFdiWkM5XzVqVnZWbjliUWY4NkkxT05ReGVkLXBWYVA5NWMtZWdtMExkY244S25OandYS0VNc1U4V2dzSWdEM2xQbFhja3AyWk11dkV4QnZ5U3lJakdoYzI5bDdfcXdBcjVJUndIa29rU1NFOEVqZjJwMW0zRVRMaWJwaTdmdWtYOXl5S3EwTEU0bmRUVV80dFphOGVieXFtXzQ2MldDZ25sWFJqSHhBSkxoVFZDSXE1VFY4V1pTclFJN3JVUFFTcGR5TVVhTGs3WDd3MGlTdU9xLXVqdVNjNTlFeEV1M0IzM2VLaUJzZ1lNdTZRdTFhOGZVcGhEU3JLN1NmQjluQXRtNS1MVDJnWnNhMDUxNmt5Sk5DY3ltbGNpcmFiYkJQSG5pSGN1d21mZnF4RFd1VmkwMWtQZzRPUEZZeDNvY1lEVWFCUnhEYVA1Rm9LYUM4Q1dOLWRibjBRaUNmMlRLSUp6bmVsNmVFYW1XazBCaDV5MTlmaWRfbnpYcHJyZEJwLWY2VE9ocVVVejVwem12ZzNaZVdTTGhndTNHRG51X0hPUXJYYXBmMWZjSmNLcnJRbFVSdDkyVnFKQ0swYzZNUU5nUVBHOU1ydld1eFcyVmRZQm9QeW1XeTFjWE9fWjJZNlpTQzRKODNVNmt3VWVIWEtVdFFhTDRZSjRQQjJxT21nbWdsQWFySWF3ZENWam8xQmVvc3RwYkl2SVo0RmlwWjUtcWNWOS0xdXJ3Yk81QnBCa0hhdjloaFdZcUV2R3NMOGItYlpMMEs3aFlBbkpYSFRmYzUxSFAtODBQM2J6bEw4IiwidGltZXN0YW1wIjoxNzg4NDQ4NDE1MDAwLCJoYXNoIjoiYmI4NmQxMTM4YTczMDM0NDY5MjUwMzViNzJlOTk2Nzc4MjVjNWY3MmQzZWFiNThjOGQ5NjlhNzAzMzVkYTk5YyIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTA2IFtSYXJlVG9vbnNpbmRpYV0ubWt2In0",
+              "1080p": "https://pixeldrain.net/u/Dt2rGKtb?download",
               "720p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybXdMMU9SVnByNTBxSjg3Z2RkbExaZWJ4WVlFMnZOcTdaQ1Vad3pKX21aSDZKVkVhV2Q3UHVuY2diQzFhTjN3aUxTTi13d00wZVV2V05pN3g0UUd5VG9ITFhOVXFzd25RblU3aGhBY0lzdmhELXQtSDZsQjdpMG9NTE0taG9ReUtPUFpaMGJuSHhqc21lbXRsVjhaeUZnTG02RWU3RU42azU1VkVJLVMtenEydVA3QzZ5cUc3dEIzamlNQU5wN2NHQnE3aWR6Uk1XR2p6TjV3NHhac1BsYWsxa2hnb0t6N0VTR0kzOFJZSnZSZGZlQ1lFY3ZqWnJUTThXMEZxa0E5QUdaLUtuSW9uZ0FoZUkxNkxUSWpOT3R6YXNKakM2cmxRRnJDUGZKcXRuQ2xWMU1JUE41Y0NMVzhRUHhpQzhPRHp0VzFFLXZnS3p1NXJLbl8ta21FSGpvQllXS05adW1DWDI5Um9IcHRkN09BY1BadWRoRExvdzNnTDBqdDktWnota1puMWpuVHJBNk15MjBycTdYb3ZMekdsY2M0Y3VDVkVnbEt6U0daMWx4RFZ6MVhqT3o1WTNDUk1Yc3RwQm5pelJhcGRMdXEzdzVRRWxEUENpRXMtb1N6OXZfY3N6VG0wU3hrZWpmNEJZbVRWOE9nVVh1TlRyT0tncHhHcWZaY3ozcUZXbE1sUXpaUGVqYVdkTFdiWkM5XzVqVnZWbjliUWY4NkkxT05ReGVkLXBWYVA5NWMtZWdtMExkY244S25OandYS0VNc1U4V2dzSWdEM2xQbFhja3AyWk11dkV4QnZ5U3lJakdoYzI5bDdfcXdBcjVJUndIa29rU1NFOEVqZjJwMW0zRVRMaWJwaTdmdWtYOXl5S3EwTEU0bmRUVV80dFphOGVieXFtXzQ2MldDZ25sWFJqSHhBSkxoVFZDSXE1VFY4V1pTclFJN3JVUFFTcGR5TVVhTGs3WDd3MGlTdU9xLXVqdVNjNTlFeEV1M0IzM2VLaUJzZ1lNdTZRdTFhOGZVcGhEU3JLN1NmQjluQXRtNS1MVDJnWnNhMDUxNmt5Sk5DY3ltbGNpcmFiYkJQSG5pSGN1d21mZnF4RFd1VmkwMWtQZzRPUEZZeDNvY1lEVWFCUnhEYVA1Rm9LYUM4Q1dOLWRibjBRaUNmMlRLSUp6bmVsNmVFYW1XazBCaDV5MTlmaWRfbnpYcHJyZEJwLWY2VE9ocVVVejVwem12ZzNaZVdTTGhndTNHRG51X0hPUXJYYXBmMWZjSmNLcnJRbFVSdDkyVnFKQ0swYzZNUU5nUVBHOU1ydld1eFcyVmRZQm9QeW1XeTFjWE9fWjJZNlpTQzRKODNVNmt3VWVIWEtVdFFhTDRZSjRQQjJxT21nbWdsQWFySWF3ZENWam8xQmVvc3RwYkl2SVo0RmlwWjUtcWNWOS0xdXJ3Yk81QnBCa0hhdjloaFdZcUV2R3NMOGItYlpMMEs3aFlBbkpYSFRmYzUxSFAtODBQM2J6bEw4IiwidGltZXN0YW1wIjoxNzg4NDQ4NDE1MDAwLCJoYXNoIjoiYmI4NmQxMTM4YTczMDM0NDY5MjUwMzViNzJlOTk2Nzc4MjVjNWY3MmQzZWFiNThjOGQ5NjlhNzAzMzVkYTk5YyIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTA2IFtSYXJlVG9vbnNpbmRpYV0ubWt2In0",
-              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybXdMMU9SVnByNTBxSjg3Z2RkbExaZWJ4WVlFMnZOcTdaQ1Vad3pKX21aSDZKVkVhV2Q3UHVuY2diQzFhTjN3aUxTTi13d00wZVV2V05pN3g0UUd5VG9ITFhOVXFzd25RblU3aGhBY0lzdmhELXQtSDZsQjdpMG9NTE0taG9ReUtPUFpaMGJuSHhqc21lbXRsVjhaeUZnTG02RWU3RU42azU1VkVJLVMtenEydVA3QzZ5cUc3dEIzamlNQU5wN2NHQnE3aWR6Uk1XR2p6TjV3NHhac1BsYWsxa2hnb0t6N0VTR0kzOFJZSnZSZGZlQ1lFY3ZqWnJUTThXMEZxa0E5QUdaLUtuSW9uZ0FoZUkxNkxUSWpOT3R6YXNKakM2cmxRRnJDUGZKcXRuQ2xWMU1JUE41Y0NMVzhRUHhpQzhPRHp0VzFFLXZnS3p1NXJLbl8ta21FSGpvQllXS05adW1DWDI5Um9IcHRkN09BY1BadWRoRExvdzNnTDBqdDktWnota1puMWpuVHJBNk15MjBycTdYb3ZMekdsY2M0Y3VDVkVnbEt6U0daMWx4RFZ6MVhqT3o1WTNDUk1Yc3RwQm5pelJhcGRMdXEzdzVRRWxEUENpRXMtb1N6OXZfY3N6VG0wU3hrZWpmNEJZbVRWOE9nVVh1TlRyT0tncHhHcWZaY3ozcUZXbE1sUXpaUGVqYVdkTFdiWkM5XzVqVnZWbjliUWY4NkkxT05ReGVkLXBWYVA5NWMtZWdtMExkY244S25OandYS0VNc1U4V2dzSWdEM2xQbFhja3AyWk11dkV4QnZ5U3lJakdoYzI5bDdfcXdBcjVJUndIa29rU1NFOEVqZjJwMW0zRVRMaWJwaTdmdWtYOXl5S3EwTEU0bmRUVV80dFphOGVieXFtXzQ2MldDZ25sWFJqSHhBSkxoVFZDSXE1VFY4V1pTclFJN3JVUFFTcGR5TVVhTGs3WDd3MGlTdU9xLXVqdVNjNTlFeEV1M0IzM2VLaUJzZ1lNdTZRdTFhOGZVcGhEU3JLN1NmQjluQXRtNS1MVDJnWnNhMDUxNmt5Sk5DY3ltbGNpcmFiYkJQSG5pSGN1d21mZnF4RFd1VmkwMWtQZzRPUEZZeDNvY1lEVWFCUnhEYVA1Rm9LYUM4Q1dOLWRibjBRaUNmMlRLSUp6bmVsNmVFYW1XazBCaDV5MTlmaWRfbnpYcHJyZEJwLWY2VE9ocVVVejVwem12ZzNaZVdTTGhndTNHRG51X0hPUXJYYXBmMWZjSmNLcnJRbFVSdDkyVnFKQ0swYzZNUU5nUVBHOU1ydld1eFcyVmRZQm9QeW1XeTFjWE9fWjJZNlpTQzRKODNVNmt3VWVIWEtVdFFhTDRZSjRQQjJxT21nbWdsQWFySWF3ZENWam8xQmVvc3RwYkl2SVo0RmlwWjUtcWNWOS0xdXJ3Yk81QnBCa0hhdjloaFdZcUV2R3NMOGItYlpMMEs3aFlBbkpYSFRmYzUxSFAtODBQM2J6bEw4IiwidGltZXN0YW1wIjoxNzg4NDQ4NDE1MDAwLCJoYXNoIjoiYmI4NmQxMTM4YTczMDM0NDY5MjUwMzViNzJlOTk2Nzc4MjVjNWY3MmQzZWFiNThjOGQ5NjlhNzAzMzVkYTk5YyIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTA2IFtSYXJlVG9vbnNpbmRpYV0ubWt2In0"
+              "480p": "https://lucky-tree-d288.flashzipper.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybXdMMU9SVnByNTBxSjg3Z2RkbExaZWJ4WVlFMnZOcTdaQ1Vad3pKX21aSDZKVkVhV2Q3UHVuY2diQzFhTjN3aUxTTi13d00wZVV2V05pN3g0UUd5VG9ITFhOVXFzd25RblU3aGhBY0lzdmhELXQtSDZsQjdpMG9NTE0taG9ReUtPUFpaMGJuSHhqc21lbXRsVjhaeUZnTG02RWU3RU42azU1VkVJLVMtenEydVA3QzZ5cUc3dEIzamlNQU5wN2NHQnE3aWR6Uk1XR2p6TjV3NHhac1BsYWsxa2hnb0t6N0VTR0kzOFJZSnZSZGZlQ1lFY3ZqWnJUTThXMEZxa0E5QUdaLUtuSW9uZ0FoZUkxNkxUSWpOT3R6YXNKakM2cmxRRnJDUGZKcXRuQ2xWMU1JUE41Y0NMVzhRUHhpQzhPRHp0VzFFLXZnS3p1NXJLbl8ta21FSGpvQllXS05adW1DWDI5Um9IcHRkN09BY1BadWRoRExvdzNnTDBqdDktWnota1puMWpuVHJBNk15MjBycTdYb3ZMekdsY2M0Y3VDVkVnbEt6U0daMWx4RFZ6MVhqT3o1WTNDUk1Yc3RwQm5pelJhcGRMdXEzdzVRRWxEUENpRXMtb1N6OXZfY3N6VG0wU3hrZWpmNEJZbVRWOE9nVVh1TlRyT0tncHhHcWZaY3ozcUZXbE1sUXpaUGVqYVdkTFdiWkM5XzVqVnZWbjliUWY4NkkxT05ReGVkLXBWYVA5NWMtZWdtMExkY244S25OandYS0VNc1U4V2dzSWdEM2xQbFhja3AyWk11dkV4QnZ5U3lJakdoYzI5bDdfcXdBcjVJUndIa29rU1NFOEVqZjJwMW0zRVRMaWJwaTdmdWtYOXl5S3EwTEU0bmRUVV80dFphOGVieXFtXzQ2MldDZ25sWFJqSHhBSkxoVFZDSXE1VFY4V1pTclFJN3JVUFFTcGR5TVVhTGs3WDd3MGlTdU9xLXVqdVNjNTlFeEV1M0IzM2VLaUJzZ1lNdTZRdTFhOGZVcGhEU3JLN1NmQjluQXRtNS1MVDJnWnNhMDUxNmt5Sk5DY3ltbGNpcmFiYkJQSG5pSGN1d21mZnF4RFd1VmkwMWtQZzRPUEZZeDNvY1lEVWFCUnhEYVA1Rm9LYUM4Q1dOLWRibjBRaUNmMlRLSUp6bmVsNmVFYW1XazBCaDV5MTlmaWRfbnpYcHJyZEJwLWY2VE9ocVVVejVwem12ZzNaZVdTTGhndTNHRG51X0hPUXJYYXBmMWZjSmNLcnJRbFVSdDkyVnFKQ0swYzZNUU5nUVBHOU1ydld1eFcyVmRZQm9QeW1XeTFjWE9fWjJZNlpTQzRKODNVNmt3VWVIWEtVdFFhTDRZSjRQQjJxT21nbWdsQWFySWF3ZENWam8xQmVvc3RwYkl2SVo0RmlwWjUtcWNWOS0xdXJ3Yk81QnBCa0hhdjloaFdZcUV2R3NMOGItYlpMMEs3aFlBbkpYSFRmYzUxSFAtODBQM2J6bEw4IiwidGltZXN0YW1wIjoxNzg4NDQ4NDE1MDAwLCJoYXNoIjoiYmI4NmQxMTM4YTczMDM0NDY5MjUwMzViNzJlOTk2Nzc4MjVjNWY3MmQzZWFiNThjOGQ5NjlhNzAzMzVkYTk5YyIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTA2IFtSYXJlVG9vbnNpbmRpYV0ubWt2In0",
+              "hindi": "https://pixeldrain.net/u/Dt2rGKtb?download"
             },
             "hasTelegram": false
           },
@@ -78410,11 +78574,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 7",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=1e37b23584c94d25213e0b61edd07327716954696c1a39c819ff120d8eb9cf35f830824d85058d4df95bb5531d80b16cfc608690a261ea5b76176531c02b4fbac9fb3bd513237ed3507c62d12d71fbf3d320e69089c6e56299b3d6e004ff0793::ef8e9e8293d32afd57ed5c107710c024",
+            "downloadUrl": "https://pixeldrain.net/u/RpG92ET3?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=1e37b23584c94d25213e0b61edd07327716954696c1a39c819ff120d8eb9cf35f830824d85058d4df95bb5531d80b16cfc608690a261ea5b76176531c02b4fbac9fb3bd513237ed3507c62d12d71fbf3d320e69089c6e56299b3d6e004ff0793::ef8e9e8293d32afd57ed5c107710c024",
+              "1080p": "https://pixeldrain.net/u/RpG92ET3?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=1e37b23584c94d25213e0b61edd07327716954696c1a39c819ff120d8eb9cf35f830824d85058d4df95bb5531d80b16cfc608690a261ea5b76176531c02b4fbac9fb3bd513237ed3507c62d12d71fbf3d320e69089c6e56299b3d6e004ff0793::ef8e9e8293d32afd57ed5c107710c024",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=1e37b23584c94d25213e0b61edd07327716954696c1a39c819ff120d8eb9cf35f830824d85058d4df95bb5531d80b16cfc608690a261ea5b76176531c02b4fbac9fb3bd513237ed3507c62d12d71fbf3d320e69089c6e56299b3d6e004ff0793::ef8e9e8293d32afd57ed5c107710c024"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=1e37b23584c94d25213e0b61edd07327716954696c1a39c819ff120d8eb9cf35f830824d85058d4df95bb5531d80b16cfc608690a261ea5b76176531c02b4fbac9fb3bd513237ed3507c62d12d71fbf3d320e69089c6e56299b3d6e004ff0793::ef8e9e8293d32afd57ed5c107710c024",
+              "hindi": "https://pixeldrain.net/u/RpG92ET3?download"
             },
             "hasTelegram": false
           },
@@ -78426,11 +78591,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 8",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=1c8be4b50bd5b90711ec3a55ae1fd8578a1e7bab5a10d0189b236eb8b692c1463a9c1005161330c724ca40d1f59bb6534e71031a4e9478ecb75bebae8a84c79b212ef5e43c88b5e13cf19594c6e16fc0c7e71b67025139fb254f26fc27b4e4da79366d1e5e6a67ccd0004817b98ca1f5::beca9655533bdd9155e897892554a5bb",
+            "downloadUrl": "https://pixeldrain.net/u/7V5uTiTW?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=1c8be4b50bd5b90711ec3a55ae1fd8578a1e7bab5a10d0189b236eb8b692c1463a9c1005161330c724ca40d1f59bb6534e71031a4e9478ecb75bebae8a84c79b212ef5e43c88b5e13cf19594c6e16fc0c7e71b67025139fb254f26fc27b4e4da79366d1e5e6a67ccd0004817b98ca1f5::beca9655533bdd9155e897892554a5bb",
+              "1080p": "https://pixeldrain.net/u/7V5uTiTW?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=1c8be4b50bd5b90711ec3a55ae1fd8578a1e7bab5a10d0189b236eb8b692c1463a9c1005161330c724ca40d1f59bb6534e71031a4e9478ecb75bebae8a84c79b212ef5e43c88b5e13cf19594c6e16fc0c7e71b67025139fb254f26fc27b4e4da79366d1e5e6a67ccd0004817b98ca1f5::beca9655533bdd9155e897892554a5bb",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=1c8be4b50bd5b90711ec3a55ae1fd8578a1e7bab5a10d0189b236eb8b692c1463a9c1005161330c724ca40d1f59bb6534e71031a4e9478ecb75bebae8a84c79b212ef5e43c88b5e13cf19594c6e16fc0c7e71b67025139fb254f26fc27b4e4da79366d1e5e6a67ccd0004817b98ca1f5::beca9655533bdd9155e897892554a5bb"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=1c8be4b50bd5b90711ec3a55ae1fd8578a1e7bab5a10d0189b236eb8b692c1463a9c1005161330c724ca40d1f59bb6534e71031a4e9478ecb75bebae8a84c79b212ef5e43c88b5e13cf19594c6e16fc0c7e71b67025139fb254f26fc27b4e4da79366d1e5e6a67ccd0004817b98ca1f5::beca9655533bdd9155e897892554a5bb",
+              "hindi": "https://pixeldrain.net/u/7V5uTiTW?download"
             },
             "hasTelegram": false
           },
@@ -78442,11 +78608,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 9",
-            "downloadUrl": "https://gpdl.rohitkiskk.workers.dev/?id=007ae01cacdfbb3452d808762dfec28221d60821baffb7096313389ba477e1f050abd0898e6b57485a2f3faa7a05367c11ce92c5580d8d8cfdc0c885c47fb1b97d90c2d16463d4ffa7693114490347f53b20e8c926552fb766e37e018c256e5aeb5c5fda19a58739043155ab55c21870::5598636ffb150379c1c8fe5cb8df0a1b",
+            "downloadUrl": "https://pixeldrain.net/u/iEN6Aro9?download",
             "downloadLinks": {
-              "1080p": "https://gpdl.rohitkiskk.workers.dev/?id=007ae01cacdfbb3452d808762dfec28221d60821baffb7096313389ba477e1f050abd0898e6b57485a2f3faa7a05367c11ce92c5580d8d8cfdc0c885c47fb1b97d90c2d16463d4ffa7693114490347f53b20e8c926552fb766e37e018c256e5aeb5c5fda19a58739043155ab55c21870::5598636ffb150379c1c8fe5cb8df0a1b",
+              "1080p": "https://pixeldrain.net/u/iEN6Aro9?download",
               "720p": "https://gpdl.rohitkiskk.workers.dev/?id=007ae01cacdfbb3452d808762dfec28221d60821baffb7096313389ba477e1f050abd0898e6b57485a2f3faa7a05367c11ce92c5580d8d8cfdc0c885c47fb1b97d90c2d16463d4ffa7693114490347f53b20e8c926552fb766e37e018c256e5aeb5c5fda19a58739043155ab55c21870::5598636ffb150379c1c8fe5cb8df0a1b",
-              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=007ae01cacdfbb3452d808762dfec28221d60821baffb7096313389ba477e1f050abd0898e6b57485a2f3faa7a05367c11ce92c5580d8d8cfdc0c885c47fb1b97d90c2d16463d4ffa7693114490347f53b20e8c926552fb766e37e018c256e5aeb5c5fda19a58739043155ab55c21870::5598636ffb150379c1c8fe5cb8df0a1b"
+              "480p": "https://gpdl.rohitkiskk.workers.dev/?id=007ae01cacdfbb3452d808762dfec28221d60821baffb7096313389ba477e1f050abd0898e6b57485a2f3faa7a05367c11ce92c5580d8d8cfdc0c885c47fb1b97d90c2d16463d4ffa7693114490347f53b20e8c926552fb766e37e018c256e5aeb5c5fda19a58739043155ab55c21870::5598636ffb150379c1c8fe5cb8df0a1b",
+              "hindi": "https://pixeldrain.net/u/iEN6Aro9?download"
             },
             "hasTelegram": false
           },
@@ -78458,11 +78625,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 10",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybGtVOG1WREszbzgwYm16dFNGVERiaGs1SkdHaGsxaHYtcGVkWmk4SXlCeTJlVkItWjdFN0xjOHpKYmZYemVNNXBOblN5bEJ3eGt2Z3RWTWlrQkJ5N0lBLWI1bF9qU2xDMHZFVGlxWC1CWkl4bU5pQlVxYUJFY3Fpd2U2VE1yLUIwQ01BWjFteU53REk1NW9EOGNnblhQTVpleVRaRFd2ZV9Rbk1hQnJKMi1YY0dhbEktd1ZDZnpGeW43cGZCSlJkejVqSkVzUXNUeTBoTVhkU3lxNFhDZFRrMVhtYUVsRFJTU1k3ZTBXUnM5enVrZmwxVSIsInRpbWVzdGFtcCI6MTc4ODQ0ODIxNjAwMCwiaGFzaCI6IjA5MTQ4NjE1OTcwNTJhOTE2ZDhjYjMxYWNhZmFlNjY1YjgzYTYzMTI3MzhjYTU3NTZhYTFjMDkxZWYyMzdjOGMiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UxMCBbUmFyZVRvb25zaW5kaWFdICAubWt2In0",
+            "downloadUrl": "https://pixeldrain.net/u/YZXTY3T8?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybGtVOG1WREszbzgwYm16dFNGVERiaGs1SkdHaGsxaHYtcGVkWmk4SXlCeTJlVkItWjdFN0xjOHpKYmZYemVNNXBOblN5bEJ3eGt2Z3RWTWlrQkJ5N0lBLWI1bF9qU2xDMHZFVGlxWC1CWkl4bU5pQlVxYUJFY3Fpd2U2VE1yLUIwQ01BWjFteU53REk1NW9EOGNnblhQTVpleVRaRFd2ZV9Rbk1hQnJKMi1YY0dhbEktd1ZDZnpGeW43cGZCSlJkejVqSkVzUXNUeTBoTVhkU3lxNFhDZFRrMVhtYUVsRFJTU1k3ZTBXUnM5enVrZmwxVSIsInRpbWVzdGFtcCI6MTc4ODQ0ODIxNjAwMCwiaGFzaCI6IjA5MTQ4NjE1OTcwNTJhOTE2ZDhjYjMxYWNhZmFlNjY1YjgzYTYzMTI3MzhjYTU3NTZhYTFjMDkxZWYyMzdjOGMiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UxMCBbUmFyZVRvb25zaW5kaWFdICAubWt2In0",
+              "1080p": "https://pixeldrain.net/u/YZXTY3T8?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybGtVOG1WREszbzgwYm16dFNGVERiaGs1SkdHaGsxaHYtcGVkWmk4SXlCeTJlVkItWjdFN0xjOHpKYmZYemVNNXBOblN5bEJ3eGt2Z3RWTWlrQkJ5N0lBLWI1bF9qU2xDMHZFVGlxWC1CWkl4bU5pQlVxYUJFY3Fpd2U2VE1yLUIwQ01BWjFteU53REk1NW9EOGNnblhQTVpleVRaRFd2ZV9Rbk1hQnJKMi1YY0dhbEktd1ZDZnpGeW43cGZCSlJkejVqSkVzUXNUeTBoTVhkU3lxNFhDZFRrMVhtYUVsRFJTU1k3ZTBXUnM5enVrZmwxVSIsInRpbWVzdGFtcCI6MTc4ODQ0ODIxNjAwMCwiaGFzaCI6IjA5MTQ4NjE1OTcwNTJhOTE2ZDhjYjMxYWNhZmFlNjY1YjgzYTYzMTI3MzhjYTU3NTZhYTFjMDkxZWYyMzdjOGMiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UxMCBbUmFyZVRvb25zaW5kaWFdICAubWt2In0",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybGtVOG1WREszbzgwYm16dFNGVERiaGs1SkdHaGsxaHYtcGVkWmk4SXlCeTJlVkItWjdFN0xjOHpKYmZYemVNNXBOblN5bEJ3eGt2Z3RWTWlrQkJ5N0lBLWI1bF9qU2xDMHZFVGlxWC1CWkl4bU5pQlVxYUJFY3Fpd2U2VE1yLUIwQ01BWjFteU53REk1NW9EOGNnblhQTVpleVRaRFd2ZV9Rbk1hQnJKMi1YY0dhbEktd1ZDZnpGeW43cGZCSlJkejVqSkVzUXNUeTBoTVhkU3lxNFhDZFRrMVhtYUVsRFJTU1k3ZTBXUnM5enVrZmwxVSIsInRpbWVzdGFtcCI6MTc4ODQ0ODIxNjAwMCwiaGFzaCI6IjA5MTQ4NjE1OTcwNTJhOTE2ZDhjYjMxYWNhZmFlNjY1YjgzYTYzMTI3MzhjYTU3NTZhYTFjMDkxZWYyMzdjOGMiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UxMCBbUmFyZVRvb25zaW5kaWFdICAubWt2In0"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvdmlkZW8tZG93bmxvYWRzLmdvb2dsZXVzZXJjb250ZW50LmNvbVwvQURHUE0ybGtVOG1WREszbzgwYm16dFNGVERiaGs1SkdHaGsxaHYtcGVkWmk4SXlCeTJlVkItWjdFN0xjOHpKYmZYemVNNXBOblN5bEJ3eGt2Z3RWTWlrQkJ5N0lBLWI1bF9qU2xDMHZFVGlxWC1CWkl4bU5pQlVxYUJFY3Fpd2U2VE1yLUIwQ01BWjFteU53REk1NW9EOGNnblhQTVpleVRaRFd2ZV9Rbk1hQnJKMi1YY0dhbEktd1ZDZnpGeW43cGZCSlJkejVqSkVzUXNUeTBoTVhkU3lxNFhDZFRrMVhtYUVsRFJTU1k3ZTBXUnM5enVrZmwxVSIsInRpbWVzdGFtcCI6MTc4ODQ0ODIxNjAwMCwiaGFzaCI6IjA5MTQ4NjE1OTcwNTJhOTE2ZDhjYjMxYWNhZmFlNjY1YjgzYTYzMTI3MzhjYTU3NTZhYTFjMDkxZWYyMzdjOGMiLCJmaWxlbmFtZSI6IkpVSlVUU1UgS0FJU0VOIFMwM0UxMCBbUmFyZVRvb25zaW5kaWFdICAubWt2In0",
+              "hindi": "https://pixeldrain.net/u/YZXTY3T8?download"
             },
             "hasTelegram": false
           },
@@ -78474,11 +78642,12 @@ export const ANIME_DATABASE = [
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 11",
-            "downloadUrl": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RmYWE2MjBiNDBjOTBjYTU3NjlhZTViMzQ3YTVkMGFlP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDEyNDA0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJKVUpVVFNVJTIwS0FJU0VOJTIwUzAzRTExJTIwJTVCUmFyZVRvb25zaW5kaWElNUQlMjAubWt2JTIyJlgtQW16LVNpZ25hdHVyZT00OGNkYjFmMDczOTk3MzFiZTZlNzZiNzRkYjlkMDVjOTVkZDkxZTZhOWMzZmFjZTcyNjM0NjhjYWI4ZjkwM2YzIiwidGltZXN0YW1wIjoxNzg4NDQ4NDI5MDAwLCJoYXNoIjoiMTNhNWM1OGM1MmRhMWQyOTcwZjIzMWM1ZWYwZjU4ZGU5NGY2OGMzNjNhYTdmOTM3NWE2MTQzOTk0NDcyZGExNCIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTExIFtSYXJlVG9vbnNpbmRpYV0gLm1rdiJ9",
+            "downloadUrl": "https://pixeldrain.net/u/Rr13Bvc3?download",
             "downloadLinks": {
-              "1080p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RmYWE2MjBiNDBjOTBjYTU3NjlhZTViMzQ3YTVkMGFlP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDEyNDA0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJKVUpVVFNVJTIwS0FJU0VOJTIwUzAzRTExJTIwJTVCUmFyZVRvb25zaW5kaWElNUQlMjAubWt2JTIyJlgtQW16LVNpZ25hdHVyZT00OGNkYjFmMDczOTk3MzFiZTZlNzZiNzRkYjlkMDVjOTVkZDkxZTZhOWMzZmFjZTcyNjM0NjhjYWI4ZjkwM2YzIiwidGltZXN0YW1wIjoxNzg4NDQ4NDI5MDAwLCJoYXNoIjoiMTNhNWM1OGM1MmRhMWQyOTcwZjIzMWM1ZWYwZjU4ZGU5NGY2OGMzNjNhYTdmOTM3NWE2MTQzOTk0NDcyZGExNCIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTExIFtSYXJlVG9vbnNpbmRpYV0gLm1rdiJ9",
+              "1080p": "https://pixeldrain.net/u/Rr13Bvc3?download",
               "720p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RmYWE2MjBiNDBjOTBjYTU3NjlhZTViMzQ3YTVkMGFlP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDEyNDA0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJKVUpVVFNVJTIwS0FJU0VOJTIwUzAzRTExJTIwJTVCUmFyZVRvb25zaW5kaWElNUQlMjAubWt2JTIyJlgtQW16LVNpZ25hdHVyZT00OGNkYjFmMDczOTk3MzFiZTZlNzZiNzRkYjlkMDVjOTVkZDkxZTZhOWMzZmFjZTcyNjM0NjhjYWI4ZjkwM2YzIiwidGltZXN0YW1wIjoxNzg4NDQ4NDI5MDAwLCJoYXNoIjoiMTNhNWM1OGM1MmRhMWQyOTcwZjIzMWM1ZWYwZjU4ZGU5NGY2OGMzNjNhYTdmOTM3NWE2MTQzOTk0NDcyZGExNCIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTExIFtSYXJlVG9vbnNpbmRpYV0gLm1rdiJ9",
-              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RmYWE2MjBiNDBjOTBjYTU3NjlhZTViMzQ3YTVkMGFlP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDEyNDA0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJKVUpVVFNVJTIwS0FJU0VOJTIwUzAzRTExJTIwJTVCUmFyZVRvb25zaW5kaWElNUQlMjAubWt2JTIyJlgtQW16LVNpZ25hdHVyZT00OGNkYjFmMDczOTk3MzFiZTZlNzZiNzRkYjlkMDVjOTVkZDkxZTZhOWMzZmFjZTcyNjM0NjhjYWI4ZjkwM2YzIiwidGltZXN0YW1wIjoxNzg4NDQ4NDI5MDAwLCJoYXNoIjoiMTNhNWM1OGM1MmRhMWQyOTcwZjIzMWM1ZWYwZjU4ZGU5NGY2OGMzNjNhYTdmOTM3NWE2MTQzOTk0NDcyZGExNCIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTExIFtSYXJlVG9vbnNpbmRpYV0gLm1rdiJ9"
+              "480p": "https://worker-lingering-surf-fadb.yisehin453.workers.dev/eyJ1cmwiOiJodHRwczpcL1wvZGExOTRlM2U0MTAxMWU1OGVhOTViMDkxNGM2MjEyZDMucjIuY2xvdWRmbGFyZXN0b3JhZ2UuY29tXC9odWJcL2RmYWE2MjBiNDBjOTBjYTU3NjlhZTViMzQ3YTVkMGFlP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9OTZiNTAzM2JjOTA1NTk3Y2RiNjBmNzQzMjllOTBlMzIlMkYyMDI2MDkwMyUyRmF1dG8lMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDEyNDA0NFomWC1BbXotRXhwaXJlcz0yODgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCJTIwZmlsZW5hbWUlM0QlMjJKVUpVVFNVJTIwS0FJU0VOJTIwUzAzRTExJTIwJTVCUmFyZVRvb25zaW5kaWElNUQlMjAubWt2JTIyJlgtQW16LVNpZ25hdHVyZT00OGNkYjFmMDczOTk3MzFiZTZlNzZiNzRkYjlkMDVjOTVkZDkxZTZhOWMzZmFjZTcyNjM0NjhjYWI4ZjkwM2YzIiwidGltZXN0YW1wIjoxNzg4NDQ4NDI5MDAwLCJoYXNoIjoiMTNhNWM1OGM1MmRhMWQyOTcwZjIzMWM1ZWYwZjU4ZGU5NGY2OGMzNjNhYTdmOTM3NWE2MTQzOTk0NDcyZGExNCIsImZpbGVuYW1lIjoiSlVKVVRTVSBLQUlTRU4gUzAzRTExIFtSYXJlVG9vbnNpbmRpYV0gLm1rdiJ9",
+              "hindi": "https://pixeldrain.net/u/Rr13Bvc3?download"
             },
             "hasTelegram": false
           },
@@ -78486,15 +78655,16 @@ export const ANIME_DATABASE = [
             "id": 12,
             "number": 12,
             "season": 3,
-            "title": "Episode 12",
+            "title": "Sendai Colony 28 Minutes Special – Season Finale",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
             "synopsis": "Jujutsu Kaisen Season 3 Episode 12",
-            "downloadUrl": "https://pixel.rohitkiskk.workers.dev/?id=df3fcd255c8a9c982fa549d391312b90fd9dcad4796973787b24bbdb32aa5fb11e080c976a03d359a68ab5e398086869961c2d6686c318fe567e9d7c172a22e7eed27a856dd82f4990b9d07698fc4d43d4436e74fcebc8ff6c45e75d66155c40::81efa1a7b682481529dba5679650eca0",
+            "downloadUrl": "https://pixeldrain.net/u/YszUnyX5?download",
             "downloadLinks": {
-              "1080p": "https://pixel.rohitkiskk.workers.dev/?id=df3fcd255c8a9c982fa549d391312b90fd9dcad4796973787b24bbdb32aa5fb11e080c976a03d359a68ab5e398086869961c2d6686c318fe567e9d7c172a22e7eed27a856dd82f4990b9d07698fc4d43d4436e74fcebc8ff6c45e75d66155c40::81efa1a7b682481529dba5679650eca0",
+              "1080p": "https://pixeldrain.net/u/YszUnyX5?download",
               "720p": "https://pixel.rohitkiskk.workers.dev/?id=df3fcd255c8a9c982fa549d391312b90fd9dcad4796973787b24bbdb32aa5fb11e080c976a03d359a68ab5e398086869961c2d6686c318fe567e9d7c172a22e7eed27a856dd82f4990b9d07698fc4d43d4436e74fcebc8ff6c45e75d66155c40::81efa1a7b682481529dba5679650eca0",
-              "480p": "https://pixel.rohitkiskk.workers.dev/?id=df3fcd255c8a9c982fa549d391312b90fd9dcad4796973787b24bbdb32aa5fb11e080c976a03d359a68ab5e398086869961c2d6686c318fe567e9d7c172a22e7eed27a856dd82f4990b9d07698fc4d43d4436e74fcebc8ff6c45e75d66155c40::81efa1a7b682481529dba5679650eca0"
+              "480p": "https://pixel.rohitkiskk.workers.dev/?id=df3fcd255c8a9c982fa549d391312b90fd9dcad4796973787b24bbdb32aa5fb11e080c976a03d359a68ab5e398086869961c2d6686c318fe567e9d7c172a22e7eed27a856dd82f4990b9d07698fc4d43d4436e74fcebc8ff6c45e75d66155c40::81efa1a7b682481529dba5679650eca0",
+              "hindi": "https://pixeldrain.net/u/YszUnyX5?download"
             },
             "hasTelegram": false
           }
