@@ -45,6 +45,61 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "dragon-ball-super",
+    "title": "Dragon Ball Super",
+    "raw_name": "Dragon Ball Super: Beerus (REMAKE)",
+    "japaneseTitle": "ドラゴンボール超",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21175-Qo9gdGPUm4Im.jpg",
+    "rating": 7.3,
+    "year": 2015,
+    "currentEpBadge": "S1-EP1",
+    "status": "Completed",
+    "type": "TV Series",
+    "season": "2015",
+    "studio": "Toei Animation",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "synopsis": "After 18 years, we have the newest Dragon Ball story from creator Akira Toriyama. With Majin Buu defeated, Goku has taken a completely new role as...a radish farmer?! With Earth at peace, our heroes have settled into normal lives. But they can’t get too comfortable. Far away, the powerful God of Destruction, Beerus, awakens to a prophecy revealing his demise at the hands of an even more formidable being. When his search for the Saiyan God brings him to Earth, can Goku and his friends take on their strongest foe yet?\n\n(Source: Crunchyroll)",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2015",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The God Who Destroys",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
+            "synopsis": "Episode 1 of Dragon Ball Super (Season 1)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/uUcAbUQP?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/uUcAbUQP?download"
+            }
+          }
+        ]
+      }
+    ],
+    "is_movie": false
+  },
+  {
     "id": "kingdom",
     "title": "Kingdom",
     "raw_name": "Kingdom",
