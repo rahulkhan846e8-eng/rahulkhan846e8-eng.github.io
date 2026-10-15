@@ -46,6 +46,37 @@ const FAMOUS_POPULAR_IDS = [
 
 export const ANIME_CATALOG = [
   {
+    "id": "dragon-ball-super",
+    "title": "Dragon Ball Super",
+    "japaneseTitle": "ドラゴンボール超",
+    "raw_name": "Dragon Ball Super: Broly Movie English",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21175-Qo9gdGPUm4Im.jpg",
+    "type": "Movie",
+    "status": "Completed",
+    "year": 2015,
+    "rating": 7.3,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
+    "hasHindi": true,
+    "hasOriginal": false,
+    "synopsis": "After 18 years, we have the newest Dragon Ball story from creator Akira Toriyama. With Majin Buu defeated, Goku has taken a completely new role as...a radish farmer?! With Earth at peace, our heroes have settled into normal lives. But they ",
+    "seasonCount": 1,
+    "totalEpisodes": 1
+  },
+  {
     "id": "dragon-ball-super-beerus-remake",
     "title": "Dragon Ball Super: Beerus (Remake)",
     "japaneseTitle": "ドラゴンボール超：ビルス",
@@ -13355,7 +13386,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=1792049265');
+    const { ANIME_DATABASE } = await import('./data.js?v=1792051757');
     for (const anime of ANIME_DATABASE) {
       const key = (anime.id || "").toLowerCase().trim();
       fullAnimeCache.set(key, anime);
