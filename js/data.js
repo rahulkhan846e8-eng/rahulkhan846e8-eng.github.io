@@ -49,7 +49,7 @@ export const ANIME_DATABASE = [
     "title": "Dragon Ball Super: Beerus (Remake)",
     "raw_name": "Dragon Ball Super: Beerus (REMAKE)",
     "japaneseTitle": "ドラゴンボール超：ビルス",
-    "poster": "https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWejfPpZ-HIHz8K0WSKVRWwg4XtavIPxJpGLCm-QwC4JJkA3xOfGpip0EzBE3rXr8i6lMPPEAjDmb5x_qOf0hNc1rQiAyuowFh_8.jpg",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V_jp-1I8PtD69dAVeWucMOIuJS8mDqZIn8lfn41OTy1RlRBR5mjGKSRq&s=10",
     "banner": "https://dragonball-super.com/img/mv-thum03_en.jpg",
     "rating": 8.8,
     "year": 2026,
