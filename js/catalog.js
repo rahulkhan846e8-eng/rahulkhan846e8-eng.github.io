@@ -46,6 +46,35 @@ const FAMOUS_POPULAR_IDS = [
 
 export const ANIME_CATALOG = [
   {
+    "id": "dragon-ball-super-beerus-remake",
+    "title": "Dragon Ball Super: Beerus (Remake)",
+    "japaneseTitle": "ドラゴンボール超：ビルス",
+    "raw_name": "Dragon Ball Super: Beerus (REMAKE)",
+    "poster": "https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWejfPpZ-HIHz8K0WSKVRWwg4XtavIPxJpGLCm-QwC4JJkA3xOfGpip0EzBE3rXr8i6lMPPEAjDmb5x_qOf0hNc1rQiAyuowFh_8.jpg",
+    "banner": "https://dragonball-super.com/img/mv-thum03_en.jpg",
+    "type": "TV Series",
+    "status": "Ongoing",
+    "year": 2026,
+    "rating": 8.8,
+    "genres": [
+      "Action & Adventure",
+      "Fantasy & Sci-Fi",
+      "Animation"
+    ],
+    "isPopular": true,
+    "isTrending": true,
+    "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
+    "languages": [
+      "hindi"
+    ],
+    "hasHindi": true,
+    "hasOriginal": false,
+    "synopsis": "Dragon Ball Super: Beerus (Remake) is the enhanced visual adaptation and reconstruction of the God of Destruction Beerus saga. Featuring completely redrawn cuts, enhanced cinematic animation, and high definition quality, it reimagines Son G",
+    "seasonCount": 1,
+    "totalEpisodes": 1
+  },
+  {
     "id": "kingdom",
     "title": "Kingdom",
     "japaneseTitle": "",
@@ -13326,7 +13355,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=20261010_v11');
+    const { ANIME_DATABASE } = await import('./data.js?v=1792041096');
     for (const anime of ANIME_DATABASE) {
       const key = (anime.id || "").toLowerCase().trim();
       fullAnimeCache.set(key, anime);

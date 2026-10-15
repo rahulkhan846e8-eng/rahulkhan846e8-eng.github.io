@@ -45,6 +45,59 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
+    "id": "dragon-ball-super-beerus-remake",
+    "title": "Dragon Ball Super: Beerus (Remake)",
+    "raw_name": "Dragon Ball Super: Beerus (REMAKE)",
+    "japaneseTitle": "ドラゴンボール超：ビルス",
+    "poster": "https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWejfPpZ-HIHz8K0WSKVRWwg4XtavIPxJpGLCm-QwC4JJkA3xOfGpip0EzBE3rXr8i6lMPPEAjDmb5x_qOf0hNc1rQiAyuowFh_8.jpg",
+    "banner": "https://dragonball-super.com/img/mv-thum03_en.jpg",
+    "rating": 8.8,
+    "year": 2026,
+    "currentEpBadge": "S1-EP1",
+    "status": "Ongoing",
+    "type": "TV Series",
+    "season": "Fall 2026",
+    "studio": "Toei Animation",
+    "hasSub": true,
+    "hasDub": true,
+    "isTrending": true,
+    "isPopular": true,
+    "genres": [
+      "Action & Adventure",
+      "Fantasy & Sci-Fi",
+      "Animation"
+    ],
+    "synopsis": "Dragon Ball Super: Beerus (Remake) is the enhanced visual adaptation and reconstruction of the God of Destruction Beerus saga. Featuring completely redrawn cuts, enhanced cinematic animation, and high definition quality, it reimagines Son Goku's clash with Lord Beerus, the God of Destruction.",
+    "languages": [
+      "hindi"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "airDate": "2026",
+        "isComingSoon": false,
+        "episodes": [
+          {
+            "id": 1,
+            "number": 1,
+            "season": 1,
+            "title": "The God Who Destroys",
+            "runtime": "24m",
+            "thumbnail": "https://dragonball-super.com/img/mv-thum03_en.jpg",
+            "synopsis": "Episode 1 of Dragon Ball Super: Beerus (Remake)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/uUcAbUQP?download",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/uUcAbUQP?download"
+            }
+          }
+        ]
+      }
+    ],
+    "is_movie": false
+  },
+  {
     "id": "kingdom",
     "title": "Kingdom",
     "raw_name": "Kingdom",
