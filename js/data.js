@@ -38663,8 +38663,30 @@ export const ANIME_DATABASE = [
               "hindi": "https://pixeldrain.net/u/UEjkAdTw?download",
               "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_1_1791041583.mp4?dl=1"
             }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 2,
+            "title": "The Door to Hell",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+            "synopsis": "Episode 2",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.net/u/WDvgY3fe?download",
+              "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_2_1791646487.mp4?dl=1"
+            },
+            "downloadUrl": "https://pixeldrain.net/u/WDvgY3fe?download"
           }
         ]
+      },
+      {
+        "number": 3,
+        "title": "Season 3",
+        "airDate": "2024",
+        "isComingSoon": false,
+        "episodes": []
       }
     ],
     "audioBadge": "MULTI-AUDIO",
