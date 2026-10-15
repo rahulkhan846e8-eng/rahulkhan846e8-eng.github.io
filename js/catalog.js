@@ -94,13 +94,13 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": true,
-    "audioTrack": "Hindi Dub",
-    "audioBadge": "HINDI DUB",
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
     "languages": [
-      "hindi"
+      "original"
     ],
-    "hasHindi": true,
-    "hasOriginal": false,
+    "hasHindi": false,
+    "hasOriginal": true,
     "synopsis": "Dragon Ball Super: Beerus (Remake) is the enhanced visual adaptation and reconstruction of the God of Destruction Beerus saga. Featuring completely redrawn cuts, enhanced cinematic animation, and high definition quality, it reimagines Son G",
     "seasonCount": 1,
     "totalEpisodes": 1
@@ -13386,7 +13386,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=1792051757');
+    const { ANIME_DATABASE } = await import('./data.js?v=1792061761');
     for (const anime of ANIME_DATABASE) {
       const key = (anime.id || "").toLowerCase().trim();
       fullAnimeCache.set(key, anime);

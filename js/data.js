@@ -113,7 +113,7 @@ export const ANIME_DATABASE = [
     "season": "Fall 2026",
     "studio": "Toei Animation",
     "hasSub": true,
-    "hasDub": true,
+    "hasDub": false,
     "isTrending": true,
     "isPopular": true,
     "genres": [
@@ -123,7 +123,7 @@ export const ANIME_DATABASE = [
     ],
     "synopsis": "Dragon Ball Super: Beerus (Remake) is the enhanced visual adaptation and reconstruction of the God of Destruction Beerus saga. Featuring completely redrawn cuts, enhanced cinematic animation, and high definition quality, it reimagines Son Goku's clash with Lord Beerus, the God of Destruction.",
     "languages": [
-      "hindi"
+      "original"
     ],
     "seasons": [
       {
@@ -143,7 +143,7 @@ export const ANIME_DATABASE = [
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/uUcAbUQP?download",
             "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/uUcAbUQP?download"
+              "original": "https://pixeldrain.net/u/uUcAbUQP?download"
             }
           }
         ]
