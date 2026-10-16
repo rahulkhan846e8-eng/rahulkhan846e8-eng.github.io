@@ -45,18 +45,18 @@ function createEpisodes(count, thumb, seasonNum = 1) {
 
 export const ANIME_DATABASE = [
   {
-    "id": "dragon-ball-super",
-    "title": "Dragon Ball Super",
-    "raw_name": "Dragon Ball Super: Broly Movie English",
-    "japaneseTitle": "ドラゴンボール超",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21175-Qo9gdGPUm4Im.jpg",
-    "rating": 7.3,
-    "year": 2015,
+    "id": "dragon-ball-super-broly",
+    "title": "Dragon Ball Super: Broly",
+    "raw_name": "Dragon Ball Super: Broly Movie",
+    "japaneseTitle": "???????? ????",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101302-2ix6Nti3Y11Q.jpg",
+    "rating": 8.1,
+    "year": 2018,
     "currentEpBadge": "Movie",
     "status": "Completed",
     "type": "Movie",
-    "season": "2015",
+    "season": "2018",
     "studio": "Toei Animation",
     "hasSub": true,
     "hasDub": true,
@@ -65,11 +65,10 @@ export const ANIME_DATABASE = [
     "genres": [
       "Action",
       "Adventure",
-      "Comedy",
       "Fantasy",
       "Sci-Fi"
     ],
-    "synopsis": "After 18 years, we have the newest Dragon Ball story from creator Akira Toriyama. With Majin Buu defeated, Goku has taken a completely new role as...a radish farmer?! With Earth at peace, our heroes have settled into normal lives. But they can’t get too comfortable. Far away, the powerful God of Destruction, Beerus, awakens to a prophecy revealing his demise at the hands of an even more formidable being. When his search for the Saiyan God brings him to Earth, can Goku and his friends take on their strongest foe yet?\n\n(Source: Crunchyroll)",
+    "synopsis": "Earth is at peace following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called 'Broly' whom they have never seen before.",
     "languages": [
       "hindi"
     ],
@@ -77,17 +76,17 @@ export const ANIME_DATABASE = [
       {
         "number": 1,
         "title": "Movie",
-        "airDate": "2015",
+        "airDate": "2018",
         "isComingSoon": false,
         "episodes": [
           {
             "id": 1,
             "number": 1,
             "season": 1,
-            "title": "Dragon Ball Super (Main Movie)",
+            "title": "Dragon Ball Super: Broly",
             "runtime": "1h 45m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-            "synopsis": "Dragon Ball Super full animated feature film streaming on ShinobiHub.",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
+            "synopsis": "Dragon Ball Super: Broly full animated movie streaming on ShinobiHub.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/mENHN8SY?download",
             "downloadLinks": {
@@ -38734,13 +38733,6 @@ export const ANIME_DATABASE = [
             "downloadUrl": "https://pixeldrain.net/u/WDvgY3fe?download"
           }
         ]
-      },
-      {
-        "number": 3,
-        "title": "Season 3",
-        "airDate": "2024",
-        "isComingSoon": false,
-        "episodes": []
       }
     ],
     "audioBadge": "MULTI-AUDIO",

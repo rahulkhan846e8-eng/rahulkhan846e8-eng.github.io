@@ -46,20 +46,19 @@ const FAMOUS_POPULAR_IDS = [
 
 export const ANIME_CATALOG = [
   {
-    "id": "dragon-ball-super",
-    "title": "Dragon Ball Super",
-    "japaneseTitle": "ドラゴンボール超",
-    "raw_name": "Dragon Ball Super: Broly Movie English",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21175-Qo9gdGPUm4Im.jpg",
+    "id": "dragon-ball-super-broly",
+    "title": "Dragon Ball Super: Broly",
+    "japaneseTitle": "???????? ????",
+    "raw_name": "Dragon Ball Super: Broly Movie",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101302-2ix6Nti3Y11Q.jpg",
     "type": "Movie",
     "status": "Completed",
-    "year": 2015,
-    "rating": 7.3,
+    "year": 2018,
+    "rating": 8.1,
     "genres": [
       "Action",
       "Adventure",
-      "Comedy",
       "Fantasy",
       "Sci-Fi"
     ],
@@ -72,7 +71,7 @@ export const ANIME_CATALOG = [
     ],
     "hasHindi": true,
     "hasOriginal": false,
-    "synopsis": "After 18 years, we have the newest Dragon Ball story from creator Akira Toriyama. With Majin Buu defeated, Goku has taken a completely new role as...a radish farmer?! With Earth at peace, our heroes have settled into normal lives. But they ",
+    "synopsis": "Earth is at peace following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a S",
     "seasonCount": 1,
     "totalEpisodes": 1
   },
@@ -7311,7 +7310,7 @@ export const ANIME_CATALOG = [
     "hasHindi": true,
     "hasOriginal": true,
     "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both rece",
-    "seasonCount": 3,
+    "seasonCount": 2,
     "totalEpisodes": 53
   },
   {
@@ -13386,7 +13385,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=1792062552');
+    const { ANIME_DATABASE } = await import('./data.js?v=1792173941');
     for (const anime of ANIME_DATABASE) {
       const key = (anime.id || "").toLowerCase().trim();
       fullAnimeCache.set(key, anime);
