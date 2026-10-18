@@ -1,72 +1,96 @@
 /* ==========================================================================
-   CRUNCHYROLL THEME - MAIN CORE STYLES
+   SHINOBIHUB THEME - MAIN CORE STYLES
+   Palette: Obsidian & Crimson Flame
    ========================================================================== */
 
 :root {
   color-scheme: dark;
-  /* King Store Dark Blue Palette */
-  --cr-blue-primary: #091540;
-  --cr-blue-dark: #050c24;
-  --cr-blue-deep: #030818;
-  --cr-blue-surface: #0e1d52;
-  --cr-blue-card: #132464;
-  --cr-blue-card-hover: #1b3184;
-  --cr-blue-border: #1e358b;
-  --cr-blue-border-light: #2c4ab8;
 
-  /* Accent & Highlight Colors */
-  --cr-accent: #3a86ff;
-  --cr-accent-hover: #599bff;
-  --cr-accent-gold: #ffbe0b;
-  --cr-accent-glow: rgba(58, 134, 255, 0.4);
-  --cr-accent-subtle: rgba(58, 134, 255, 0.15);
-  
-  --cr-bg-black: var(--cr-blue-deep);
-  --cr-bg-dark: var(--cr-blue-dark);
-  --cr-bg-surface: var(--cr-blue-surface);
-  --cr-bg-card: var(--cr-blue-card);
-  --cr-bg-card-hover: var(--cr-blue-card-hover);
-  --cr-border: var(--cr-blue-border);
-  --cr-border-light: var(--cr-blue-border-light);
-  
-  /* Text Colors */
-  --cr-text-primary: #ffffff;
-  --cr-text-secondary: #a8b8e0;
-  --cr-text-muted: #7084b6;
-  --cr-text-link: #599bff;
+  /* ── Background Depths ── */
+  --bg-deep:           #06080C;
+  --bg-dark:           #0B0E14;
+  --bg-surface:        #111520;
+  --bg-card:           #161B29;
+  --bg-card-hover:     #1C2236;
+  --bg-glass:          rgba(17, 21, 32, 0.72);
 
-  /* Accent Badges & Status */
-  --cr-badge-sub: #00b4d8;
-  --cr-badge-dub: #ff9e00;
-  --cr-badge-king: #ffbe0b;
-  --cr-rating-star: #ffd166;
-  --cr-success: #06d6a0;
-  --cr-danger: #ef476f;
+  /* ── Borders ── */
+  --border:            rgba(255, 255, 255, 0.07);
+  --border-light:      rgba(255, 255, 255, 0.13);
+  --border-accent:     rgba(255, 51, 102, 0.35);
 
-  /* Layout & Geometry */
-  --header-height: 68px;
+  /* ── Primary Accent: Crimson Coral ── */
+  --accent:            #FF3366;
+  --accent-hover:      #FF4E79;
+  --accent-glow:       rgba(255, 51, 102, 0.38);
+  --accent-subtle:     rgba(255, 51, 102, 0.10);
+  --accent-subtle-md:  rgba(255, 51, 102, 0.18);
+
+  /* ── Secondary Accent: Warm Golden Amber ── */
+  --accent-gold:       #FFB703;
+  --accent-gold-glow:  rgba(255, 183, 3, 0.38);
+  --accent-gold-subtle:rgba(255, 183, 3, 0.12);
+
+  /* ── Legacy aliases (keeps old CSS references working) ── */
+  --cr-blue-primary:   var(--bg-dark);
+  --cr-blue-dark:      var(--bg-deep);
+  --cr-blue-deep:      var(--bg-deep);
+  --cr-blue-surface:   var(--bg-surface);
+  --cr-blue-card:      var(--bg-card);
+  --cr-blue-card-hover:var(--bg-card-hover);
+  --cr-blue-border:    var(--border);
+  --cr-blue-border-light: var(--border-light);
+  --cr-accent:         var(--accent);
+  --cr-accent-hover:   var(--accent-hover);
+  --cr-accent-gold:    var(--accent-gold);
+  --cr-accent-glow:    var(--accent-glow);
+  --cr-accent-subtle:  var(--accent-subtle);
+  --cr-bg-black:       var(--bg-deep);
+  --cr-bg-dark:        var(--bg-dark);
+  --cr-bg-surface:     var(--bg-surface);
+  --cr-bg-card:        var(--bg-card);
+  --cr-bg-card-hover:  var(--bg-card-hover);
+  --cr-border:         var(--border);
+  --cr-border-light:   var(--border-light);
+
+  /* ── Text ── */
+  --cr-text-primary:   #FFFFFF;
+  --cr-text-secondary: #9BAAC8;
+  --cr-text-muted:     #5A6882;
+  --cr-text-link:      var(--accent);
+
+  /* ── Status Badges ── */
+  --cr-badge-sub:      #00D4FF;
+  --cr-badge-dub:      #FFB703;
+  --cr-badge-king:     #FFB703;
+  --cr-rating-star:    #FFD166;
+  --cr-success:        #06D6A0;
+  --cr-danger:         #EF476F;
+
+  /* ── Layout ── */
+  --header-height:     68px;
   --nav-bottom-height: 60px;
   --max-content-width: 1560px;
-  --radius-sm: 6px;
-  --radius-md: 10px;
-  --radius-lg: 14px;
-  --radius-xl: 22px;
-  --radius-pill: 9999px;
+  --radius-sm:         6px;
+  --radius-md:         10px;
+  --radius-lg:         16px;
+  --radius-xl:         24px;
+  --radius-pill:       9999px;
 
-  /* Shadows & Glow */
-  --shadow-sm: 0 2px 8px rgba(3, 8, 24, 0.6);
-  --shadow-md: 0 8px 24px rgba(3, 8, 24, 0.8);
-  --shadow-lg: 0 16px 40px rgba(3, 8, 24, 0.95);
-  --shadow-blue: 0 0 24px rgba(58, 134, 255, 0.45);
-  --shadow-gold: 0 0 20px rgba(255, 190, 11, 0.4);
+  /* ── Shadows ── */
+  --shadow-sm:   0 2px 8px  rgba(0, 0, 0, 0.55);
+  --shadow-md:   0 8px 24px rgba(0, 0, 0, 0.75);
+  --shadow-lg:   0 16px 48px rgba(0, 0, 0, 0.90);
+  --shadow-blue: 0 0 24px   var(--accent-glow);
+  --shadow-gold: 0 0 20px   var(--accent-gold-glow);
 
-  /* Transitions */
-  --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  /* ── Transitions ── */
+  --transition-fast:   0.15s cubic-bezier(0.4, 0, 0.2, 1);
   --transition-normal: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-  --transition-smooth: 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-smooth: 0.40s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-/* Base Reset */
+/* ── Base Reset ── */
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -81,7 +105,7 @@ html {
 
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  background-color: var(--cr-bg-black);
+  background-color: var(--bg-deep);
   color: var(--cr-text-primary);
   line-height: 1.5;
   overflow-x: hidden;
@@ -90,26 +114,26 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Custom Scrollbars */
+/* ── Custom Scrollbars ── */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 7px;
+  height: 7px;
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--cr-bg-dark);
+  background: var(--bg-dark);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #343741;
+  background: rgba(255, 51, 102, 0.30);
   border-radius: var(--radius-pill);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--cr-accent);
+  background: var(--accent);
 }
 
-/* Typography Helpers */
+/* ── Typography ── */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 1.2;
@@ -137,7 +161,7 @@ img {
   height: auto;
 }
 
-/* Main App Shell Layout */
+/* ── App Shell ── */
 #app {
   display: flex;
   flex-direction: column;
@@ -164,12 +188,12 @@ img {
   }
 }
 
-/* View Sections */
+/* ── View Sections ── */
 .view-section {
   display: none;
   opacity: 0;
-  transform: translateY(8px);
-  transition: opacity 0.3s ease, transform 0.3s ease;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.35s ease;
 }
 
 .view-section.active {
@@ -178,13 +202,13 @@ img {
   transform: translateY(0);
 }
 
-/* Buttons */
+/* ── Buttons ── */
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   gap: 8px;
-  padding: 10px 20px;
+  padding: 10px 22px;
   font-size: 0.95rem;
   font-weight: 600;
   border-radius: var(--radius-sm);
@@ -194,15 +218,15 @@ img {
 }
 
 .btn-primary {
-  background-color: var(--cr-accent);
+  background: linear-gradient(135deg, var(--accent), #E8204F);
   color: #ffffff;
-  box-shadow: 0 2px 10px rgba(58, 134, 255, 0.35);
+  box-shadow: 0 2px 14px var(--accent-glow);
 }
 
 .btn-primary:hover {
-  background-color: var(--cr-accent-hover);
-  transform: translateY(-1px);
-  box-shadow: var(--shadow-blue);
+  background: linear-gradient(135deg, var(--accent-hover), var(--accent));
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px var(--accent-glow);
 }
 
 .btn-primary:active {
@@ -210,27 +234,27 @@ img {
 }
 
 .btn-secondary {
-  background-color: var(--cr-bg-card);
+  background-color: var(--bg-card);
   color: var(--cr-text-primary);
-  border: 1px solid var(--cr-border);
+  border: 1px solid var(--border);
 }
 
 .btn-secondary:hover {
-  background-color: var(--cr-bg-card-hover);
-  border-color: var(--cr-border-light);
+  background-color: var(--bg-card-hover);
+  border-color: var(--border-light);
   color: #ffffff;
 }
 
 .btn-outline {
   background-color: transparent;
   color: var(--cr-text-primary);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
 .btn-outline:hover {
-  border-color: var(--cr-accent);
-  color: var(--cr-accent);
-  background: var(--cr-accent-subtle);
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-subtle);
 }
 
 .btn-icon {
@@ -247,9 +271,9 @@ img {
 }
 
 .btn-icon:hover {
-  background: rgba(255, 255, 255, 0.18);
-  color: var(--cr-accent);
-  transform: scale(1.05);
+  background: rgba(255, 255, 255, 0.16);
+  color: var(--accent);
+  transform: scale(1.06);
 }
 
 .btn-sm {
@@ -258,57 +282,57 @@ img {
 }
 
 .btn-lg {
-  padding: 14px 28px;
+  padding: 14px 30px;
   font-size: 1.05rem;
   font-weight: 700;
 }
 
-/* Badges */
+/* ── Badges ── */
 .badge {
   display: inline-flex;
   align-items: center;
-  padding: 2px 8px;
-  font-size: 0.72rem;
+  padding: 3px 9px;
+  font-size: 0.70rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.05em;
   border-radius: var(--radius-sm);
 }
 
 .badge-sub {
-  background: rgba(0, 180, 216, 0.15);
+  background: rgba(0, 212, 255, 0.12);
   color: var(--cr-badge-sub);
-  border: 1px solid rgba(0, 180, 216, 0.4);
+  border: 1px solid rgba(0, 212, 255, 0.35);
 }
 
 .badge-dub {
-  background: rgba(255, 158, 0, 0.15);
+  background: rgba(255, 183, 3, 0.12);
   color: var(--cr-badge-dub);
-  border: 1px solid rgba(255, 158, 0, 0.4);
+  border: 1px solid rgba(255, 183, 3, 0.35);
 }
 
 .badge-king {
-  background: linear-gradient(135deg, #ffbe0b, #fb5607);
+  background: linear-gradient(135deg, #FFB703, #FB5607);
   color: #000;
   font-weight: 800;
 }
 
 .badge-rating {
-  background: rgba(255, 209, 102, 0.15);
+  background: rgba(255, 209, 102, 0.12);
   color: var(--cr-rating-star);
-  border: 1px solid rgba(255, 209, 102, 0.3);
+  border: 1px solid rgba(255, 209, 102, 0.30);
   display: inline-flex;
   gap: 4px;
   align-items: center;
 }
 
 .badge-hd {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.08);
   color: #fff;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.16);
 }
 
-/* Toast Notifications */
+/* ── Toast Notifications ── */
 #toast-container {
   position: fixed;
   bottom: 24px;
@@ -321,20 +345,21 @@ img {
 }
 
 .toast {
-  background: var(--cr-bg-card);
+  background: var(--bg-card);
   color: #ffffff;
-  border-left: 4px solid var(--cr-accent);
+  border-left: 3px solid var(--accent);
   border-radius: var(--radius-sm);
   padding: 14px 20px;
   min-width: 280px;
   max-width: 400px;
-  box-shadow: var(--shadow-lg);
+  box-shadow: var(--shadow-lg), 0 0 0 1px var(--border);
   display: flex;
   align-items: center;
   gap: 12px;
   font-size: 0.9rem;
   pointer-events: auto;
   animation: toastSlideIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  backdrop-filter: blur(12px);
 }
 
 .toast.toast-success {
@@ -346,33 +371,21 @@ img {
 }
 
 @keyframes toastSlideIn {
-  from {
-    opacity: 0;
-    transform: translateX(100%);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
+  from { opacity: 0; transform: translateX(100%); }
+  to   { opacity: 1; transform: translateX(0); }
 }
 
 @keyframes toastFadeOut {
-  from {
-    opacity: 1;
-    transform: translateX(0);
-  }
-  to {
-    opacity: 0;
-    transform: translateX(100%);
-  }
+  from { opacity: 1; transform: translateX(0); }
+  to   { opacity: 0; transform: translateX(100%); }
 }
 
-/* Footer */
+/* ── Footer ── */
 .site-footer {
-  background: var(--cr-bg-dark);
-  border-top: 1px solid var(--cr-border);
-  padding: 48px 0 32px;
-  margin-top: 64px;
+  background: var(--bg-dark);
+  border-top: 1px solid var(--border);
+  padding: 52px 0 36px;
+  margin-top: 72px;
   color: var(--cr-text-secondary);
   font-size: 0.9rem;
 }
@@ -383,7 +396,7 @@ img {
   align-items: flex-start;
   gap: 36px;
   max-width: 1200px;
-  margin-bottom: 24px;
+  margin-bottom: 28px;
   flex-wrap: wrap;
 }
 
@@ -407,7 +420,7 @@ img {
   height: 28px;
   border-radius: 50%;
   object-fit: cover;
-  border: 1.5px solid rgba(58, 134, 255, 0.6);
+  border: 1.5px solid var(--accent-glow);
   margin-right: 8px;
   flex-shrink: 0;
 }
@@ -419,7 +432,7 @@ img {
 
 .footer-brand .footer-logo .logo-sub {
   font-weight: 400;
-  color: var(--cr-accent);
+  color: var(--accent);
   margin-left: 3px;
 }
 
@@ -457,15 +470,15 @@ img {
 }
 
 .footer-col ul a:hover {
-  color: var(--cr-accent);
-  transform: translateX(2px);
+  color: var(--accent);
+  transform: translateX(3px);
 }
 
 .footer-community-box {
   margin-top: 14px;
   padding: 10px 12px;
-  background: rgba(58, 134, 255, 0.08);
-  border: 1px solid rgba(58, 134, 255, 0.22);
+  background: var(--accent-subtle);
+  border: 1px solid var(--border-accent);
   border-radius: 8px;
   font-size: 0.8rem;
   line-height: 1.45;
@@ -478,7 +491,7 @@ img {
 
 .footer-bottom {
   padding-top: 24px;
-  border-top: 1px solid var(--cr-border);
+  border-top: 1px solid var(--border);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -532,4 +545,3 @@ div[class*="container-"] {
     transform-origin: top center !important;
   }
 }
-
