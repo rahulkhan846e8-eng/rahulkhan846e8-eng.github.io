@@ -1,0 +1,933 @@
+/* ==========================================================================
+   SHINOBIHUB VISUAL REDESIGN  — Obsidian & Crimson Flame
+   Loaded LAST so it overrides legacy color values in components/views/player.
+   ========================================================================== */
+
+/* ══════════════════════════════════════════════════════════════════════════
+   1. GLASSMORPHISM HEADER / NAVBAR
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.site-header {
+  background: rgba(6, 8, 12, 0.78) !important;
+  backdrop-filter: blur(22px) saturate(1.6) !important;
+  -webkit-backdrop-filter: blur(22px) saturate(1.6) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07) !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.55) !important;
+}
+
+.site-header.scrolled {
+  background: rgba(6, 8, 12, 0.96) !important;
+  border-bottom-color: rgba(255, 51, 102, 0.15) !important;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.80), 0 1px 0 rgba(255, 51, 102, 0.12) !important;
+}
+
+/* Logo glow in crimson */
+.brand-logo-img {
+  border: 1.5px solid rgba(255, 51, 102, 0.55) !important;
+  box-shadow: 0 0 12px rgba(255, 51, 102, 0.30) !important;
+}
+
+.brand-logo:hover .brand-logo-img {
+  box-shadow: 0 0 18px rgba(255, 51, 102, 0.65) !important;
+}
+
+.brand-logo .logo-sub {
+  color: var(--accent) !important;
+}
+
+/* Nav active state */
+.nav-link.active {
+  color: var(--accent-gold) !important;
+}
+
+.nav-link:hover, .nav-link.active {
+  background: rgba(255, 255, 255, 0.07) !important;
+}
+
+/* Header search focus glow */
+.header-search:focus-within .search-input-box {
+  border-color: var(--accent) !important;
+  box-shadow: 0 0 0 3px rgba(255, 51, 102, 0.18), 0 0 20px rgba(255, 51, 102, 0.22) !important;
+  background: rgba(11, 14, 20, 0.95) !important;
+}
+
+/* Back button on detail page */
+.btn-detail-back:hover {
+  background: rgba(255, 51, 102, 0.85) !important;
+  border-color: rgba(255, 100, 140, 0.6) !important;
+  box-shadow: 0 6px 20px rgba(255, 51, 102, 0.45) !important;
+}
+
+/* Mobile nav bar */
+.mobile-nav-bar {
+  background: rgba(6, 8, 12, 0.94) !important;
+  backdrop-filter: blur(18px) !important;
+  -webkit-backdrop-filter: blur(18px) !important;
+  border-top-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+.mobile-nav-item.active, .mobile-nav-item:hover {
+  color: var(--accent-gold) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   2. HERO BANNER — Cinematic Fade
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.hero-gradient {
+  background:
+    linear-gradient(to right, rgba(6, 8, 12, 0.98) 0%, rgba(11, 14, 20, 0.84) 42%, rgba(11, 14, 20, 0.10) 80%),
+    linear-gradient(to top, var(--bg-deep) 0%, rgba(6, 8, 12, 0.65) 22%, transparent 55%),
+    linear-gradient(to bottom, rgba(6, 8, 12, 1) 0%, rgba(6, 8, 12, 0.7) 10%, transparent 32%) !important;
+}
+
+.hero-gradient-mobile {
+  background:
+    linear-gradient(to top, rgba(6, 8, 12, 0.99) 0%, rgba(6, 8, 12, 0.80) 22%, rgba(11, 14, 20, 0.15) 40%, transparent 58%),
+    linear-gradient(to bottom, rgba(6, 8, 12, 0.38) 0%, transparent 14%) !important;
+}
+
+/* Hero title Japanese */
+.hero-japanese-title {
+  color: var(--accent) !important;
+}
+
+/* Glowing watch button */
+.hero-actions .btn-primary {
+  background: linear-gradient(135deg, var(--accent), #E8204F) !important;
+  box-shadow: 0 4px 20px var(--accent-glow) !important;
+  border-radius: 10px;
+}
+
+.hero-actions .btn-primary:hover {
+  box-shadow: 0 6px 30px var(--accent-glow) !important;
+  transform: translateY(-2px) !important;
+}
+
+/* Hero nav arrows */
+.hero-nav-arrow {
+  background: rgba(6, 8, 12, 0.65) !important;
+}
+
+.hero-nav-arrow:hover {
+  background: var(--accent) !important;
+  border-color: var(--accent) !important;
+  box-shadow: 0 0 22px var(--accent-glow) !important;
+}
+
+/* Hero dots */
+.hero-dot.active {
+  background: var(--accent) !important;
+  box-shadow: 0 0 10px var(--accent-glow) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   3. SHELF SECTION TITLE ACCENT
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.shelf-title-accent {
+  background: linear-gradient(to bottom, var(--accent), var(--accent-gold)) !important;
+  box-shadow: 0 0 8px rgba(255, 51, 102, 0.45) !important;
+}
+
+.shelf-view-all {
+  color: var(--accent) !important;
+}
+
+.shelf-view-all:hover {
+  color: var(--accent-hover) !important;
+}
+
+/* Shelf carousel nav buttons */
+.shelf-nav-btn {
+  background: rgba(17, 21, 32, 0.88) !important;
+  border-color: var(--border) !important;
+}
+
+.shelf-nav-btn:hover {
+  background: var(--accent) !important;
+  border-color: var(--accent) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   4. ANIME CARD — Hover lift with crimson glow
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.anime-card {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 12px !important;
+  transition: transform 0.28s cubic-bezier(0.34, 1.46, 0.64, 1),
+              box-shadow 0.28s ease,
+              border-color 0.20s ease !important;
+}
+
+.anime-card:hover {
+  transform: translateY(-9px) scale(1.025) !important;
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.85),
+              0 0 22px rgba(255, 51, 102, 0.25) !important;
+  border-color: rgba(255, 51, 102, 0.55) !important;
+}
+
+.anime-card-poster {
+  background: var(--bg-surface) !important;
+}
+
+/* Quick-play overlay — crimson */
+.anime-card-overlay-btn {
+  background: rgba(255, 51, 102, 0.92) !important;
+  box-shadow: 0 4px 20px rgba(255, 51, 102, 0.55) !important;
+}
+
+/* Language / episode badge on cards */
+.card-lang-badge,
+.card-ep-badge {
+  background: var(--accent-gold) !important;
+  color: #000000 !important;
+}
+
+/* Continue watching cards */
+.continue-card {
+  background: var(--bg-card) !important;
+  border-color: var(--border) !important;
+  border-radius: 12px !important;
+}
+
+.continue-card:hover {
+  border-color: rgba(255, 51, 102, 0.50) !important;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.75), 0 0 16px rgba(255, 51, 102, 0.20) !important;
+}
+
+.continue-thumb {
+  background: var(--bg-surface) !important;
+}
+
+.continue-play-icon {
+  background: rgba(17, 21, 32, 0.85) !important;
+  color: var(--accent) !important;
+}
+
+.continue-card:hover .continue-play-icon {
+  background: var(--accent) !important;
+  color: #fff !important;
+}
+
+.continue-progress-fill {
+  background: var(--accent-gold) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   5. DETAIL PAGE — Ambient banner glow + frosted poster
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.detail-hero::before {
+  background:
+    linear-gradient(to right, rgba(6, 8, 12, 0.97) 0%, rgba(11, 14, 20, 0.82) 42%, rgba(11, 14, 20, 0.28) 100%),
+    linear-gradient(to top, var(--bg-deep) 0%, rgba(6, 8, 12, 0.70) 28%, transparent 68%),
+    linear-gradient(to bottom, rgba(6, 8, 12, 0.88) 0%, transparent 22%) !important;
+}
+
+/* Ambient glow blob behind detail poster */
+.detail-poster-wrapper {
+  border-color: var(--border-light) !important;
+  position: relative;
+}
+
+.detail-poster-wrapper::after {
+  content: '';
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70%;
+  height: 40px;
+  background: var(--accent-glow);
+  filter: blur(20px);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Detail sub title */
+.detail-sub-title {
+  color: var(--accent-gold) !important;
+}
+
+/* Genre tags */
+.genre-tag {
+  background: rgba(255, 51, 102, 0.08) !important;
+  border-color: rgba(255, 51, 102, 0.20) !important;
+  color: #fff !important;
+}
+
+.genre-tag:hover {
+  border-color: var(--accent) !important;
+  color: var(--accent) !important;
+  background: rgba(255, 51, 102, 0.15) !important;
+}
+
+/* Detail tab active underline */
+.detail-tab-btn.active {
+  color: var(--accent-gold) !important;
+}
+
+.detail-tab-btn.active::after {
+  background: var(--accent-gold) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   6. EPISODES LIST — row cards
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.episodes-playlist-stack {
+  /* keep existing */
+}
+
+.episode-row-item {
+  background: rgba(17, 21, 32, 0.52) !important;
+  border-color: var(--border) !important;
+  border-radius: 10px !important;
+}
+
+.episode-row-item:hover {
+  background: var(--bg-card) !important;
+  border-color: rgba(255, 51, 102, 0.45) !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5), 0 0 14px rgba(255,51,102,0.18) !important;
+}
+
+/* Highlight active episode */
+.episode-row-item.highlight-last-active {
+  border-color: var(--accent) !important;
+  background: rgba(255, 51, 102, 0.12) !important;
+  box-shadow: 0 0 16px rgba(255, 51, 102, 0.35) !important;
+}
+
+@keyframes epHighlightPulse {
+  0%, 100% { box-shadow: 0 0 8px rgba(255, 51, 102, 0.25); }
+  50%       { box-shadow: 0 0 22px rgba(255, 51, 102, 0.65); border-color: var(--accent-hover) !important; }
+}
+
+/* Ep row thumbnail placeholder */
+.ep-row-thumb {
+  background: var(--bg-surface) !important;
+}
+
+/* Ep row play overlay — crimson */
+.ep-row-play-overlay {
+  background: rgba(255, 51, 102, 0.88) !important;
+}
+
+/* Watch button on rows */
+.episode-row-item:hover .btn-watch-row {
+  background: var(--accent) !important;
+  border-color: var(--accent) !important;
+  box-shadow: 0 0 16px var(--accent-glow) !important;
+}
+
+/* Episode card thumbnails */
+.episode-thumbnail-box {
+  background: var(--bg-surface) !important;
+}
+
+.episode-play-overlay {
+  background: rgba(17, 21, 32, 0.75) !important;
+  color: var(--accent) !important;
+}
+
+.episode-card:hover .episode-play-overlay {
+  background: var(--accent) !important;
+  color: #fff !important;
+}
+
+.episode-number {
+  color: var(--accent-gold) !important;
+}
+
+/* Runtime chip */
+.episode-runtime {
+  background: rgba(6, 8, 12, 0.90) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   7. DOWNLOAD & MODE TOGGLE BUTTONS
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.mode-toggle-btn.active {
+  background: linear-gradient(135deg, var(--accent), #E8204F) !important;
+  border-color: var(--accent-hover) !important;
+  box-shadow: 0 2px 14px var(--accent-glow) !important;
+}
+
+.lang-toggle-btn.active {
+  background: linear-gradient(135deg, var(--accent), #E8204F) !important;
+  border-color: var(--accent-hover) !important;
+  box-shadow: 0 2px 14px var(--accent-glow) !important;
+}
+
+/* Season dropdown */
+.season-pill-box {
+  background: var(--bg-card) !important;
+  border-color: var(--border) !important;
+}
+
+.season-pill-box:hover,
+.season-dropdown-wrapper.open .season-pill-box {
+  border-color: var(--accent) !important;
+  box-shadow: 0 0 14px rgba(255, 51, 102, 0.22) !important;
+  background: var(--bg-surface) !important;
+}
+
+.season-name, .season-arrow {
+  color: var(--accent-gold) !important;
+}
+
+.season-menu-option.active {
+  background: rgba(255, 51, 102, 0.16) !important;
+  border-color: var(--accent) !important;
+}
+
+.season-check-icon {
+  color: var(--accent-gold) !important;
+}
+
+/* Download action button */
+.btn-download-action {
+  background: rgba(255, 51, 102, 0.14) !important;
+  border-color: rgba(255, 51, 102, 0.32) !important;
+}
+
+.episode-row-item:hover .btn-download-action {
+  background: var(--accent) !important;
+  border-color: var(--accent-hover) !important;
+  box-shadow: 0 0 14px var(--accent-glow) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   8. BROWSE PAGE
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.browse-search-box-unified {
+  background: var(--bg-card) !important;
+  border-color: var(--border) !important;
+}
+
+.browse-search-box-unified:focus-within {
+  border-color: var(--accent) !important;
+  box-shadow: 0 0 0 3px rgba(255, 51, 102, 0.16), 0 6px 24px rgba(0, 0, 0, 0.40) !important;
+}
+
+.browse-dots-btn {
+  background: var(--accent-subtle) !important;
+  border-color: rgba(255, 51, 102, 0.35) !important;
+  color: var(--accent) !important;
+}
+
+.browse-dots-btn:hover {
+  background: rgba(255, 51, 102, 0.20) !important;
+  border-color: var(--accent) !important;
+  color: #fff !important;
+}
+
+.browse-dots-btn.active {
+  background: var(--accent) !important;
+  border-color: var(--accent) !important;
+  color: #fff !important;
+  box-shadow: 0 0 16px var(--accent-glow) !important;
+}
+
+.browse-filter-drawer {
+  background: var(--bg-card) !important;
+  border-color: rgba(255, 51, 102, 0.22) !important;
+}
+
+.filter-pill:hover {
+  border-color: var(--accent) !important;
+  color: #fff !important;
+  background: var(--accent-subtle) !important;
+}
+
+.filter-pill.active {
+  background: var(--accent) !important;
+  border-color: var(--accent-hover) !important;
+  box-shadow: 0 0 14px var(--accent-glow) !important;
+}
+
+.active-tag-chip {
+  background: var(--accent-subtle-md) !important;
+  border-color: var(--accent) !important;
+  color: var(--accent) !important;
+}
+
+.filter-select-compact {
+  background: var(--bg-deep) !important;
+}
+
+.filter-select-compact:focus {
+  border-color: var(--accent) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   9. VIDEO PLAYER — Crimson accent
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.player-view-container {
+  background: var(--bg-deep) !important;
+}
+
+.player-back-btn:hover {
+  background: var(--accent) !important;
+}
+
+/* Seekbar progress — crimson to gold gradient */
+.player-seekbar-progress {
+  background: linear-gradient(90deg, var(--accent), var(--accent-gold)) !important;
+}
+
+.player-seekbar-thumb {
+  border-color: var(--accent) !important;
+}
+
+/* Spinner accent */
+.player-spinner {
+  border-top-color: var(--accent) !important;
+}
+
+/* Control buttons hover */
+.player-control-btn:hover {
+  color: var(--accent-gold) !important;
+}
+
+/* Popup menus in player */
+.player-popup-menu {
+  background: rgba(17, 21, 32, 0.96) !important;
+  border-color: var(--border-light) !important;
+}
+
+.player-menu-item:hover {
+  background: var(--accent-subtle) !important;
+}
+
+.player-menu-item.active {
+  color: var(--accent-gold) !important;
+}
+
+.player-menu-item.active::after {
+  color: var(--accent-gold) !important;
+}
+
+/* Next episode overlay */
+.next-episode-overlay {
+  background: rgba(17, 21, 32, 0.96) !important;
+  border-color: var(--border-light) !important;
+}
+
+.next-ep-header {
+  color: var(--accent-gold) !important;
+}
+
+/* Skip intro button */
+.skip-intro-btn {
+  background: rgba(17, 21, 32, 0.94) !important;
+  border-color: var(--accent-gold) !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.6), 0 0 16px rgba(255, 183, 3, 0.40) !important;
+}
+
+.skip-intro-btn:hover {
+  background: var(--accent-gold) !important;
+  color: #000 !important;
+}
+
+@keyframes pulseGlow {
+  0%, 100% { box-shadow: 0 0 10px rgba(255, 51, 102, 0.35); }
+  50%       { box-shadow: 0 0 22px rgba(255, 183, 3, 0.80); }
+}
+
+/* Shortcut key chip */
+.shortcut-key {
+  background: rgba(255, 51, 102, 0.18) !important;
+  color: var(--accent) !important;
+  border: 1px solid rgba(255, 51, 102, 0.35);
+}
+
+/* Player seek tooltip */
+.player-seek-tooltip {
+  background: rgba(17, 21, 32, 0.96) !important;
+  border-color: var(--border) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   10. CATALOG GRID CARDS — same as shelf cards
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.catalog-grid .anime-card {
+  border-radius: 10px !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   11. DROPDOWNS & MENUS
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.categories-dropdown-menu,
+.user-dropdown-menu,
+.search-results-dropdown {
+  background: var(--bg-card) !important;
+  border-color: var(--border-light) !important;
+  backdrop-filter: blur(20px) !important;
+  -webkit-backdrop-filter: blur(20px) !important;
+}
+
+.category-menu-item:hover {
+  background: var(--accent-subtle) !important;
+  color: var(--accent) !important;
+}
+
+.category-dot {
+  background: var(--accent-gold) !important;
+}
+
+.dropdown-item:hover {
+  background: var(--accent-subtle) !important;
+  color: var(--accent) !important;
+}
+
+.search-result-row:hover {
+  background: var(--accent-subtle) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   12. BADGES — More vibrant frosted style
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.badge-sub {
+  background: rgba(0, 212, 255, 0.10) !important;
+  color: #00D4FF !important;
+  border: 1px solid rgba(0, 212, 255, 0.32) !important;
+}
+
+.badge-dub {
+  background: rgba(255, 183, 3, 0.10) !important;
+  color: #FFB703 !important;
+  border: 1px solid rgba(255, 183, 3, 0.32) !important;
+}
+
+.badge-rating {
+  background: rgba(255, 209, 102, 0.10) !important;
+  color: #FFD166 !important;
+  border: 1px solid rgba(255, 209, 102, 0.30) !important;
+}
+
+/* "Coming Soon" badge */
+.badge-coming-soon {
+  background: rgba(255, 183, 3, 0.12) !important;
+  border-color: rgba(255, 183, 3, 0.38) !important;
+  color: var(--accent-gold) !important;
+}
+
+/* Watchlist / history count badge */
+.badge-count {
+  background: var(--accent-gold) !important;
+  color: #000 !important;
+}
+
+/* User avatar border */
+.user-avatar-btn {
+  border-color: var(--accent-gold) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   13. EMPTY STATES, MODALS, MISC
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.empty-state-box {
+  background: var(--bg-card) !important;
+  border-color: var(--border-light) !important;
+}
+
+.modal-backdrop {
+  background: rgba(6, 8, 12, 0.90) !important;
+}
+
+.avatar-option.selected {
+  border-color: var(--accent-gold) !important;
+  box-shadow: 0 0 20px var(--accent-gold-glow) !important;
+}
+
+/* Season coming-soon card */
+.season-coming-soon-card {
+  background: rgba(17, 21, 32, 0.50) !important;
+  border-color: var(--border-light) !important;
+}
+
+/* Cast card */
+.cast-card {
+  background: var(--bg-card) !important;
+  border-color: var(--border) !important;
+}
+
+.cast-role {
+  color: var(--accent-gold) !important;
+}
+
+/* Review / comment cards */
+.review-form-card,
+.comment-card {
+  background: var(--bg-card) !important;
+  border-color: var(--border) !important;
+}
+
+.review-textarea:focus {
+  border-color: var(--accent) !important;
+  box-shadow: 0 0 0 2px rgba(255, 51, 102, 0.15) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   14. DOWNLOAD HUB CARDS — accent adjustments
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.download-hub-card {
+  background: rgba(17, 21, 32, 0.94) !important;
+  border-color: rgba(255, 51, 102, 0.28) !important;
+  box-shadow: 0 24px 60px rgba(0,0,0,0.82), 0 0 40px rgba(255,51,102,0.14) !important;
+}
+
+.server-btn-action {
+  background: var(--accent) !important;
+}
+
+.btn-download-server:hover .server-btn-action {
+  background: var(--accent-hover) !important;
+  box-shadow: 0 0 14px var(--accent-glow) !important;
+}
+
+.btn-download-server:hover {
+  border-color: var(--accent) !important;
+  box-shadow: 0 6px 20px rgba(255, 51, 102, 0.28) !important;
+}
+
+.dl-ep-tag {
+  color: var(--accent-gold) !important;
+}
+
+.download-ep-title {
+  color: var(--accent-gold) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   15. TOAST — override border accent
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.toast {
+  background: var(--bg-card) !important;
+  border-left-color: var(--accent) !important;
+  box-shadow: var(--shadow-lg), 0 0 0 1px var(--border) !important;
+}
+
+.toast.toast-success {
+  border-left-color: var(--cr-success) !important;
+}
+
+.toast.toast-error {
+  border-left-color: var(--cr-danger) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   16. FOOTER
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.site-footer {
+  background: var(--bg-dark) !important;
+  border-top-color: var(--border) !important;
+}
+
+.footer-brand .footer-logo .logo-sub,
+.footer-col ul a:hover {
+  color: var(--accent) !important;
+}
+
+.footer-community-box {
+  background: var(--accent-subtle) !important;
+  border-color: var(--border-accent) !important;
+}
+
+.footer-brand .footer-logo .footer-logo-img {
+  border-color: rgba(255, 51, 102, 0.50) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   17. TELEGRAM / REDIRECT PAGE
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.telegram-redirect-overlay {
+  background: radial-gradient(circle at center, rgba(17,21,32,0.75) 0%, rgba(6,8,12,0.96) 100%) !important;
+}
+
+.telegram-card {
+  background: rgba(17, 21, 32, 0.88) !important;
+  border-color: rgba(255, 51, 102, 0.25) !important;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.72), 0 0 30px rgba(255,51,102,0.14) !important;
+}
+
+.tg-pill-anime {
+  color: var(--accent-gold) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   18. SCROLLBAR — Crimson thumb
+   ══════════════════════════════════════════════════════════════════════════ */
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 51, 102, 0.30) !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   19. PRIMARY BUTTON GLOBAL
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--accent), #E8204F) !important;
+  box-shadow: 0 2px 14px var(--accent-glow) !important;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, var(--accent-hover), var(--accent)) !important;
+  box-shadow: 0 6px 24px var(--accent-glow) !important;
+}
+
+/* Outline button accent */
+.btn-outline:hover {
+  border-color: var(--accent) !important;
+  color: var(--accent) !important;
+  background: var(--accent-subtle) !important;
+}
+
+.btn-icon:hover {
+  color: var(--accent) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   20. MOBILE SEARCH OPEN STATE
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.header-search.mobile-open {
+  background: var(--bg-dark) !important;
+  border-bottom-color: var(--border) !important;
+}
+
+.header-search.mobile-open .search-input-box {
+  background: var(--bg-card) !important;
+  border-color: var(--border-light) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   21. EPISODE MODE TOGGLE GROUP
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.episode-mode-toggle-group,
+.language-toggle-group {
+  background: rgba(11, 14, 20, 0.88) !important;
+  border-color: var(--border) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   22. DL LANG SELECTOR BOX
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.dl-lang-selector-box {
+  background: rgba(17, 21, 32, 0.55) !important;
+  border-color: rgba(255, 51, 102, 0.22) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   23. SEASON DROPDOWN MENU
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.season-dropdown-menu {
+  background: var(--bg-card) !important;
+  border-color: var(--border-light) !important;
+}
+
+.season-menu-option {
+  background: rgba(11, 14, 20, 0.45) !important;
+}
+
+.season-menu-option:hover {
+  background: var(--accent-subtle) !important;
+  border-color: var(--border-light) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   24. DETAIL TABS BAR BORDER
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.detail-tabs-bar {
+  border-bottom-color: var(--border) !important;
+}
+
+.season-header-bar {
+  border-bottom-color: var(--border) !important;
+}
+
+.collection-header-row {
+  border-bottom-color: var(--border) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   25. SMOOTH ANIMATED GRADIENT on body (very subtle ambient)
+   ══════════════════════════════════════════════════════════════════════════ */
+
+body {
+  background-color: var(--bg-deep) !important;
+  /* Very subtle radial ambient at top */
+  background-image: radial-gradient(ellipse 80% 50% at 50% -10%, rgba(255, 51, 102, 0.07) 0%, transparent 60%) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   26. KEYBOARD SHORTCUTS CARD IN PLAYER
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.shortcuts-card {
+  background: var(--bg-card) !important;
+  border-color: var(--border-light) !important;
+}
+
+.shortcut-row {
+  background: var(--bg-surface) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   27. ANIME CARD BODY TITLE — slight glow on hover
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.anime-card:hover .anime-card-title {
+  color: #ffffff !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   28. EP-BADGE-GOLD on episode list
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.ep-badge-gold {
+  color: var(--accent-gold) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   29. FOOTER LOGO IMG GLOW
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.footer-bottom {
+  border-top-color: var(--border) !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   30. MODE TOGGLE TINY TAG
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.mode-tiny-tag {
+  color: var(--accent-gold) !important;
+  background: rgba(255, 183, 3, 0.16) !important;
+  border-color: rgba(255, 183, 3, 0.38) !important;
+}
