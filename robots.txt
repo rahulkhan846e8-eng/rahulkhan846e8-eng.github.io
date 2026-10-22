@@ -2,5 +2,5 @@ User-agent: *
 Allow: /
 
 # Host & Sitemap
-Host: https://shinobihub.run.place
-Sitemap: https://shinobihub.run.place/sitemap.xml
+Host: https://animelooto.online
+Sitemap: https://animelooto.online/sitemap.xml

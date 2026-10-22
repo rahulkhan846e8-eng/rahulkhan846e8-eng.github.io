@@ -213,7 +213,7 @@ class App {
     if (root === "home" || root === "") {
       document.title = "Shinobi Hub - Watch Anime in Hindi Dub & English Sub | Free 1080p Stream & Download";
       const canonicalTag = document.getElementById("canonical-meta");
-      if (canonicalTag) canonicalTag.setAttribute("href", "https://shinobihub.run.place/");
+      if (canonicalTag) canonicalTag.setAttribute("href", "https://animelooto.online/");
       document.getElementById("home-view")?.classList.add("active");
       UIRenderer.renderContinueWatching();
     } else if (root === "browse" || root === "library" || root === "az-list" || root === "az") {
@@ -237,7 +237,7 @@ class App {
       if (animeSummary) {
         document.title = `Watch ${animeSummary.title || animeId} in Hindi Dub (1080p) - Shinobi Hub`;
         const canonicalTag = document.getElementById("canonical-meta");
-        if (canonicalTag) canonicalTag.setAttribute("href", `https://shinobihub.run.place/anime/${animeId}.html`);
+        if (canonicalTag) canonicalTag.setAttribute("href", `https://animelooto.online/anime/${animeId}.html`);
         document.getElementById("detail-view")?.classList.add("active");
         UIRenderer.renderAnimeDetail(animeSummary, initialSeasonNum, targetEpNum);
         getFullAnimeDetails(animeId).then(fullAnime => {
