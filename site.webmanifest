@@ -1,7 +1,7 @@
 {
-  "name": "Shinobi Hub",
-  "short_name": "Shinobi Hub",
-  "description": "Stream and download high-definition Anime and Cartoon series in Hindi Dub and English Subtitles on Shinobi Hub.",
+  "name": "AnimeLooto",
+  "short_name": "AnimeLooto",
+  "description": "Stream and download high-definition Anime and Cartoon series in Hindi Dub and English Subtitles on AnimeLooto.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#060d24",
