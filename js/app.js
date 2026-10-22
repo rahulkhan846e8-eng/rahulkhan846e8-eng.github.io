@@ -12,7 +12,7 @@ import {
   getAnimeSummary as getAnimeById, 
   getFullAnimeDetails,
   searchAnime 
-} from './catalog.js?v=20261015_v2';
+} from './catalog.js?v=20261022_v1';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
 import { UIRenderer } from './ui.js?v=20261008_v2';
@@ -24,6 +24,7 @@ class App {
     this.heroInterval = null;
     this.featuredList = getPopularAnime().slice(0, 6);
     this.selectedCategory = "All";
+    this.selectedLetter = "All";
 
     this.init();
   }
@@ -139,6 +140,11 @@ class App {
     // Check query params
     if (queryPart) {
       const params = new URLSearchParams(queryPart);
+      if (params.has("letter")) {
+        this.selectedLetter = decodeURIComponent(params.get("letter"));
+      } else {
+        this.selectedLetter = "All";
+      }
       if (params.has("category")) {
         this.selectedCategory = decodeURIComponent(params.get("category"));
       } else {
@@ -207,7 +213,7 @@ class App {
     if (root === "home" || root === "") {
       document.getElementById("home-view")?.classList.add("active");
       UIRenderer.renderContinueWatching();
-    } else if (root === "browse" || root === "library") {
+    } else if (root === "browse" || root === "library" || root === "az-list" || root === "az") {
       document.getElementById("browse-view")?.classList.add("active");
       this.initBrowseView();
     } else if (root === "anime") {
@@ -392,7 +398,8 @@ class App {
     let currentSearch = this.searchQuery || "";
     let currentGenre = this.selectedCategory || "All";
     let currentType = this.selectedType || "All";
-    let currentSort = this.selectedSort || "popularity";
+    let currentLetter = this.selectedLetter || "All";
+    let currentSort = this.selectedSort || (currentLetter !== "All" ? "az" : "popularity");
 
     const filterTypeSelect = document.getElementById("filter-type");
     if (filterTypeSelect && currentType) {
@@ -461,10 +468,57 @@ class App {
       }
     });
 
+    const browseAzContainer = document.getElementById("browse-az-letter-list");
+    const updateLetterButtons = () => {
+      if (!browseAzContainer) return;
+      browseAzContainer.querySelectorAll(".az-letter-btn").forEach(btn => {
+        const l = btn.dataset.letter;
+        btn.classList.toggle("active", l.toLowerCase() === currentLetter.toLowerCase());
+      });
+    };
+
+    if (browseAzContainer) {
+      browseAzContainer.querySelectorAll(".az-letter-btn").forEach(btn => {
+        btn.onclick = (e) => {
+          e.preventDefault();
+          const l = btn.dataset.letter;
+          if (l === currentLetter && l !== "All") {
+            currentLetter = "All";
+          } else {
+            currentLetter = l;
+          }
+          this.selectedLetter = currentLetter;
+          if (currentLetter !== "All" && (currentSort === "popularity" || !currentSort)) {
+            currentSort = "az";
+            if (sortSelect) sortSelect.value = "az";
+          }
+          updateLetterButtons();
+          applyFilters();
+          const newHash = currentLetter !== "All" ? `#browse?letter=${encodeURIComponent(currentLetter)}` : `#browse`;
+          history.replaceState(null, "", newHash);
+        };
+      });
+    }
+
     const applyFilters = () => {
-      const filtered = searchAnime(currentSearch, currentGenre, currentType, currentSort);
+      const filtered = searchAnime(currentSearch, currentGenre, currentType, currentSort, currentLetter);
       UIRenderer.renderBrowseCatalog(filtered);
       updateActiveIndicator();
+      updateLetterButtons();
+
+      const browsePageTitle = document.querySelector(".browse-page-title-compact");
+      if (browsePageTitle) {
+        if (currentLetter && currentLetter !== "All") {
+          let label = currentLetter === "0-9" ? "0-9" : (currentLetter === "other" || currentLetter === "#" ? "#" : currentLetter);
+          browsePageTitle.textContent = `A-Z Directory: '${label}' (${filtered.length})`;
+        } else if (currentSearch) {
+          browsePageTitle.textContent = `Search Results: "${currentSearch}" (${filtered.length})`;
+        } else if (currentGenre && currentGenre !== "All") {
+          browsePageTitle.textContent = `${currentGenre} Anime (${filtered.length})`;
+        } else {
+          browsePageTitle.textContent = `A-Z Anime Directory (${filtered.length})`;
+        }
+      }
     };
 
     if (browseSearchInput) {
@@ -536,6 +590,8 @@ class App {
         currentSort = "popularity";
         this.selectedCategory = "All";
         this.selectedType = "All";
+        currentLetter = "All";
+        this.selectedLetter = "All";
         if (filterTypeSelect) filterTypeSelect.value = "All";
         if (sortSelect) sortSelect.value = "popularity";
         genreContainer?.querySelectorAll(".filter-pill").forEach(p => {
@@ -565,6 +621,15 @@ class App {
   // --------------------------------------------------------------------------
   initGlobalDelegation() {
     document.body.addEventListener("click", (e) => {
+      // Home A-Z list letter button clicked
+      const azHomeBtn = e.target.closest("#home-az-letter-list .az-letter-btn, .home-az-section .az-letter-btn");
+      if (azHomeBtn) {
+        e.preventDefault();
+        const letter = azHomeBtn.dataset.letter || "All";
+        this.selectedLetter = letter;
+        window.location.hash = letter !== "All" ? `#browse?letter=${encodeURIComponent(letter)}` : `#browse?sort=az`;
+        return;
+      }
       // 0. Back button clicked on Anime Details page -> Return directly to browse/home where user left off
       const backBtn = e.target.closest("#anime-detail-back-btn, .btn-detail-back");
       if (backBtn) {

@@ -86,11 +86,11 @@
   <link rel="preconnect" href="https://wsrv.nl" crossorigin />
   <link rel="dns-prefetch" href="https://wsrv.nl" />
   <!-- CSS Stylesheets (with version cache busting) -->
-  <link rel="stylesheet" href="css/main.css?v=20261018_v3" />
-  <link rel="stylesheet" href="css/components.css?v=20261018_v3" />
-  <link rel="stylesheet" href="css/player.css?v=20261018_v3" />
-  <link rel="stylesheet" href="css/views.css?v=20261018_v3" />
-  <link rel="stylesheet" href="css/redesign.css?v=20261018_v3" />
+  <link rel="stylesheet" href="css/main.css?v=20261022_v1" />
+  <link rel="stylesheet" href="css/components.css?v=20261022_v1" />
+  <link rel="stylesheet" href="css/player.css?v=20261022_v1" />
+  <link rel="stylesheet" href="css/views.css?v=20261022_v1" />
+  <link rel="stylesheet" href="css/redesign.css?v=20261022_v1" />
   <!-- Official Favicon & Icons for Google Search & Browsers -->
   <link rel="icon" href="/favicon.ico?v=20261010_v2" sizes="any" />
   <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png?v=20261010_v2" />
@@ -305,7 +305,7 @@
             </div>
 
             <!-- Explore All -->
-            <a href="#browse" class="nav-link">Explore All</a>
+            <a href="#browse?sort=az" class="nav-link">A-Z List</a>
             <a href="#watchlist" class="nav-link">Watchlist</a>
             <a href="#history" class="nav-link">History</a>
             <a href="dmca.html" class="nav-link">DMCA</a>
@@ -493,9 +493,46 @@
             </div>
           </div>
 
-          <!-- Explore All Banner CTA -->
-          <div class="library-banner-cta" style="margin: 32px 0 24px; padding: 24px 20px; background: linear-gradient(135deg, rgba(37,99,235,0.2) 0%, rgba(9,21,64,0.85) 100%); border: 1px solid rgba(59,130,246,0.3); border-radius: 16px; display: flex; align-items: center; justify-content: center;">
-            <a href="#browse" class="btn btn-primary" style="padding: 13px 36px; font-size: 1rem; font-weight: 700; border-radius: 10px; display: inline-flex; align-items: center; gap: 8px;">EXPLORE ALL &gt;</a>
+          <!-- A-Z Alphabetical Order Directory (Salt Anime Style) -->
+          <div class="home-az-section" aria-label="A-Z Anime Directory">
+            <div class="home-az-header">
+              <div class="az-title-block">
+                <span class="az-title-badge">A-Z LIST</span>
+                <span class="az-title-desc">Searching anime ordered by alphabet name A to Z.</span>
+              </div>
+              <a href="#browse?sort=az" class="az-browse-link">View Full Directory &rarr;</a>
+            </div>
+            <ul class="az-letter-list" id="home-az-letter-list">
+              <li><a href="#browse?letter=All" class="az-letter-btn" data-letter="All">All</a></li>
+              <li><a href="#browse?letter=other" class="az-letter-btn" data-letter="other">#</a></li>
+              <li><a href="#browse?letter=0-9" class="az-letter-btn" data-letter="0-9">0-9</a></li>
+              <li><a href="#browse?letter=A" class="az-letter-btn" data-letter="A">A</a></li>
+              <li><a href="#browse?letter=B" class="az-letter-btn" data-letter="B">B</a></li>
+              <li><a href="#browse?letter=C" class="az-letter-btn" data-letter="C">C</a></li>
+              <li><a href="#browse?letter=D" class="az-letter-btn" data-letter="D">D</a></li>
+              <li><a href="#browse?letter=E" class="az-letter-btn" data-letter="E">E</a></li>
+              <li><a href="#browse?letter=F" class="az-letter-btn" data-letter="F">F</a></li>
+              <li><a href="#browse?letter=G" class="az-letter-btn" data-letter="G">G</a></li>
+              <li><a href="#browse?letter=H" class="az-letter-btn" data-letter="H">H</a></li>
+              <li><a href="#browse?letter=I" class="az-letter-btn" data-letter="I">I</a></li>
+              <li><a href="#browse?letter=J" class="az-letter-btn" data-letter="J">J</a></li>
+              <li><a href="#browse?letter=K" class="az-letter-btn" data-letter="K">K</a></li>
+              <li><a href="#browse?letter=L" class="az-letter-btn" data-letter="L">L</a></li>
+              <li><a href="#browse?letter=M" class="az-letter-btn" data-letter="M">M</a></li>
+              <li><a href="#browse?letter=N" class="az-letter-btn" data-letter="N">N</a></li>
+              <li><a href="#browse?letter=O" class="az-letter-btn" data-letter="O">O</a></li>
+              <li><a href="#browse?letter=P" class="az-letter-btn" data-letter="P">P</a></li>
+              <li><a href="#browse?letter=Q" class="az-letter-btn" data-letter="Q">Q</a></li>
+              <li><a href="#browse?letter=R" class="az-letter-btn" data-letter="R">R</a></li>
+              <li><a href="#browse?letter=S" class="az-letter-btn" data-letter="S">S</a></li>
+              <li><a href="#browse?letter=T" class="az-letter-btn" data-letter="T">T</a></li>
+              <li><a href="#browse?letter=U" class="az-letter-btn" data-letter="U">U</a></li>
+              <li><a href="#browse?letter=V" class="az-letter-btn" data-letter="V">V</a></li>
+              <li><a href="#browse?letter=W" class="az-letter-btn" data-letter="W">W</a></li>
+              <li><a href="#browse?letter=X" class="az-letter-btn" data-letter="X">X</a></li>
+              <li><a href="#browse?letter=Y" class="az-letter-btn" data-letter="Y">Y</a></li>
+              <li><a href="#browse?letter=Z" class="az-letter-btn" data-letter="Z">Z</a></li>
+            </ul>
           </div>
         </div>
       </section>
@@ -504,7 +541,42 @@
       <section id="browse-view" class="view-section">
         <div class="page-container">
           <div class="browse-header-compact">
-            <h1 class="browse-page-title-compact">Explore Anime</h1>
+            <h1 class="browse-page-title-compact">A-Z Anime Directory</h1>
+          </div>
+
+          <!-- Interactive A-Z Alphabetical Filter Bar (Salt Anime Style) -->
+          <div class="browse-az-wrap">
+            <ul class="az-letter-list browse-az-letter-list" id="browse-az-letter-list">
+              <li><button type="button" class="az-letter-btn active" data-letter="All">All</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="other">#</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="0-9">0-9</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="A">A</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="B">B</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="C">C</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="D">D</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="E">E</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="F">F</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="G">G</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="H">H</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="I">I</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="J">J</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="K">K</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="L">L</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="M">M</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="N">N</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="O">O</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="P">P</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="Q">Q</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="R">R</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="S">S</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="T">T</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="U">U</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="V">V</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="W">W</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="X">X</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="Y">Y</button></li>
+              <li><button type="button" class="az-letter-btn" data-letter="Z">Z</button></li>
+            </ul>
           </div>
 
           <!-- Minimal Unified Search Bar with 3-Dot Auto-Organizer -->
@@ -561,6 +633,8 @@
                   <label for="filter-sort">Sort:</label>
                   <select id="filter-sort" class="filter-select-compact">
                     <option value="popularity">Popularity</option>
+                    <option value="az">Name (A-Z)</option>
+                    <option value="za">Name (Z-A)</option>
                     <option value="rating">Top Rated</option>
                     <option value="newest">Recently Added</option>
                   </select>
@@ -888,7 +962,7 @@
 
   <!-- JavaScript Modules & Ad Configuration -->
   <script src="js/ads-config.js?v=20261010_v1"></script>
-  <script type="module" src="js/app.js?v=20261015_v2"></script>
+  <script type="module" src="js/app.js?v=20261022_v1"></script>
 
   <!-- Adsterra Popunder (On-Click High CPM) -->
   <script src="https://pl31751437.profitableratecpmnetwork.com/92/2d/90/922d90b81800841f4a771b207622b7a2.js"></script>

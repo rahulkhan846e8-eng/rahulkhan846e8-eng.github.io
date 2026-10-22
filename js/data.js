@@ -105653,7 +105653,7 @@ function checkFuzzyMatch(tok, word) {
   return { isMatch: false, dist: 0 };
 }
 
-export function searchAnime(query = "", genre = "All", type = "All", sortBy = "popularity") {
+export function searchAnime(query = "", genre = "All", type = "All", sortBy = "popularity", letter = "All") {
   let list = [...ANIME_DATABASE];
 
   if (genre && genre !== "All") {
@@ -105662,6 +105662,17 @@ export function searchAnime(query = "", genre = "All", type = "All", sortBy = "p
 
   if (type && type !== "All") {
     list = list.filter(item => item.type?.toLowerCase() === type.toLowerCase());
+  }
+
+  if (letter && letter !== "All") {
+    const l = letter.trim().toUpperCase();
+    if (l === "0-9") {
+      list = list.filter(item => /^[0-9]/.test((item.title || "").trim()));
+    } else if (l === "#" || l === "OTHER") {
+      list = list.filter(item => /^[^a-zA-Z0-9]/.test((item.title || "").trim()));
+    } else {
+      list = list.filter(item => (item.title || "").trim().toUpperCase().startsWith(l));
+    }
   }
 
   if (query && query.trim()) {
@@ -105781,10 +105792,18 @@ export function searchAnime(query = "", genre = "All", type = "All", sortBy = "p
 
   if (sortBy === "rating") {
     list.sort((a, b) => b.rating - a.rating);
-  } else if (sortBy === "newest") {
+  } else if (sortBy === "newest" || sortBy === "year") {
     list.sort((a, b) => (b.year || 2024) - (a.year || 2024));
+  } else if (sortBy === "title" || sortBy === "az" || sortBy === "name-az") {
+    list.sort((a, b) => (a.title || "").localeCompare(b.title || ""));
+  } else if (sortBy === "za" || sortBy === "name-za") {
+    list.sort((a, b) => (b.title || "").localeCompare(a.title || ""));
   } else {
-    list.sort((a, b) => (b.isTrending ? 1 : 0) - (a.isTrending ? 1 : 0));
+    if (letter && letter !== "All") {
+      list.sort((a, b) => (a.title || "").localeCompare(b.title || ""));
+    } else {
+      list.sort((a, b) => (b.isTrending ? 1 : 0) - (a.isTrending ? 1 : 0));
+    }
   }
 
   return list;
