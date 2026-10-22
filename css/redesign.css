@@ -31,8 +31,12 @@
   box-shadow: 0 0 20px rgba(0, 212, 255, 0.75) !important;
 }
 
-.brand-logo .logo-sub {
+.brand-logo .logo-sub,
+.footer-brand .footer-logo .logo-sub,
+.site-header .logo .logo-sub {
+  font-weight: 800 !important;
   color: var(--accent) !important;
+  letter-spacing: 0.02em !important;
 }
 
 /* Nav active state */

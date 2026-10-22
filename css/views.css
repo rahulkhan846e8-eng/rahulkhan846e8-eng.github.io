@@ -3458,7 +3458,7 @@
   color: #ffffff;
 }
 .brand-logo .logo-sub, .site-header .logo .logo-sub {
-  font-weight: 400;
+  font-weight: 800;
   color: var(--cr-accent, #3a86ff);
   margin-left: 3px;
 }
