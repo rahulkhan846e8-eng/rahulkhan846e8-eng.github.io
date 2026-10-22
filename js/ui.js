@@ -205,9 +205,7 @@ export class UIRenderer {
               <div class="continue-play-icon">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
               </div>
-              <div class="continue-progress-bar">
-                <div class="continue-progress-fill" style="width: ${progressWidth}%; ${progressColor}"></div>
-              </div>
+
             </div>
             <div class="continue-body">
               <h4 class="continue-title">${anime.title}</h4>
@@ -1298,9 +1296,7 @@ export class UIRenderer {
             <div class="continue-play-icon">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
             </div>
-            <div class="continue-progress-bar">
-              <div class="continue-progress-fill" style="width: ${item.percent}%;"></div>
-            </div>
+
           </div>
           <div class="continue-body">
             <h4 class="continue-title">${anime.title}</h4>

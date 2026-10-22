@@ -15,7 +15,7 @@ import {
 } from './catalog.js?v=20261022_v1';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
-import { UIRenderer } from './ui.js?v=20261008_v2';
+import { UIRenderer } from './ui.js?v=20261022_v3';
 
 class App {
   constructor() {

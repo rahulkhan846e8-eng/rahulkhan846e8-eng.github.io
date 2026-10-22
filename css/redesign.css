@@ -219,8 +219,12 @@
   color: #030818 !important;
 }
 
+.continue-progress-bar,
 .continue-progress-fill {
-  background: var(--accent) !important;
+  display: none !important;
+  height: 0 !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
 }
 
 /* ══════════════════════════════════════════════════════════════════════════
