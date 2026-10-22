@@ -510,13 +510,13 @@ class App {
       if (browsePageTitle) {
         if (currentLetter && currentLetter !== "All") {
           let label = currentLetter === "0-9" ? "0-9" : (currentLetter === "other" || currentLetter === "#" ? "#" : currentLetter);
-          browsePageTitle.textContent = `A-Z Directory: '${label}' (${filtered.length})`;
+          browsePageTitle.textContent = `A-Z Directory: '${label}'`;
         } else if (currentSearch) {
-          browsePageTitle.textContent = `Search Results: "${currentSearch}" (${filtered.length})`;
+          browsePageTitle.textContent = `Search Results: "${currentSearch}"`;
         } else if (currentGenre && currentGenre !== "All") {
-          browsePageTitle.textContent = `${currentGenre} Anime (${filtered.length})`;
+          browsePageTitle.textContent = `${currentGenre} Anime`;
         } else {
-          browsePageTitle.textContent = `A-Z Anime Directory (${filtered.length})`;
+          browsePageTitle.textContent = `A-Z Anime Directory`;
         }
       }
     };
