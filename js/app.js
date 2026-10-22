@@ -471,14 +471,14 @@ class App {
     const browseAzContainer = document.getElementById("browse-az-letter-list");
     const updateLetterButtons = () => {
       if (!browseAzContainer) return;
-      browseAzContainer.querySelectorAll(".az-letter-btn").forEach(btn => {
+      browseAzContainer.querySelectorAll(".navigate-az-btn, .az-letter-btn").forEach(btn => {
         const l = btn.dataset.letter;
         btn.classList.toggle("active", l.toLowerCase() === currentLetter.toLowerCase());
       });
     };
 
     if (browseAzContainer) {
-      browseAzContainer.querySelectorAll(".az-letter-btn").forEach(btn => {
+      browseAzContainer.querySelectorAll(".navigate-az-btn, .az-letter-btn").forEach(btn => {
         btn.onclick = (e) => {
           e.preventDefault();
           const l = btn.dataset.letter;
@@ -510,13 +510,13 @@ class App {
       if (browsePageTitle) {
         if (currentLetter && currentLetter !== "All") {
           let label = currentLetter === "0-9" ? "0-9" : (currentLetter === "other" || currentLetter === "#" ? "#" : currentLetter);
-          browsePageTitle.textContent = `A-Z Directory: '${label}'`;
+          browsePageTitle.textContent = `Navigate A to Z: '${label}'`;
         } else if (currentSearch) {
           browsePageTitle.textContent = `Search Results: "${currentSearch}"`;
         } else if (currentGenre && currentGenre !== "All") {
           browsePageTitle.textContent = `${currentGenre} Anime`;
         } else {
-          browsePageTitle.textContent = `A-Z Anime Directory`;
+          browsePageTitle.textContent = `Navigate A to Z`;
         }
       }
     };
@@ -622,7 +622,7 @@ class App {
   initGlobalDelegation() {
     document.body.addEventListener("click", (e) => {
       // Home A-Z list letter button clicked
-      const azHomeBtn = e.target.closest("#home-az-letter-list .az-letter-btn, .home-az-section .az-letter-btn");
+      const azHomeBtn = e.target.closest("#home-az-letter-list .navigate-az-btn, #home-az-letter-list .az-letter-btn, .navigate-az-section .navigate-az-btn");
       if (azHomeBtn) {
         e.preventDefault();
         const letter = azHomeBtn.dataset.letter || "All";

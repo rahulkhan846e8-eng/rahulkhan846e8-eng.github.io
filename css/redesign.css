@@ -951,165 +951,85 @@ body {
 
 
 /* ══════════════════════════════════════════════════════════════════════════
-   31. A-Z ALPHABETICAL DIRECTORY (SALT ANIME STYLE)
+   31. NAVIGATE A TO Z (CLEAN & MINIMAL STREAMING STYLE)
    ══════════════════════════════════════════════════════════════════════════ */
 
-.home-az-section {
-  margin: 36px 0 24px;
-  padding: 22px 26px;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-lg);
-  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.45);
-}
-
-.home-az-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 16px;
-  padding-bottom: 12px;
-  border-bottom: 1px solid var(--border);
-  flex-wrap: wrap;
-  gap: 12px;
-}
-
-.az-title-block {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  flex-wrap: wrap;
-}
-
-.az-title-badge {
-  display: inline-flex;
-  align-items: center;
-  padding: 4px 14px;
-  background: rgba(0, 212, 255, 0.12);
-  border: 1.5px solid rgba(0, 212, 255, 0.45);
-  color: var(--accent);
-  font-size: 0.92rem;
-  font-weight: 800;
-  letter-spacing: 0.06em;
-  border-radius: var(--radius-sm);
-  text-transform: uppercase;
-  box-shadow: 0 0 12px rgba(0, 212, 255, 0.25);
-}
-
-.az-title-desc {
-  font-size: 0.88rem;
-  color: var(--cr-text-secondary);
-}
-
-.az-browse-link {
-  font-size: 0.88rem;
-  font-weight: 700;
-  color: var(--accent);
-  transition: all 0.2s ease;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  text-decoration: none;
-}
-
-.az-browse-link:hover {
-  color: var(--accent-hover);
-  transform: translateX(3px);
-}
-
-/* Letters Row */
-.az-letter-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 7px;
-  list-style: none;
+.navigate-az-section {
+  margin: 36px 0 28px;
   padding: 0;
-  margin: 0;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.navigate-az-title {
+  font-size: 1.45rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin-bottom: 16px;
+  letter-spacing: -0.01em;
+}
+
+.navigate-az-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
   align-items: center;
 }
 
-.az-letter-list li {
-  flex: 0 0 auto;
-}
-
-.az-letter-btn {
+.navigate-az-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 36px;
-  height: 36px;
-  padding: 0 10px;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.10);
-  border-radius: 8px;
-  color: #cbd5e1;
-  font-size: 0.88rem;
+  width: 38px;
+  height: 38px;
+  min-width: 38px;
+  background: #121826 !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 6px !important;
+  color: #94a3b8 !important;
+  font-size: 0.90rem;
   font-weight: 700;
   text-decoration: none;
   cursor: pointer;
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.18s cubic-bezier(0.4, 0, 0.2, 1);
   user-select: none;
   font-family: inherit;
+  box-sizing: border-box;
 }
 
-.az-letter-btn:hover {
+.navigate-az-btn:hover {
   background: var(--accent) !important;
   border-color: var(--accent) !important;
   color: #030818 !important;
   transform: translateY(-2px);
-  box-shadow: 0 4px 16px var(--accent-glow);
+  box-shadow: 0 4px 14px var(--accent-glow) !important;
 }
 
-.az-letter-btn.active {
+.navigate-az-btn.active {
   background: var(--accent) !important;
   border-color: var(--accent) !important;
   color: #030818 !important;
-  box-shadow: 0 0 16px var(--accent-glow);
+  box-shadow: 0 0 16px var(--accent-glow) !important;
   font-weight: 800 !important;
 }
 
-/* Browse View A-Z Bar */
-.browse-az-wrap {
-  margin-bottom: 20px;
-  padding: 14px 18px;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-}
-
 @media (max-width: 768px) {
-  .home-az-section {
-    padding: 16px 14px;
-    margin: 20px 0 16px;
-    border-radius: 12px;
+  .navigate-az-section {
+    margin: 24px 0 16px;
   }
-  .home-az-header {
+  .navigate-az-title {
+    font-size: 1.2rem;
     margin-bottom: 12px;
-    padding-bottom: 10px;
   }
-  .az-title-block {
-    gap: 8px;
+  .navigate-az-list {
+    gap: 6px;
   }
-  .az-title-badge {
-    font-size: 0.82rem;
-    padding: 3px 10px;
-  }
-  .az-title-desc {
-    font-size: 0.78rem;
-  }
-  .az-letter-list {
-    gap: 5px;
-    justify-content: flex-start;
-  }
-  .az-letter-btn {
-    min-width: 32px;
+  .navigate-az-btn {
+    width: 32px;
     height: 32px;
-    padding: 0 6px;
-    font-size: 0.78rem;
-    border-radius: 6px;
-  }
-  .browse-az-wrap {
-    padding: 10px 12px;
-    margin-bottom: 14px;
+    min-width: 32px;
+    font-size: 0.82rem;
+    border-radius: 5px !important;
   }
 }
