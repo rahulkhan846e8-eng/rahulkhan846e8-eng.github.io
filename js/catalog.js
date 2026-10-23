@@ -48,7 +48,7 @@ export const ANIME_CATALOG = [
   {
     "id": "dragon-ball-super-broly",
     "title": "Dragon Ball Super: Broly",
-    "japaneseTitle": "???????? ????",
+    "japaneseTitle": "",
     "raw_name": "Dragon Ball Super: Broly Movie",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101302-2ix6Nti3Y11Q.jpg",
@@ -13385,7 +13385,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=1792730202');
+    const { ANIME_DATABASE } = await import('./data.js?v=1792730384');
     for (const anime of ANIME_DATABASE) {
       const key = (anime.id || "").toLowerCase().trim();
       fullAnimeCache.set(key, anime);

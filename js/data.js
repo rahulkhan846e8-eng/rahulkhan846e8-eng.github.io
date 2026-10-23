@@ -48,7 +48,7 @@ export const ANIME_DATABASE = [
     "id": "dragon-ball-super-broly",
     "title": "Dragon Ball Super: Broly",
     "raw_name": "Dragon Ball Super: Broly Movie",
-    "japaneseTitle": "???????? ????",
+    "japaneseTitle": "",
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101302-2ix6Nti3Y11Q.jpg",
     "rating": 8.1,
