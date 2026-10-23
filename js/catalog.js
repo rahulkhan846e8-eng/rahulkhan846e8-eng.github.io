@@ -11817,16 +11817,16 @@ export const ANIME_CATALOG = [
     ],
     "isPopular": true,
     "isTrending": true,
-    "audioTrack": "Original Dub",
-    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Hindi Dub",
+    "audioBadge": "HINDI DUB",
     "languages": [
       "hindi"
     ],
-    "hasHindi": false,
+    "hasHindi": true,
     "hasOriginal": false,
     "synopsis": "Naruto Uzumaki, a mischievous adolescent ninja, searches for recognition from his peers and the village, aspiring to become the next Hokage.",
-    "seasonCount": 3,
-    "totalEpisodes": 78
+    "seasonCount": 4,
+    "totalEpisodes": 158
   },
   {
     "id": "jujutsu-kaisen",
@@ -13385,7 +13385,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=1792730384');
+    const { ANIME_DATABASE } = await import('./data.js?v=1792745868');
     for (const anime of ANIME_DATABASE) {
       const key = (anime.id || "").toLowerCase().trim();
       fullAnimeCache.set(key, anime);
