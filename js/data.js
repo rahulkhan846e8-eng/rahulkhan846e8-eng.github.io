@@ -76859,263 +76859,802 @@ export const ANIME_DATABASE = [
             "id": 1,
             "number": 1,
             "season": 1,
-            "title": "Episode 1",
+            "title": "Enter: Naruto Uzumaki!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 1",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/82Zy2aKC#nVIITcB3jo2S2bke8uM_fQlwR6FUgWkSN2Q1MTr5JCM"
+            },
+            "downloadUrl": "https://mega.nz/file/82Zy2aKC#nVIITcB3jo2S2bke8uM_fQlwR6FUgWkSN2Q1MTr5JCM"
           },
           {
             "id": 2,
             "number": 2,
             "season": 1,
-            "title": "Episode 2",
+            "title": "My Name is Konohamaru",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/PvhmlBJK#UqkughmRAaRCuF7dn8ILlsBNS_dg6XstyIIkIVHivco"
+            },
+            "downloadUrl": "https://mega.nz/file/PvhmlBJK#UqkughmRAaRCuF7dn8ILlsBNS_dg6XstyIIkIVHivco"
           },
           {
             "id": 3,
             "number": 3,
             "season": 1,
-            "title": "Episode 3",
+            "title": "Sasuke and Sakura: Friends or Foes?",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 3",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/8jI3lBQD#dfX1tHWINTknAmbHLcMUbtH7MtkGnJOXgjHPu-DqR88"
+            },
+            "downloadUrl": "https://mega.nz/file/8jI3lBQD#dfX1tHWINTknAmbHLcMUbtH7MtkGnJOXgjHPu-DqR88"
           },
           {
             "id": 4,
             "number": 4,
             "season": 1,
-            "title": "Episode 4",
+            "title": "Pass or Fail: Survival Test",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 4",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/NnJ2yS6a#zdJpz31xSlngGxpCvEwk5dSL78FhKqOdTBpuZEMT-YE"
+            },
+            "downloadUrl": "https://mega.nz/file/NnJ2yS6a#zdJpz31xSlngGxpCvEwk5dSL78FhKqOdTBpuZEMT-YE"
           },
           {
             "id": 5,
             "number": 5,
             "season": 1,
-            "title": "Episode 5",
+            "title": "You Failed! Kakashi's Final Decision",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 5",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/gngRTC7A#e38zLnV8hm4VIPNW9azZoT23OIwNLSD2oAZjxTMlCgo"
+            },
+            "downloadUrl": "https://mega.nz/file/gngRTC7A#e38zLnV8hm4VIPNW9azZoT23OIwNLSD2oAZjxTMlCgo"
           },
           {
             "id": 6,
             "number": 6,
             "season": 1,
-            "title": "Episode 6",
+            "title": "A Dangerous Mission! Journey to the Land of Waves!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 6",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/crRG0ajB#4EKp_L6R5u6um_aeU2KvCZpcpSpeU7jXxMuqjFC6Qig"
+            },
+            "downloadUrl": "https://mega.nz/file/crRG0ajB#4EKp_L6R5u6um_aeU2KvCZpcpSpeU7jXxMuqjFC6Qig"
           },
           {
             "id": 7,
             "number": 7,
             "season": 1,
-            "title": "Episode 7",
+            "title": "The Assassin of the Mist!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 7",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/MuATlBKR#wQad05REgo7wk0C9ziAXktv_fOMGdwHG3huBs7cEv4I"
+            },
+            "downloadUrl": "https://mega.nz/file/MuATlBKR#wQad05REgo7wk0C9ziAXktv_fOMGdwHG3huBs7cEv4I"
           },
           {
             "id": 8,
             "number": 8,
             "season": 1,
-            "title": "Episode 8",
+            "title": "The Oath of Pain",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 8",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/xmZSHRSR#vyMuPfnn4mIufVkM517HBAjleG9kxFZir3NYhfWyGuI"
+            },
+            "downloadUrl": "https://mega.nz/file/xmZSHRSR#vyMuPfnn4mIufVkM517HBAjleG9kxFZir3NYhfWyGuI"
           },
           {
             "id": 9,
             "number": 9,
             "season": 1,
-            "title": "Episode 9",
+            "title": "Kakashi: Sharingan Warrior!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 9",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/p7Zy0SxD#To3i1PA7eEpRJ1VA3UCYwhodoST8-UsYViTtz314HFE"
+            },
+            "downloadUrl": "https://mega.nz/file/p7Zy0SxD#To3i1PA7eEpRJ1VA3UCYwhodoST8-UsYViTtz314HFE"
           },
           {
             "id": 10,
             "number": 10,
             "season": 1,
-            "title": "Episode 10",
+            "title": "The Forest of Chakra",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 10",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/hr5gnY6R#gUSXuxh5qFrJQ9CE-DEkI3FnN7R8fUDOzdmwil2_BGI"
+            },
+            "downloadUrl": "https://mega.nz/file/hr5gnY6R#gUSXuxh5qFrJQ9CE-DEkI3FnN7R8fUDOzdmwil2_BGI"
           },
           {
             "id": 11,
             "number": 11,
             "season": 1,
-            "title": "Episode 11",
+            "title": "The Land Where a Hero Once Lived",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 11",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/86ZiTQjb#Up9XCZMiPdjRhUS_SdJAlF--uf-E0JBGMrMCekwv-18"
+            },
+            "downloadUrl": "https://mega.nz/file/86ZiTQjb#Up9XCZMiPdjRhUS_SdJAlF--uf-E0JBGMrMCekwv-18"
           },
           {
             "id": 12,
             "number": 12,
             "season": 1,
-            "title": "Episode 12",
+            "title": "Battle on the Bridge! Zabuza Returns!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 12",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/N35A2YwK#A08cdlstGLEesBxVcTF7GJ6vGUDy1Q4_FWAZAP4CbZI"
+            },
+            "downloadUrl": "https://mega.nz/file/N35A2YwK#A08cdlstGLEesBxVcTF7GJ6vGUDy1Q4_FWAZAP4CbZI"
           },
           {
             "id": 13,
             "number": 13,
             "season": 1,
-            "title": "Episode 13",
+            "title": "Haku's Secret Jutsu: Demonic Mirroring Ice Crystals",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 13",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/B2o3mRoC#R43Tunns_9ki8k1QEdeauivxg5xkdaHjQuDV4fsv7v4"
+            },
+            "downloadUrl": "https://mega.nz/file/B2o3mRoC#R43Tunns_9ki8k1QEdeauivxg5xkdaHjQuDV4fsv7v4"
           },
           {
             "id": 14,
             "number": 14,
             "season": 1,
-            "title": "Episode 14",
+            "title": "The Number One Hyperactive, Knucklehead Ninja Joins the Fight!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 14",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/8qRxlZAb#dmYhTSCKt8EC1Jh22DxbKgfnf32BL2qfhw5eZbbioCk"
+            },
+            "downloadUrl": "https://mega.nz/file/8qRxlZAb#dmYhTSCKt8EC1Jh22DxbKgfnf32BL2qfhw5eZbbioCk"
           },
           {
             "id": 15,
             "number": 15,
             "season": 1,
-            "title": "Episode 15",
+            "title": "Zero Visibility: The Sharingan Shatters",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 15",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/Z7YGEBQR#dI-7TWjA3C_s5aDy_EFPhN5xBSJKurboosM7AMA2xHM"
+            },
+            "downloadUrl": "https://mega.nz/file/Z7YGEBQR#dI-7TWjA3C_s5aDy_EFPhN5xBSJKurboosM7AMA2xHM"
           },
           {
             "id": 16,
             "number": 16,
             "season": 1,
-            "title": "Episode 16",
+            "title": "The Broken Seal",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 16",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/NrI2USyC#Lkt1Qzm-87TDdlPoCCJXXjv1xLoeWhexk_Ah_mledhw"
+            },
+            "downloadUrl": "https://mega.nz/file/NrI2USyC#Lkt1Qzm-87TDdlPoCCJXXjv1xLoeWhexk_Ah_mledhw"
           },
           {
             "id": 17,
             "number": 17,
             "season": 1,
-            "title": "Episode 17",
+            "title": "White Past: Hidden Ambition",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 17",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://pixeldrain.dev/u/KQVspckt"
+            },
+            "downloadUrl": "https://pixeldrain.dev/u/KQVspckt"
           },
           {
             "id": 18,
             "number": 18,
             "season": 1,
-            "title": "Episode 18",
+            "title": "The Weapons Known as Shinobi",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 18",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/ahU2xbrS#IHEtXDaOmk7FUko36QkPfqFyeK3B9N0NQXaHWFmuGas"
+            },
+            "downloadUrl": "https://mega.nz/file/ahU2xbrS#IHEtXDaOmk7FUko36QkPfqFyeK3B9N0NQXaHWFmuGas"
           },
           {
             "id": 19,
             "number": 19,
             "season": 1,
-            "title": "Episode 19",
+            "title": "The Demon in the Snow",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 19",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/u5NGQSrI#EAMCjoWU6cAJl8wY0Ez4sQVT59byNfdFx8o7NVVIBv0"
+            },
+            "downloadUrl": "https://mega.nz/file/u5NGQSrI#EAMCjoWU6cAJl8wY0Ez4sQVT59byNfdFx8o7NVVIBv0"
           },
           {
             "id": 20,
             "number": 20,
             "season": 1,
-            "title": "Episode 20",
+            "title": "A New Chapter Begins: The Chunin Exam!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 20",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/v58nGZya#vyreqanipIRvAr8Ow8fJwsPLXaZX2K4EWcclBkjF0pI"
+            },
+            "downloadUrl": "https://mega.nz/file/v58nGZya#vyreqanipIRvAr8Ow8fJwsPLXaZX2K4EWcclBkjF0pI"
           },
           {
             "id": 21,
             "number": 21,
             "season": 1,
-            "title": "Episode 21",
+            "title": "Identify Yourself: Powerful New Rivals",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 21",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/38FV2Sqa#kM8XUm1pc4yLTrrl0B4TQrJ-4tnA5mr8NEmM0PUA-DE"
+            },
+            "downloadUrl": "https://mega.nz/file/38FV2Sqa#kM8XUm1pc4yLTrrl0B4TQrJ-4tnA5mr8NEmM0PUA-DE"
           },
           {
             "id": 22,
             "number": 22,
             "season": 1,
-            "title": "Episode 22",
+            "title": "Chunin Challenge: Rock Lee vs. Sasuke!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 22",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/rgE20DKT#A7z-dtrF_BQeEa94A48j7zz5io7MwyYxBVmDT7Q_Kfw"
+            },
+            "downloadUrl": "https://mega.nz/file/rgE20DKT#A7z-dtrF_BQeEa94A48j7zz5io7MwyYxBVmDT7Q_Kfw"
           },
           {
             "id": 23,
             "number": 23,
             "season": 1,
-            "title": "Episode 23",
+            "title": "Genin Takedown! All Nine Rookies Face Off!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 23",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/bgVEWSbA#vIMEbHBX95X6I12dcarZawO8kAw9_Ahl2kGWwK3tXIU"
+            },
+            "downloadUrl": "https://mega.nz/file/bgVEWSbA#vIMEbHBX95X6I12dcarZawO8kAw9_Ahl2kGWwK3tXIU"
           },
           {
             "id": 24,
             "number": 24,
             "season": 1,
-            "title": "Episode 24",
+            "title": "Start Your Engines: The Chunin Exam Begins!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 24",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/fo1SHIxB#rEjTa9A3IEvvOIo8v00ciJxDWn42BJEuV5g3a6h0AG0"
+            },
+            "downloadUrl": "https://mega.nz/file/fo1SHIxB#rEjTa9A3IEvvOIo8v00ciJxDWn42BJEuV5g3a6h0AG0"
           },
           {
             "id": 25,
             "number": 25,
             "season": 1,
-            "title": "Episode 25",
+            "title": "The Tenth Question: All or Nothing!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 25",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/qpUTzD6D#-7WjqjU4vyBrRLv-Oa0bUMeElBWpWCrk6m33ZWKF6OI"
+            },
+            "downloadUrl": "https://mega.nz/file/qpUTzD6D#-7WjqjU4vyBrRLv-Oa0bUMeElBWpWCrk6m33ZWKF6OI"
           },
           {
             "id": 26,
             "number": 26,
             "season": 1,
-            "title": "Episode 26",
+            "title": "Special Report: Live from the Forest of Death!",
             "runtime": "24m",
             "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
             "synopsis": "Episode 26",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/H99jTJqY#cJeYPxpNYiw79F8wT-jNGMSpwNCM2Dzqt6JUA75yKIY"
+            },
+            "downloadUrl": "https://mega.nz/file/H99jTJqY#cJeYPxpNYiw79F8wT-jNGMSpwNCM2Dzqt6JUA75yKIY"
+          },
+          {
+            "id": 27,
+            "number": 27,
+            "season": 1,
+            "title": "The Chuunin Exam Stage 2: The Forest of Death",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 27 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/S0MGkIYa#VrtzfozlhNmIifAfq7qRp1EhMCvQKgld0GweFRUyLnE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/S0MGkIYa#VrtzfozlhNmIifAfq7qRp1EhMCvQKgld0GweFRUyLnE"
+            }
+          },
+          {
+            "id": 28,
+            "number": 28,
+            "season": 1,
+            "title": "Eat or be Eaten: Panic in the Forest",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 28 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/HEVAmTAY#irLlAvY9n8xOnPcIhGx5ggk9c1a1W5ZbubchNJRQKLM",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/HEVAmTAY#irLlAvY9n8xOnPcIhGx5ggk9c1a1W5ZbubchNJRQKLM"
+            }
+          },
+          {
+            "id": 29,
+            "number": 29,
+            "season": 1,
+            "title": "Naruto's Counterattack: Never Give In!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 29 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/zoMmUCqT#xGJRsU2RkYvcAa3qEVAiHKhoKgtM1lIPxLtJcpLhfwA",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/zoMmUCqT#xGJRsU2RkYvcAa3qEVAiHKhoKgtM1lIPxLtJcpLhfwA"
+            }
+          },
+          {
+            "id": 30,
+            "number": 30,
+            "season": 1,
+            "title": "The Sharingan Revived: Dragon-Flame Jutsu!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 30 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/TtlkwDLa#Kuk3dLycO5_odNSxkLkWD4btW1vNRO7byRdgYKzuC0g",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/TtlkwDLa#Kuk3dLycO5_odNSxkLkWD4btW1vNRO7byRdgYKzuC0g"
+            }
+          },
+          {
+            "id": 31,
+            "number": 31,
+            "season": 1,
+            "title": "Bushy Brow's Pledge: Undying Love and Protection!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 31 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/zk90zR4a#4IhbgIjnC1W8dLZiDvIkyUvpb2UQa9gnB5kScgL6P0M",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/zk90zR4a#4IhbgIjnC1W8dLZiDvIkyUvpb2UQa9gnB5kScgL6P0M"
+            }
+          },
+          {
+            "id": 32,
+            "number": 32,
+            "season": 1,
+            "title": "Sakura Blossoms!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 32 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/j0EwmLYY#w_NC0Gv2qmHz4NnHJFnUE5SV2s5psljrEsHdXh3ZpWE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/j0EwmLYY#w_NC0Gv2qmHz4NnHJFnUE5SV2s5psljrEsHdXh3ZpWE"
+            }
+          },
+          {
+            "id": 33,
+            "number": 33,
+            "season": 1,
+            "title": "Battle Formation: Ino-Shika-Cho!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 33 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/W4E2AY4J#2puxPL_FUEkmj5EKEnrghOclDSiQUolhC26HB8W0mY0",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/W4E2AY4J#2puxPL_FUEkmj5EKEnrghOclDSiQUolhC26HB8W0mY0"
+            }
+          },
+          {
+            "id": 34,
+            "number": 34,
+            "season": 1,
+            "title": "Akamaru Trembles: Gaara's Cruel Strength!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 34 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/S5M03ICQ#sqmI6k_I338lYoacd8xoynrg0WRJuOGft7xLwhI5reU",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/S5M03ICQ#sqmI6k_I338lYoacd8xoynrg0WRJuOGft7xLwhI5reU"
+            }
+          },
+          {
+            "id": 35,
+            "number": 35,
+            "season": 1,
+            "title": "The Scroll's Secret: No Peeking Allowed",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 35 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/DtsQCbzK#5-JIDvLXsrVS3cHrJRvF6RG8MEuhSZIAkFX6CoB47MQ",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/DtsQCbzK#5-JIDvLXsrVS3cHrJRvF6RG8MEuhSZIAkFX6CoB47MQ"
+            }
+          },
+          {
+            "id": 36,
+            "number": 36,
+            "season": 1,
+            "title": "Clone vs. Clone: Mine are Better Than Yours!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 36 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/P1FRiDBD#29s2dPJZP7T-7Alje77YmfDQ82fuoCNM6DV2v7BT8Hs",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/P1FRiDBD#29s2dPJZP7T-7Alje77YmfDQ82fuoCNM6DV2v7BT8Hs"
+            }
+          },
+          {
+            "id": 37,
+            "number": 37,
+            "season": 1,
+            "title": "Surviving the Cut: The Rookie Nine Together Again!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 37 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/SpsyzCJT#Jym-enhSZIZq30vNGs3y_VvqSsd1OuTdVdTePJbLhXA",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/SpsyzCJT#Jym-enhSZIZq30vNGs3y_VvqSsd1OuTdVdTePJbLhXA"
+            }
+          },
+          {
+            "id": 38,
+            "number": 38,
+            "season": 1,
+            "title": "Narrowing the Field: Sudden Death Elimination!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 38 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/q1lFTKTT#sTp-aWU5HvGdUNBN9XZwsWR296B7YwFE0ZK3ZpcchsU",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/q1lFTKTT#sTp-aWU5HvGdUNBN9XZwsWR296B7YwFE0ZK3ZpcchsU"
+            }
+          },
+          {
+            "id": 39,
+            "number": 39,
+            "season": 1,
+            "title": "Bushy Brow's Jealousy: Lions Barrage Unleashed!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 39 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/n19zFIrb#AdWulgvjGFD2N5vt2W5uucaEFHsbPjSZMgemQ7MeJCw",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/n19zFIrb#AdWulgvjGFD2N5vt2W5uucaEFHsbPjSZMgemQ7MeJCw"
+            }
+          },
+          {
+            "id": 40,
+            "number": 40,
+            "season": 1,
+            "title": "Kakashi and Orochimaru: Face-to-Face!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 40 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/CgMkkQiK#Pv0FBjbKLxhavPYUIT_L9Gxc-NhdQuvkB0gmaZGo3aE",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/CgMkkQiK#Pv0FBjbKLxhavPYUIT_L9Gxc-NhdQuvkB0gmaZGo3aE"
+            }
+          },
+          {
+            "id": 41,
+            "number": 41,
+            "season": 1,
+            "title": "Kunoichi Rumble: The Rivals Get Serious!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 41 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/yh9X0aDT#Wb-OZQXa87dmpXUQMfzTHPg57lUULGwJN6IZRpOYfww",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/yh9X0aDT#Wb-OZQXa87dmpXUQMfzTHPg57lUULGwJN6IZRpOYfww"
+            }
+          },
+          {
+            "id": 42,
+            "number": 42,
+            "season": 1,
+            "title": "The Ultimate Battle: Cha!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 42 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/CrYHwTwK#v2NC55qr-yeWMiUY3pltJ_1oT8aHdRygnQ1yYa9GDZs",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/CrYHwTwK#v2NC55qr-yeWMiUY3pltJ_1oT8aHdRygnQ1yYa9GDZs"
+            }
+          },
+          {
+            "id": 43,
+            "number": 43,
+            "season": 1,
+            "title": "Killer Kunoichi and a Shaky Shikamaru",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 43 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/i6BgUZha#shhFsfnb-KbHiiKsJUWHsOwZaiQ4mPHwbgjUT9us5xA",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/i6BgUZha#shhFsfnb-KbHiiKsJUWHsOwZaiQ4mPHwbgjUT9us5xA"
+            }
+          },
+          {
+            "id": 44,
+            "number": 44,
+            "season": 1,
+            "title": "Akamaru Unleashed! Who's Top Dog Now?",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 44 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/CrQARKKZ#t_93ron_IpxSPEbdF-iQrFS1yz5GnscfJmzcpX2exfk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/CrQARKKZ#t_93ron_IpxSPEbdF-iQrFS1yz5GnscfJmzcpX2exfk"
+            }
+          },
+          {
+            "id": 45,
+            "number": 45,
+            "season": 1,
+            "title": "Surprise Attack! Naruto's Secret Weapon!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 45 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/ayJjQCwB#RA6DLNZ24qDoptJQ16Y3p7fwOMELQAvGLv5YtQzL_bc",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/ayJjQCwB#RA6DLNZ24qDoptJQ16Y3p7fwOMELQAvGLv5YtQzL_bc"
+            }
+          },
+          {
+            "id": 46,
+            "number": 46,
+            "season": 1,
+            "title": "Byakugan Battle: Hinata Grows Bold!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 46 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/qqgCnboT#4Hf8eo7RSH8lQle9dWMQyaUNBo9RtmTYqkSXG1atZ4A",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/qqgCnboT#4Hf8eo7RSH8lQle9dWMQyaUNBo9RtmTYqkSXG1atZ4A"
+            }
+          },
+          {
+            "id": 47,
+            "number": 47,
+            "season": 1,
+            "title": "A Failure Stands Tall!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 47 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/WjhCkaIK#xQ1sC4wnQW5-4_R_MMostgwY-A-9aH1gVQfp7jZulZY",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/WjhCkaIK#xQ1sC4wnQW5-4_R_MMostgwY-A-9aH1gVQfp7jZulZY"
+            }
+          },
+          {
+            "id": 48,
+            "number": 48,
+            "season": 1,
+            "title": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 48 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/ii4ygQba#_MGFxUHFUb_vJ2edt9uRe-Vpz38mi7xic_0fMsJ8Pf0",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/ii4ygQba#_MGFxUHFUb_vJ2edt9uRe-Vpz38mi7xic_0fMsJ8Pf0"
+            }
+          },
+          {
+            "id": 49,
+            "number": 49,
+            "season": 1,
+            "title": "Lee's Hidden Strength: Forbidden Secret Jutsu!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 49 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/q6Y2CCbA#1P1_EnGVUK91QxXifKueWIo8XaxidciWXrw_E_3B4Jk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/q6Y2CCbA#1P1_EnGVUK91QxXifKueWIo8XaxidciWXrw_E_3B4Jk"
+            }
+          },
+          {
+            "id": 50,
+            "number": 50,
+            "season": 1,
+            "title": "The Fifth Gate: A Splendid Ninja is Born",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 50 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/T2ZBgJYK#rc4uIDbCD7IRvrEBrSdMfIMXs-KKV-cwO_U8PoF-yKc",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/T2ZBgJYK#rc4uIDbCD7IRvrEBrSdMfIMXs-KKV-cwO_U8PoF-yKc"
+            }
+          },
+          {
+            "id": 51,
+            "number": 51,
+            "season": 1,
+            "title": "A Shadow in Darkness: Danger Approaches Sasuke",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 51 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/ump2nKQY#3WjiUpOh3eIZEs2CDnfwaB55czXncRNGIk6JRyApZos",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/ump2nKQY#3WjiUpOh3eIZEs2CDnfwaB55czXncRNGIk6JRyApZos"
+            }
+          },
+          {
+            "id": 52,
+            "number": 52,
+            "season": 1,
+            "title": "Ebisu Returns: Naruto's Toughest Training Yet!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 52 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/PiQVVKbL#vyvtuCmmemA1Pik0EszZfrX-2quWoeNcVc_68_fWbiA",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/PiQVVKbL#vyvtuCmmemA1Pik0EszZfrX-2quWoeNcVc_68_fWbiA"
+            }
+          },
+          {
+            "id": 53,
+            "number": 53,
+            "season": 1,
+            "title": "Long Time No See: Jiraiya Returns!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 53 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/TqYnwC5J#7DGV1ln3txNnqbg9uZuG4wbBQXzKpnPjgIfY-e3apJ8",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/TqYnwC5J#7DGV1ln3txNnqbg9uZuG4wbBQXzKpnPjgIfY-e3apJ8"
+            }
+          },
+          {
+            "id": 54,
+            "number": 54,
+            "season": 1,
+            "title": "The Summoning Jutsu: Wisdom of the Pervy Sage!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 54 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/7vwXlQIT#hVzGHIHKal_FNhhg1Hio9xKwFMvs2bZulHwbPYJxuiM",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/7vwXlQIT#hVzGHIHKal_FNhhg1Hio9xKwFMvs2bZulHwbPYJxuiM"
+            }
+          },
+          {
+            "id": 55,
+            "number": 55,
+            "season": 1,
+            "title": "A Feeling of Yearning, A Flower Full of Hope",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 55 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/2qAAjTaZ#sqcBUl5klJaItiOetBhoNjUaHcJs4WDQSgvVpevbIUk",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/2qAAjTaZ#sqcBUl5klJaItiOetBhoNjUaHcJs4WDQSgvVpevbIUk"
+            }
+          },
+          {
+            "id": 56,
+            "number": 56,
+            "season": 1,
+            "title": "Live or Die: Risk it All to Win it All!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 56 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/7q4miLLQ#Vw1ChI1QzFdj-kxWymq8IOm1pbZt0wbBYC1irU4IJvI",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/7q4miLLQ#Vw1ChI1QzFdj-kxWymq8IOm1pbZt0wbBYC1irU4IJvI"
+            }
+          },
+          {
+            "id": 57,
+            "number": 57,
+            "season": 1,
+            "title": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
+            "runtime": "24m",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "synopsis": "Episode 57 of Naruto",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://mega.nz/file/7vRhTb6Q#o23jWgKtAGHFE_fll-Kavv5aqE7IRvKp2MMaP7-IW4w",
+            "downloadLinks": {
+              "hindi": "https://mega.nz/file/7vRhTb6Q#o23jWgKtAGHFE_fll-Kavv5aqE7IRvKp2MMaP7-IW4w"
+            }
           }
-        ]
+        ],
+        "isComingSoon": false
       },
       {
         "number": 2,
