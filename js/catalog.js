@@ -11826,7 +11826,7 @@ export const ANIME_CATALOG = [
     "hasOriginal": false,
     "synopsis": "Naruto Uzumaki, a mischievous adolescent ninja, searches for recognition from his peers and the village, aspiring to become the next Hokage.",
     "seasonCount": 5,
-    "totalEpisodes": 272
+    "totalEpisodes": 220
   },
   {
     "id": "jujutsu-kaisen",
@@ -12091,8 +12091,8 @@ export const ANIME_CATALOG = [
     "hasHindi": true,
     "hasOriginal": true,
     "synopsis": "Monkey D. Luffy sails with his crew in search of the legendary treasure known as One Piece to become the Pirate King.",
-    "seasonCount": 2,
-    "totalEpisodes": 70
+    "seasonCount": 1,
+    "totalEpisodes": 30
   },
   {
     "id": "slime-reincarnation",
@@ -13385,7 +13385,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=1792750573');
+    const { ANIME_DATABASE } = await import('./data.js?v=1792769421');
     for (const anime of ANIME_DATABASE) {
       const key = (anime.id || "").toLowerCase().trim();
       fullAnimeCache.set(key, anime);
