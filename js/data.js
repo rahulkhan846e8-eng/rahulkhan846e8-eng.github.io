@@ -83495,9 +83495,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 1",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2lxS8IQSP6uV0H5H6TNsj1X4_1DfzcZKhTJWBcIf7kcFhI5D8xeHXJkjKNy0NghU_f9bqbRjv9NxlucxlJWhlaSTKMUIjPG9wrxdcZUS0D5onuEUUqCWK7eP3nk9kj6gNeJYSN0JiORjUMmAUEg8TARIEl2pdiAWJQzVgHR3mCnY29_DcPquVT5fjy6GIXeLycko6ZDucjj6V9fwB-kha0ZI8HK_c-vcQ3EQd7Iiprb2IPm1Us"
+              "hindi": "https://mega.nz/file/mcUnTbJD#u6_EOSArbVW90XGOEeOgnNOctnL3xdCKe82EshWExQI"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2lxS8IQSP6uV0H5H6TNsj1X4_1DfzcZKhTJWBcIf7kcFhI5D8xeHXJkjKNy0NghU_f9bqbRjv9NxlucxlJWhlaSTKMUIjPG9wrxdcZUS0D5onuEUUqCWK7eP3nk9kj6gNeJYSN0JiORjUMmAUEg8TARIEl2pdiAWJQzVgHR3mCnY29_DcPquVT5fjy6GIXeLycko6ZDucjj6V9fwB-kha0ZI8HK_c-vcQ3EQd7Iiprb2IPm1Us"
+            "downloadUrl": "https://mega.nz/file/mcUnTbJD#u6_EOSArbVW90XGOEeOgnNOctnL3xdCKe82EshWExQI"
           },
           {
             "id": 2,
@@ -83509,9 +83509,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 2",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2leEY4ggC1I7yedSL8DK7ZK9eTLZyfjBVIFwTT6J-SwRAj0xOioSy91VEpu6vIs7TqkhHQqRgBrkFauIy1iUwE5Yy-EVb_MnCixVbw3O0t25GMDxROdTJp9c6HQ-8ub8JUjU_w-LeCzz4H6xfCqlyCOEHlQnz0li-FEZABNJp-EXETy_BQ891seP5niE28XJJjt8wcr8Y0kIN4APeh1TuelGNVl6vetEmX-8KHNvkQMOilqfnk"
+              "hindi": "https://mega.nz/file/qY9xxDIS#7jF07ssZxVzSxLRfXD40-2QxYAb2MaPzEufDBSOKJOg"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2leEY4ggC1I7yedSL8DK7ZK9eTLZyfjBVIFwTT6J-SwRAj0xOioSy91VEpu6vIs7TqkhHQqRgBrkFauIy1iUwE5Yy-EVb_MnCixVbw3O0t25GMDxROdTJp9c6HQ-8ub8JUjU_w-LeCzz4H6xfCqlyCOEHlQnz0li-FEZABNJp-EXETy_BQ891seP5niE28XJJjt8wcr8Y0kIN4APeh1TuelGNVl6vetEmX-8KHNvkQMOilqfnk"
+            "downloadUrl": "https://mega.nz/file/qY9xxDIS#7jF07ssZxVzSxLRfXD40-2QxYAb2MaPzEufDBSOKJOg"
           },
           {
             "id": 3,
@@ -83523,9 +83523,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 3",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2n3u8wG1lyZ4-NzO3xl8Lyv_9j9PqN_WdrUzk7dX3WQX7-CTswjZtAMgTRUl5qz0FMyBEnCnuekHYRVS_CCtMO9ly99mgRUx0t7CObaLJhR_kx0HpcrRCRYjWr5nsbo5M66y6GKtpet88ZuemPzXD0mjsPIURDoUgGVjzI3r_XBB3UuWg5gV8SdWWnfTKbGyeZwethXctzNXATH-NLZ4ys1a_hGsOQjtWUC-j4W_tysP2PvYb4"
+              "hindi": "https://mega.nz/file/mUl0FZST#4W7j0wm5_sQCgiFU04S1PKxnEPX-8A9fBFF1DUnt9og"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2n3u8wG1lyZ4-NzO3xl8Lyv_9j9PqN_WdrUzk7dX3WQX7-CTswjZtAMgTRUl5qz0FMyBEnCnuekHYRVS_CCtMO9ly99mgRUx0t7CObaLJhR_kx0HpcrRCRYjWr5nsbo5M66y6GKtpet88ZuemPzXD0mjsPIURDoUgGVjzI3r_XBB3UuWg5gV8SdWWnfTKbGyeZwethXctzNXATH-NLZ4ys1a_hGsOQjtWUC-j4W_tysP2PvYb4"
+            "downloadUrl": "https://mega.nz/file/mUl0FZST#4W7j0wm5_sQCgiFU04S1PKxnEPX-8A9fBFF1DUnt9og"
           },
           {
             "id": 4,
@@ -83537,9 +83537,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 4",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2m6YMrXhDmhIa-28XONe6MmjaDIViQdU6ssEsAI7rjEVD68PQF1HUVhO8mQElUqe-boWhk9Ta8t58G9drhS7nYQkxFhnfDWzmlow4GcHugRyCn4GlEIpGCI6yB7eFDmBPDASvDNw9nycLqMjLXlpx3V8EcYs0bAz4ir_e9eYjxaiwVhYDbgza4xGkgyQ9T8JAksAHFJDHlaFBTpULT1eSvjTxG4KmPzOgJriVhPy1HUYWxf-bw"
+              "hindi": "https://mega.nz/file/mdljCKrB#U1Z3XHquamKtGlD_Gvzv_5mq8LhRAPRjL2YqAziYBxs"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2m6YMrXhDmhIa-28XONe6MmjaDIViQdU6ssEsAI7rjEVD68PQF1HUVhO8mQElUqe-boWhk9Ta8t58G9drhS7nYQkxFhnfDWzmlow4GcHugRyCn4GlEIpGCI6yB7eFDmBPDASvDNw9nycLqMjLXlpx3V8EcYs0bAz4ir_e9eYjxaiwVhYDbgza4xGkgyQ9T8JAksAHFJDHlaFBTpULT1eSvjTxG4KmPzOgJriVhPy1HUYWxf-bw"
+            "downloadUrl": "https://mega.nz/file/mdljCKrB#U1Z3XHquamKtGlD_Gvzv_5mq8LhRAPRjL2YqAziYBxs"
           },
           {
             "id": 5,
@@ -83551,9 +83551,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 5",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2l8TwRmdXIyj5hBBTMFWx6qTbM4fiqvGKrPLrBrwvfgASDY74qVDHmp797kdCbOsgUSZuYeYh85fXa6qzHiF5uOeszFr5ismeE1Hl54UPNXYJeUxSTw0qYEywAk808RMkIAh3nwZx2vQwGvY0kBvvDN0NUM6-VxxRE5aOLtHdusFV8n6olbblv99L2vTkexo3ZqEjRYFI7KRPto6rrk0r4BAineAWdqOdVaAVGEjj4G05fa8L4"
+              "hindi": "https://mega.nz/file/nEBBDC6D#m1C_GcELxzkQ2249xYvWOoR5JIXuyzy3ZyXXC_o8CZo"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2l8TwRmdXIyj5hBBTMFWx6qTbM4fiqvGKrPLrBrwvfgASDY74qVDHmp797kdCbOsgUSZuYeYh85fXa6qzHiF5uOeszFr5ismeE1Hl54UPNXYJeUxSTw0qYEywAk808RMkIAh3nwZx2vQwGvY0kBvvDN0NUM6-VxxRE5aOLtHdusFV8n6olbblv99L2vTkexo3ZqEjRYFI7KRPto6rrk0r4BAineAWdqOdVaAVGEjj4G05fa8L4"
+            "downloadUrl": "https://mega.nz/file/nEBBDC6D#m1C_GcELxzkQ2249xYvWOoR5JIXuyzy3ZyXXC_o8CZo"
           },
           {
             "id": 6,
@@ -83565,9 +83565,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 6",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2n6eTt79MXGZAm1nsQWubPn8eo80PkhVMc43OqTOiPSPoTZIaeFa_-k-rv4PNTEhYXjRCMFrPMd59-PDyzsd2elkdg6AY_zrP28qxCv5Op_doQE-oetCimZ6T2J41hRb2QNCAKmIEGyUHrGT91yJtnWGom4-OR00BMBg-OlAWfFwcGodvUD5QHl-362l1PiHaBYk3f7raVaA9OxSCyh9VzYo_5uEk1V1q2tALHRJIotcXSBOzU"
+              "hindi": "https://mega.nz/file/OQQQgK4J#eYxXePlFpk3JO_VWT7qooUYrRqLBKcVfTwLTs5o24ho"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2n6eTt79MXGZAm1nsQWubPn8eo80PkhVMc43OqTOiPSPoTZIaeFa_-k-rv4PNTEhYXjRCMFrPMd59-PDyzsd2elkdg6AY_zrP28qxCv5Op_doQE-oetCimZ6T2J41hRb2QNCAKmIEGyUHrGT91yJtnWGom4-OR00BMBg-OlAWfFwcGodvUD5QHl-362l1PiHaBYk3f7raVaA9OxSCyh9VzYo_5uEk1V1q2tALHRJIotcXSBOzU"
+            "downloadUrl": "https://mega.nz/file/OQQQgK4J#eYxXePlFpk3JO_VWT7qooUYrRqLBKcVfTwLTs5o24ho"
           },
           {
             "id": 7,
@@ -83579,9 +83579,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 7",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2kklQv7OHsIdX2Sme4xlbfAonpqMxqN2b0-N70eKaEACM2LHze_gFvR-KZDdD0h3KJs36N4A7MxviGgKsF7nbSOcO0_we0tenvcZH3YJtb_-jATg9-AypmRkhlOeUadVWoZZksEJwwv1ApvThxmO_AfR0p6iuq7p-0XO6q5w-bVLdEkX9Id9HqLFVQ4mnrZv7z15grHQxlHBSmveJA5NqxqV-t3cYV-AZ2z-tsb0IB0l5dJ5mQ"
+              "hindi": "https://mega.nz/file/OJRWCbzL#FsndI-lDMZJskTf-OfsT4hKE4Z7M9n3CBhoRuU27tB0"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2kklQv7OHsIdX2Sme4xlbfAonpqMxqN2b0-N70eKaEACM2LHze_gFvR-KZDdD0h3KJs36N4A7MxviGgKsF7nbSOcO0_we0tenvcZH3YJtb_-jATg9-AypmRkhlOeUadVWoZZksEJwwv1ApvThxmO_AfR0p6iuq7p-0XO6q5w-bVLdEkX9Id9HqLFVQ4mnrZv7z15grHQxlHBSmveJA5NqxqV-t3cYV-AZ2z-tsb0IB0l5dJ5mQ"
+            "downloadUrl": "https://mega.nz/file/OJRWCbzL#FsndI-lDMZJskTf-OfsT4hKE4Z7M9n3CBhoRuU27tB0"
           },
           {
             "id": 8,
@@ -83593,9 +83593,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 8",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2nT6LIkhEZf4hFm9_Be9g32UDWojN-w3ktg1l3Yy01zoEgX4-2uZroS1o4IkQfzOVGPDd5zPmDgLnO_sC5TdDuEVhBTLuYYaOlUW7aM0RTQIA842QsFeyyARktO4m1hTfog1X5C00moa7gN7egHSp3V4WALSKsPx1tWbocKDZ_Z5157Nq0AE2fKaHPqmXS7MM3_8B7wN263gQIwzTDbA5lPteTa7pmzcbNxxVFvRL1svlGOa-I"
+              "hindi": "https://mega.nz/file/fUw0DICR#Bk_odLVMJ_S0YXVAYbgykKBpU7hrVSxsKu4BvOVAof4"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2nT6LIkhEZf4hFm9_Be9g32UDWojN-w3ktg1l3Yy01zoEgX4-2uZroS1o4IkQfzOVGPDd5zPmDgLnO_sC5TdDuEVhBTLuYYaOlUW7aM0RTQIA842QsFeyyARktO4m1hTfog1X5C00moa7gN7egHSp3V4WALSKsPx1tWbocKDZ_Z5157Nq0AE2fKaHPqmXS7MM3_8B7wN263gQIwzTDbA5lPteTa7pmzcbNxxVFvRL1svlGOa-I"
+            "downloadUrl": "https://mega.nz/file/fUw0DICR#Bk_odLVMJ_S0YXVAYbgykKBpU7hrVSxsKu4BvOVAof4"
           },
           {
             "id": 9,
@@ -83607,9 +83607,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 9",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2nj3ZyLJFG-FWlqMTT8lVPYNuaatH7QH2nhZY39doPU0Eak2TSPRyplQOt6aqpUuIQgGH0nccr8NU90nPQhpOxKAfk9JAU-nUL4k4qYsFCnuV9Nm4jRTmQoYAOounYvfsqT-95v1-cbcCJGA9fMy5SlPtfLAwjZ-h3ZK_gkZhZ-gDP50CeWz4uMXEXivUDADD3JGIulZjwUDE4C7qMaRHVzFeXcMlYr8LX66IGhNHD4vcZxZGw"
+              "hindi": "https://mega.nz/file/zFAFiZpR#MKzeKZwYTAIInFuWX5wKggnTV-oELsKHXG-s9yoV_nc"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2nj3ZyLJFG-FWlqMTT8lVPYNuaatH7QH2nhZY39doPU0Eak2TSPRyplQOt6aqpUuIQgGH0nccr8NU90nPQhpOxKAfk9JAU-nUL4k4qYsFCnuV9Nm4jRTmQoYAOounYvfsqT-95v1-cbcCJGA9fMy5SlPtfLAwjZ-h3ZK_gkZhZ-gDP50CeWz4uMXEXivUDADD3JGIulZjwUDE4C7qMaRHVzFeXcMlYr8LX66IGhNHD4vcZxZGw"
+            "downloadUrl": "https://mega.nz/file/zFAFiZpR#MKzeKZwYTAIInFuWX5wKggnTV-oELsKHXG-s9yoV_nc"
           },
           {
             "id": 10,
@@ -83621,9 +83621,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 10",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2mvcqB0Jr1-YJT791YeJLtZHEeUcTJYH9EvU7TaZcH7AX9uuc5TLVkA5qMhSpJfV5_ekMnviyw-3VSq5ENlyF6naLm4QjNu2Fwls03f5BlZTRspiK0Oa2vEbIlwSTGl7LffkzxPz1i0qDpeV_kOwGRD7527fhJPIBaXiCW3WzzItdySaGoDD8nECEgJi_j52ba1oWRCINMSNWECfoIFhO9QinwzMk7al8TieIsvLpsMVI-xPls"
+              "hindi": "https://mega.nz/file/fMYQWBST#WiVsc3YGbnEIrLZUOdBnN5-DEM5HagMdEODb2zKWIYs"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2mvcqB0Jr1-YJT791YeJLtZHEeUcTJYH9EvU7TaZcH7AX9uuc5TLVkA5qMhSpJfV5_ekMnviyw-3VSq5ENlyF6naLm4QjNu2Fwls03f5BlZTRspiK0Oa2vEbIlwSTGl7LffkzxPz1i0qDpeV_kOwGRD7527fhJPIBaXiCW3WzzItdySaGoDD8nECEgJi_j52ba1oWRCINMSNWECfoIFhO9QinwzMk7al8TieIsvLpsMVI-xPls"
+            "downloadUrl": "https://mega.nz/file/fMYQWBST#WiVsc3YGbnEIrLZUOdBnN5-DEM5HagMdEODb2zKWIYs"
           },
           {
             "id": 11,
@@ -83635,9 +83635,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 11",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2mvtO2BNOsn7Ara1Ndxqpgu5lo1VXqK93b6nZn2tIoD-cc9Hcr3ru-GtNf9GJobV_z81oJ3-tkPgLuPS9ywYTySab95HOLEObC60wS-824MABlyTLzKwTh63sn3bZDaTYGksG48ds0lgLMsvsYIjN17yN51NwarM7pjzwdih7ccBA4lvdQuDljfIZr8ayH6da0C9VTMMQlr991K7VDXgIT5SYLUBbwF6ddtcjyQ0G-YbmzxJ9zwO1f__1SItjH3fn6HA4b-yjf_w9szRLCgua2hnGzd-9T_ILD7tuQzTWO4xn8C5dYYyROPYjsFxg9F-zBvLsscY5htKbn9nPg4FOJxANXukk7M6S1vnQQHnbmQXeYOP9hzHojHVJv3Y5St-OgxnmSUrn7nT-ZZ0osQ69M3IYFEWMM2n3AzKDee1qWQVNcoYaQaO4iGsBk9j2VPrFrMvlIDkkKq-24QeTPEbO57IB3xOYcKLw87rMAcUyTQ66DD3WjYhpDzrSnc2KyJGhRsq9xsc7Xngi60DaTtFKQRk_e4mDx_JDTJa47ZDCsGmLmfD6OninSxmZGxYwCwUblr6Kd_Uqz4ZWwgaV650Y6iWDwI-2muAWhQj7FW5etebY5hLbcd_6a5iL54U7n6Ooyh-rBxBmVLF4laQa0J3yi-WEyjMNZWZ6895hP9osKTqE77yWd7I2c5-Pf4dLiqYVUHzGpxx0-JWmJLe3o4Ue8XBDKnFL8_Cq30Em6hmKzmO4dmkHXaO1GJASfW6yZNrl6KTBzgXpa0xw-LaEG244qpkOCfRMHnE3OFlvy3TlGL2ZWZ5qbza6VlY4bA3Sp8TLNNdQVsSSQH9duXNSJ4l3tQ7rSKXfDCoccUnGvoJEmQS95a6_LPyJ2J0617fRaQmMkuuAtLSCM1vqWgQinzMiU1yWfpGnnfsCjvpxg69fTTc9K_GXFkVRsumfAmxOzoXm22Ad0uxPH6qJXLGtji4zcZuVESIenanL-wHrdvq2uE1g9C1SxieLugrLqg3xZbhZU0dY5REg3gOothEg_yJImrOJpCGSMbiE39BhaHOALeRCLBZipMbX5483Sk0hQYgqR4EBAaAVhxNwnrfNNsKm7tYxOWDrLgg_to-0EPOsW4dkYBgRkusoOrsAIcIa6Xonc2irKZa74Akq-f"
+              "hindi": "https://mega.nz/file/SNQ3CQBT#cgAosKjNNnY5A_PV86HUH1dOqZsNr51v_XN68irAhQg"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2mvtO2BNOsn7Ara1Ndxqpgu5lo1VXqK93b6nZn2tIoD-cc9Hcr3ru-GtNf9GJobV_z81oJ3-tkPgLuPS9ywYTySab95HOLEObC60wS-824MABlyTLzKwTh63sn3bZDaTYGksG48ds0lgLMsvsYIjN17yN51NwarM7pjzwdih7ccBA4lvdQuDljfIZr8ayH6da0C9VTMMQlr991K7VDXgIT5SYLUBbwF6ddtcjyQ0G-YbmzxJ9zwO1f__1SItjH3fn6HA4b-yjf_w9szRLCgua2hnGzd-9T_ILD7tuQzTWO4xn8C5dYYyROPYjsFxg9F-zBvLsscY5htKbn9nPg4FOJxANXukk7M6S1vnQQHnbmQXeYOP9hzHojHVJv3Y5St-OgxnmSUrn7nT-ZZ0osQ69M3IYFEWMM2n3AzKDee1qWQVNcoYaQaO4iGsBk9j2VPrFrMvlIDkkKq-24QeTPEbO57IB3xOYcKLw87rMAcUyTQ66DD3WjYhpDzrSnc2KyJGhRsq9xsc7Xngi60DaTtFKQRk_e4mDx_JDTJa47ZDCsGmLmfD6OninSxmZGxYwCwUblr6Kd_Uqz4ZWwgaV650Y6iWDwI-2muAWhQj7FW5etebY5hLbcd_6a5iL54U7n6Ooyh-rBxBmVLF4laQa0J3yi-WEyjMNZWZ6895hP9osKTqE77yWd7I2c5-Pf4dLiqYVUHzGpxx0-JWmJLe3o4Ue8XBDKnFL8_Cq30Em6hmKzmO4dmkHXaO1GJASfW6yZNrl6KTBzgXpa0xw-LaEG244qpkOCfRMHnE3OFlvy3TlGL2ZWZ5qbza6VlY4bA3Sp8TLNNdQVsSSQH9duXNSJ4l3tQ7rSKXfDCoccUnGvoJEmQS95a6_LPyJ2J0617fRaQmMkuuAtLSCM1vqWgQinzMiU1yWfpGnnfsCjvpxg69fTTc9K_GXFkVRsumfAmxOzoXm22Ad0uxPH6qJXLGtji4zcZuVESIenanL-wHrdvq2uE1g9C1SxieLugrLqg3xZbhZU0dY5REg3gOothEg_yJImrOJpCGSMbiE39BhaHOALeRCLBZipMbX5483Sk0hQYgqR4EBAaAVhxNwnrfNNsKm7tYxOWDrLgg_to-0EPOsW4dkYBgRkusoOrsAIcIa6Xonc2irKZa74Akq-f"
+            "downloadUrl": "https://mega.nz/file/SNQ3CQBT#cgAosKjNNnY5A_PV86HUH1dOqZsNr51v_XN68irAhQg"
           },
           {
             "id": 12,
@@ -83649,9 +83649,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 12",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2nbikTprPbaSThvmUQagrgx0_2Pm5tBdBWH-xAwN187jraJ4uyUFWN-2d6fMM9lSUBag14tDfoYop5zssbl5AfzTCXitdk8pWkwmwQY2v73zIsCjjvJyzbJbQgEtl5DDCLyeDb6cv3Wu_KUUR2r7-OBnE1qRWdKjUm3kUJiWZ8kknFpg6Cr4ZCIt3JLsc_6AwrvTpMJ5uJqwlyAVJyc7_cQNjxqnbIrXZPfQ_zs26k9gdoOcP4"
+              "hindi": "https://mega.nz/file/nVhSEZxT#dBsFErqr0YkghUPaXOBy0BaC_vN3Z8PG0QuqCgWC2IM"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2nbikTprPbaSThvmUQagrgx0_2Pm5tBdBWH-xAwN187jraJ4uyUFWN-2d6fMM9lSUBag14tDfoYop5zssbl5AfzTCXitdk8pWkwmwQY2v73zIsCjjvJyzbJbQgEtl5DDCLyeDb6cv3Wu_KUUR2r7-OBnE1qRWdKjUm3kUJiWZ8kknFpg6Cr4ZCIt3JLsc_6AwrvTpMJ5uJqwlyAVJyc7_cQNjxqnbIrXZPfQ_zs26k9gdoOcP4"
+            "downloadUrl": "https://mega.nz/file/nVhSEZxT#dBsFErqr0YkghUPaXOBy0BaC_vN3Z8PG0QuqCgWC2IM"
           },
           {
             "id": 13,
@@ -83663,9 +83663,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 13",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2nxhtddeCLULJXOKkrF3gUNu4_fJfVPkFZX6JjFJ7f73AX2SoIl81kySDNCHTSFXwKeV-xf3okd5iQrafLh0t1UOD0KdIO1xJc-No2vfJoMhr3r58lDCihzZzl-Jd9wYq88gZnXiio1ltC3c3i31bSzwCATkcsbwVMRxwnhaLifU2KopDLgGEvz5VB-Uek0vOxfrnkXc4W-kjnnW_HA4Ik_BGb_SZ2BRgqYc8q8br0ZBN24rCI"
+              "hindi": "https://mega.nz/file/eIgyXB5T#R90yLU1_7EkASTvxjgMDF8h_uq-RO4D9-o6FFziCpAk"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2nxhtddeCLULJXOKkrF3gUNu4_fJfVPkFZX6JjFJ7f73AX2SoIl81kySDNCHTSFXwKeV-xf3okd5iQrafLh0t1UOD0KdIO1xJc-No2vfJoMhr3r58lDCihzZzl-Jd9wYq88gZnXiio1ltC3c3i31bSzwCATkcsbwVMRxwnhaLifU2KopDLgGEvz5VB-Uek0vOxfrnkXc4W-kjnnW_HA4Ik_BGb_SZ2BRgqYc8q8br0ZBN24rCI"
+            "downloadUrl": "https://mega.nz/file/eIgyXB5T#R90yLU1_7EkASTvxjgMDF8h_uq-RO4D9-o6FFziCpAk"
           },
           {
             "id": 14,
@@ -83677,9 +83677,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 14",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2nuWGcjGfCmVOXRxplsVmZQrWRuw610jjK7PLYcWKBEoFrYK2DtbhB5-7E5dRMGAFxx0BVG8afkuxl-yfBaxiicRihbt0g8rqhs7E0aw_SJiB0v2e5Dg03M61sm2Ny1Eb8tKb9WLELhnN3-AOVvoKlIv9LtE18wDHsKUyn8bovRemM66N2yXHoBTmHr55NGK5owQU7noqXZ2XvIbcvoYTcIGnIISAEt_r9eq38rrtG5sTYmeaQ"
+              "hindi": "https://mega.nz/file/GUg2wCga#VC9mYDgpA_FTxvak_fNxrNci5j9xE0EXxokZ9hnZsk4"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2nuWGcjGfCmVOXRxplsVmZQrWRuw610jjK7PLYcWKBEoFrYK2DtbhB5-7E5dRMGAFxx0BVG8afkuxl-yfBaxiicRihbt0g8rqhs7E0aw_SJiB0v2e5Dg03M61sm2Ny1Eb8tKb9WLELhnN3-AOVvoKlIv9LtE18wDHsKUyn8bovRemM66N2yXHoBTmHr55NGK5owQU7noqXZ2XvIbcvoYTcIGnIISAEt_r9eq38rrtG5sTYmeaQ"
+            "downloadUrl": "https://mega.nz/file/GUg2wCga#VC9mYDgpA_FTxvak_fNxrNci5j9xE0EXxokZ9hnZsk4"
           },
           {
             "id": 15,
@@ -83691,9 +83691,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 15",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2kfVpIJkfppBzeHMxKHCEL1PBaR02Ixx-a-9z7qqYN96MTEjfVgkNWPBT8QLdkozN7reG4JmpJHWjW-8ZBNlrsCIRFMIko3hQSTcELClbhmb1VVqPUsyaIS7kQ43Wz0xfWGfmId-Mt9G0MhP8mU7_OndBEeqB4crBBlOwXN6-cliHa0kok09a05KIkcIxw-PBmLwNIBX1opJEiU6m3pPot9sMEbPT5h9n6fQBxVf3KOPxit-jE"
+              "hindi": "https://mega.nz/file/mBohBKxI#tP4_EzLNOfAT1RuhE-w5JgSb6k2ytwBlkb7CenVQsHs"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2kfVpIJkfppBzeHMxKHCEL1PBaR02Ixx-a-9z7qqYN96MTEjfVgkNWPBT8QLdkozN7reG4JmpJHWjW-8ZBNlrsCIRFMIko3hQSTcELClbhmb1VVqPUsyaIS7kQ43Wz0xfWGfmId-Mt9G0MhP8mU7_OndBEeqB4crBBlOwXN6-cliHa0kok09a05KIkcIxw-PBmLwNIBX1opJEiU6m3pPot9sMEbPT5h9n6fQBxVf3KOPxit-jE"
+            "downloadUrl": "https://mega.nz/file/mBohBKxI#tP4_EzLNOfAT1RuhE-w5JgSb6k2ytwBlkb7CenVQsHs"
           },
           {
             "id": 16,
@@ -83705,9 +83705,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 16",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2lcMIyg-1OrQNlJcxvL0n31fmF1BTgD5HZb-AwdqRRHASqjbaJpVkeB4XhqlUSyA0aR2K94QKZU1HS4N7scdvKPSwOTJfWlsKFnuVZm2tjLrnqaeXd6Z3lvYLc60RxRl53R4ypSYQiYhP46XprVdHaO4U2dnt1r-HjHzCS9OZF8Zm21b9my67vEXhlw3c_3un1qrC87sVVh4nN0F9ijlX9lw3LBi7QofABJMDUgR8pEJE4jFCM"
+              "hindi": "https://mega.nz/file/7QxnhRTL#feW6BCIzQYWuqFWYycby9iiJ0ufyCPHUWQOXtH0IyhM"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2lcMIyg-1OrQNlJcxvL0n31fmF1BTgD5HZb-AwdqRRHASqjbaJpVkeB4XhqlUSyA0aR2K94QKZU1HS4N7scdvKPSwOTJfWlsKFnuVZm2tjLrnqaeXd6Z3lvYLc60RxRl53R4ypSYQiYhP46XprVdHaO4U2dnt1r-HjHzCS9OZF8Zm21b9my67vEXhlw3c_3un1qrC87sVVh4nN0F9ijlX9lw3LBi7QofABJMDUgR8pEJE4jFCM"
+            "downloadUrl": "https://mega.nz/file/7QxnhRTL#feW6BCIzQYWuqFWYycby9iiJ0ufyCPHUWQOXtH0IyhM"
           },
           {
             "id": 17,
@@ -83719,9 +83719,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 17",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2nrYM1HTeAOJRJxYcz8ucBIpVm5qKCYq3Iy97t60yVCbXeYDhxfnkyRo-uiYZs3JfZQ_Kj0CBopOH76ut6tsquNx5Nl4Iy-WCIU12NqVv-UBNqoe8Fdc01EmNsvnMQt54_iEABqx5IkmYjuMvDo2ghs_3t1hKhlwqX19JHLMsUPZoLwl5_qNLZVgmaA_-VCbWGHbqI1KxRYk2k5N31mffhHrzulnwO38MT-EqjIsP0GW_43WM6_2pLQoWvqVjHfqeiPp5XCdiu1hsI0jQFqUs2QyQAFu3RAvZqRMiCWUY9amXs2sYMPzyqjEprKolisiTHgSGDIG-GSJ7LsJSVcd5R8T0H0G9rqBl1GxeCuZ0_1hfwlAGFMgN2afHhYiTC8z6LK6HEJT1dIsOQQUnZo9M3RIT7u2KCec31PnFok0aSiD0vwK6wtIUj3u81Iu3RwAt-e_ZoLX6zmaIpBkQVASF5Blh3AdBWh3A3pQKLRHubnds6Bns80qEC_zcxznBitF68_7tE3PG7ZU9P9Ql9oMv8jB1yAOQ8ojAv1nzea_Ts7odIFgphjz9JgpwYFnIihP3jq1xPTKuwVPGeTDyfgpsMuUNyOa4R_uKlUCvtAFa7e6LjGWvN6Y_h8O9ShB2FQZL5oACzk0p6eBMTsbO4sEPbqnKFxrBEktKTz9MAG9Rx32ckblCOYKJ-gQD9ACmg573NT8EUeGtztugdR3fE_bHMi-vgFaGQXq3SjrFLO8WiyYzu5fzdsA-5Or8FFf-KOP7PLEwPgv5XxYT4x0W1fLxAmq-OmvO5UGWg1d36x32Bw1iLxLE8XM7dikpEGsfSuuETc43wusS8QGIZxYFECvDSfy5ymybX2ilJZiwRw89G2WBuFHudG50_1ZsSnJpoEzt3zQyogDGZCww4KX9w5BUhzvGBdhMwmN1opem6gHgCgNKq0wlxoiBSAsVfuHdZz-xu7NmyAMXb0qqp0XgPXM1RurgQhdT6bLsvmNQHU9Bp9KhPutgUEcimPBoNO9lPmphXEiD9svkrndBPu5BNImH4EliBUnCEv2a4s-eGxbrJ7y12u_jxUtsUzTQP-C39xwdcT94icufOMKem5C6k4IlVLlmUkThzl_ZOQY98UVPR6SWtg0s49xWQiOQt1XXqmJqfywTgrlKzYhz9B"
+              "hindi": "https://mega.nz/file/yBBiELJS#_akdPtTX_gtUK7Fpp2Jy3nA2KuOeRF9qHI8F63yz4Xg"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2nrYM1HTeAOJRJxYcz8ucBIpVm5qKCYq3Iy97t60yVCbXeYDhxfnkyRo-uiYZs3JfZQ_Kj0CBopOH76ut6tsquNx5Nl4Iy-WCIU12NqVv-UBNqoe8Fdc01EmNsvnMQt54_iEABqx5IkmYjuMvDo2ghs_3t1hKhlwqX19JHLMsUPZoLwl5_qNLZVgmaA_-VCbWGHbqI1KxRYk2k5N31mffhHrzulnwO38MT-EqjIsP0GW_43WM6_2pLQoWvqVjHfqeiPp5XCdiu1hsI0jQFqUs2QyQAFu3RAvZqRMiCWUY9amXs2sYMPzyqjEprKolisiTHgSGDIG-GSJ7LsJSVcd5R8T0H0G9rqBl1GxeCuZ0_1hfwlAGFMgN2afHhYiTC8z6LK6HEJT1dIsOQQUnZo9M3RIT7u2KCec31PnFok0aSiD0vwK6wtIUj3u81Iu3RwAt-e_ZoLX6zmaIpBkQVASF5Blh3AdBWh3A3pQKLRHubnds6Bns80qEC_zcxznBitF68_7tE3PG7ZU9P9Ql9oMv8jB1yAOQ8ojAv1nzea_Ts7odIFgphjz9JgpwYFnIihP3jq1xPTKuwVPGeTDyfgpsMuUNyOa4R_uKlUCvtAFa7e6LjGWvN6Y_h8O9ShB2FQZL5oACzk0p6eBMTsbO4sEPbqnKFxrBEktKTz9MAG9Rx32ckblCOYKJ-gQD9ACmg573NT8EUeGtztugdR3fE_bHMi-vgFaGQXq3SjrFLO8WiyYzu5fzdsA-5Or8FFf-KOP7PLEwPgv5XxYT4x0W1fLxAmq-OmvO5UGWg1d36x32Bw1iLxLE8XM7dikpEGsfSuuETc43wusS8QGIZxYFECvDSfy5ymybX2ilJZiwRw89G2WBuFHudG50_1ZsSnJpoEzt3zQyogDGZCww4KX9w5BUhzvGBdhMwmN1opem6gHgCgNKq0wlxoiBSAsVfuHdZz-xu7NmyAMXb0qqp0XgPXM1RurgQhdT6bLsvmNQHU9Bp9KhPutgUEcimPBoNO9lPmphXEiD9svkrndBPu5BNImH4EliBUnCEv2a4s-eGxbrJ7y12u_jxUtsUzTQP-C39xwdcT94icufOMKem5C6k4IlVLlmUkThzl_ZOQY98UVPR6SWtg0s49xWQiOQt1XXqmJqfywTgrlKzYhz9B"
+            "downloadUrl": "https://mega.nz/file/yBBiELJS#_akdPtTX_gtUK7Fpp2Jy3nA2KuOeRF9qHI8F63yz4Xg"
           },
           {
             "id": 18,
@@ -83733,9 +83733,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 18",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2kMSwZWnBhQPzipNQqwYinKyvEPxZpI39UuJT2B8xeuV_opUbc_a8HsS73OCjaLsO5AwwC57jQlnhYW_GBTw9iYGul6DqbTXCzt6yna6EWCd1E58ns_tkWkuDWcWj-0qeSFJPonlN4xWf7yIwKZ-3aJYVzvchf4j3iWWpponCvWuZnYDw6M6nAVOTaOT6VDdBFcZ60eMlA_JCBDcCzsQsvyb82V53qB2HmENIAGpKj6JktNXTY"
+              "hindi": "https://mega.nz/file/SMwU1aqK#WRRqlJ9N2Rb4-f9DS1K-mG1iQ4s51duFPbi_wfPD1jo"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2kMSwZWnBhQPzipNQqwYinKyvEPxZpI39UuJT2B8xeuV_opUbc_a8HsS73OCjaLsO5AwwC57jQlnhYW_GBTw9iYGul6DqbTXCzt6yna6EWCd1E58ns_tkWkuDWcWj-0qeSFJPonlN4xWf7yIwKZ-3aJYVzvchf4j3iWWpponCvWuZnYDw6M6nAVOTaOT6VDdBFcZ60eMlA_JCBDcCzsQsvyb82V53qB2HmENIAGpKj6JktNXTY"
+            "downloadUrl": "https://mega.nz/file/SMwU1aqK#WRRqlJ9N2Rb4-f9DS1K-mG1iQ4s51duFPbi_wfPD1jo"
           },
           {
             "id": 19,
@@ -83747,9 +83747,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 19",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2nWnjyRsKQs2F-42O-1sK7fW6-S342YNNSbTGvEyst7K6h4zikuEcTEiMtt8Rz_3Cnh-JPHb4Hmy71jcZpXiVGmrXd_hfuGcsBu3HKnaZ4piswrOcKIL5idoIwGAGLbGBLWubQI2vE-dl8rxaQ3TmG2FjtblloTqCQyYvdZKyO4WWBRZVRfjPmCUY6QMzZKjZvmw4A66jqWDEr_Lwxnd9KBvAq_Yyv_CJw8KvYf5yKpgjvSRGE"
+              "hindi": "https://mega.nz/file/TVIQxAZD#G_xG4J-_6qHEaog_kWlkT2Bei8ToqsSfCFhZ8vbQsPs"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2nWnjyRsKQs2F-42O-1sK7fW6-S342YNNSbTGvEyst7K6h4zikuEcTEiMtt8Rz_3Cnh-JPHb4Hmy71jcZpXiVGmrXd_hfuGcsBu3HKnaZ4piswrOcKIL5idoIwGAGLbGBLWubQI2vE-dl8rxaQ3TmG2FjtblloTqCQyYvdZKyO4WWBRZVRfjPmCUY6QMzZKjZvmw4A66jqWDEr_Lwxnd9KBvAq_Yyv_CJw8KvYf5yKpgjvSRGE"
+            "downloadUrl": "https://mega.nz/file/TVIQxAZD#G_xG4J-_6qHEaog_kWlkT2Bei8ToqsSfCFhZ8vbQsPs"
           },
           {
             "id": 20,
@@ -83761,9 +83761,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 20",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2ke8P3f4H8f1rUCI9nrJ6UueczvBrq-CChaMHYJFN3L--szyS1oK9alhWuo2IT-swqGRKHX1uTxj7LlPfKwu4ypA7IdWo_ClPWCKX3sfMz15BcrXeQsaHxVa79ueWqHByxF9BSWpB1CNGdnqDGhGK6QGy884HRN99AvYUs0MPTptLqxVtV-sUTAg10g5GhYtZlZiiu14p6qq83kvpakr4JlPZwtepAHKl0ZIJPaFDbCD3k7AT0"
+              "hindi": "https://mega.nz/file/DNYlFAiL#u3OnZEZQi4qpzQjJJlgRxpeFDM0cA0dLjXCT_kLd3jA"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2ke8P3f4H8f1rUCI9nrJ6UueczvBrq-CChaMHYJFN3L--szyS1oK9alhWuo2IT-swqGRKHX1uTxj7LlPfKwu4ypA7IdWo_ClPWCKX3sfMz15BcrXeQsaHxVa79ueWqHByxF9BSWpB1CNGdnqDGhGK6QGy884HRN99AvYUs0MPTptLqxVtV-sUTAg10g5GhYtZlZiiu14p6qq83kvpakr4JlPZwtepAHKl0ZIJPaFDbCD3k7AT0"
+            "downloadUrl": "https://mega.nz/file/DNYlFAiL#u3OnZEZQi4qpzQjJJlgRxpeFDM0cA0dLjXCT_kLd3jA"
           },
           {
             "id": 21,
@@ -83775,9 +83775,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 21",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2npaMdFobBxeUpCf_yHAip069Zd8K3AHp59eqP7piqnt4Z6JGWZJiS4DrNjC_H4q48si-Kjk72ghTzugSKFpRJ6L_j1fNw9LdVeAkoeAjiKCdor7BUaFjL9r0R1pgNBRnNjAEqnQtKTYDYdb0g7pO7ir6mqOEjkfMh1sWsU0gRPL0rAd7pRXtV6skTc1mF3VA34An_3M9hVR8nrr5Vz2AkSdojT3uq3LQ_3B0Pbepyce7XUQuY"
+              "hindi": "https://mega.nz/file/eY4CRSbD#MqMYOFph7CA6g5E2wavNiDf4hXZ3TJlQSDnVx3FV2IA"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2npaMdFobBxeUpCf_yHAip069Zd8K3AHp59eqP7piqnt4Z6JGWZJiS4DrNjC_H4q48si-Kjk72ghTzugSKFpRJ6L_j1fNw9LdVeAkoeAjiKCdor7BUaFjL9r0R1pgNBRnNjAEqnQtKTYDYdb0g7pO7ir6mqOEjkfMh1sWsU0gRPL0rAd7pRXtV6skTc1mF3VA34An_3M9hVR8nrr5Vz2AkSdojT3uq3LQ_3B0Pbepyce7XUQuY"
+            "downloadUrl": "https://mega.nz/file/eY4CRSbD#MqMYOFph7CA6g5E2wavNiDf4hXZ3TJlQSDnVx3FV2IA"
           },
           {
             "id": 22,
@@ -83789,9 +83789,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 22",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2mDYqpzzpemAym7zxI7Y2IYIYTYHa9g8jeJxLL5RQQhQS1wcFUhk3X7hqrQuJU6IAJXCAsmFX-LBAvFAY-0Ja8VgS3taZdvqU-8CIIXpJF5bd7Ma8u6t3RgDBGUzkh4ETTj4rQpreAsQY72-sUd5E7wdviAb98p62pGbskNUfFJYX8xn5mK3ABJJbvQSmcz-N61ogTpvCLJHlEcpsX5xeih4T3vwp307K6GjRo-hjUehY05aTk"
+              "hindi": "https://mega.nz/file/PY5TWTra#BWD-Ar3ThCZ26jZRPT9RrbSkd2N1rI_ds1vkjoRrYYk"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2mDYqpzzpemAym7zxI7Y2IYIYTYHa9g8jeJxLL5RQQhQS1wcFUhk3X7hqrQuJU6IAJXCAsmFX-LBAvFAY-0Ja8VgS3taZdvqU-8CIIXpJF5bd7Ma8u6t3RgDBGUzkh4ETTj4rQpreAsQY72-sUd5E7wdviAb98p62pGbskNUfFJYX8xn5mK3ABJJbvQSmcz-N61ogTpvCLJHlEcpsX5xeih4T3vwp307K6GjRo-hjUehY05aTk"
+            "downloadUrl": "https://mega.nz/file/PY5TWTra#BWD-Ar3ThCZ26jZRPT9RrbSkd2N1rI_ds1vkjoRrYYk"
           },
           {
             "id": 23,
@@ -83803,9 +83803,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 23",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2mW5iQ3sQjpT1hMXm47PzbPwaxdcYIwnyw9KBGs1i2JS9Jr9S9qngRtRvFRA3ol6l0G1uQ9rRw2iUY8qSsxKkeR1SpvtNgM-nhzcfpqMaicipWU7-3yh3r4RX-szQIRmTDF4KJwDKtUSm6EHPOLoOWIumN020Q1D16QUUUjtr8t_P47Eou228W6MEwTugvh5SGanVqbyCNHiv5oO9SxNiKhLgel5yfc3CwOxk13UJTO_bFikjc"
+              "hindi": "https://mega.nz/file/yUAEWAZZ#ZHLNdzLmfO1AO4rKq02UwLJFnGp-vp7ZmVt2eVu5PI4"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2mW5iQ3sQjpT1hMXm47PzbPwaxdcYIwnyw9KBGs1i2JS9Jr9S9qngRtRvFRA3ol6l0G1uQ9rRw2iUY8qSsxKkeR1SpvtNgM-nhzcfpqMaicipWU7-3yh3r4RX-szQIRmTDF4KJwDKtUSm6EHPOLoOWIumN020Q1D16QUUUjtr8t_P47Eou228W6MEwTugvh5SGanVqbyCNHiv5oO9SxNiKhLgel5yfc3CwOxk13UJTO_bFikjc"
+            "downloadUrl": "https://mega.nz/file/yUAEWAZZ#ZHLNdzLmfO1AO4rKq02UwLJFnGp-vp7ZmVt2eVu5PI4"
           },
           {
             "id": 24,
@@ -83817,9 +83817,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 24",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2lnktBezFFrG-WhSMXP9w01B0fJDTpbByU02Qp6YAMT6gtRt4bPgQCB8R3S264v8C_Khb3Ps_xnTwv9PmNZJLRO2-NrO6DDuuYXP3rKb6yvDmzQcAiy5JELZ4VXR9_h5_RB_2LkJ0jHxazHyMBOB3fV0Spdbt1816ufRn1nEzbIjwesJJK3BnWNHfrgVYYx9-x1TXRBvM6INXsIJiBCZirbr8bPaoRPfz8K5jRKbceyFs8x34w"
+              "hindi": "https://mega.nz/file/7dw10IDD#xoSQbmLEAtobRpEEiKjeYMSDpzNZ5qnsdV9SGd9Y-_Q"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2lnktBezFFrG-WhSMXP9w01B0fJDTpbByU02Qp6YAMT6gtRt4bPgQCB8R3S264v8C_Khb3Ps_xnTwv9PmNZJLRO2-NrO6DDuuYXP3rKb6yvDmzQcAiy5JELZ4VXR9_h5_RB_2LkJ0jHxazHyMBOB3fV0Spdbt1816ufRn1nEzbIjwesJJK3BnWNHfrgVYYx9-x1TXRBvM6INXsIJiBCZirbr8bPaoRPfz8K5jRKbceyFs8x34w"
+            "downloadUrl": "https://mega.nz/file/7dw10IDD#xoSQbmLEAtobRpEEiKjeYMSDpzNZ5qnsdV9SGd9Y-_Q"
           },
           {
             "id": 25,
@@ -83831,9 +83831,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 25",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2nmry1CZfvvq77RcQr3WeKJ6PDHCiGsR63yOGgV2PhoQtygzUESKMQWOsyF_1o8hYURQZJGVjdP7zz66sxVcrrQvBjUNGEh9txmJs8p2Ad5PzJEK4M3btOr1BI6GWtAbPvbrazRtkUveKES7IoyG7FqWfCG3YlrEJOFTmKy8FgCxM4W1x4OODqPbgcOR5cpsiDGsy_ajHKI8FMba8uBvd3gHIrtyi5VRo2epayIleqtbJMfkUQ"
+              "hindi": "https://mega.nz/file/2EhwGSrb#EhDkc0ifvpNkUaj2dxxcsy09NxkreL4Tw5aqAUxbg4w"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2nmry1CZfvvq77RcQr3WeKJ6PDHCiGsR63yOGgV2PhoQtygzUESKMQWOsyF_1o8hYURQZJGVjdP7zz66sxVcrrQvBjUNGEh9txmJs8p2Ad5PzJEK4M3btOr1BI6GWtAbPvbrazRtkUveKES7IoyG7FqWfCG3YlrEJOFTmKy8FgCxM4W1x4OODqPbgcOR5cpsiDGsy_ajHKI8FMba8uBvd3gHIrtyi5VRo2epayIleqtbJMfkUQ"
+            "downloadUrl": "https://mega.nz/file/2EhwGSrb#EhDkc0ifvpNkUaj2dxxcsy09NxkreL4Tw5aqAUxbg4w"
           },
           {
             "id": 26,
@@ -83845,9 +83845,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 26",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2kE1ShDY2I4NYdfOjfJyC9LhO-SJr8hSuatmFMQkVEXIcN-Hyy1K7XNORVNZ8RRYd9E7cPpkqEV0HDsEOYnN91uT5NObGOfIVlz8cTCrZvuuhpgewwQ7KBN-9kpH9s3lSx_xtYYPcLmYRs65eRGbmwCLv57OfjXs0tNCOAx6v5gOmAfT4NCViSPae2AiYiY19Kjxq7ToRQnrF_2ObiXuvdDJve77jkWgDjmtNKqOEjT1GBigkc"
+              "hindi": "https://mega.nz/file/mJAyQQJA#lJxilSfRx7NuCaBro_qMmCWj4w2Fe6hzUEJt8tV2Ou4"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2kE1ShDY2I4NYdfOjfJyC9LhO-SJr8hSuatmFMQkVEXIcN-Hyy1K7XNORVNZ8RRYd9E7cPpkqEV0HDsEOYnN91uT5NObGOfIVlz8cTCrZvuuhpgewwQ7KBN-9kpH9s3lSx_xtYYPcLmYRs65eRGbmwCLv57OfjXs0tNCOAx6v5gOmAfT4NCViSPae2AiYiY19Kjxq7ToRQnrF_2ObiXuvdDJve77jkWgDjmtNKqOEjT1GBigkc"
+            "downloadUrl": "https://mega.nz/file/mJAyQQJA#lJxilSfRx7NuCaBro_qMmCWj4w2Fe6hzUEJt8tV2Ou4"
           },
           {
             "id": 27,
@@ -83859,9 +83859,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 27",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2kpr4erV1AaK7eJ2R3hrqnhrInGCHn6S_Rdva5f1dBNkkYkS_B4PcKdKqoIwlOa1tht43qgsr3v_VEiAnq3cJDs8clSuL9ghw-qvs9qWy2H8faRSKJYzkurcWjDsffoGKc-maTr8I12nDyePrGgrSBvdb9u1YtW3vAp5gWgz4JNKCXaWQuy37R4t4kRyLLtKgsy3zVmidmpu49-GtUOjUcpIJaA6-2A8OXC_AYCIDx29B4S_40"
+              "hindi": "https://mega.nz/file/iFRQjLiS#FMcn_PRavXGMErJ9-C_aGT-6rHVM_P6R6W1fOn7P7XM"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2kpr4erV1AaK7eJ2R3hrqnhrInGCHn6S_Rdva5f1dBNkkYkS_B4PcKdKqoIwlOa1tht43qgsr3v_VEiAnq3cJDs8clSuL9ghw-qvs9qWy2H8faRSKJYzkurcWjDsffoGKc-maTr8I12nDyePrGgrSBvdb9u1YtW3vAp5gWgz4JNKCXaWQuy37R4t4kRyLLtKgsy3zVmidmpu49-GtUOjUcpIJaA6-2A8OXC_AYCIDx29B4S_40"
+            "downloadUrl": "https://mega.nz/file/iFRQjLiS#FMcn_PRavXGMErJ9-C_aGT-6rHVM_P6R6W1fOn7P7XM"
           },
           {
             "id": 28,
@@ -83873,9 +83873,9 @@ export const ANIME_DATABASE = [
             "synopsis": "Episode 28",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
             "downloadLinks": {
-              "hindi": "https://video-downloads.googleusercontent.com/ADGPM2mtEKMHwNX2m5HcCMLfcr4YaKddhxFuEsYnHKnb3QK0YbA2rl38DmYBy4_63fASCRcXJuOvHT3JSHh8orCQMGBYoDxxoJZSpiDHHmCdJuvIGS596V3V-6ZLAGLB4BwG2fAWVhEkw7CRkhyhLMdbWYkXDF8W52tjMDzKZz22H9Yz4XLzz1DGLhoyuTkRUfjKqDmYKxaiE0TfCtMc_Rb2YaoKkzWlXoHBO7aab4nI4egSw2V7rvE"
+              "hindi": "https://mega.nz/file/mcoAQShT#8NHpqb_uus3DsDzlpXRM90733h1IZrg42XHqJ6E1YsU"
             },
-            "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2mtEKMHwNX2m5HcCMLfcr4YaKddhxFuEsYnHKnb3QK0YbA2rl38DmYBy4_63fASCRcXJuOvHT3JSHh8orCQMGBYoDxxoJZSpiDHHmCdJuvIGS596V3V-6ZLAGLB4BwG2fAWVhEkw7CRkhyhLMdbWYkXDF8W52tjMDzKZz22H9Yz4XLzz1DGLhoyuTkRUfjKqDmYKxaiE0TfCtMc_Rb2YaoKkzWlXoHBO7aab4nI4egSw2V7rvE"
+            "downloadUrl": "https://mega.nz/file/mcoAQShT#8NHpqb_uus3DsDzlpXRM90733h1IZrg42XHqJ6E1YsU"
           }
         ],
         "isComingSoon": false
