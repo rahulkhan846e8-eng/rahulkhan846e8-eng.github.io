@@ -1,5 +1,5 @@
-export const FALLBACK_POSTER = "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2248%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20text-anchor%3D%22middle%22%3ECover%20Image%3C/text%3E%3C/svg%3E";
-export const FALLBACK_THUMB = "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22320%22%20height%3D%22180%22%20viewBox%3D%220%200%20320%20180%22%3E%3Crect%20width%3D%22320%22%20height%3D%22180%22%20fill%3D%22%23091540%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2252%25%22%20fill%3D%22%233a86ff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%3ESHINOBI%20HUB%3C/text%3E%3C/svg%3E";
+export const FALLBACK_POSTER = "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22300%22%20height%3D%22450%22%20viewBox%3D%220%200%20300%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230a101d%22/%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23141e33%22/%3E%3C/linearGradient%3E%3ClinearGradient%20id%3D%22accent%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2300f2fe%22/%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%234facfe%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22300%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22150%22%20cy%3D%22190%22%20r%3D%2244%22%20fill%3D%22%2300f2fe%22%20fill-opacity%3D%220.08%22%20stroke%3D%22url%28%23accent%29%22%20stroke-width%3D%222%22/%3E%3Cpath%20d%3D%22M142%20172%20L166%20190%20L142%20208%20Z%22%20fill%3D%22url%28%23accent%29%22/%3E%3Ctext%20x%3D%22150%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22900%22%20letter-spacing%3D%222%22%20text-anchor%3D%22middle%22%3EANIMELOOTO%3C/text%3E%3Ctext%20x%3D%22150%22%20y%3D%22296%22%20fill%3D%22%2364748b%22%20font-family%3D%22sans-serif%22%20font-size%3D%2212%22%20font-weight%3D%22600%22%20letter-spacing%3D%221%22%20text-anchor%3D%22middle%22%3EOFFICIAL%20HD%20POSTER%3C/text%3E%3C/svg%3E";
+export const FALLBACK_THUMB = "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22320%22%20height%3D%22180%22%20viewBox%3D%220%200%20320%20180%22%3E%3Crect%20width%3D%22320%22%20height%3D%22180%22%20fill%3D%22%230e1726%22/%3E%3Ccircle%20cx%3D%22160%22%20cy%3D%2280%22%20r%3D%2226%22%20fill%3D%22%2300f2fe%22%20fill-opacity%3D%220.1%22%20stroke%3D%22%2300f2fe%22%20stroke-width%3D%222%22/%3E%3Cpath%20d%3D%22M155%2070%20L170%2080%20L155%2090%20Z%22%20fill%3D%22%2300f2fe%22/%3E%3Ctext%20x%3D%2250%25%22%20y%3D%22135%22%20fill%3D%22%2338bdf8%22%20font-family%3D%22sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22800%22%20letter-spacing%3D%221%22%20text-anchor%3D%22middle%22%3EANIMELOOTO%3C/text%3E%3C/svg%3E";
 
 if (typeof window !== "undefined") {
   window.FALLBACK_POSTER = FALLBACK_POSTER;
@@ -147,7 +147,7 @@ export class UIRenderer {
     return `
       <div class="anime-card" data-anime-id="${anime.id}">
         <div class="anime-card-poster">
-          <img src="${anime.poster}" alt="${anime.title}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null; this.src=window.FALLBACK_POSTER;" />
+          <img src="${anime.poster}" alt="${anime.title}" width="300" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" onload="this.classList.add('loaded')" onerror="this.onerror=null; this.src=window.FALLBACK_POSTER; this.classList.add('loaded');" />
           <div class="card-lang-badge">${langBadge}</div>
           <div class="anime-card-overlay-btn" title="View Episodes">
             <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
@@ -1229,7 +1229,7 @@ export class UIRenderer {
         }
       }, {
         root: null,
-        rootMargin: "300px",
+        rootMargin: "180px",
         threshold: 0.1
       });
 

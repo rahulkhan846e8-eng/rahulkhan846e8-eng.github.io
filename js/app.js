@@ -12,10 +12,10 @@ import {
   getAnimeSummary as getAnimeById, 
   getFullAnimeDetails,
   searchAnime 
-} from './catalog.js?v=20261022_v1';
+} from './catalog.js?v=20261024_v1';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
-import { UIRenderer } from './ui.js?v=20261022_v3';
+import { UIRenderer } from './ui.js?v=20261024_v1';
 
 class App {
   constructor() {
@@ -32,7 +32,6 @@ class App {
   init() {
     this.initHeader();
     this.initHeroSlider();
-    this.initShelves();
     this.initGlobalDelegation();
     this.initSearch();
     this.initModals();
@@ -215,6 +214,7 @@ class App {
       const canonicalTag = document.getElementById("canonical-meta");
       if (canonicalTag) canonicalTag.setAttribute("href", "https://animelooto.online/");
       document.getElementById("home-view")?.classList.add("active");
+      this.ensureShelvesInitialized();
       UIRenderer.renderContinueWatching();
     } else if (root === "browse" || root === "library" || root === "az-list" || root === "az") {
       document.getElementById("browse-view")?.classList.add("active");
@@ -338,6 +338,12 @@ class App {
 
     slides.forEach((slide, i) => slide.classList.toggle("active", i === index));
     dots.forEach((dot, i) => dot.classList.toggle("active", i === index));
+  }
+
+  ensureShelvesInitialized() {
+    if (this._shelvesInitialized) return;
+    this._shelvesInitialized = true;
+    this.initShelves();
   }
 
   // --------------------------------------------------------------------------

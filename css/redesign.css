@@ -179,8 +179,24 @@
   border-color: rgba(0, 212, 255, 0.55) !important;
 }
 
+@keyframes cardShimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
 .anime-card-poster {
-  background: var(--bg-surface) !important;
+  background: linear-gradient(90deg, #0d1527 25%, #18233c 50%, #0d1527 75%) !important;
+  background-size: 200% 100% !important;
+  animation: cardShimmer 1.8s infinite linear;
+}
+
+.anime-card-poster img {
+  opacity: 1;
+  transition: opacity 0.3s ease, transform 0.4s ease;
+}
+
+.anime-card-poster img.loaded {
+  animation: none;
 }
 
 /* Quick-play overlay — Electric Cyan */
