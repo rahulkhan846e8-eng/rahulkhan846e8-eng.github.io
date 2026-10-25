@@ -106,7 +106,7 @@ export const ANIME_DATABASE = [
     "banner": "https://dragonball-super.com/img/mv-thum03_en.jpg",
     "rating": 8.8,
     "year": 2026,
-    "currentEpBadge": "S1-EP1",
+    "currentEpBadge": "S1-EP2",
     "status": "Ongoing",
     "type": "TV Series",
     "season": "Fall 2026",
@@ -144,11 +144,27 @@ export const ANIME_DATABASE = [
             "downloadLinks": {
               "original": "https://pixeldrain.net/u/uUcAbUQP?download"
             }
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "season": 1,
+            "title": "The God of Destruction Heads to the Planet of the Kai NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V_jp-1I8PtD69dAVeWucMOIuJS8mDqZIn8lfn41OTy1RlRBR5mjGKSRq&s=10",
+            "synopsis": "Episode 2 of Dragon Ball Super: Beerus (Remake)",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/yzZU5m5X?download",
+            "downloadLinks": {
+              "original": "https://pixeldrain.net/u/yzZU5m5X?download"
+            }
           }
         ]
       }
     ],
-    "is_movie": false
+    "is_movie": false,
+    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Original Dub"
   },
   {
     "id": "kingdom",
@@ -37953,7 +37969,7 @@ export const ANIME_DATABASE = [
     "banner": "https://images.alphacoders.com/139/thumb-1920-1399535.jpg",
     "rating": 7.9,
     "year": 2017,
-    "currentEpBadge": "S2-EP1",
+    "currentEpBadge": "S2-EP2",
     "status": "Upcoming",
     "type": "TV Series",
     "season": "2017",
@@ -38692,6 +38708,62 @@ export const ANIME_DATABASE = [
             "downloadUrl": "https://pixeldrain.net/u/MQDcBmzV?download",
             "downloadLinks": {
               "hindi": "https://pixeldrain.net/u/MQDcBmzV?download"
+            }
+          },
+          {
+            "id": 171,
+            "number": 171,
+            "season": 1,
+            "title": "The Battle Begins",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+            "synopsis": "Episode 171 of Black Clover",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/SHpZwyYj?download",
+            "downloadLinks": {
+              "original": "https://pixeldrain.net/u/SHpZwyYj?download"
+            }
+          },
+          {
+            "id": 172,
+            "number": 172,
+            "season": 1,
+            "title": "The Door to Hell",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+            "synopsis": "Episode 172 of Black Clover",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/WDvgY3fe?download",
+            "downloadLinks": {
+              "original": "https://pixeldrain.net/u/WDvgY3fe?download"
+            }
+          },
+          {
+            "id": 173,
+            "number": 173,
+            "season": 1,
+            "title": "Black Guardian",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+            "synopsis": "Episode 173 of Black Clover",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/miSi6j6S?download",
+            "downloadLinks": {
+              "original": "https://pixeldrain.net/u/miSi6j6S?download"
+            }
+          },
+          {
+            "id": 174,
+            "number": 174,
+            "season": 1,
+            "title": "Day of Atonement NEw!",
+            "runtime": "24m",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+            "synopsis": "Episode 174 of Black Clover",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadUrl": "https://pixeldrain.net/u/y5w582pc?download",
+            "downloadLinks": {
+              "original": "https://pixeldrain.net/u/y5w582pc?download"
             }
           }
         ]
