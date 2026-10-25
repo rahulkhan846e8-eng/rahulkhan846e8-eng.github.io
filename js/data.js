@@ -37969,12 +37969,12 @@ export const ANIME_DATABASE = [
     "banner": "https://images.alphacoders.com/139/thumb-1920-1399535.jpg",
     "rating": 7.9,
     "year": 2017,
-    "currentEpBadge": "S2-EP2",
-    "status": "Upcoming",
+    "currentEpBadge": "S1-EP51",
+    "status": "Completed",
     "type": "TV Series",
     "season": "2017",
     "studio": "Studio Pierrot",
-    "hasSub": true,
+    "hasSub": false,
     "hasDub": true,
     "isTrending": true,
     "isPopular": true,
@@ -37986,15 +37986,14 @@ export const ANIME_DATABASE = [
     ],
     "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n(Source: Crunchyroll)",
     "languages": [
-      "hindi",
-      "original"
+      "hindi"
     ],
     "seasons": [
       {
+        "season": 1,
         "number": 1,
         "title": "Season 1",
         "airDate": "2017",
-        "isComingSoon": false,
         "episodes": [
           {
             "id": 1,
@@ -38709,7 +38708,58 @@ export const ANIME_DATABASE = [
             "downloadLinks": {
               "hindi": "https://pixeldrain.net/u/MQDcBmzV?download"
             }
-          },
+          }
+        ]
+      }
+    ],
+    "audioBadge": "HINDI DUB",
+    "audioTrack": "Hindi Dub",
+    "hasHindi": true,
+    "hasOriginal": false,
+    "seasonCount": 1,
+    "totalEpisodes": 51
+  },
+  {
+    "id": "black-clover-171-183",
+    "title": "Black Clover 171-183",
+    "raw_name": "Black Clover 171-183",
+    "japaneseTitle": "ブラッククローバー 第2期",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195604-lQpCzTziSA17.jpg",
+    "rating": 8.7,
+    "year": 2026,
+    "currentEpBadge": "EP 174",
+    "status": "Airing",
+    "type": "TV Series",
+    "season": "2026",
+    "studio": "Studio Pierrot",
+    "hasSub": true,
+    "hasDub": false,
+    "hasHindi": false,
+    "hasOriginal": true,
+    "isTrending": true,
+    "isPopular": true,
+    "audioTrack": "Original Dub",
+    "audioBadge": "ORIGINAL DUB",
+    "languages": [
+      "original"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. Covering episodes 171 through 183 in Japanese Audio with English Subtitles.",
+    "seasonCount": 1,
+    "totalEpisodes": 4,
+    "seasons": [
+      {
+        "season": 1,
+        "number": 1,
+        "title": "Season 1 (Episodes 171-183)",
+        "airDate": "2026",
+        "episodes": [
           {
             "id": 171,
             "number": 171,
@@ -38717,8 +38767,8 @@ export const ANIME_DATABASE = [
             "title": "The Battle Begins",
             "runtime": "24m",
             "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-            "synopsis": "Episode 171 of Black Clover",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "synopsis": "With the threat of the Qliphoth Tree and the Dark Triad looming, Asta and his devil Liebe undergo training to master Devil Union.",
+            "videoUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_1_1791041583.mp4?dl=1",
             "downloadUrl": "https://pixeldrain.net/u/SHpZwyYj?download",
             "downloadLinks": {
               "original": "https://pixeldrain.net/u/SHpZwyYj?download"
@@ -38731,8 +38781,8 @@ export const ANIME_DATABASE = [
             "title": "The Door to Hell",
             "runtime": "24m",
             "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-            "synopsis": "Episode 172 of Black Clover",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "synopsis": "The rescue operation in the Spade Kingdom officially kicks off as the Magic Knights breach the castle.",
+            "videoUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_2_1791646487.mp4?dl=1",
             "downloadUrl": "https://pixeldrain.net/u/WDvgY3fe?download",
             "downloadLinks": {
               "original": "https://pixeldrain.net/u/WDvgY3fe?download"
@@ -38745,7 +38795,7 @@ export const ANIME_DATABASE = [
             "title": "Black Guardian",
             "runtime": "24m",
             "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-            "synopsis": "Episode 173 of Black Clover",
+            "synopsis": "Fierce combat breaks out within the castle walls as squad captains clash with high-ranking devils.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/miSi6j6S?download",
             "downloadLinks": {
@@ -38756,10 +38806,10 @@ export const ANIME_DATABASE = [
             "id": 174,
             "number": 174,
             "season": 1,
-            "title": "Day of Atonement NEw!",
+            "title": "Day of Atonement",
             "runtime": "24m",
             "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-            "synopsis": "Episode 174 of Black Clover",
+            "synopsis": "Asta prepares to enter the fray with his new powers as the Qliphoth gate begins opening.",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "downloadUrl": "https://pixeldrain.net/u/y5w582pc?download",
             "downloadLinks": {
@@ -38767,48 +38817,8 @@ export const ANIME_DATABASE = [
             }
           }
         ]
-      },
-      {
-        "number": 2,
-        "title": "Season 2",
-        "airDate": "2017",
-        "isComingSoon": false,
-        "episodes": [
-          {
-            "id": 1,
-            "number": 1,
-            "season": 2,
-            "title": "Whoever’s Strongest Wins",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
-            "synopsis": "Episode 1 of Black Clover (Season 2)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/UEjkAdTw?download",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/UEjkAdTw?download",
-              "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_1_1791041583.mp4?dl=1"
-            }
-          },
-          {
-            "id": 2,
-            "number": 2,
-            "season": 2,
-            "title": "The Door to Hell",
-            "runtime": "24m",
-            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-            "synopsis": "Episode 2",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadLinks": {
-              "hindi": "https://pixeldrain.net/u/WDvgY3fe?download",
-              "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_2_1791646487.mp4?dl=1"
-            },
-            "downloadUrl": "https://pixeldrain.net/u/WDvgY3fe?download"
-          }
-        ]
       }
-    ],
-    "audioBadge": "MULTI-AUDIO",
-    "audioTrack": "Multi-Audio (Hindi Dub + Original)"
+    ]
   },
   {
     "id": "teogonia",
