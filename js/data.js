@@ -38728,7 +38728,7 @@ export const ANIME_DATABASE = [
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195604-lQpCzTziSA17.jpg",
     "rating": 8.7,
     "year": 2026,
-    "currentEpBadge": "EP 174",
+    "currentEpBadge": "S2-EP174",
     "status": "Airing",
     "type": "TV Series",
     "season": "2026",
@@ -38755,15 +38755,15 @@ export const ANIME_DATABASE = [
     "totalEpisodes": 4,
     "seasons": [
       {
-        "season": 1,
-        "number": 1,
-        "title": "Season 1 (Episodes 171-183)",
+        "season": 2,
+        "number": 2,
+        "title": "Season 2",
         "airDate": "2026",
         "episodes": [
           {
             "id": 171,
             "number": 171,
-            "season": 1,
+            "season": 2,
             "title": "The Battle Begins",
             "runtime": "24m",
             "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
@@ -38777,7 +38777,7 @@ export const ANIME_DATABASE = [
           {
             "id": 172,
             "number": 172,
-            "season": 1,
+            "season": 2,
             "title": "The Door to Hell",
             "runtime": "24m",
             "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
@@ -38791,7 +38791,7 @@ export const ANIME_DATABASE = [
           {
             "id": 173,
             "number": 173,
-            "season": 1,
+            "season": 2,
             "title": "Black Guardian",
             "runtime": "24m",
             "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
@@ -38805,7 +38805,7 @@ export const ANIME_DATABASE = [
           {
             "id": 174,
             "number": 174,
-            "season": 1,
+            "season": 2,
             "title": "Day of Atonement",
             "runtime": "24m",
             "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
