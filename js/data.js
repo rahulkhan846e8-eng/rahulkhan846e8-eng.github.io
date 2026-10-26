@@ -106,7 +106,7 @@ export const ANIME_DATABASE = [
     "banner": "https://dragonball-super.com/img/mv-thum03_en.jpg",
     "rating": 8.8,
     "year": 2026,
-    "currentEpBadge": "S1-EP2",
+    "currentEpBadge": "S1-EP3",
     "status": "Ongoing",
     "type": "TV Series",
     "season": "Fall 2026",
@@ -140,9 +140,9 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://dragonball-super.com/img/mv-thum03_en.jpg",
             "synopsis": "Episode 1 of Dragon Ball Super: Beerus (Remake)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/uUcAbUQP?download",
+            "downloadUrl": "https://my.1anime.site/videos/Dragon_Ball_Super_Beerus_Episode_1_1791735527.mp4?dl=1",
             "downloadLinks": {
-              "original": "https://pixeldrain.net/u/uUcAbUQP?download"
+              "original": "https://my.1anime.site/videos/Dragon_Ball_Super_Beerus_Episode_1_1791735527.mp4?dl=1"
             }
           },
           {
@@ -154,10 +154,24 @@ export const ANIME_DATABASE = [
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V_jp-1I8PtD69dAVeWucMOIuJS8mDqZIn8lfn41OTy1RlRBR5mjGKSRq&s=10",
             "synopsis": "Episode 2 of Dragon Ball Super: Beerus (Remake)",
             "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/yzZU5m5X?download",
+            "downloadUrl": "https://my.1anime.site/videos/Dragon_Ball_Super_Beerus_Episode_2_1792340112.mp4?dl=1",
             "downloadLinks": {
-              "original": "https://pixeldrain.net/u/yzZU5m5X?download"
+              "original": "https://my.1anime.site/videos/Dragon_Ball_Super_Beerus_Episode_2_1792340112.mp4?dl=1"
             }
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "season": 1,
+            "title": "The God of Destruction Heads to Earth",
+            "runtime": "24m",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V_jp-1I8PtD69dAVeWucMOIuJS8mDqZIn8lfn41OTy1RlRBR5mjGKSRq&s=10",
+            "synopsis": "Episode 3",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadLinks": {
+              "original": "https://my.1anime.site/videos/Dragon_Ball_Super_Beerus_Episode_3_1792951074.mp4?dl=1"
+            },
+            "downloadUrl": "https://my.1anime.site/videos/Dragon_Ball_Super_Beerus_Episode_3_1792951074.mp4?dl=1"
           }
         ]
       }
@@ -37974,7 +37988,7 @@ export const ANIME_DATABASE = [
     "type": "TV Series",
     "season": "2017",
     "studio": "Studio Pierrot",
-    "hasSub": false,
+    "hasSub": true,
     "hasDub": true,
     "isTrending": true,
     "isPopular": true,
