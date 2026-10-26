@@ -215,6 +215,8 @@ img {
   transition: all var(--transition-normal);
   user-select: none;
   white-space: nowrap;
+  text-decoration: none !important;
+  cursor: pointer;
 }
 
 .btn-primary {

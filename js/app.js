@@ -632,7 +632,65 @@ class App {
   // Global Event Delegation
   // --------------------------------------------------------------------------
   initGlobalDelegation() {
+    // Middle-click (scroll wheel click) support across the entire site
+    document.body.addEventListener("auxclick", (e) => {
+      if (e.button !== 1) return; // Middle mouse click only
+
+      // If user clicked watchlist button, do not open new tab
+      if (e.target.closest(".watchlist-toggle-btn")) return;
+
+      // 1. If clicked inside an <a> tag that has a valid href, let native browser action occur
+      const anchor = e.target.closest("a[href]");
+      if (anchor) {
+        const href = anchor.getAttribute("href");
+        if (href && !href.startsWith("javascript:")) {
+          // Native browser behavior opens <a> on middle-click automatically
+          return;
+        }
+      }
+
+      // 2. Fallback for any anime card or detail button
+      const animeCard = e.target.closest(".anime-card, .detail-view-btn");
+      if (animeCard) {
+        const animeId = animeCard.dataset.animeId;
+        if (animeId) {
+          e.preventDefault();
+          window.open(`#anime/${animeId}`, "_blank");
+          return;
+        }
+      }
+
+      // 3. Fallback for hero slide
+      const heroSlide = e.target.closest(".hero-slide");
+      if (heroSlide && !e.target.closest(".hero-controls") && !e.target.closest(".hero-nav-arrow")) {
+        const animeId = heroSlide.dataset.animeId;
+        if (animeId) {
+          e.preventDefault();
+          window.open(`#anime/${animeId}`, "_blank");
+          return;
+        }
+      }
+
+      // 4. Fallback for play/download episode button
+      const playBtn = e.target.closest(".play-episode-btn");
+      if (playBtn) {
+        e.preventDefault();
+        const animeId = playBtn.dataset.animeId;
+        const ep = parseInt(playBtn.dataset.ep || "1", 10);
+        const season = parseInt(playBtn.dataset.season || "1", 10);
+        const mode = playBtn.dataset.mode || "download";
+        const lang = playBtn.dataset.lang || "hindi";
+        window.open(`#stream/${animeId}/${ep}?s=${season}&mode=${mode}&lang=${lang}`, "_blank");
+        return;
+      }
+    });
+
     document.body.addEventListener("click", (e) => {
+      // Allow modifier clicks (Ctrl+Click, Cmd+Click on Mac, Shift+Click, or non-primary button)
+      // to execute native browser new-tab / new-window behavior without interference
+      if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) {
+        return;
+      }
       // Home A-Z list letter button clicked
       const azHomeBtn = e.target.closest("#home-az-letter-list .navigate-az-btn, #home-az-letter-list .az-letter-btn, .navigate-az-section .navigate-az-btn");
       if (azHomeBtn) {
@@ -788,12 +846,12 @@ class App {
       const results = searchAnime(q);
       if (results.length > 0) {
         dropdown.innerHTML = results.slice(0, 8).map(anime => `
-          <div class="search-result-row" data-anime-id="${anime.id}">
+          <a href="#anime/${anime.id}" class="search-result-row" data-anime-id="${anime.id}">
             <img src="${anime.poster}" class="search-result-img" alt="${anime.title}" />
             <div class="search-result-info">
               <div class="search-result-title">${anime.title}</div>
             </div>
-          </div>
+          </a>
         `).join("");
         dropdown.classList.add("active");
       } else {
@@ -817,6 +875,10 @@ class App {
     dropdown.addEventListener("click", (e) => {
       const row = e.target.closest(".search-result-row");
       if (row) {
+        if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) {
+          return; // Let browser open in new tab
+        }
+        e.preventDefault();
         sessionStorage.setItem("shinobi_last_browse_scroll", window.scrollY.toString());
         const animeId = row.dataset.animeId;
         window.location.hash = `#anime/${animeId}`;
@@ -824,6 +886,18 @@ class App {
         searchContainer?.classList.remove("mobile-open");
         searchInput.value = "";
         clearBtn?.classList.remove("visible");
+      }
+    });
+
+    dropdown.addEventListener("auxclick", (e) => {
+      if (e.button !== 1) return;
+      const row = e.target.closest(".search-result-row");
+      if (row) {
+        e.preventDefault();
+        const animeId = row.dataset.animeId;
+        if (animeId) {
+          window.open(`#anime/${animeId}`, "_blank");
+        }
       }
     });
 

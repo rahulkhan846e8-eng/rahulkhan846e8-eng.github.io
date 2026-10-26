@@ -163,13 +163,26 @@
    4. ANIME CARD — Hover lift with Electric Cyan glow
    ══════════════════════════════════════════════════════════════════════════ */
 
+a.anime-card,
 .anime-card {
   background: var(--bg-card) !important;
   border: 1px solid var(--border) !important;
   border-radius: 12px !important;
+  text-decoration: none !important;
+  color: inherit !important;
   transition: transform 0.28s cubic-bezier(0.34, 1.46, 0.64, 1),
               box-shadow 0.28s ease,
               border-color 0.20s ease !important;
+}
+
+a.continue-card,
+.continue-card,
+a.episode-row-item,
+.episode-row-item,
+a.search-result-row,
+.search-result-row {
+  text-decoration: none !important;
+  color: inherit !important;
 }
 
 .anime-card:hover {

@@ -71,19 +71,19 @@ export class UIRenderer {
             <p class="hero-japanese-title">${anime.japaneseTitle || ''}</p>
             <p class="hero-synopsis">${anime.synopsis || ''}</p>
             <div class="hero-actions desktop-only">
-              <button class="btn btn-primary detail-view-btn" data-anime-id="${anime.id}">
+              <a href="#anime/${anime.id}" class="btn btn-primary detail-view-btn" data-anime-id="${anime.id}">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
                 START STREAMING S1 E1
-              </button>
+              </a>
               <button class="btn btn-secondary watchlist-toggle-btn" data-anime-id="${anime.id}">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="${StorageService.isInWatchlist(anime.id) ? 'var(--cr-accent-gold)' : 'none'}" stroke="currentColor" stroke-width="2">
                   <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
                 </svg>
                 <span>${StorageService.isInWatchlist(anime.id) ? 'IN WATCHLIST' : 'ADD TO WATCHLIST'}</span>
               </button>
-              <button class="btn btn-outline detail-view-btn" data-anime-id="${anime.id}">
+              <a href="#anime/${anime.id}" class="btn btn-outline detail-view-btn" data-anime-id="${anime.id}">
                 MORE DETAILS
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -145,7 +145,7 @@ export class UIRenderer {
     const langBadge = UIRenderer.getLanguageBadge(anime);
 
     return `
-      <div class="anime-card" data-anime-id="${anime.id}">
+      <a href="#anime/${anime.id}" class="anime-card" data-anime-id="${anime.id}">
         <div class="anime-card-poster">
           <img src="${anime.poster}" alt="${anime.title}" width="300" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" onload="this.classList.add('loaded')" onerror="this.onerror=null; this.src=window.FALLBACK_POSTER; this.classList.add('loaded');" />
           <div class="card-lang-badge">${langBadge}</div>
@@ -156,7 +156,7 @@ export class UIRenderer {
         <div class="anime-card-body">
           <h4 class="anime-card-title" title="${anime.title}">${anime.title}</h4>
         </div>
-      </div>
+      </a>
     `;
   }
 
@@ -199,7 +199,7 @@ export class UIRenderer {
         const progressColor = item.percent > 0 ? "" : "background: var(--cr-accent-blue, #2563eb);";
         const thumbSrc = ep?.thumbnail || anime.banner || anime.poster;
         return `
-          <div class="continue-card play-episode-btn" data-anime-id="${anime.id}" data-ep="${item.episodeNumber}">
+          <a href="#stream/${anime.id}/${item.episodeNumber}?s=${item.seasonNumber || 1}&mode=download" class="continue-card play-episode-btn" data-anime-id="${anime.id}" data-ep="${item.episodeNumber}" data-season="${item.seasonNumber || 1}">
             <div class="continue-thumb">
               <img src="${thumbSrc}" alt="${anime.title}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
               <div class="continue-play-icon">
@@ -214,7 +214,7 @@ export class UIRenderer {
                 <span>${progressLabel}</span>
               </div>
             </div>
-          </div>
+          </a>
         `;
       }).join("");
     } catch (err) {
@@ -271,7 +271,7 @@ export class UIRenderer {
       const epIsOriginal = epLang === "original";
 
       return `
-      <div class="episode-row-item play-episode-btn" data-anime-id="${anime.id}" data-ep="${ep.number}" data-season="${sNum}" data-mode="download" data-lang="${epLang}">
+      <a href="#stream/${anime.id}/${ep.number}?s=${sNum}&mode=download&lang=${epLang}" class="episode-row-item play-episode-btn" data-anime-id="${anime.id}" data-ep="${ep.number}" data-season="${sNum}" data-mode="download" data-lang="${epLang}">
         <div class="ep-row-thumb">
           <img src="${ep.thumbnail || anime.poster}" alt="${ep.title}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
           <span class="ep-row-runtime">${ep.runtime || (isMovie ? '1h 45m' : '24m')}</span>
@@ -287,12 +287,12 @@ export class UIRenderer {
           </div>
         </div>
         <div class="ep-row-action">
-          <button class="btn-watch-row btn-download-action">
+          <div class="btn-watch-row btn-download-action">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
             <span>${isMovie ? 'Download Movie' : 'Download'}</span>
-          </button>
+          </div>
         </div>
-      </div>
+      </a>
     `;
     }).join("");
   }
@@ -405,10 +405,10 @@ export class UIRenderer {
               </div>
               <p class="detail-synopsis">${anime.synopsis || ''}</p>
               <div class="detail-actions">
-                <button class="btn btn-primary play-episode-btn" data-anime-id="${anime.id}" data-ep="${targetEpNum > 0 ? targetEpNum : (currentSeason.episodes?.[0]?.number || 1)}" data-season="${currentSeason.number}" data-lang="${currentLanguage}">
+                <a href="#stream/${anime.id}/${targetEpNum > 0 ? targetEpNum : (currentSeason.episodes?.[0]?.number || 1)}?s=${currentSeason.number}&mode=download&lang=${currentLanguage}" class="btn btn-primary play-episode-btn" data-anime-id="${anime.id}" data-ep="${targetEpNum > 0 ? targetEpNum : (currentSeason.episodes?.[0]?.number || 1)}" data-season="${currentSeason.number}" data-lang="${currentLanguage}">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
                   ${isMovie ? 'DOWNLOAD FULL MOVIE' : (targetEpNum > 0 ? `DOWNLOAD EPISODE ${targetEpNum}` : `DOWNLOAD EPISODE ${currentSeason.episodes?.[0]?.number || 1}`)}
-                </button>
+                </a>
                 <button class="btn btn-secondary watchlist-toggle-btn" data-anime-id="${anime.id}">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="${inWatchlist ? 'var(--cr-accent-gold)' : 'none'}" stroke="currentColor" stroke-width="2">
                     <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
@@ -1290,7 +1290,7 @@ export class UIRenderer {
       if (!anime) return "";
       const ep = (anime.episodes || []).find(e => e.number === item.episodeNumber) || anime.episodes?.[0];
       return `
-        <div class="continue-card play-episode-btn" data-anime-id="${anime.id}" data-ep="${item.episodeNumber}">
+        <a href="#stream/${anime.id}/${item.episodeNumber}?s=${item.seasonNumber || 1}&mode=download" class="continue-card play-episode-btn" data-anime-id="${anime.id}" data-ep="${item.episodeNumber}">
           <div class="continue-thumb">
             <img src="${ep?.thumbnail || anime.banner || anime.poster}" alt="${anime.title}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null; this.src=window.FALLBACK_THUMB;" />
             <div class="continue-play-icon">
@@ -1305,7 +1305,7 @@ export class UIRenderer {
               <span>${item.percent}%</span>
             </div>
           </div>
-        </div>
+        </a>
       `;
     }).join("");
   }
