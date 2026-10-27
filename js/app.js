@@ -17,6 +17,16 @@ import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
 import { UIRenderer } from './ui.js?v=20261024_v1';
 
+function escapeHtml(str) {
+  if (!str) return "";
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
 class App {
   constructor() {
     this.player = new VideoPlayer();
@@ -857,7 +867,7 @@ class App {
       } else {
         dropdown.innerHTML = `
           <div style="padding: 18px; text-align: center; color: var(--cr-text-muted); font-size: 0.88rem;">
-            No anime found for "${q}"
+            No anime found for "${escapeHtml(q)}"
           </div>
         `;
         dropdown.classList.add("active");
