@@ -14,22 +14,60 @@ window.SHINOBI_ADS_CONFIG = {
 
   // 1. ADSTERRA 320x50 HORIZONTAL BANNER (Active High-CPM Banner)
   adsterra320x50: {
-    key: "6d392592cfd2e8b5a283a91bbe204b04",
-    scriptUrl: "https://www.highrevenueformat.com/6d392592cfd2e8b5a283a91bbe204b04/invoke.js",
+    key: "3fa2c9ceda6d78b72745b389d026f82a",
+    scriptUrl: "https://bauval.org/22/3fa2c9ceda6d78b72745b389d026f82a",
     width: 320,
     height: 50
   },
 
   // 2. ADSTERRA 728x90 BANNER (Desktop Leaderboard)
   adsterra728x90: {
-    key: "5e813742f7427c72c0bcecf1d8022762",
-    scriptUrl: "https://www.highrevenueformat.com/5e813742f7427c72c0bcecf1d8022762/invoke.js",
+    key: "230a4302a9a1479b32cf01d92c71aed8",
+    scriptUrl: "https://bauval.org/22/230a4302a9a1479b32cf01d92c71aed8",
     width: 728,
     height: 90
   },
 
+  // ADSTERRA 468x60 BANNER
+  adsterra468x60: {
+    key: "3bd3f0b8aeaf2879eecd39b8fc5e57ba",
+    scriptUrl: "https://bauval.org/22/3bd3f0b8aeaf2879eecd39b8fc5e57ba",
+    width: 468,
+    height: 60
+  },
+
+  // ADSTERRA 300x250 BANNER
+  adsterra300x250: {
+    key: "751a0094c171a6569031419d49fad003",
+    scriptUrl: "https://bauval.org/22/751a0094c171a6569031419d49fad003",
+    width: 300,
+    height: 250
+  },
+
+  // ADSTERRA 160x600 BANNER
+  adsterra160x600: {
+    key: "d2143f83a24f886b4b3cfcf9a70d3570",
+    scriptUrl: "https://bauval.org/22/d2143f83a24f886b4b3cfcf9a70d3570",
+    width: 160,
+    height: 600
+  },
+
+  // ADSTERRA 160x300 BANNER
+  adsterra160x300: {
+    key: "0ebd0e54d132a87b8b3bb653713be55a",
+    scriptUrl: "https://bauval.org/22/0ebd0e54d132a87b8b3bb653713be55a",
+    width: 160,
+    height: 300
+  },
+
+  // ADSTERRA NATIVE WIDGET
+  adsterraNative: {
+    containerId: "container-09f6a91f108398c7d514431c423a1906",
+    scriptUrl: "https://bauval.org/21/09f6a91f108398c7d514431c423a1906"
+  },
+
   // 3. ADSTERRA DIRECT LINK (High-CPM Popunder / Smartlink)
-  adsterraDirectLink: "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe",
+  adsterraDirectLink: "https://araplhn.org/4/d5d532ee1d0dbff08355fad531688de0",
 
   autoStartDownloadOnUnlock: true,
   statusMessage: "Preparing high-speed 1080p download link...",
@@ -42,7 +80,7 @@ window.SHINOBI_ADS_CONFIG = {
     const container = typeof containerId === 'string' ? document.getElementById(containerId) : containerId;
     if (!container) return;
 
-    const key = options.key || "6d392592cfd2e8b5a283a91bbe204b04";
+    const key = options.key || "3fa2c9ceda6d78b72745b389d026f82a";
     const width = options.width || 320;
     const height = options.height || 50;
 
@@ -76,10 +114,10 @@ window.SHINOBI_ADS_CONFIG = {
       'params': {}
     };
 
-    // Load invoke.js
+    // Load ad script
     const script = document.createElement("script");
     script.type = "text/javascript";
-    script.src = "https://www.highrevenueformat.com/" + key + "/invoke.js";
+    script.src = options.scriptUrl || ("https://bauval.org/22/" + key);
     container.appendChild(script);
   },
 

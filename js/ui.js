@@ -887,7 +887,7 @@ export class UIRenderer {
         e.preventDefault();
 
         const adsConfig = window.SHINOBI_ADS_CONFIG;
-        const adUrl = adsConfig?.adsterraDirectLink || "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe";
+        const adUrl = adsConfig?.adsterraDirectLink || "https://araplhn.org/4/d5d532ee1d0dbff08355fad531688de0";
 
         // STEP 1: First click -> Open High-CPM Adsterra Direct Link in a new tab!
         if (!btn._adUnlocked && adUrl && adsConfig?.enabled !== false) {
@@ -960,7 +960,7 @@ export class UIRenderer {
   // --------------------------------------------------------------------------
   static openDownloadCountdownModal({ downloadUrl }) {
     const config = window.SHINOBI_ADS_CONFIG;
-    const adUrl = config?.adsterraDirectLink || "https://www.profitableratecpmnetwork.com/fqukc6i9a?key=4fb7f36bd6a168fc785d21b77559ffbe";
+    const adUrl = config?.adsterraDirectLink || "https://araplhn.org/4/d5d532ee1d0dbff08355fad531688de0";
 
     if (adUrl && config?.enabled !== false) {
       try {
