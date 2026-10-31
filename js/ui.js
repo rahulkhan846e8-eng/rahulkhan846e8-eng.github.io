@@ -422,10 +422,6 @@ export class UIRenderer {
       </div>
 
       <div class="page-container">
-        <!-- Prominent Top Anime Detail Ad Banner -->
-        <div class="ad-anime-detail-top-wrapper" style="margin: 20px auto 16px; text-align: center; max-width: 100%; min-height: 50px;">
-          <div id="ad-detail-top-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
-        </div>
 
         <!-- Interactive Season Header Bar -->
         <div class="season-header-bar" style="margin-top: 16px;">
@@ -475,19 +471,8 @@ export class UIRenderer {
         <div class="episodes-playlist-stack" id="episodes-playlist-stack">
           ${this.renderEpisodesListHtml(anime, currentSeason, currentMode, currentLanguage)}
         </div>
-
-        <!-- Clean Non-Intrusive Sponsored Banner Slot -->
-        <div class="ad-anime-detail-wrapper" style="margin: 32px auto 16px; text-align: center; min-height: 50px;">
-          <div id="ad-detail-bottom-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
-        </div>
       </div>
     `;
-
-    // Render direct first-party banners
-    setTimeout(() => {
-      window.SHINOBI_ADS_CONFIG?.renderBanner("ad-detail-top-banner");
-      window.SHINOBI_ADS_CONFIG?.renderBanner("ad-detail-bottom-banner");
-    }, 40);
 
     // Elements
     const selectBtn = document.getElementById("season-select-btn");
@@ -795,11 +780,6 @@ export class UIRenderer {
               </div>
             </div>
 
-            <!-- Clean Non-Intrusive Sponsored Stream/Download Banner Slot -->
-            <div class="ad-stream-wrapper" style="margin: 20px auto 16px; text-align: center; min-height: 50px;">
-              <div id="ad-stream-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
-            </div>
-
             <!-- Episode Navigation Footer -->
             <div class="download-nav-footer">
               ${anime.type === "Movie" ? `
@@ -814,10 +794,6 @@ export class UIRenderer {
         </div>
       </div>
     `;
-
-    setTimeout(() => {
-      window.SHINOBI_ADS_CONFIG?.renderBanner("ad-stream-banner");
-    }, 40);
 
     // Language Switcher on Download Card
     const streamLangToggle = container.querySelector("#stream-lang-toggle");
@@ -1033,11 +1009,6 @@ export class UIRenderer {
           </div>
         </div>
 
-        <div class="dl-ad-sponsor-container" style="padding: 10px 12px; margin-bottom: 14px;">
-          <!-- Direct First-Party Adsterra Banner Slot -->
-          <div id="ad-modal-banner" style="display:flex; justify-content:center; align-items:center; min-height:50px;"></div>
-        </div>
-
         <div class="dl-ad-actions">
           <button id="dl-action-btn" class="btn-dl-locked" disabled>
             <span class="dl-btn-spinner"></span>
@@ -1050,10 +1021,6 @@ export class UIRenderer {
     `;
 
     document.body.appendChild(modal);
-
-    setTimeout(() => {
-      window.SHINOBI_ADS_CONFIG?.renderBanner("ad-modal-banner");
-    }, 40);
 
     const timerNumber = modal.querySelector("#dl-timer-number");
     const btnSec = modal.querySelector("#dl-btn-sec");
