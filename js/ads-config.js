@@ -1,22 +1,28 @@
 /**
  * Shinobi HUB - Advertising & Sponsor Configuration
  * 
- * Clean monetization setup:
- * - Smart Frequency-Capped Popunder (Max 2 times per session, with 5-minute cooldown)
- * - Dedicated Episode Download Button Sponsor Ad (100% preserved)
- * - All banner and notification ads removed
+ * Strict Frequency Capping:
+ * - EXACTLY 1 AD PER USER across the entire site.
+ * - After 45 minutes (cooldown), only 1 ad can show again.
+ * - Multi-layer persistence: Memory variable + Cookie + localStorage + sessionStorage.
+ * - Guaranteed once-only trigger: Even if popup is blocked, cooldown is recorded immediately so user is NEVER spammed.
+ * - Episode Download Button Sponsor Ad is 100% preserved separately.
  */
+
+// In-memory guard to guarantee never more than 1 ad during page session
+if (typeof window.__shinobi_last_ad_time === "undefined") {
+  window.__shinobi_last_ad_time = 0;
+}
 
 window.SHINOBI_ADS_CONFIG = {
   enabled: true,
   countdownSeconds: 0,
 
-  // Direct Link (High-CPM Popunder / Smartlink)
+  // Direct Link (High-CPM Adsterra Smartlink)
   adsterraDirectLink: "https://araplhn.org/4/d5d532ee1d0dbff08355fad531688de0",
 
-  // Frequency capping for general page clicks
-  maxPopsPerSession: 2,
-  cooldownMs: 5 * 60 * 1000, // 5 minutes minimum between pop 1 and pop 2
+  // Cooldown period: 45 minutes before 1 ad can show again
+  cooldownMs: 45 * 60 * 1000, // 45 minutes (2,700,000 ms)
 
   autoStartDownloadOnUnlock: true,
   statusMessage: "Preparing high-speed 1080p download link...",
@@ -31,58 +37,94 @@ window.SHINOBI_ADS_CONFIG = {
   },
 
   /**
-   * Helper to retrieve current popunder session state
+   * Helper to read a cookie value
    */
-  getPopState: function() {
+  _getCookie: function(name) {
     try {
-      const now = Date.now();
-      const SESSION_TTL_MS = 6 * 60 * 60 * 1000; // 6 hours session window
-
-      let count = parseInt(sessionStorage.getItem("animelooto_pop_count") || "0", 10);
-      let lastTime = parseInt(sessionStorage.getItem("animelooto_pop_time") || "0", 10);
-
-      // Check localStorage for cross-tab persistence
-      const localCount = parseInt(localStorage.getItem("animelooto_pop_count") || "0", 10);
-      const localTime = parseInt(localStorage.getItem("animelooto_pop_time") || "0", 10);
-
-      if (localTime > 0 && (now - localTime < SESSION_TTL_MS)) {
-        count = Math.max(count, localCount);
-        lastTime = Math.max(lastTime, localTime);
-      } else if (localTime > 0 && (now - localTime >= SESSION_TTL_MS)) {
-        // Session expired, reset
-        count = 0;
-        lastTime = 0;
-        localStorage.removeItem("animelooto_pop_count");
-        localStorage.removeItem("animelooto_pop_time");
-      }
-
-      return { count, lastTime };
+      const match = document.cookie.match(new RegExp('(^|;\\s*)' + name + '=([^;]+)'));
+      return match ? match[2] : null;
     } catch (_) {
-      return { count: 0, lastTime: 0 };
+      return null;
     }
   },
 
   /**
-   * Helper to record a successful popunder
+   * Helper to write a cookie value
    */
-  recordPop: function() {
+  _setCookie: function(name, value, maxAgeSeconds) {
     try {
-      const now = Date.now();
-      const { count } = this.getPopState();
-      const newCount = count + 1;
+      document.cookie = name + "=" + value + "; path=/; max-age=" + maxAgeSeconds + "; SameSite=Lax";
+    } catch (_) {}
+  },
 
-      sessionStorage.setItem("animelooto_pop_count", newCount.toString());
-      sessionStorage.setItem("animelooto_pop_time", now.toString());
+  /**
+   * Check if user is eligible for an ad.
+   * Returns true ONLY if 0 ads shown or > 45 minutes since last ad.
+   */
+  canShowAd: function() {
+    const now = Date.now();
 
-      localStorage.setItem("animelooto_pop_count", newCount.toString());
-      localStorage.setItem("animelooto_pop_time", now.toString());
+    // 1. Check in-memory guard
+    if (window.__shinobi_last_ad_time && (now - window.__shinobi_last_ad_time < this.cooldownMs)) {
+      return false;
+    }
+
+    // 2. Check cookie
+    const cookieTime = parseInt(this._getCookie("al_ad_time") || "0", 10);
+    if (cookieTime && (now - cookieTime < this.cooldownMs)) {
+      window.__shinobi_last_ad_time = Math.max(window.__shinobi_last_ad_time || 0, cookieTime);
+      return false;
+    }
+
+    // 3. Check localStorage (with try-catch for Incognito / Safari ITP)
+    try {
+      const localTime = parseInt(localStorage.getItem("al_ad_time") || "0", 10);
+      if (localTime && (now - localTime < this.cooldownMs)) {
+        window.__shinobi_last_ad_time = Math.max(window.__shinobi_last_ad_time || 0, localTime);
+        return false;
+      }
+    } catch (_) {}
+
+    // 4. Check sessionStorage
+    try {
+      const sessionTime = parseInt(sessionStorage.getItem("al_ad_time") || "0", 10);
+      if (sessionTime && (now - sessionTime < this.cooldownMs)) {
+        window.__shinobi_last_ad_time = Math.max(window.__shinobi_last_ad_time || 0, sessionTime);
+        return false;
+      }
+    } catch (_) {}
+
+    return true;
+  },
+
+  /**
+   * Record that an ad attempt occurred so NO MORE ADS can show for 45 minutes
+   */
+  recordAdShown: function() {
+    const now = Date.now();
+    const maxAgeSeconds = Math.ceil(this.cooldownMs / 1000);
+
+    // 1. In-memory
+    window.__shinobi_last_ad_time = now;
+
+    // 2. Cookie (persists across tabs & reloads even in Incognito)
+    this._setCookie("al_ad_time", now.toString(), maxAgeSeconds);
+
+    // 3. localStorage
+    try {
+      localStorage.setItem("al_ad_time", now.toString());
+    } catch (_) {}
+
+    // 4. sessionStorage
+    try {
+      sessionStorage.setItem("al_ad_time", now.toString());
     } catch (_) {}
   },
 
   /**
    * Smart Popunder Trigger
-   * Opens the Adsterra Direct Link only when frequency cap allows (max 2 per session, with cooldown).
-   * @param {boolean} force - if true, bypasses the session count and cooldown (e.g. for intentional sponsor clicks)
+   * Shows EXACTLY 1 ad, then locks for 45 minutes.
+   * @param {boolean} force - if true, bypasses cooldown (used ONLY if explicitly requested)
    */
   triggerPopunder: function(force = false) {
     if (!this.enabled || !this.adsterraDirectLink) {
@@ -90,30 +132,25 @@ window.SHINOBI_ADS_CONFIG = {
     }
 
     if (!force) {
-      const { count, lastTime } = this.getPopState();
-      const now = Date.now();
-
-      // STRICT LIMIT: Max 2 pops per session
-      if (count >= this.maxPopsPerSession) {
+      if (!this.canShowAd()) {
         return false;
       }
+    }
 
-      // COOLDOWN: Must wait at least cooldownMs between pop 1 and pop 2
-      if (lastTime > 0 && (now - lastTime < this.cooldownMs)) {
-        return false;
-      }
+    // CRUCIAL: Record immediately BEFORE or ON the attempt so that EVEN IF
+    // the browser's popup blocker intercepts or blocks it, the user is NEVER spammed on subsequent clicks!
+    if (!force) {
+      this.recordAdShown();
     }
 
     try {
       const pop = window.open(this.adsterraDirectLink, "_blank", "noopener,noreferrer");
       if (pop) {
-        if (!force) {
-          this.recordPop();
-        }
         try { pop.blur(); window.focus(); } catch (_) {}
         return true;
       }
     } catch (_) {}
+
     return false;
   }
 };
