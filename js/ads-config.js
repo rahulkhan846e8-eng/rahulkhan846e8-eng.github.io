@@ -3,7 +3,7 @@
  * 
  * Strict Frequency Capping:
  * - EXACTLY 1 AD PER USER across the entire site.
- * - After 45 minutes (cooldown), only 1 ad can show again.
+ * - After 10 minutes (cooldown), only 1 ad can show again.
  * - Multi-layer persistence: Memory variable + Cookie + localStorage + sessionStorage.
  * - Guaranteed once-only trigger: Even if popup is blocked, cooldown is recorded immediately so user is NEVER spammed.
  * - Episode Download Button Sponsor Ad is 100% preserved separately.
@@ -22,7 +22,7 @@ window.SHINOBI_ADS_CONFIG = {
   adsterraDirectLink: "https://araplhn.org/4/d5d532ee1d0dbff08355fad531688de0",
 
   // Cooldown period: 45 minutes before 1 ad can show again
-  cooldownMs: 45 * 60 * 1000, // 45 minutes (2,700,000 ms)
+  cooldownMs: 10 * 60 * 1000, // 10 minutes (600,000 ms)
 
   autoStartDownloadOnUnlock: true,
   statusMessage: "Preparing high-speed 1080p download link...",
@@ -59,7 +59,7 @@ window.SHINOBI_ADS_CONFIG = {
 
   /**
    * Check if user is eligible for an ad.
-   * Returns true ONLY if 0 ads shown or > 45 minutes since last ad.
+   * Returns true ONLY if 0 ads shown or > 10 minutes since last ad.
    */
   canShowAd: function() {
     const now = Date.now();
@@ -98,7 +98,7 @@ window.SHINOBI_ADS_CONFIG = {
   },
 
   /**
-   * Record that an ad attempt occurred so NO MORE ADS can show for 45 minutes
+   * Record that an ad attempt occurred so NO MORE ADS can show for 10 minutes
    */
   recordAdShown: function() {
     const now = Date.now();
@@ -123,7 +123,7 @@ window.SHINOBI_ADS_CONFIG = {
 
   /**
    * Smart Popunder Trigger
-   * Shows EXACTLY 1 ad, then locks for 45 minutes.
+   * Shows EXACTLY 1 ad, then locks for 10 minutes.
    * @param {boolean} force - if true, bypasses cooldown (used ONLY if explicitly requested)
    */
   triggerPopunder: function(force = false) {
