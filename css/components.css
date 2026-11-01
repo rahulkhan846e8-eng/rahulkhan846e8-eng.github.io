@@ -1207,11 +1207,55 @@ a.search-result-row,
   .main-content {
     padding-bottom: 70px;
   }
+  .shelf-track {
+    gap: 12px;
+    padding: 4px 2px 14px 2px;
+  }
+  .shelf-nav-btn {
+    display: none !important;
+  }
+  a.anime-card,
   .anime-card {
-    flex: 0 0 150px;
+    flex: 0 0 135px;
+    width: 135px;
+    min-width: 135px;
+    border-radius: 8px;
+  }
+  .anime-card-body {
+    padding: 7px 7px 9px;
+  }
+  .anime-card-title {
+    font-size: 0.82rem;
+    line-height: 1.25;
+    height: 2.5em;
+    max-height: 2.5em;
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+  }
+  .card-lang-badge,
+  .card-ep-badge {
+    font-size: 0.58rem;
+    padding: 2px 5px;
+    bottom: 6px;
+    left: 6px;
+    border-radius: 4px;
+  }
+  .anime-card-overlay-btn {
+    width: 34px;
+    height: 34px;
+  }
+  .anime-card-overlay-btn svg {
+    width: 15px;
+    height: 15px;
   }
   .continue-card {
-    flex: 0 0 240px;
+    flex: 0 0 220px;
+    border-radius: 8px;
   }
 
   /* Mobile Shelf Headings - Scaled down & neatly proportioned */
@@ -1248,6 +1292,7 @@ a.search-result-row,
   }
   .shelf-header {
     margin-bottom: 8px;
+    padding: 0 2px;
   }
   .shelf-title {
     font-size: 0.98rem !important;
@@ -1260,6 +1305,59 @@ a.search-result-row,
   }
   .shelf-view-all {
     font-size: 0.74rem;
+  }
+  .shelf-track {
+    gap: 10px;
+    padding: 4px 0 12px 0;
+  }
+  a.anime-card,
+  .anime-card {
+    flex: 0 0 116px;
+    width: 116px;
+    min-width: 116px;
+    border-radius: 8px;
+  }
+  .anime-card-poster {
+    aspect-ratio: 2 / 3;
+    border-radius: 7px 7px 0 0;
+  }
+  .anime-card-body {
+    padding: 6px 6px 8px;
+  }
+  .anime-card-title {
+    font-size: 0.76rem;
+    line-height: 1.22;
+    height: 2.44em;
+    max-height: 2.44em;
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+    margin: 0;
+  }
+  .card-lang-badge,
+  .card-ep-badge {
+    font-size: 0.54rem;
+    padding: 2px 4.5px;
+    bottom: 5px;
+    left: 5px;
+    border-radius: 3px;
+    letter-spacing: 0.2px;
+  }
+  .anime-card-overlay-btn {
+    width: 30px;
+    height: 30px;
+  }
+  .anime-card-overlay-btn svg {
+    width: 13px;
+    height: 13px;
+  }
+  .continue-card {
+    flex: 0 0 190px;
+    border-radius: 8px;
   }
 }
 

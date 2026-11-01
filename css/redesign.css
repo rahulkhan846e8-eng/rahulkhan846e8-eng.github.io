@@ -1070,3 +1070,126 @@ body {
     border-radius: 5px !important;
   }
 }
+
+/* ══════════════════════════════════════════════════════════════════════════
+   MOBILE COMPACT & ORGANIZED ANIME CARDS & SHELVES
+   ══════════════════════════════════════════════════════════════════════════ */
+@media (max-width: 768px) {
+  .shelf-track {
+    gap: 12px !important;
+    padding: 4px 2px 14px 2px !important;
+  }
+  .shelf-nav-btn {
+    display: none !important;
+  }
+  a.anime-card,
+  .anime-card {
+    flex: 0 0 135px !important;
+    width: 135px !important;
+    min-width: 135px !important;
+    border-radius: 8px !important;
+  }
+  .anime-card:hover {
+    transform: none !important;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.5) !important;
+  }
+  .anime-card-body {
+    padding: 7px 7px 9px !important;
+  }
+  .anime-card-title {
+    font-size: 0.82rem !important;
+    line-height: 1.25 !important;
+    height: 2.5em !important;
+    max-height: 2.5em !important;
+    white-space: normal !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    word-break: break-word !important;
+  }
+  .card-lang-badge,
+  .card-ep-badge {
+    font-size: 0.58rem !important;
+    padding: 2px 5px !important;
+    bottom: 6px !important;
+    left: 6px !important;
+    border-radius: 4px !important;
+  }
+  .anime-card-overlay-btn {
+    width: 34px !important;
+    height: 34px !important;
+  }
+  .anime-card-overlay-btn svg {
+    width: 15px !important;
+    height: 15px !important;
+  }
+  .continue-card {
+    flex: 0 0 220px !important;
+    border-radius: 8px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .shelf-track {
+    gap: 10px !important;
+    padding: 4px 0 12px 0 !important;
+  }
+  a.anime-card,
+  .anime-card {
+    flex: 0 0 116px !important;
+    width: 116px !important;
+    min-width: 116px !important;
+    border-radius: 8px !important;
+  }
+  .anime-card-poster {
+    border-radius: 7px 7px 0 0 !important;
+  }
+  .anime-card-body {
+    padding: 6px 6px 8px !important;
+  }
+  .anime-card-title {
+    font-size: 0.76rem !important;
+    line-height: 1.22 !important;
+    height: 2.44em !important;
+    max-height: 2.44em !important;
+    white-space: normal !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    word-break: break-word !important;
+    margin: 0 !important;
+  }
+  .card-lang-badge,
+  .card-ep-badge {
+    font-size: 0.54rem !important;
+    padding: 2px 4.5px !important;
+    bottom: 5px !important;
+    left: 5px !important;
+    border-radius: 3px !important;
+    letter-spacing: 0.2px !important;
+  }
+  .anime-card-overlay-btn {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .anime-card-overlay-btn svg {
+    width: 13px !important;
+    height: 13px !important;
+  }
+  .continue-card {
+    flex: 0 0 190px !important;
+    border-radius: 8px !important;
+  }
+}
+
+@media (hover: none) {
+  .anime-card:hover {
+    transform: none !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45) !important;
+  }
+}
+
