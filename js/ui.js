@@ -160,7 +160,7 @@ export class UIRenderer {
     return `
       <a href="#anime/${anime.id}" class="anime-card" data-anime-id="${anime.id}">
         <div class="anime-card-poster">
-          <img src="${anime.poster}" alt="${anime.title}" width="300" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" onload="this.classList.add('loaded')" onerror="this.onerror=null; this.src=window.FALLBACK_POSTER; this.classList.add('loaded');" />
+          <img src="${anime.poster}" alt="${anime.title}" width="300" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" onload="this.classList.add('loaded'); this.parentElement?.classList.add('has-loaded');" onerror="this.onerror=null; this.src=window.FALLBACK_POSTER; this.classList.add('loaded'); this.parentElement?.classList.add('has-loaded');" />
           <div class="card-lang-badge">${langBadge}</div>
           <div class="anime-card-overlay-btn" title="View Episodes">
             <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
@@ -1155,17 +1155,21 @@ export class UIRenderer {
   // --------------------------------------------------------------------------
   // Browse View
   // --------------------------------------------------------------------------
-  static renderBrowseCatalog(animeList, batchSize = 24) {
+  static renderBrowseCatalog(animeList, batchSize = 48) {
     const grid = document.getElementById("browse-grid");
     const countEl = document.getElementById("browse-count");
     if (!grid) return;
 
     if (countEl) countEl.style.display = "none";
 
-    // Clean up previous observer if active
+    // Clean up previous observer and scroll listener if active
     if (this._browseObserver) {
       this._browseObserver.disconnect();
       this._browseObserver = null;
+    }
+    if (this._browseScrollListener) {
+      window.removeEventListener("scroll", this._browseScrollListener);
+      this._browseScrollListener = null;
     }
 
     if (!animeList || animeList.length === 0) {
@@ -1184,41 +1188,130 @@ export class UIRenderer {
     grid.innerHTML = initialBatch.map(anime => this.renderAnimeCard(anime)).join("");
     renderedCount = initialBatch.length;
 
-    // Set up smooth infinite scroll sentinel if more titles remain
-    if (renderedCount < animeList.length) {
-      const sentinel = document.createElement("div");
-      sentinel.id = "browse-sentinel";
-      sentinel.style.cssText = "grid-column: 1 / -1; height: 40px; margin: 24px 0 10px; display: flex; align-items: center; justify-content: center;";
-      sentinel.innerHTML = `<span style="color: var(--cr-text-muted); font-size: 0.85rem; font-weight: 600; letter-spacing: 0.03em;">Loading more titles...</span>`;
-      grid.appendChild(sentinel);
+    // Fast-mark any already loaded/cached images
+    requestAnimationFrame(() => {
+      grid.querySelectorAll(".anime-card-poster img:not(.loaded)").forEach(img => {
+        if (img.complete && img.naturalWidth > 0) {
+          img.classList.add("loaded");
+          img.parentElement?.classList.add("has-loaded");
+        }
+      });
+    });
 
-      this._browseObserver = new IntersectionObserver((entries) => {
-        if (entries[0].isIntersecting) {
-          if (renderedCount >= animeList.length) {
-            sentinel.remove();
-            return;
-          }
-          const nextBatch = animeList.slice(renderedCount, renderedCount + batchSize);
+    // If all titles fit in the initial batch, we're done
+    if (renderedCount >= animeList.length) return;
+
+    // Set up smooth infinite scroll sentinel if more titles remain
+    const sentinel = document.createElement("div");
+    sentinel.id = "browse-sentinel";
+    sentinel.style.cssText = "grid-column: 1 / -1; height: 48px; margin: 20px 0 10px; display: flex; align-items: center; justify-content: center; cursor: pointer;";
+    sentinel.innerHTML = `<span style="color: var(--cr-text-muted, #94a3b8); font-size: 0.86rem; font-weight: 600; letter-spacing: 0.03em;">Loading more titles...</span>`;
+    grid.appendChild(sentinel);
+
+    let isLoading = false;
+
+    const cleanup = () => {
+      if (sentinel && sentinel.parentNode) {
+        sentinel.remove();
+      }
+      if (this._browseObserver) {
+        this._browseObserver.disconnect();
+        this._browseObserver = null;
+      }
+      if (this._browseScrollListener) {
+        window.removeEventListener("scroll", this._browseScrollListener);
+        this._browseScrollListener = null;
+      }
+    };
+
+    const loadNextBatch = () => {
+      if (isLoading || renderedCount >= animeList.length) return;
+      isLoading = true;
+
+      try {
+        const nextBatch = animeList.slice(renderedCount, renderedCount + batchSize);
+        if (nextBatch.length > 0) {
           const nextHtml = nextBatch.map(anime => this.renderAnimeCard(anime)).join("");
           sentinel.insertAdjacentHTML("beforebegin", nextHtml);
           renderedCount += nextBatch.length;
 
-          if (renderedCount >= animeList.length) {
-            sentinel.remove();
-            if (this._browseObserver) {
-              this._browseObserver.disconnect();
-              this._browseObserver = null;
+          // Check if newly rendered images are already cached
+          requestAnimationFrame(() => {
+            grid.querySelectorAll(".anime-card-poster img:not(.loaded)").forEach(img => {
+              if (img.complete && img.naturalWidth > 0) {
+                img.classList.add("loaded");
+                img.parentElement?.classList.add("has-loaded");
+              }
+            });
+          });
+        }
+
+        if (renderedCount >= animeList.length) {
+          cleanup();
+          return;
+        }
+
+        isLoading = false;
+
+        // Auto-fill check: if sentinel is still near the viewport, load more immediately
+        requestAnimationFrame(() => {
+          if (sentinel && sentinel.isConnected) {
+            const rect = sentinel.getBoundingClientRect();
+            if (rect.top <= window.innerHeight + 800) {
+              loadNextBatch();
             }
           }
-        }
-      }, {
-        root: null,
-        rootMargin: "180px",
-        threshold: 0.1
-      });
+        });
+      } catch (err) {
+        console.error("Browse infinite scroll error:", err);
+        isLoading = false;
+      }
+    };
 
-      this._browseObserver.observe(sentinel);
-    }
+    // 1. Intersection Observer with 800px preloading margin
+    this._browseObserver = new IntersectionObserver((entries) => {
+      if (entries[0] && entries[0].isIntersecting) {
+        loadNextBatch();
+      }
+    }, {
+      root: null,
+      rootMargin: "800px",
+      threshold: 0
+    });
+    this._browseObserver.observe(sentinel);
+
+    // 2. Window scroll event backup
+    let scrollTicking = false;
+    this._browseScrollListener = () => {
+      if (!scrollTicking && renderedCount < animeList.length) {
+        scrollTicking = true;
+        requestAnimationFrame(() => {
+          scrollTicking = false;
+          if (sentinel && sentinel.isConnected) {
+            const rect = sentinel.getBoundingClientRect();
+            if (rect.top <= window.innerHeight + 800) {
+              loadNextBatch();
+            }
+          }
+        });
+      }
+    };
+    window.addEventListener("scroll", this._browseScrollListener, { passive: true });
+
+    // 3. Click-to-load backup on the sentinel
+    sentinel.addEventListener("click", () => {
+      loadNextBatch();
+    });
+
+    // Check if initial viewport needs more cards right away
+    requestAnimationFrame(() => {
+      if (sentinel && sentinel.isConnected) {
+        const rect = sentinel.getBoundingClientRect();
+        if (rect.top <= window.innerHeight + 800) {
+          loadNextBatch();
+        }
+      }
+    });
   }
 
   // --------------------------------------------------------------------------

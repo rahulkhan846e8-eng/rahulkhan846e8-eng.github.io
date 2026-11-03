@@ -193,23 +193,32 @@ a.search-result-row,
 }
 
 @keyframes cardShimmer {
-  0% { background-position: -200% 0; }
-  100% { background-position: 200% 0; }
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
 }
 
 .anime-card-poster {
-  background: linear-gradient(90deg, #0d1527 25%, #18233c 50%, #0d1527 75%) !important;
-  background-size: 200% 100% !important;
-  animation: cardShimmer 1.8s infinite linear;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(90deg, #080e1a 0%, #131d31 35%, #1c2b46 50%, #131d31 65%, #080e1a 100%) !important;
+  background-size: 250% 100% !important;
+  animation: cardShimmer 1.8s infinite linear !important;
+}
+
+.anime-card-poster.has-loaded,
+.anime-card-poster:has(img.loaded) {
+  animation: none !important;
+  background: #080e1a !important;
 }
 
 .anime-card-poster img {
-  opacity: 1;
-  transition: opacity 0.3s ease, transform 0.4s ease;
+  opacity: 0;
+  transition: opacity 0.45s cubic-bezier(0.2, 0, 0.2, 1), transform 0.4s cubic-bezier(0.2, 0, 0.2, 1) !important;
+  will-change: opacity, transform;
 }
 
 .anime-card-poster img.loaded {
-  animation: none;
+  opacity: 1 !important;
 }
 
 /* Quick-play overlay — Electric Cyan */
