@@ -11,7 +11,8 @@ import {
   getMovies, 
   getAnimeSummary as getAnimeById, 
   getFullAnimeDetails,
-  searchAnime 
+  searchAnime, 
+  fullAnimeCache 
 } from './catalog.js?v=20261103_fade';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
@@ -40,6 +41,16 @@ class App {
   }
 
   init() {
+    // Preload full database in idle background so anime detail pages open in 0ms
+    const preloadFullDb = () => {
+      getFullAnimeDetails("jujutsu-kaisen").catch(() => {});
+    };
+    if (typeof requestIdleCallback === "function") {
+      requestIdleCallback(preloadFullDb, { timeout: 2500 });
+    } else {
+      setTimeout(preloadFullDb, 1200);
+    }
+
     this.initHeader();
     this.initHeroSlider();
     this.initGlobalDelegation();
@@ -249,12 +260,23 @@ class App {
         const canonicalTag = document.getElementById("canonical-meta");
         if (canonicalTag) canonicalTag.setAttribute("href", `https://animelooto.online/anime/${animeId}.html`);
         document.getElementById("detail-view")?.classList.add("active");
-        UIRenderer.renderAnimeDetail(animeSummary, initialSeasonNum, targetEpNum);
-        getFullAnimeDetails(animeId).then(fullAnime => {
-          if (fullAnime && fullAnime.seasons && window.location.hash.startsWith(`#anime/${animeId}`)) {
-            UIRenderer.renderAnimeDetail(fullAnime, initialSeasonNum, targetEpNum);
-          }
-        });
+
+        const cacheKey = animeId.toLowerCase().trim().replace(/\s+/g, '-');
+        const cachedFull = typeof fullAnimeCache !== "undefined" ? fullAnimeCache.get(cacheKey) : null;
+
+        if (cachedFull && (cachedFull.seasons || cachedFull.episodes)) {
+          cachedFull.isFullyLoaded = true;
+          UIRenderer.renderAnimeDetail(cachedFull, initialSeasonNum, targetEpNum);
+        } else {
+          animeSummary.isFullyLoaded = false;
+          UIRenderer.renderAnimeDetail(animeSummary, initialSeasonNum, targetEpNum);
+          getFullAnimeDetails(animeId).then(fullAnime => {
+            if (fullAnime && window.location.hash.startsWith(`#anime/${animeId}`)) {
+              fullAnime.isFullyLoaded = true;
+              UIRenderer.renderAnimeDetail(fullAnime, initialSeasonNum, targetEpNum);
+            }
+          });
+        }
       } else {
         window.location.hash = "#home";
       }

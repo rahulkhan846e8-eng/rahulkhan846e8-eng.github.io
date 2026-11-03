@@ -254,11 +254,42 @@ export class UIRenderer {
   static renderEpisodesListHtml(anime, season, mode = "download", lang = "hindi") {
     if (!season) return "";
 
+    const hasCatalogEpisodes = Boolean(anime.totalEpisodes > 0 || anime.episodeCount > 0);
+    const isActuallyFullyLoaded = Boolean(
+      anime.isFullyLoaded || 
+      (anime.seasons && anime.seasons.some(s => s.episodes && s.episodes.length > 0)) || 
+      (anime.episodes && anime.episodes.length > 0)
+    );
+
+    // If still loading full details and this anime is known to have episodes, show shimmer skeleton!
+    if (!isActuallyFullyLoaded && (!season.episodes || season.episodes.length === 0) && hasCatalogEpisodes) {
+      return `
+        <div class="ep-skeleton-wrap">
+          <div class="ep-skeleton-status">
+            <div class="ep-skeleton-spinner"></div>
+            <span>Loading episodes & direct download links...</span>
+          </div>
+          ${[1, 2, 3, 4, 5, 6].map(i => `
+            <div class="episode-row-item ep-skeleton-row">
+              <div class="ep-row-thumb ep-skeleton-box"></div>
+              <div class="ep-row-content">
+                <div class="ep-skeleton-bar ep-skeleton-bar-short"></div>
+                <div class="ep-skeleton-bar ep-skeleton-bar-long"></div>
+              </div>
+              <div class="ep-row-action">
+                <div class="ep-skeleton-btn"></div>
+              </div>
+            </div>
+          `).join("")}
+        </div>
+      `;
+    }
+
     if (season.isComingSoon || !season.episodes || season.episodes.length === 0) {
       return `
         <div class="season-coming-soon-card">
           <div class="coming-soon-icon">⏳</div>
-          <h3 class="coming-soon-title">${season.title} is Coming Soon</h3>
+          <h3 class="coming-soon-title">${season.title || 'Season'} is Coming Soon</h3>
           <p class="coming-soon-desc">
             Our team is actively monitoring official release schedules and preparing full 1080p Multi-Audio episodes for <strong>${anime.title}</strong>. Check back soon!
           </p>
@@ -319,9 +350,19 @@ export class UIRenderer {
     const inWatchlist = StorageService.isInWatchlist(anime.id);
     const isMovie = anime.type === "Movie";
     const isNoSeason = Boolean(anime.hasNoSeason || anime.id === "black-clover-171-183");
-    const seasons = (anime.seasons && anime.seasons.length > 0) 
+    let seasons = (anime.seasons && anime.seasons.length > 0) 
       ? anime.seasons 
-      : [{ number: 1, title: 'Season 1', airDate: anime.season || '2024', episodes: anime.episodes || [] }];
+      : null;
+
+    if (!seasons) {
+      const sCount = anime.seasonCount || 1;
+      seasons = Array.from({ length: sCount }, (_, idx) => ({
+        number: idx + 1,
+        title: `Season ${idx + 1}`,
+        airDate: anime.season || anime.year || '2024',
+        episodes: []
+      }));
+    }
 
     const targetSeasonIdx = seasons.findIndex(s => s.number === parseInt(initialSeasonNum, 10));
     const initialIdx = targetSeasonIdx !== -1 ? targetSeasonIdx : 0;
