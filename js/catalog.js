@@ -73,7 +73,7 @@ export async function getFullAnimeDetails(id) {
   }
 
   try {
-    const { ANIME_DATABASE } = await import('./data.js?v=1793717590');
+    const { ANIME_DATABASE } = await import('./data.js?v=1793719579');
     for (const anime of ANIME_DATABASE) {
       anime.isFullyLoaded = true;
       const key = (anime.id || "").toLowerCase().trim();
