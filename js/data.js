@@ -38772,7 +38772,7 @@ export const ANIME_DATABASE = [
       {
         "number": 1,
         "season": 1,
-        "title": "Season 1",
+        "title": "Episodes",
         "airDate": "2026",
         "isComingSoon": false,
         "episodes": [
@@ -38855,7 +38855,8 @@ export const ANIME_DATABASE = [
       }
     ],
     "hasHindiSub": true,
-    "hasEngSub": true
+    "hasEngSub": true,
+    "hasNoSeason": true
   },
   {
     "id": "teogonia",

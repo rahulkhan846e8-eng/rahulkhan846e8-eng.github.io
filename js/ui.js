@@ -269,6 +269,7 @@ export class UIRenderer {
 
     const sNum = season.number || 1;
     const isMovie = anime.type === "Movie";
+    const isNoSeason = Boolean(anime.hasNoSeason || anime.id === "black-clover-171-183");
     const langLabels = UIRenderer.getLanguageLabels(anime);
 
     return season.episodes.map(ep => {
@@ -295,7 +296,7 @@ export class UIRenderer {
         </div>
         <div class="ep-row-content">
           <div class="ep-row-title-line">
-            <span class="ep-badge-gold">${isMovie ? 'Full Feature' : `S${sNum}-E${ep.number}`}</span>
+            <span class="ep-badge-gold">${isMovie ? 'Full Feature' : (isNoSeason ? `EP ${ep.number}` : `S${sNum}-E${ep.number}`)}</span>
             <span class="ep-row-title">${isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : ep.title}</span>
             <span class="ep-lang-pill ${epIsOriginal ? 'lang-original' : 'lang-hindi'}">${epIsOriginal ? langLabels.original : langLabels.hindi}</span>
           </div>
@@ -317,6 +318,7 @@ export class UIRenderer {
 
     const inWatchlist = StorageService.isInWatchlist(anime.id);
     const isMovie = anime.type === "Movie";
+    const isNoSeason = Boolean(anime.hasNoSeason || anime.id === "black-clover-171-183");
     const seasons = (anime.seasons && anime.seasons.length > 0) 
       ? anime.seasons 
       : [{ number: 1, title: 'Season 1', airDate: anime.season || '2024', episodes: anime.episodes || [] }];
@@ -442,7 +444,7 @@ export class UIRenderer {
             <div class="movie-pill-box" style="display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.06); padding: 8px 20px; border-radius: 9999px; border: 1px solid rgba(255,255,255,0.12);">
               <span style="font-weight: 700; color: #fff; font-size: 0.95rem;">🎬 Full Feature Film</span>
             </div>
-          ` : `
+          ` : (isNoSeason ? '' : `
             <div class="season-dropdown-wrapper" id="season-dropdown-wrapper">
               <button class="season-pill-box" id="season-select-btn" type="button" title="${seasons.length > 1 ? 'Switch Anime Season' : (currentSeason.title || 'Season 1')}">
                 <span class="season-name" id="current-season-label">${currentSeason.title}</span>
@@ -463,7 +465,7 @@ export class UIRenderer {
               </div>
               ` : ''}
             </div>
-          `}
+          `)}
 
           <!-- Multi-Language Audio Selector (Only rendered when BOTH dubs are available for the selected season) -->
           <div class="language-toggle-group" id="language-toggle-group" title="Select Audio Language" style="${seasonHasHindi && seasonHasOriginal ? '' : 'display: none;'}">
@@ -657,6 +659,7 @@ export class UIRenderer {
     const eps = currentSeason?.episodes || anime.episodes || [];
     const currentEpIndex = eps.findIndex(e => e.number === parseInt(epNum, 10));
     const ep = currentEpIndex !== -1 ? eps[currentEpIndex] : { number: parseInt(epNum, 10) || 1, title: `Episode ${epNum}` };
+    const isNoSeason = Boolean(anime.hasNoSeason || anime.id === "black-clover-171-183");
     const langLabels = UIRenderer.getLanguageLabels(anime);
 
     const prevEp = currentEpIndex > 0 ? eps[currentEpIndex - 1] : null;
@@ -713,7 +716,7 @@ export class UIRenderer {
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
                 <span>Back</span>
               </a>
-              <span class="dl-ep-tag">${anime.type === "Movie" ? "🎬 Movie" : `Season ${sNum} &bull; Ep ${ep.number}`}</span>
+              <span class="dl-ep-tag">${anime.type === "Movie" ? "🎬 Movie" : (isNoSeason ? `Episode ${ep.number}` : `Season ${sNum} &bull; Ep ${ep.number}`)}</span>
             </div>
 
             <!-- Anime & Episode Preview -->
@@ -763,9 +766,9 @@ export class UIRenderer {
                 <!-- Single Download Option with Season & Episode Info -->
                 <a href="${directDlUrl || 'javascript:void(0)'}" ${directDlUrl ? 'target="_blank" rel="noopener noreferrer"' : ''} class="btn-download-server direct-dl-btn single-hq-download" data-quality="High Quality" data-has-link="${Boolean(directDlUrl)}">
                   <div class="server-btn-left">
-                    <span class="server-badge res-1080" style="background: linear-gradient(135deg, #3a86ff, #00b4d8); font-weight: 800; font-size: 0.82rem; padding: 4px 9px;">${anime.type === "Movie" ? 'MOVIE' : `S${sNum} E${ep.number}`}</span>
+                    <span class="server-badge res-1080" style="background: linear-gradient(135deg, #3a86ff, #00b4d8); font-weight: 800; font-size: 0.82rem; padding: 4px 9px;">${anime.type === "Movie" ? 'MOVIE' : (isNoSeason ? `EP ${ep.number}` : `S${sNum} E${ep.number}`)}</span>
                     <div class="server-details">
-                      <span class="server-name" id="dl-server-title" style="font-size: 0.98rem; font-weight: 700; color: #fff;">${anime.type === "Movie" ? 'Full Movie' : `Season ${sNum} • Episode ${ep.number}`} (${currentLang === 'original' ? langLabels.original : langLabels.hindi})</span>
+                      <span class="server-name" id="dl-server-title" style="font-size: 0.98rem; font-weight: 700; color: #fff;">${anime.type === "Movie" ? 'Full Movie' : (isNoSeason ? `Episode ${ep.number}` : `Season ${sNum} • Episode ${ep.number}`)} (${currentLang === 'original' ? langLabels.original : langLabels.hindi})</span>
                     </div>
                   </div>
                   <div class="server-btn-action">
@@ -825,7 +828,9 @@ export class UIRenderer {
         if (titleEl) {
           titleEl.textContent = isMovie
             ? `Full Movie (${currentLang === 'original' ? langLabels.original : langLabels.hindi})`
-            : `Season ${sNum} • Episode ${ep.number} (${currentLang === 'original' ? langLabels.original : langLabels.hindi})`;
+            : (isNoSeason
+                ? `Episode ${ep.number} (${currentLang === 'original' ? langLabels.original : langLabels.hindi})`
+                : `Season ${sNum} • Episode ${ep.number} (${currentLang === 'original' ? langLabels.original : langLabels.hindi})`);
         }
         if (metaEl) {
           const epDetailText = isMovie
