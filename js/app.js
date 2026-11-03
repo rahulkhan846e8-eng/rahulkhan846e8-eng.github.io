@@ -15,7 +15,7 @@ import {
 } from './catalog.js?v=20261103_v1';
 import { StorageService, DEFAULT_AVATARS } from './storage.js';
 import { VideoPlayer } from './player.js';
-import { UIRenderer } from './ui.js?v=20261103_v1';
+import { UIRenderer } from './ui.js?v=20261103_v2';
 
 function escapeHtml(str) {
   if (!str) return "";

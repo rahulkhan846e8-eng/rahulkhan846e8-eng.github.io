@@ -108,9 +108,7 @@ export class UIRenderer {
 
     return {
       hindi: isHindiSub ? "Hindi Sub" : "Hindi Dub",
-      hindiFlag: "🇮🇳",
-      original: isEngSub ? "Eng Sub" : "Original Dub",
-      originalFlag: isEngSub ? "🇬🇧" : "🇯🇵"
+      original: isEngSub ? "Eng Sub" : "Original Dub"
     };
   }
 
@@ -299,7 +297,7 @@ export class UIRenderer {
           <div class="ep-row-title-line">
             <span class="ep-badge-gold">${isMovie ? 'Full Feature' : `S${sNum}-E${ep.number}`}</span>
             <span class="ep-row-title">${isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : ep.title}</span>
-            <span class="ep-lang-pill ${epIsOriginal ? 'lang-original' : 'lang-hindi'}">${epIsOriginal ? `${langLabels.originalFlag} ${langLabels.original}` : `${langLabels.hindiFlag} ${langLabels.hindi}`}</span>
+            <span class="ep-lang-pill ${epIsOriginal ? 'lang-original' : 'lang-hindi'}">${epIsOriginal ? langLabels.original : langLabels.hindi}</span>
           </div>
         </div>
         <div class="ep-row-action">
@@ -369,11 +367,9 @@ export class UIRenderer {
       if (hasH && hasO) {
         return `
           <button class="lang-toggle-btn ${activeLang === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
-            <span class="lang-flag">${langLabels.hindiFlag}</span>
             <span class="lang-text">${langLabels.hindi}</span>
           </button>
           <button class="lang-toggle-btn ${activeLang === 'original' ? 'active' : ''}" data-lang="original" type="button">
-            <span class="lang-flag">${langLabels.originalFlag}</span>
             <span class="lang-text">${langLabels.original}</span>
           </button>
         `;
@@ -739,21 +735,17 @@ export class UIRenderer {
                 <div class="language-toggle-group" id="stream-lang-toggle">
                   ${hasHindi && hasOriginal ? `
                     <button class="lang-toggle-btn ${currentLang === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
-                      <span class="lang-flag">${langLabels.hindiFlag}</span>
                       <span class="lang-text">${langLabels.hindi}</span>
                     </button>
                     <button class="lang-toggle-btn ${currentLang === 'original' ? 'active' : ''}" data-lang="original" type="button">
-                      <span class="lang-flag">${langLabels.originalFlag}</span>
                       <span class="lang-text">${langLabels.original}</span>
                     </button>
                   ` : (hasHindi ? `
                     <button class="lang-toggle-btn active single-lang" data-lang="hindi" type="button" style="cursor: default;">
-                      <span class="lang-flag">${langLabels.hindiFlag}</span>
                       <span class="lang-text">${langLabels.hindi}</span>
                     </button>
                   ` : `
                     <button class="lang-toggle-btn active single-lang" data-lang="original" type="button" style="cursor: default;">
-                      <span class="lang-flag">${langLabels.originalFlag}</span>
                       <span class="lang-text">${langLabels.original}</span>
                     </button>
                   `)}
