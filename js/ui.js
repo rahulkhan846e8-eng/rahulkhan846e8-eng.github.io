@@ -100,6 +100,21 @@ export class UIRenderer {
   }
 
   // --------------------------------------------------------------------------
+  // Language Labels Detector (Dynamic Sub / Dub formatting)
+  // --------------------------------------------------------------------------
+  static getLanguageLabels(anime) {
+    const isHindiSub = Boolean(anime?.hasHindiSub || (anime?.audioTrack && anime.audioTrack.toLowerCase().includes("hindi sub")));
+    const isEngSub = Boolean(anime?.hasEngSub || (anime?.audioTrack && (anime.audioTrack.toLowerCase().includes("eng sub") || anime.audioTrack.toLowerCase().includes("english sub"))));
+
+    return {
+      hindi: isHindiSub ? "Hindi Sub" : "Hindi Dub",
+      hindiFlag: "🇮🇳",
+      original: isEngSub ? "Eng Sub" : "Original Dub",
+      originalFlag: isEngSub ? "🇬🇧" : "🇯🇵"
+    };
+  }
+
+  // --------------------------------------------------------------------------
   // Language Badge Detector
   // --------------------------------------------------------------------------
   static getLanguageBadge(anime) {
@@ -256,6 +271,7 @@ export class UIRenderer {
 
     const sNum = season.number || 1;
     const isMovie = anime.type === "Movie";
+    const langLabels = UIRenderer.getLanguageLabels(anime);
 
     return season.episodes.map(ep => {
       const epDl = ep.downloadLinks || {};
@@ -283,7 +299,7 @@ export class UIRenderer {
           <div class="ep-row-title-line">
             <span class="ep-badge-gold">${isMovie ? 'Full Feature' : `S${sNum}-E${ep.number}`}</span>
             <span class="ep-row-title">${isMovie ? (ep.title && !ep.title.includes('Episode') ? ep.title : `${anime.title} (Main Movie)`) : ep.title}</span>
-            <span class="ep-lang-pill ${epIsOriginal ? 'lang-original' : 'lang-hindi'}">${epIsOriginal ? '🇯🇵 Original Dub' : '🇮🇳 Hindi Dub'}</span>
+            <span class="ep-lang-pill ${epIsOriginal ? 'lang-original' : 'lang-hindi'}">${epIsOriginal ? `${langLabels.originalFlag} ${langLabels.original}` : `${langLabels.hindiFlag} ${langLabels.hindi}`}</span>
           </div>
         </div>
         <div class="ep-row-action">
@@ -342,6 +358,7 @@ export class UIRenderer {
       return Array.from(set);
     };
 
+    const langLabels = UIRenderer.getLanguageLabels(anime);
     const getLanguageToggleHtml = (season, activeLang) => {
       const langs = getSeasonLanguages(season);
       const hasH = langs.includes("hindi");
@@ -352,12 +369,12 @@ export class UIRenderer {
       if (hasH && hasO) {
         return `
           <button class="lang-toggle-btn ${activeLang === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
-            <span class="lang-flag">🇮🇳</span>
-            <span class="lang-text">Hindi</span>
+            <span class="lang-flag">${langLabels.hindiFlag}</span>
+            <span class="lang-text">${langLabels.hindi}</span>
           </button>
           <button class="lang-toggle-btn ${activeLang === 'original' ? 'active' : ''}" data-lang="original" type="button">
-            <span class="lang-flag">🇯🇵</span>
-            <span class="lang-text">Original Dub</span>
+            <span class="lang-flag">${langLabels.originalFlag}</span>
+            <span class="lang-text">${langLabels.original}</span>
           </button>
         `;
       }
@@ -431,10 +448,11 @@ export class UIRenderer {
             </div>
           ` : `
             <div class="season-dropdown-wrapper" id="season-dropdown-wrapper">
-              <button class="season-pill-box" id="season-select-btn" type="button" title="Switch Anime Season">
+              <button class="season-pill-box" id="season-select-btn" type="button" title="${seasons.length > 1 ? 'Switch Anime Season' : (currentSeason.title || 'Season 1')}">
                 <span class="season-name" id="current-season-label">${currentSeason.title}</span>
-                <span class="season-arrow" id="season-arrow-icon">▼</span>
+                ${seasons.length > 1 ? '<span class="season-arrow" id="season-arrow-icon">▼</span>' : ''}
               </button>
+              ${seasons.length > 1 ? `
               <div class="season-dropdown-menu" id="season-dropdown-menu">
                 ${seasons.map((s, idx) => `
                   <div class="season-menu-option ${idx === initialIdx ? 'active' : ''} ${s.isComingSoon ? 'coming-soon' : ''}" data-season-idx="${idx}">
@@ -447,6 +465,7 @@ export class UIRenderer {
                   </div>
                 `).join("")}
               </div>
+              ` : ''}
             </div>
           `}
 
@@ -642,6 +661,7 @@ export class UIRenderer {
     const eps = currentSeason?.episodes || anime.episodes || [];
     const currentEpIndex = eps.findIndex(e => e.number === parseInt(epNum, 10));
     const ep = currentEpIndex !== -1 ? eps[currentEpIndex] : { number: parseInt(epNum, 10) || 1, title: `Episode ${epNum}` };
+    const langLabels = UIRenderer.getLanguageLabels(anime);
 
     const prevEp = currentEpIndex > 0 ? eps[currentEpIndex - 1] : null;
     const nextEp = currentEpIndex >= 0 && currentEpIndex < eps.length - 1 ? eps[currentEpIndex + 1] : null;
@@ -719,22 +739,22 @@ export class UIRenderer {
                 <div class="language-toggle-group" id="stream-lang-toggle">
                   ${hasHindi && hasOriginal ? `
                     <button class="lang-toggle-btn ${currentLang === 'hindi' ? 'active' : ''}" data-lang="hindi" type="button">
-                      <span class="lang-flag">🇮🇳</span>
-                      <span class="lang-text">Hindi Dub</span>
+                      <span class="lang-flag">${langLabels.hindiFlag}</span>
+                      <span class="lang-text">${langLabels.hindi}</span>
                     </button>
                     <button class="lang-toggle-btn ${currentLang === 'original' ? 'active' : ''}" data-lang="original" type="button">
-                      <span class="lang-flag">🇯🇵</span>
-                      <span class="lang-text">Original Dub</span>
+                      <span class="lang-flag">${langLabels.originalFlag}</span>
+                      <span class="lang-text">${langLabels.original}</span>
                     </button>
                   ` : (hasHindi ? `
                     <button class="lang-toggle-btn active single-lang" data-lang="hindi" type="button" style="cursor: default;">
-                      <span class="lang-flag">🇮🇳</span>
-                      <span class="lang-text">Hindi Dub</span>
+                      <span class="lang-flag">${langLabels.hindiFlag}</span>
+                      <span class="lang-text">${langLabels.hindi}</span>
                     </button>
                   ` : `
                     <button class="lang-toggle-btn active single-lang" data-lang="original" type="button" style="cursor: default;">
-                      <span class="lang-flag">🇯🇵</span>
-                      <span class="lang-text">Original Dub</span>
+                      <span class="lang-flag">${langLabels.originalFlag}</span>
+                      <span class="lang-text">${langLabels.original}</span>
                     </button>
                   `)}
                 </div>
@@ -753,7 +773,7 @@ export class UIRenderer {
                   <div class="server-btn-left">
                     <span class="server-badge res-1080" style="background: linear-gradient(135deg, #3a86ff, #00b4d8); font-weight: 800; font-size: 0.82rem; padding: 4px 9px;">${anime.type === "Movie" ? 'MOVIE' : `S${sNum} E${ep.number}`}</span>
                     <div class="server-details">
-                      <span class="server-name" id="dl-server-title" style="font-size: 0.98rem; font-weight: 700; color: #fff;">${anime.type === "Movie" ? 'Full Movie' : `Season ${sNum} • Episode ${ep.number}`} (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})</span>
+                      <span class="server-name" id="dl-server-title" style="font-size: 0.98rem; font-weight: 700; color: #fff;">${anime.type === "Movie" ? 'Full Movie' : `Season ${sNum} • Episode ${ep.number}`} (${currentLang === 'original' ? langLabels.original : langLabels.hindi})</span>
                     </div>
                   </div>
                   <div class="server-btn-action">
@@ -812,14 +832,14 @@ export class UIRenderer {
 
         if (titleEl) {
           titleEl.textContent = isMovie
-            ? `Full Movie (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})`
-            : `Season ${sNum} • Episode ${ep.number} (${currentLang === 'original' ? 'Original Dub' : 'Hindi Dub'})`;
+            ? `Full Movie (${currentLang === 'original' ? langLabels.original : langLabels.hindi})`
+            : `Season ${sNum} • Episode ${ep.number} (${currentLang === 'original' ? langLabels.original : langLabels.hindi})`;
         }
         if (metaEl) {
           const epDetailText = isMovie
             ? 'Full Feature Film'
             : (ep.title && !ep.title.toLowerCase().startsWith('episode') ? ep.title : `Episode ${ep.number}`);
-          const audioText = currentLang === 'original' ? 'Original Dub Audio + Sub' : 'Hindi Dub Audio';
+          const audioText = currentLang === 'original' ? `${langLabels.original} Audio + Sub` : `${langLabels.hindi} Audio`;
           metaEl.innerHTML = `${epDetailText} &bull; ${audioText}`;
         }
 

@@ -38742,20 +38742,21 @@ export const ANIME_DATABASE = [
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195604-lQpCzTziSA17.jpg",
     "rating": 8.7,
     "year": 2026,
-    "currentEpBadge": "S2-EP4",
+    "currentEpBadge": "EP 175",
     "status": "Airing",
     "type": "TV Series",
     "season": "2026",
     "studio": "Studio Pierrot",
     "hasSub": true,
     "hasDub": false,
-    "hasHindi": false,
+    "hasHindi": true,
     "hasOriginal": true,
     "isTrending": true,
     "isPopular": true,
-    "audioTrack": "Original Dub",
-    "audioBadge": "ORIGINAL DUB",
+    "audioTrack": "Multi-Audio (Hindi Sub + Eng Sub)",
+    "audioBadge": "MULTI-AUDIO",
     "languages": [
+      "hindi",
       "original"
     ],
     "genres": [
@@ -38764,14 +38765,15 @@ export const ANIME_DATABASE = [
       "Comedy",
       "Fantasy"
     ],
-    "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. Covering episodes 171 through 183 in Japanese Audio with English Subtitles.",
+    "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. Covering episodes 171 through 183 with Hindi Sub and English Sub.",
     "seasonCount": 1,
-    "totalEpisodes": 4,
+    "totalEpisodes": 5,
     "seasons": [
       {
         "number": 1,
+        "season": 1,
         "title": "Season 1",
-        "airDate": "2024",
+        "airDate": "2026",
         "isComingSoon": false,
         "episodes": [
           {
@@ -38780,12 +38782,13 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Battle Begins",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
-            "synopsis": "Episode 171 of Black Clover 171-183 (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/SHpZwyYj?download",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+            "synopsis": "With the threat of the Qliphoth Tree and the Dark Triad looming, Asta and his devil Liebe undergo training to master Devil Union.",
+            "videoUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_1_1791041583.mp4?dl=1",
+            "downloadUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_1_1791041583.mp4?dl=1",
             "downloadLinks": {
-              "original": "https://pixeldrain.net/u/SHpZwyYj?download"
+              "hindi": "https://pixeldrain.net/u/SHpZwyYj?download",
+              "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_1_1791041583.mp4?dl=1"
             }
           },
           {
@@ -38794,12 +38797,13 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "The Door to Hell",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
-            "synopsis": "Episode 172 of Black Clover 171-183 (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/WDvgY3fe?download",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+            "synopsis": "The rescue operation in the Spade Kingdom officially kicks off as the Magic Knights breach the castle.",
+            "videoUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_2_1791646487.mp4?dl=1",
+            "downloadUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_2_1791646487.mp4?dl=1",
             "downloadLinks": {
-              "original": "https://pixeldrain.net/u/WDvgY3fe?download"
+              "hindi": "https://pixeldrain.net/u/WDvgY3fe?download",
+              "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_2_1791646487.mp4?dl=1"
             }
           },
           {
@@ -38808,12 +38812,13 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Black Guardian",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
-            "synopsis": "Episode 173 of Black Clover 171-183 (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/miSi6j6S?download",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+            "synopsis": "Fierce combat breaks out within the castle walls as squad captains clash with high-ranking devils.",
+            "videoUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_3_1792251554.mp4?dl=1",
+            "downloadUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_3_1792251554.mp4?dl=1",
             "downloadLinks": {
-              "original": "https://pixeldrain.net/u/miSi6j6S?download"
+              "hindi": "https://pixeldrain.net/u/miSi6j6S?download",
+              "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_3_1792251554.mp4?dl=1"
             }
           },
           {
@@ -38822,95 +38827,35 @@ export const ANIME_DATABASE = [
             "season": 1,
             "title": "Day of Atonement",
             "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
-            "synopsis": "Episode 174 of Black Clover 171-183 (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/y5w582pc?download",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
+            "synopsis": "Asta prepares to enter the fray with his new powers as the Qliphoth gate begins opening.",
+            "videoUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_4_1792855695.mp4?dl=1",
+            "downloadUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_4_1792855695.mp4?dl=1",
             "downloadLinks": {
-              "original": "https://pixeldrain.net/u/y5w582pc?download"
+              "hindi": "https://pixeldrain.net/u/y5w582pc?download",
+              "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_4_1792855695.mp4?dl=1"
             }
           },
           {
             "id": 175,
             "number": 175,
             "season": 1,
-            "title": "The Highest vs. The Lowest NEw!",
-            "runtime": "24m",
-            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
-            "synopsis": "Episode 175 of Black Clover 171-183 (Season 1)",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/KM3zqLc5?download",
-            "downloadLinks": {
-              "original": "https://pixeldrain.net/u/KM3zqLc5?download"
-            }
-          }
-        ]
-      },
-      {
-        "season": 2,
-        "number": 2,
-        "title": "Season 2",
-        "airDate": "2026",
-        "episodes": [
-          {
-            "id": 171,
-            "number": 171,
-            "season": 2,
-            "title": "The Battle Begins",
+            "title": "The Highest vs. The Lowest",
             "runtime": "24m",
             "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-            "synopsis": "With the threat of the Qliphoth Tree and the Dark Triad looming, Asta and his devil Liebe undergo training to master Devil Union.",
-            "videoUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_1_1791041583.mp4?dl=1",
-            "downloadUrl": "https://pixeldrain.net/u/SHpZwyYj?download",
+            "synopsis": "The clash between the highest and lowest ranks reaches its climax in the Spade Kingdom raid.",
+            "videoUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_5_1793459920.mp4?dl=1",
+            "downloadUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_5_1793459920.mp4?dl=1",
             "downloadLinks": {
-              "original": "https://pixeldrain.net/u/SHpZwyYj?download"
-            }
-          },
-          {
-            "id": 172,
-            "number": 172,
-            "season": 2,
-            "title": "The Door to Hell",
-            "runtime": "24m",
-            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-            "synopsis": "The rescue operation in the Spade Kingdom officially kicks off as the Magic Knights breach the castle.",
-            "videoUrl": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_2_1791646487.mp4?dl=1",
-            "downloadUrl": "https://pixeldrain.net/u/WDvgY3fe?download",
-            "downloadLinks": {
-              "original": "https://pixeldrain.net/u/WDvgY3fe?download"
-            }
-          },
-          {
-            "id": 173,
-            "number": 173,
-            "season": 2,
-            "title": "Black Guardian",
-            "runtime": "24m",
-            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-            "synopsis": "Fierce combat breaks out within the castle walls as squad captains clash with high-ranking devils.",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/miSi6j6S?download",
-            "downloadLinks": {
-              "original": "https://pixeldrain.net/u/miSi6j6S?download"
-            }
-          },
-          {
-            "id": 174,
-            "number": 174,
-            "season": 2,
-            "title": "Day of Atonement",
-            "runtime": "24m",
-            "thumbnail": "https://m.media-amazon.com/images/I/61gpyaCterL._AC_UF894,1000_QL80_.jpg",
-            "synopsis": "Asta prepares to enter the fray with his new powers as the Qliphoth gate begins opening.",
-            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "downloadUrl": "https://pixeldrain.net/u/y5w582pc?download",
-            "downloadLinks": {
-              "original": "https://pixeldrain.net/u/y5w582pc?download"
+              "hindi": "https://pixeldrain.net/u/KM3zqLc5?download",
+              "original": "https://my.1anime.site/videos/Black_Clover_2nd_Season_Episode_5_1793459920.mp4?dl=1"
             }
           }
         ]
       }
-    ]
+    ],
+    "hasHindiSub": true,
+    "hasEngSub": true
   },
   {
     "id": "teogonia",
